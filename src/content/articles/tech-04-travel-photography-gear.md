@@ -6,7 +6,7 @@ keywords: "camera,photography,lens,travel,gear"
 excerpt: "The best travel camera isn't the one with the most megapixels — it's the one you'll actually carry. Here's the gear that earns its weight in your bag."
 ---
 
-![A compact travel photography kit laid out on a wooden table](https://loremflickr.com/1200/800/camera,photography,lens,travel,gear?random=1)
+![A compact travel photography kit laid out on a wooden table](https://picsum.photos/seed/tech-04-travel-photography-gear-1/1200/800)
 
 The question "what camera should I buy for travel?" has never had a more complicated answer — or a simpler one. The complicated answer involves sensor sizes, focal lengths, lens ecosystems, and pixel-level comparisons that you can spend months researching. The simple answer is: the best travel camera is the one you'll actually carry and use, and for most people, that camera is already in your pocket.
 
@@ -61,7 +61,7 @@ But if you want more creative control, better low-light performance, or the abil
 
 **The laptop (unless you're working):** If your photography is for personal use and social media, edit on your phone. Modern phone editing apps (Lightroom Mobile, VSCO, Snapseed) are genuinely powerful, and you're going to share the photos from your phone anyway. The laptop-for-editing justification is often aspirational — be honest about whether you'll actually edit on the road.
 
-![A compact travel camera kit with two lenses and minimal accessories](https://loremflickr.com/800/533/camera,photography,lens,travel,gear?random=2)
+![A compact travel camera kit with two lenses and minimal accessories](https://picsum.photos/seed/tech-04-travel-photography-gear-2/800/533)
 
 ## Accessories That Actually Matter
 

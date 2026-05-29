@@ -53,7 +53,7 @@ articles.sort((a, b) => b.data.date.localeCompare(a.data.date));
             <a href={`/${categorySlug}/${article.slug}`} class="story-image-link">
               <div class="story-image">
                 <img
-                  src={`https://loremflickr.com/640/427/${article.data.keywords || categorySlug}?random=${article.slug}`}
+                  src={`https://picsum.photos/seed/${article.slug}-list/640/427`}
                   alt={article.data.title}
                   loading="lazy"
                   width="640"

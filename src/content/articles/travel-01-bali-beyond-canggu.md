@@ -6,7 +6,7 @@ keywords: "bali,travel,tropical,rice,terrace"
 excerpt: "Skip the beach clubs. These under-the-radar destinations offer a deeper, more refined Balinese experience."
 ---
 
-![A misty rice terrace in Sidemen, Bali at sunrise](https://loremflickr.com/1200/800/bali,travel,tropical,rice,terrace?random=1)
+![A misty rice terrace in Sidemen, Bali at sunrise](https://picsum.photos/seed/travel-01-bali-beyond-canggu-1/1200/800)
 
 Bali has a reputation problem — and an overcrowding problem. Canggu, Seminyak, and Ubud's main streets now feel more like a global coworking campus than the island paradise promised by travel posters. Traffic on the Canggu-Seminyak corridor can eat two hours of your day. The famous beach clubs charge entry fees that would feel steep in London or New York. The rice terraces of Tegallalang are so crowded with tourists and swing-photo setups that you queue for the view.
 
@@ -56,7 +56,7 @@ Amed's shoreline is unusual: black volcanic sand that sparkles in certain lights
 
 **What to do:** The USAT Liberty wreck at Tulamben is the headline attraction — a WWII cargo ship torpedoed by a Japanese submarine in 1942, beached at Tulamben, and then pushed back into the water by the 1963 eruption of Mount Agung. It now lies just 30 meters from shore in 5-30 meters of water, encrusted with corals and inhabited by schools of fish, making it accessible to snorkelers and divers of all levels. On land, visit the salt makers in Amed village, who still use traditional methods of evaporating seawater in carved wooden troughs to produce salt. Buy a bag directly from the maker — it's some of the best salt you'll ever use.
 
-![Traditional Balinese jukung boats on a black sand beach at sunrise](https://loremflickr.com/800/533/bali,travel,tropical,rice,terrace?random=2)
+![Traditional Balinese jukung boats on a black sand beach at sunrise](https://picsum.photos/seed/travel-01-bali-beyond-canggu-2/800/533)
 
 ## Candidasa: The Gateway to East Bali
 

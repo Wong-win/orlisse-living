@@ -35,7 +35,7 @@ const allArticles = await getCollection("articles");
             <a href={`/${cat.slug}/${article.slug}`} class="cat-card">
               <div class="cat-card-image">
                 <img
-                  src={`https://loremflickr.com/400/280/${article.data.keywords || cat.slug}?random=${article.slug}`}
+                  src={`https://picsum.photos/seed/${article.slug}-cat/400/280`}
                   alt={article.data.title}
                   loading="lazy"
                   width="400"
