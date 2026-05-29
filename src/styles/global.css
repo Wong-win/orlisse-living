@@ -149,9 +149,7 @@ h1, h2, h3, h4 {
 }
 
 .hero-scroll-container {
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding-left: var(--gap);
+  padding-left: max(var(--gap), calc((100vw - var(--max-width)) / 2 + var(--gap)));
 }
 
 .hero-track {
