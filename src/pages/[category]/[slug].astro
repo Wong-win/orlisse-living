@@ -11,13 +11,16 @@ export async function getStaticPaths() {
 }
 
 const { article } = Astro.props;
-const { data, body } = article;
+const { data } = article;
+const { Content } = await article.render();
+
+const categoryName = data.category.replace("-", " & ").replace(/\b\w/g, (c: string) => c.toUpperCase());
 ---
 
 <Layout>
   <article class="article-page">
     <p class="article-category">
-      <a href={`/${data.category}`}>{data.category.replace("-", " & ").replace(/\b\w/g, c => c.toUpperCase())}</a>
+      <a href={`/${data.category}`}>{categoryName}</a>
     </p>
     <h1>{data.title}</h1>
     <p class="article-meta">
@@ -28,7 +31,7 @@ const { data, body } = article;
       })}
     </p>
     <div class="article-body">
-      {body}
+      <Content />
     </div>
   </article>
 </Layout>
