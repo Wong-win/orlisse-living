@@ -68,7 +68,7 @@ const stories: Story[] = [
         <a href={story.href} class="story-image-link">
           <div class="story-image">
             <img
-              src={story.image || `https://source.unsplash.com/featured/?${story.categoryHref.replace(/\//g, '')},${story.href.replace(/[\/-]/g, ',')}/640/427`}
+              src={story.image || `https://loremflickr.com/640/427/${story.categoryHref.replace(/\//g, '')},${story.href.replace(/[\/-]/g, ',')}`}
               alt={story.title}
               loading="lazy"
               width="640"

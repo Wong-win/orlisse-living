@@ -5,7 +5,7 @@ category: "beauty"
 excerpt: "Your skin's needs change with the seasons. Here's exactly how to transition your routine from winter to spring, summer to fall, and everything in between."
 ---
 
-![Skincare products arranged for seasonal transition](https://source.unsplash.com/featured/?beauty,05,seasonal,skincare/1200/800)
+![Skincare products arranged for seasonal transition](https://loremflickr.com/1200/800/beauty,05,seasonal,skincare)
 
 Your skin is not the same organ in January that it is in July. Temperature, humidity, UV exposure, wind, and even indoor heating and air conditioning create dramatically different environments for your skin across the year. A routine that works perfectly in the humid summer can leave you tight and flaking in the dry winter. The products you reach for in cold weather might feel suffocating when temperatures rise.
 
@@ -97,7 +97,7 @@ Winter is the most challenging season for most skin types. Low outdoor humidity 
 | Treatment focus | Repair, barrier | Barrier, hydration |
 | Extras | — | Humidifier, overnight masks |
 
-![Winter skincare essentials including rich moisturizers](https://source.unsplash.com/featured/?beauty,05,seasonal,skincare/800/533)
+![Winter skincare essentials including rich moisturizers](https://loremflickr.com/800/533/beauty,05,seasonal,skincare)
 
 **Key transition moves:**
 - **Dial back exfoliation.** In winter, your barrier is already under stress from the environment. Reduce chemical exfoliants to once every 1-2 weeks, or pause entirely if your skin feels sensitive.

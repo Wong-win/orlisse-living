@@ -27,7 +27,7 @@ const catNames: Record<string, string> = {
         <a href={`/${article.data.category}/${article.slug}`} class="hero-card">
           <div class="hero-card-image">
             <img
-              src={`https://source.unsplash.com/featured/?${article.data.category},${article.slug.replace(/-/g, ',')}/640/853`}
+              src={`https://loremflickr.com/640/853/${article.data.category},${article.slug.replace(/-/g, ',')}`}
               alt={article.data.title}
               loading="lazy"
               width="640"

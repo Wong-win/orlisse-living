@@ -5,7 +5,7 @@ category: "home-garden"
 excerpt: "You don't need a green thumb to keep these plants alive. Here are the most forgiving houseplants and the simple care they actually need."
 ---
 
-![A bright room with a variety of thriving houseplants](https://source.unsplash.com/featured/?home,02,indoor,plants,beginners/1200/800)
+![A bright room with a variety of thriving houseplants](https://loremflickr.com/1200/800/home,02,indoor,plants,beginners)
 
 The most common thing people say about houseplants is "I kill everything." The second most common is "I don't have enough light." These two beliefs stop millions of people from experiencing the genuine pleasure of living with plants. The good news: both beliefs are usually wrong. Most people don't kill plants because they're bad at plant care — they kill plants because they choose difficult plants, or because they water them incorrectly.
 
@@ -99,7 +99,7 @@ Here are ten genuinely hard-to-kill plants, ranked from easiest to slightly-less
 
 ## The Universal Plant Care Rules
 
-![Houseplants arranged on a shelf with proper lighting](https://source.unsplash.com/featured/?home,02,indoor,plants,beginners/800/533)
+![Houseplants arranged on a shelf with proper lighting](https://loremflickr.com/800/533/home,02,indoor,plants,beginners)
 
 Regardless of which plants you choose, four rules apply to all of them:
 

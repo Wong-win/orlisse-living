@@ -35,7 +35,7 @@ const allArticles = await getCollection("articles");
             <a href={`/${cat.slug}/${article.slug}`} class="cat-card">
               <div class="cat-card-image">
                 <img
-                  src={`https://source.unsplash.com/featured/?${cat.slug},${article.slug.replace(/-/g, ',')}/400/280`}
+                  src={`https://loremflickr.com/400/280/${cat.slug},${article.slug.replace(/-/g, ',')}`}
                   alt={article.data.title}
                   loading="lazy"
                   width="400"
