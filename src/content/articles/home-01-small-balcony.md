@@ -6,7 +6,7 @@ keywords: "balcony,garden,plants,flowers,small"
 excerpt: "Even the tiniest outdoor space can become a lush retreat. Here's a step-by-step transformation guide for balconies of any size."
 ---
 
-![A small balcony transformed with plants, a chair, and soft lighting](https://picsum.photos/seed/home-01-small-balcony-1/1200/800)
+![A small balcony transformed with plants, a chair, and soft lighting](https://images.unsplash.com/photo-1486484290742-0ce4eb743a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxzbWFsbCUyMGJhbGNvbnklMjBhcGFydG1lbnQlMjBnYXJkZW4lMjBwbGFudHMlMjBmbG93ZXJzfGVufDB8MHx8fDE3ODAwODMwMzF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
 
 Even the tiniest outdoor space can become a lush retreat. A balcony doesn't need to be big to be beautiful — it just needs to be intentional. Most small balconies end up as neglected storage areas for a drying rack and a sad, half-dead plant. But with a few hours of work and a clear plan, that same space can become the most restorative corner of your home.
 
@@ -64,7 +64,7 @@ On a small balcony, every plant should earn its place. Here are the categories t
 
 **Avoid:** Plants that drop leaves constantly (ficus benjamina), need daily deadheading (some roses), or grow too large too fast (bamboo, unless in a contained planter with a root barrier). Choose plants that match your actual maintenance appetite, not your aspirational one.
 
-![A selection of balcony-friendly plants in varied pots](https://picsum.photos/seed/home-01-small-balcony-2/800/533)
+![A selection of balcony-friendly plants in varied pots](https://images.unsplash.com/photo-1746553618662-2965b5a4ef8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxzbWFsbCUyMGJhbGNvbnklMjBhcGFydG1lbnQlMjBnYXJkZW4lMjBwbGFudHMlMjBmbG93ZXJzfGVufDB8MHx8fDE3ODAwODMwMzF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
 
 ## Step 5: Choose Furniture That Fits
 

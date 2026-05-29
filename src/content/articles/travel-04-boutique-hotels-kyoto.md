@@ -6,7 +6,7 @@ keywords: "kyoto,japan,ryokan,garden,hotel"
 excerpt: "Kyoto's accommodation scene has been quietly transformed by design-forward boutique hotels and restored ryokan. Here are the most beautiful places to stay."
 ---
 
-![A traditional Japanese room with tatami mats and sliding doors opening to a garden](https://picsum.photos/seed/travel-04-boutique-hotels-kyoto-1/1200/800)
+![A traditional Japanese room with tatami mats and sliding doors opening to a garden](https://images.unsplash.com/photo-1610238115511-81be15284155?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxreW90byUyMGphcGFuJTIwdHJhZGl0aW9uYWwlMjByeW9rYW4lMjBnYXJkZW58ZW58MHwwfHx8MTc4MDA4MzAyOHww&ixlib=rb-4.1.0&q=80&w=1080&w=800)
 
 Kyoto exerts a gravitational pull unlike any other city in Japan. It's the repository of the country's most refined cultural traditions — tea ceremony, kaiseki cuisine, temple architecture, garden design — but it's also a living, working city, where centuries-old shops sit alongside contemporary galleries and third-wave coffee roasters. Accommodation in Kyoto has historically been a binary choice: very expensive traditional ryokan, or functional business hotels. But in the last decade, a new category has emerged: design-forward boutique hotels and thoughtfully restored machiya (traditional townhouses) that offer something genuinely memorable — spaces where the architecture, interiors, and hospitality are as considered as the city itself.
 
@@ -64,7 +64,7 @@ Occupying the former residence of the Mitsui family (one of Japan's most promine
 
 **Location:** Adjacent to Nijo Castle, with its famous nightingale floors and UNESCO-listed gardens. The surrounding neighborhood is quiet and residential, with good access to the Nishijin textile district.
 
-![A serene Japanese garden visible from a hotel room](https://picsum.photos/seed/travel-04-boutique-hotels-kyoto-2/800/533)
+![A serene Japanese garden visible from a hotel room](https://images.unsplash.com/photo-1558869632-279458ac1734?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxreW90byUyMGphcGFuJTIwdHJhZGl0aW9uYWwlMjByeW9rYW4lMjBnYXJkZW58ZW58MHwwfHx8MTc4MDA4MzAyOHww&ixlib=rb-4.1.0&q=80&w=1080&w=800)
 
 ## Traditional Ryokan
 

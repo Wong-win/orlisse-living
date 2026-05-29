@@ -6,7 +6,7 @@ keywords: "camera,photography,lens,travel,gear"
 excerpt: "The best travel camera isn't the one with the most megapixels — it's the one you'll actually carry. Here's the gear that earns its weight in your bag."
 ---
 
-![A compact travel photography kit laid out on a wooden table](https://picsum.photos/seed/tech-04-travel-photography-gear-1/1200/800)
+![A compact travel photography kit laid out on a wooden table](https://images.unsplash.com/photo-1502982720700-bfff97f2ecac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxjYW1lcmElMjBwaG90b2dyYXBoeSUyMHRyYXZlbCUyMHZpbnRhZ2UlMjBsZW5zfGVufDB8MHx8fDE3ODAwODMwMzl8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
 
 The question "what camera should I buy for travel?" has never had a more complicated answer — or a simpler one. The complicated answer involves sensor sizes, focal lengths, lens ecosystems, and pixel-level comparisons that you can spend months researching. The simple answer is: the best travel camera is the one you'll actually carry and use, and for most people, that camera is already in your pocket.
 
@@ -61,7 +61,7 @@ But if you want more creative control, better low-light performance, or the abil
 
 **The laptop (unless you're working):** If your photography is for personal use and social media, edit on your phone. Modern phone editing apps (Lightroom Mobile, VSCO, Snapseed) are genuinely powerful, and you're going to share the photos from your phone anyway. The laptop-for-editing justification is often aspirational — be honest about whether you'll actually edit on the road.
 
-![A compact travel camera kit with two lenses and minimal accessories](https://picsum.photos/seed/tech-04-travel-photography-gear-2/800/533)
+![A compact travel camera kit with two lenses and minimal accessories](https://images.unsplash.com/photo-1452587925148-ce544e77e70d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxjYW1lcmElMjBwaG90b2dyYXBoeSUyMHRyYXZlbCUyMHZpbnRhZ2UlMjBsZW5zfGVufDB8MHx8fDE3ODAwODMwMzl8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
 
 ## Accessories That Actually Matter
 

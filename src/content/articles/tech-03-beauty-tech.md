@@ -6,7 +6,7 @@ keywords: "beauty,device,technology,led,skincare"
 excerpt: "From LED masks to microcurrent devices, beauty tech promises clinical results at home. We examine the evidence behind the most popular categories."
 ---
 
-![A collection of beauty tech devices arranged on a vanity](https://picsum.photos/seed/tech-03-beauty-tech-1/1200/800)
+![A collection of beauty tech devices arranged on a vanity](https://images.unsplash.com/photo-1711563658786-6a3741179cd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxiZWF1dHklMjB0ZWNobm9sb2d5JTIwZGV2aWNlJTIwbGVkJTIwc2tpbmNhcmUlMjB0b29sfGVufDB8MHx8fDE3ODAwODMwMzh8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
 
 The beauty technology market is booming. Devices that were once found only in dermatologist offices and medical spas — LED therapy panels, microcurrent toning machines, radiofrequency skin-tightening wands — are now available in consumer versions priced for home use. The pitch is compelling: professional-grade results without professional-grade prices or the inconvenience of appointments.
 
@@ -74,7 +74,7 @@ We covered LED masks in detail in our Beauty section, so here's the condensed ve
 
 ## The Verdict: A Decision Framework
 
-![A comparison table of beauty tech devices with their evidence ratings](https://picsum.photos/seed/tech-03-beauty-tech-2/800/533)
+![A comparison table of beauty tech devices with their evidence ratings](https://images.unsplash.com/photo-1711563658804-b92581235e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxiZWF1dHklMjB0ZWNobm9sb2d5JTIwZGV2aWNlJTIwbGVkJTIwc2tpbmNhcmUlMjB0b29sfGVufDB8MHx8fDE3ODAwODMwMzh8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
 
 Every beauty tech purchase should be evaluated against three questions:
 

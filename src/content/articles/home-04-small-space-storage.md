@@ -6,7 +6,7 @@ keywords: "storage,organization,shelves,closet,home"
 excerpt: "Living in a small space doesn't mean living with clutter. These storage strategies maximize every square inch — without making your home feel like a storage unit."
 ---
 
-![A cleverly organized small apartment with hidden storage solutions](https://picsum.photos/seed/home-04-small-space-storage-1/1200/800)
+![A cleverly organized small apartment with hidden storage solutions](https://images.unsplash.com/photo-1524275406383-49f669cf763a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxzbWFsbCUyMHNwYWNlJTIwc3RvcmFnZSUyMG9yZ2FuaXphdGlvbiUyMHNoZWx2ZXMlMjBob21lJTIwY2xvc2V0fGVufDB8MHx8fDE3ODAwODMwMzR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
 
 The fundamental challenge of small-space living isn't square footage — it's storage. When every room serves multiple functions and every surface is precious, the standard approach to storage (buy more furniture to hold more things) quickly fails. You end up with a space that feels more like a storage unit than a home.
 
@@ -128,6 +128,6 @@ None of these storage solutions matter if you're storing things you don't need. 
 
 A small home with carefully edited belongings and smart storage feels spacious and calm. A small home with maximum storage crammed full of things you never use still feels cramped — it's just more efficiently cramped. Storage solutions support your life; they shouldn't enable hoarding.
 
-![A well-organized small bathroom with vertical storage solutions](https://picsum.photos/seed/home-04-small-space-storage-2/800/533)
+![A well-organized small bathroom with vertical storage solutions](https://images.unsplash.com/photo-1524275406383-49f669cf763a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxzbWFsbCUyMHNwYWNlJTIwc3RvcmFnZSUyMG9yZ2FuaXphdGlvbiUyMHNoZWx2ZXMlMjBob21lJTIwY2xvc2V0fGVufDB8MHx8fDE3ODAwODMwMzR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
 
 Start with the zone that bothers you most. Implement one solution. Live with it for a week before moving on to the next. Small-space storage, done right, isn't a one-time project — it's an evolving system that adapts as your needs change. The goal is a home that supports how you actually live, not how a catalog imagines you should.

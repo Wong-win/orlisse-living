@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content";
+import imageMap from "../content/image-map.json";
 
 const categories = [
   { slug: "fashion", name: "Fashion", desc: "Style, trends, and wardrobe inspiration" },
@@ -35,7 +36,7 @@ const allArticles = await getCollection("articles");
             <a href={`/${cat.slug}/${article.slug}`} class="cat-card">
               <div class="cat-card-image">
                 <img
-                  src={`https://picsum.photos/seed/${article.slug}-cat/400/280`}
+                  src={(imageMap as any)[article.slug]?.[1] || (imageMap as any)[article.slug]?.[0] || `https://picsum.photos/seed/${article.slug}/400/280`}
                   alt={article.data.title}
                   loading="lazy"
                   width="400"

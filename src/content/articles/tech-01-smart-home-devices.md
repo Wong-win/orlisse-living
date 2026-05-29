@@ -6,7 +6,7 @@ keywords: "smart,home,speaker,thermostat,device"
 excerpt: "Not all smart home gadgets earn their place. We tested dozens to identify the ones that genuinely improve daily life — and the ones to skip."
 ---
 
-![A thoughtful arrangement of smart home devices on a modern shelf](https://picsum.photos/seed/tech-01-smart-home-devices-1/1200/800)
+![A thoughtful arrangement of smart home devices on a modern shelf](https://images.unsplash.com/photo-1519558260268-cde7e03a0152?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxzbWFydCUyMGhvbWUlMjB0ZWNobm9sb2d5JTIwc3BlYWtlciUyMGRldmljZXxlbnwwfDB8fHwxNzgwMDgzMDM2fDA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
 
 The smart home market has a credibility problem. For every genuinely useful device, there are five that overpromise and underdeliver — adding complexity without meaningfully improving your quality of life. Smart refrigerators with screens you never use. Wi-Fi-connected water bottles that remind you to drink. Voice assistants embedded in bathroom mirrors. The industry has spent a decade chasing novelty at the expense of utility.
 
@@ -120,6 +120,6 @@ A smart home should fade into the background. If you're spending more time manag
 
 Start with a smart speaker and a couple of smart plugs. Add a thermostat if you own your home. Add a robot vacuum if you have hard floors and want to reclaim cleaning time. And then stop. Don't add devices because they're novel. Add them because they solve a real problem, reliably, in a way that genuinely improves your daily life.
 
-![Smart home devices integrated seamlessly into a living space](https://picsum.photos/seed/tech-01-smart-home-devices-2/800/533)
+![Smart home devices integrated seamlessly into a living space](https://images.unsplash.com/photo-1650682009477-52fd77302b78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxzbWFydCUyMGhvbWUlMjB0ZWNobm9sb2d5JTIwc3BlYWtlciUyMGRldmljZXxlbnwwfDB8fHwxNzgwMDgzMDM2fDA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
 
 The most common smart home mistake is buying a device because it's impressive rather than because it's useful. The impressive wears off in a week. The useful compounds over years. Choose the useful.
