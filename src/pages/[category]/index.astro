@@ -1,0 +1,64 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const categories = ["fashion", "beauty", "travel", "home-garden", "technology"];
+  return categories.map(cat => ({ params: { category: cat } }));
+}
+
+const categorySlug = Astro.params.category;
+
+const categoryNames: Record<string, string> = {
+  "fashion": "Fashion",
+  "beauty": "Beauty",
+  "travel": "Travel",
+  "home-garden": "Home & Garden",
+  "technology": "Technology",
+};
+
+const categoryDescriptions: Record<string, string> = {
+  "fashion": "Style, trends, wardrobe curation, and outfit inspiration for every occasion.",
+  "beauty": "Skincare, makeup, ingredient deep-dives, tools, and daily routines.",
+  "travel": "Destinations, guides, hotels, airlines, and travel gear for the modern explorer.",
+  "home-garden": "Interior inspiration, renovations, small-space solutions, gardening, and cleaning tools.",
+  "technology": "Consumer electronics, smart home, beauty tech, travel gadgets, and productivity tools.",
+};
+
+const name = categoryNames[categorySlug] || categorySlug;
+const description = categoryDescriptions[categorySlug] || "";
+
+const articles = await getCollection("articles", ({ data }) =>
+  data.category === categorySlug
+);
+
+articles.sort((a, b) => b.data.date.localeCompare(a.data.date));
+---
+
+<Layout>
+  <div class="category-page">
+    <div class="category-header">
+      <h1>{name}</h1>
+      <p>{description}</p>
+    </div>
+
+    {articles.length === 0 ? (
+      <p style="text-align:center;color:var(--color-text-muted);padding:4rem 0;">
+        Articles coming soon. This category is being curated.
+      </p>
+    ) : (
+      <div class="stories-grid">
+        {articles.map(article => (
+          <a href={`/${categorySlug}/${article.slug}`} class="story-card">
+            <div class="story-image">📷</div>
+            <div class="story-body">
+              <span class="story-category">{name}</span>
+              <h3 class="story-title">{article.data.title}</h3>
+              <p class="story-excerpt">{article.data.excerpt || ""}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    )}
+  </div>
+</Layout>

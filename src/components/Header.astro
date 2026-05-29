@@ -1,0 +1,26 @@
+---
+const navItems = [
+  { label: "Fashion", href: "/fashion" },
+  { label: "Beauty", href: "/beauty" },
+  { label: "Travel", href: "/travel" },
+  { label: "Home & Garden", href: "/home-garden" },
+  { label: "Technology", href: "/technology" },
+];
+const currentPath = Astro.url.pathname;
+---
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="site-logo">Orlisse<span>Living</span></a>
+    <nav class="main-nav">
+      {navItems.map(item => (
+        <a
+          href={item.href}
+          class={currentPath.startsWith(item.href) ? "active" : ""}
+        >
+          {item.label}
+        </a>
+      ))}
+    </nav>
+  </div>
+</header>
