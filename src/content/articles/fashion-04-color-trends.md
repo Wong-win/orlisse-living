@@ -5,7 +5,7 @@ category: "fashion"
 excerpt: "This season's color palette is unusually wearable. From quiet luxury neutrals to surprisingly versatile brights, here's what's actually worth wearing."
 ---
 
-![Fabric swatches in trending seasonal colors](https://loremflickr.com/1200/800/fashion,04,color,trends)
+![Fabric swatches in trending seasonal colors](https://picsum.photos/seed/fashion-04-color-trends-1/1200/800)
 
 Color trends can feel like a trap. Every season, the fashion industry announces a new set of "must-have" shades, and every season, most of them disappear within months. But occasionally, a season's palette lands in a sweet spot — colors that feel fresh but not gimmicky, trend-driven but genuinely wearable. This season is one of those moments.
 
@@ -47,7 +47,7 @@ Almost black but not quite — the color of dark chocolate, strong coffee, and r
 
 **Best on:** This one truly works for everyone. The depth of the shade makes it universally flattering.
 
-![A tonal outfit in warm stone and toasted almond](https://loremflickr.com/800/533/fashion,04,color,trends)
+![A tonal outfit in warm stone and toasted almond](https://picsum.photos/seed/fashion-04-color-trends-2/800/533)
 
 ## The Unexpected Pastels
 

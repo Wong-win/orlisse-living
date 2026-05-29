@@ -5,7 +5,7 @@ category: "travel"
 excerpt: "Traveling with just a carry-on is liberating, efficient, and surprisingly achievable — even for trips of two weeks or more. Here's the system."
 ---
 
-![A neatly packed carry-on suitcase with coordinated clothing](https://loremflickr.com/1200/800/travel,03,packing,light)
+![A neatly packed carry-on suitcase with coordinated clothing](https://picsum.photos/seed/travel-03-packing-light-1/1200/800)
 
 The greatest travel hack isn't a credit card or a booking strategy. It's traveling with just a carry-on. No checked bag fees. No waiting at baggage claim. No anxiety about lost luggage. No dragging a heavy suitcase over cobblestones or up five flights of stairs in a walk-up apartment building. Just you and a small bag, moving through the world unencumbered.
 
@@ -109,7 +109,7 @@ If your trip involves multiple climates, the layering system is your solution. R
 
 With this system, you can handle temperatures from about 5°C to 35°C (40°F to 95°F) by adding or removing layers. For temperatures below freezing, swap the lightweight sweater for a heavier wool or cashmere one, and add a packable down vest that compresses into its own pocket.
 
-![A carry-on packing layout showing how everything fits](https://loremflickr.com/800/533/travel,03,packing,light)
+![A carry-on packing layout showing how everything fits](https://picsum.photos/seed/travel-03-packing-light-2/800/533)
 
 ## The Laundry System
 

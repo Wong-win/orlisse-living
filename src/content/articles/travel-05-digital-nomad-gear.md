@@ -5,7 +5,7 @@ category: "travel"
 excerpt: "After a year of working from coffee shops, coworking spaces, and hotel rooms across four continents, here's the gear that earned its place — and what didn't."
 ---
 
-![A minimal digital nomad workspace setup at a bright café table](https://loremflickr.com/1200/800/travel,05,digital,nomad,gear)
+![A minimal digital nomad workspace setup at a bright café table](https://picsum.photos/seed/travel-05-digital-nomad-gear-1/1200/800)
 
 The digital nomad gear economy wants you to buy a lot of things. Portable standing desks. Foldable Bluetooth keyboards. Specialized travel routers. Packing cube systems with elaborate compression technologies. Laptop stands that fold into the size of a credit card. Most of it is unnecessary. Some of it actively makes travel harder by adding weight and complexity to your bag.
 
@@ -67,7 +67,7 @@ Laptops are ergonomically terrible. The screen is too low, forcing you to hunch 
 
 **What you don't need:** A portable standing desk converter (heavy, bulky, rarely used), an ergonomic assessment tool (your body tells you when something's wrong), or a specialized travel chair (if the chairs at your workspace are that bad, find a different workspace).
 
-![A compact portable workspace setup with laptop stand and external keyboard](https://loremflickr.com/800/533/travel,05,digital,nomad,gear)
+![A compact portable workspace setup with laptop stand and external keyboard](https://picsum.photos/seed/travel-05-digital-nomad-gear-2/800/533)
 
 ## Cables and Power: The Minimal Kit
 

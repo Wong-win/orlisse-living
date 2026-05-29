@@ -5,7 +5,7 @@ category: "beauty"
 excerpt: "K-beauty sunscreens have redefined what daily sun protection feels like. Here's the science behind them, the best formulas, and how to choose."
 ---
 
-![Korean sunscreen bottles arranged on a marble surface](https://loremflickr.com/1200/800/beauty,01,korean,sunscreen)
+![Korean sunscreen bottles arranged on a marble surface](https://picsum.photos/seed/beauty-01-korean-sunscreen-1/1200/800)
 
 Korean sunscreens have done something remarkable: they've turned the most skipped step in skincare into something people actually look forward to applying. If you've ever avoided sunscreen because of the white cast, the greasy feel, or the way it pills under makeup, K-beauty sunscreens are about to change your entire relationship with sun protection.
 
@@ -35,7 +35,7 @@ Where Korean sunscreens really differentiate themselves is in UVA protection, me
 
 UVA rays are the ones that cause premature aging, hyperpigmentation, and deeper skin damage. They penetrate glass and clouds. For daily use, look for **PA++++** — it's the standard worth holding out for.
 
-![Application of Korean sunscreen on skin showing invisible finish](https://loremflickr.com/800/533/beauty,01,korean,sunscreen)
+![Application of Korean sunscreen on skin showing invisible finish](https://picsum.photos/seed/beauty-01-korean-sunscreen-2/800/533)
 
 ### Skin Benefits Built In
 
