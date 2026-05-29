@@ -5,7 +5,7 @@ category: "fashion"
 excerpt: "Layering is the most underrated skill in dressing well. Here's how to master the art — from fabric weights to proportion play."
 ---
 
-![Layered outfits on a rack showing different textures and lengths](https://picsum.photos/seed/layering-art/1200/800)
+![Layered outfits on a rack showing different textures and lengths](https://source.unsplash.com/featured/?fashion,05,layering/1200/800)
 
 Layering is the difference between someone who wears clothes and someone who dresses. It's what turns a simple shirt-and-pants combination into an outfit that reads as intentional, thoughtful, and effortlessly stylish. It's also the most practical skill in your wardrobe arsenal — master layering, and you can navigate temperature shifts, dress codes, and seasonal transitions without ever feeling like you have nothing to wear.
 
@@ -91,7 +91,7 @@ Silk camisole + oversized cotton poplin shirt (worn open as a jacket) + linen tr
 **Formula 3: The Evening Layer**
 Cotton sundress + fine-knit cotton cardigan (draped over shoulders) + leather sandals. The cardigan comes off during the day, goes on when the sun sets. Tie it around your shoulders for a preppy touch.
 
-![A perfect spring layering combination with a trench coat](https://picsum.photos/seed/spring-layers/800/533)
+![A perfect spring layering combination with a trench coat](https://source.unsplash.com/featured/?fashion,05,layering/800/533)
 
 ### Autumn: Peak Layering Season
 

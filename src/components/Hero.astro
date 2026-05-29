@@ -27,11 +27,11 @@ const catNames: Record<string, string> = {
         <a href={`/${article.data.category}/${article.slug}`} class="hero-card">
           <div class="hero-card-image">
             <img
-              src={`https://picsum.photos/seed/${article.slug}/640/480`}
+              src={`https://source.unsplash.com/featured/?${article.data.category},${article.slug.replace(/-/g, ',')}/640/853`}
               alt={article.data.title}
               loading="lazy"
               width="640"
-              height="480"
+              height="853"
             />
             <div class="hero-card-overlay">
               <span class="hero-card-category">
