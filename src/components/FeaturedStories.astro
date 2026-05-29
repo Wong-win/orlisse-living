@@ -66,7 +66,15 @@ const stories: Story[] = [
     {stories.map(story => (
       <div class="story-card">
         <a href={story.href} class="story-image-link">
-          <div class="story-image">📷</div>
+          <div class="story-image">
+            <img
+              src={story.image || `https://picsum.photos/seed/${story.href.replace(/\//g, '-')}/640/427`}
+              alt={story.title}
+              loading="lazy"
+              width="640"
+              height="427"
+            />
+          </div>
         </a>
         <div class="story-body">
           <a href={story.categoryHref} class="story-category">{story.category}</a>
