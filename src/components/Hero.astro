@@ -21,11 +21,11 @@ const catNames: Record<string, string> = {
       <span class="hero-scroll-hint">Scroll →</span>
     </div>
   </div>
-  <div class="hero-scroll-container">
+  <div class="hero-track-wrapper">
     <div class="hero-track">
       {featured.map(article => (
-        <div class="hero-card">
-          <a href={`/${article.data.category}/${article.slug}`} class="hero-card-image">
+        <a href={`/${article.data.category}/${article.slug}`} class="hero-card">
+          <div class="hero-card-image">
             <img
               src={`https://picsum.photos/seed/${article.slug}/640/480`}
               alt={article.data.title}
@@ -33,16 +33,14 @@ const catNames: Record<string, string> = {
               width="640"
               height="480"
             />
-          </a>
-          <div class="hero-card-body">
-            <a href={`/${article.data.category}`} class="hero-card-category">
-              {catNames[article.data.category] || article.data.category}
-            </a>
-            <h2 class="hero-card-title">
-              <a href={`/${article.data.category}/${article.slug}`}>{article.data.title}</a>
-            </h2>
+            <div class="hero-card-overlay">
+              <span class="hero-card-category">
+                {catNames[article.data.category] || article.data.category}
+              </span>
+              <h2 class="hero-card-title">{article.data.title}</h2>
+            </div>
           </div>
-        </div>
+        </a>
       ))}
     </div>
   </div>
