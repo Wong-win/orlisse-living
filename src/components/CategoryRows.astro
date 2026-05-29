@@ -1,0 +1,54 @@
+---
+import { getCollection } from "astro:content";
+
+const categories = [
+  { slug: "fashion", name: "Fashion", desc: "Style, trends, and wardrobe inspiration" },
+  { slug: "beauty", name: "Beauty", desc: "Skincare, makeup, and routines" },
+  { slug: "travel", name: "Travel", desc: "Destinations, guides, and gear" },
+  { slug: "home-garden", name: "Home & Garden", desc: "Interiors, plants, and living well" },
+  { slug: "technology", name: "Technology", desc: "Smart living, gadgets, and productivity" },
+];
+
+const allArticles = await getCollection("articles");
+---
+
+<section class="category-rows">
+  <p class="section-label">Explore by Category</p>
+
+  {categories.map(cat => {
+    const catArticles = allArticles
+      .filter(a => a.data.category === cat.slug)
+      .sort((a, b) => b.data.date.localeCompare(a.data.date))
+      .slice(0, 5);
+
+    return (
+      <div class="cat-row">
+        <div class="cat-row-header">
+          <div>
+            <h2 class="cat-row-name">{cat.name}</h2>
+            <p class="cat-row-desc">{cat.desc}</p>
+          </div>
+          <a href={`/${cat.slug}`} class="cat-row-more">View all →</a>
+        </div>
+        <div class="cat-row-track">
+          {catArticles.map(article => (
+            <a href={`/${cat.slug}/${article.slug}`} class="cat-card">
+              <div class="cat-card-image">
+                <img
+                  src={`https://picsum.photos/seed/${article.slug}/400/280`}
+                  alt={article.data.title}
+                  loading="lazy"
+                  width="400"
+                  height="280"
+                />
+              </div>
+              <div class="cat-card-body">
+                <h3 class="cat-card-title">{article.data.title}</h3>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    );
+  })}
+</section>
