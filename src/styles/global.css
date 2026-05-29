@@ -107,16 +107,20 @@ h1, h2, h3, h4 {
 .hero {
   background: var(--color-surface);
   border-bottom: 1px solid var(--color-border);
-  padding: 3rem 0 2rem;
+  padding: 3rem 0 0;
+}
+
+.hero-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--gap);
 }
 
 .hero-header {
-  max-width: var(--max-width);
-  margin: 0 auto 2rem;
-  padding: 0 var(--gap);
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin-bottom: 2rem;
 }
 
 .hero-label {
@@ -144,6 +148,12 @@ h1, h2, h3, h4 {
   letter-spacing: 0.05em;
 }
 
+.hero-scroll-container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding-left: var(--gap);
+}
+
 .hero-track {
   display: flex;
   gap: 1.5rem;
@@ -151,9 +161,7 @@ h1, h2, h3, h4 {
   scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
-  padding: 0.5rem var(--gap) 1.5rem;
-  max-width: var(--max-width);
-  margin: 0 auto;
+  padding-bottom: 2rem;
 }
 
 .hero-track::-webkit-scrollbar {
