@@ -11,6 +11,7 @@ const articles = defineCollection({
       "home-garden",
       "technology",
     ]),
+    keywords: z.string().optional(),
     excerpt: z.string().optional(),
     image: z.string().optional(),
   }),

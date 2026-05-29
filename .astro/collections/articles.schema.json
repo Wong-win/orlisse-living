@@ -20,6 +20,9 @@
             "technology"
           ]
         },
+        "keywords": {
+          "type": "string"
+        },
         "excerpt": {
           "type": "string"
         },

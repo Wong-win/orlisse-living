@@ -2,10 +2,11 @@
 title: "The Modern Home Office: Ergonomic and Aesthetic Tech Picks for Your Workspace"
 date: "2026-05-15"
 category: "technology"
+keywords: "office,desk,workspace,computer,chair"
 excerpt: "A well-designed home office pays for itself in focus and physical comfort. Here's how to set up a workspace you actually want to spend time in."
 ---
 
-![A thoughtfully designed home office with natural light, plants, and clean tech](https://picsum.photos/seed/tech-05-home-office-setup-1/1200/800)
+![A thoughtfully designed home office with natural light, plants, and clean tech](https://loremflickr.com/1200/800/office,desk,workspace,computer,chair?random=1)
 
 The home office has evolved from a temporary pandemic expedient into a permanent feature of modern life. For millions of people, the place where they spend eight hours a day, five days a week is no longer a corporate cubicle — it's a corner of the living room, a converted guest bedroom, or a desk wedged against the bedroom wall. Yet most home offices are still thrown together from whatever was available during the initial scramble to work from home: a kitchen chair, a laptop on a coffee table, a monitor from 2018. Lighting is whatever comes through the window or from the ceiling fixture. Ergonomics are an afterthought.
 
@@ -89,7 +90,7 @@ Visible cables make even the most expensive setup look chaotic. Clean cable mana
 
 **Monitor arm with integrated cable routing:** If your monitor supports VESA mounting (most do), a monitor arm clamps to the back edge of the desk and routes cables through its internal channel. This frees up the entire area under the monitor and positions the screen at the optimal height more precisely than any stand.
 
-![A clean home office desk with hidden cables and warm lighting](https://picsum.photos/seed/tech-05-home-office-setup-2/800/533)
+![A clean home office desk with hidden cables and warm lighting](https://loremflickr.com/800/533/office,desk,workspace,computer,chair?random=2)
 
 ## What Makes It a Home
 
