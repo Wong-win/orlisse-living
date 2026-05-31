@@ -75,6 +75,8 @@ We covered LED masks in detail in our Beauty section, so here's the condensed ve
 ## The Verdict: A Decision Framework
 
 ![A comparison table of beauty tech devices with their evidence ratings](https://images.unsplash.com/photo-1711563658804-b92581235e15)
+![tech-03-beauty-tech](https://images.unsplash.com/photo-1703783401586-01e027082719)
+
 
 Every beauty tech purchase should be evaluated against three questions:
 

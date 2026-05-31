@@ -65,6 +65,8 @@ Occupying the former residence of the Mitsui family (one of Japan's most promine
 **Location:** Adjacent to Nijo Castle, with its famous nightingale floors and UNESCO-listed gardens. The surrounding neighborhood is quiet and residential, with good access to the Nishijin textile district.
 
 ![A serene Japanese garden visible from a hotel room](https://images.unsplash.com/photo-1558869632-279458ac1734)
+![travel-04-boutique-hotels-kyoto](https://images.unsplash.com/photo-1522623349500-de37a56ea2a5)
+
 
 ## Traditional Ryokan
 

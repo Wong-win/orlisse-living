@@ -91,6 +91,8 @@ Visible cables make even the most expensive setup look chaotic. Clean cable mana
 **Monitor arm with integrated cable routing:** If your monitor supports VESA mounting (most do), a monitor arm clamps to the back edge of the desk and routes cables through its internal channel. This frees up the entire area under the monitor and positions the screen at the optimal height more precisely than any stand.
 
 ![A clean home office desk with hidden cables and warm lighting](https://images.unsplash.com/photo-1621743018966-29194999d736)
+![tech-05-home-office-setup](https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf)
+
 
 ## What Makes It a Home
 

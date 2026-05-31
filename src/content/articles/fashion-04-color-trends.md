@@ -49,6 +49,8 @@ Almost black but not quite -- the color of dark chocolate, strong coffee, and ri
 **Best on:** This one truly works for everyone. The depth of the shade makes it universally flattering.
 
 ![A tonal outfit in warm stone and toasted almond](https://images.unsplash.com/photo-1627052045672-be78a58fcd37)
+![fashion-04-color-trends](https://images.unsplash.com/photo-1622532470022-24107cac5ef3)
+
 
 ## The Unexpected Pastels
 

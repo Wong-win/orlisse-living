@@ -99,6 +99,8 @@ Winter is the most challenging season for most skin types. Low outdoor humidity 
 | Extras | -- | Humidifier, overnight masks |
 
 ![Winter skincare essentials including rich moisturizers](https://images.unsplash.com/photo-1586220742613-b731f66f7743)
+![beauty-05-seasonal-skincare](https://images.unsplash.com/photo-1670201203208-055d6d79db4a)
+
 
 **Key transition moves:**
 - **Dial back exfoliation.** In winter, your barrier is already under stress from the environment. Reduce chemical exfoliants to once every 1-2 weeks, or pause entirely if your skin feels sensitive.

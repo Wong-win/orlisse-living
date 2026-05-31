@@ -129,5 +129,7 @@ None of these storage solutions matter if you're storing things you don't need. 
 A small home with carefully edited belongings and smart storage feels spacious and calm. A small home with maximum storage crammed full of things you never use still feels cramped -- it's just more efficiently cramped. Storage solutions support your life; they shouldn't enable hoarding.
 
 ![A well-organized small bathroom with vertical storage solutions](https://images.unsplash.com/photo-1524275406383-49f669cf763a)
+![home-04-small-space-storage](https://images.unsplash.com/photo-1765277789203-b26f51b78f47)
+
 
 Start with the zone that bothers you most. Implement one solution. Live with it for a week before moving on to the next. Small-space storage, done right, isn't a one-time project -- it's an evolving system that adapts as your needs change. The goal is a home that supports how you actually live, not how a catalog imagines you should.

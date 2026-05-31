@@ -93,6 +93,8 @@ Silk camisole + oversized cotton poplin shirt (worn open as a jacket) + linen tr
 Cotton sundress + fine-knit cotton cardigan (draped over shoulders) + leather sandals. The cardigan comes off during the day, goes on when the sun sets. Tie it around your shoulders for a preppy touch.
 
 ![A perfect spring layering combination with a trench coat](https://images.unsplash.com/photo-1594748504715-2e715b1034bf)
+![fashion-05-layering](https://images.unsplash.com/photo-1608635680046-aebf91c1a9c8)
+
 
 ### Autumn: Peak Layering Season
 

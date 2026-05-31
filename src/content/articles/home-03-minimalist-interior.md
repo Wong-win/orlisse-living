@@ -94,6 +94,8 @@ Minimalist kitchens are the hardest to achieve because kitchens are working room
 **Cabinets and drawers:** Edit ruthlessly. You don't need six wooden spoons. You don't need the panini press you've used twice in three years. You don't need mugs from every event you've ever attended. Keep what you use and what you love; release the rest.
 
 ![A minimalist kitchen with clear counters and warm wood details](https://images.unsplash.com/photo-1724582586529-62622e50c0b3)
+![home-03-minimalist-interior](https://images.unsplash.com/photo-1682184805271-11671b7ecf4c)
+
 
 ## How to Start
 

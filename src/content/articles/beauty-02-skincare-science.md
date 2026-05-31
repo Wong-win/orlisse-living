@@ -53,6 +53,8 @@ Choose a moisturizer based on your skin type:
 As discussed extensively above -- non-negotiable, SPF 30 minimum, PA++++ if using Asian sunscreens. Apply generously.
 
 ![Morning skincare products arranged neatly](https://images.unsplash.com/photo-1576426863848-c21f53c60b19)
+![beauty-02-skincare-science](https://images.unsplash.com/photo-1739980104488-408eff709fff)
+
 
 ## The Evening Routine: Repair
 

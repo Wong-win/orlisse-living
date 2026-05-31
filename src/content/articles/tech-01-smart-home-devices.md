@@ -121,5 +121,7 @@ A smart home should fade into the background. If you're spending more time manag
 Start with a smart speaker and a couple of smart plugs. Add a thermostat if you own your home. Add a robot vacuum if you have hard floors and want to reclaim cleaning time. And then stop. Don't add devices because they're novel. Add them because they solve a real problem, reliably, in a way that genuinely improves your daily life.
 
 ![Smart home devices integrated seamlessly into a living space](https://images.unsplash.com/photo-1650682009477-52fd77302b78)
+![Smart home device](https://images.unsplash.com/photo-1545259741-2ea3ebf61fa3)
+
 
 The most common smart home mistake is buying a device because it's impressive rather than because it's useful. The impressive wears off in a week. The useful compounds over years. Choose the useful.

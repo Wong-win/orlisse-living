@@ -99,6 +99,8 @@ Before getting into the how, let's address the reasonable question: why bother? 
 ## Which Method Should You Choose?
 
 ![A countertop bokashi bin and a worm composting setup compared](https://images.unsplash.com/photo-1715766911065-83723bc00d2f)
+![home-05-apartment-composting](https://images.unsplash.com/photo-1597868068123-97fb110c3f93)
+
 
 | Factor | Worm Bin | Bokashi | Electric |
 |---|---|---|---|

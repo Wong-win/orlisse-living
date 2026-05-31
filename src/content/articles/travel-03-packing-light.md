@@ -111,6 +111,8 @@ If your trip involves multiple climates, the layering system is your solution. R
 With this system, you can handle temperatures from about 5°C to 35°C (40°F to 95°F) by adding or removing layers. For temperatures below freezing, swap the lightweight sweater for a heavier wool or cashmere one, and add a packable down vest that compresses into its own pocket.
 
 ![A carry-on packing layout showing how everything fits](https://images.unsplash.com/photo-1648737967037-96967e9151b5)
+![travel-03-packing-light](https://images.unsplash.com/photo-1714235058817-af16a662fe1d)
+
 
 ## The Laundry System
 

@@ -59,6 +59,8 @@ The biggest productivity challenge for most knowledge workers isn't organizing t
 **Freedom ($40/year, all platforms):** Blocks distracting websites and apps across all your devices simultaneously. Unlike free browser extensions, Freedom is difficult to circumvent, which is the point -- it removes the option of distraction so you don't have to exercise willpower.
 
 ![A phone screen showing a focus timer with a growing tree](https://images.unsplash.com/photo-1759296682393-a5c3695080fa)
+![tech-02-productivity-apps](https://images.unsplash.com/photo-1746014602567-dcc64e0c81df)
+
 
 ## The Read-It-Later Problem
 

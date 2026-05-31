@@ -29,6 +29,8 @@ LED therapy uses specific wavelengths of light to trigger biological processes i
 The key variable that determines whether LED therapy works is **fluence** (energy delivered per unit area, measured in J/cm²) and **irradiance** (power density, measured in mW/cm²). Too little energy and nothing happens. Too much and you risk heat damage. The therapeutic window is specific to each wavelength.
 
 ![LED mask treatment session with protective eyewear](https://images.unsplash.com/photo-1737144426404-9b99f49cce04)
+![beauty-04-led-face-masks](https://images.unsplash.com/photo-1571461638238-44ceea2b1542)
+
 
 ## What Clinical Research Actually Shows
 

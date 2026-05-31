@@ -62,6 +62,8 @@ But if you want more creative control, better low-light performance, or the abil
 **The laptop (unless you're working):** If your photography is for personal use and social media, edit on your phone. Modern phone editing apps (Lightroom Mobile, VSCO, Snapseed) are genuinely powerful, and you're going to share the photos from your phone anyway. The laptop-for-editing justification is often aspirational -- be honest about whether you'll actually edit on the road.
 
 ![A compact travel camera kit with two lenses and minimal accessories](https://images.unsplash.com/photo-1452587925148-ce544e77e70d)
+![tech-04-travel-photography-gear](https://images.unsplash.com/photo-1500468415400-191607326b6a)
+
 
 ## Accessories That Actually Matter
 

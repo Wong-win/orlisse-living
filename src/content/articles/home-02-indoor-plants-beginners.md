@@ -101,6 +101,8 @@ Here are ten genuinely hard-to-kill plants, ranked from easiest to slightly-less
 ## The Universal Plant Care Rules
 
 ![Houseplants arranged on a shelf with proper lighting](https://images.unsplash.com/photo-1604762511431-6280a12cb835)
+![home-02-indoor-plants-beginners](https://images.unsplash.com/photo-1521334884684-d80222895322)
+
 
 Regardless of which plants you choose, four rules apply to all of them:
 

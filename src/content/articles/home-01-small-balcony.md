@@ -65,6 +65,8 @@ On a small balcony, every plant should earn its place. Here are the categories t
 **Avoid:** Plants that drop leaves constantly (ficus benjamina), need daily deadheading (some roses), or grow too large too fast (bamboo, unless in a contained planter with a root barrier). Choose plants that match your actual maintenance appetite, not your aspirational one.
 
 ![A selection of balcony-friendly plants in varied pots](https://images.unsplash.com/photo-1746553618662-2965b5a4ef8d)
+![home-01-small-balcony](https://images.unsplash.com/photo-1768215882809-99534393395d)
+
 
 ## Step 5: Choose Furniture That Fits
 

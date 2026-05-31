@@ -75,6 +75,8 @@ Rather than focusing exclusively on what to avoid, here are ingredients that hav
 **Niacinamide (Vitamin B3):** One of the most versatile and well-tolerated ingredients in skincare. Reduces pore appearance, regulates sebum production, strengthens barrier function, fades hyperpigmentation, and has anti-inflammatory properties. Effective at 2-10% concentrations. Plays well with nearly every other ingredient.
 
 ![Close-up of skincare ingredients with niacinamide highlighted](https://images.unsplash.com/photo-1612817288484-6f916006741a)
+![beauty-03-clean-beauty](https://images.unsplash.com/photo-1600634999623-864991678406)
+
 
 **Ceramides:** Lipids that are naturally present in your skin barrier and make up about 50% of its composition. Ceramide levels decline with age and environmental damage. Applying them topically helps restore barrier function, reduces moisture loss, and improves skin resilience. Look for products containing ceramides NP, AP, and EOP in a 3:1:1 ratio -- this mimics the skin's natural ceramide composition.
 

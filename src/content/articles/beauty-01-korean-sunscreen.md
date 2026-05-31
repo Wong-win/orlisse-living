@@ -37,6 +37,8 @@ Where Korean sunscreens really differentiate themselves is in UVA protection, me
 UVA rays are the ones that cause premature aging, hyperpigmentation, and deeper skin damage. They penetrate glass and clouds. For daily use, look for **PA++++** -- it's the standard worth holding out for.
 
 ![Application of Korean sunscreen on skin showing invisible finish](https://images.unsplash.com/photo-1594325624708-75a0a6cf806f)
+![beauty-01-korean-sunscreen](https://images.unsplash.com/photo-1594055103006-7871176f1a7e)
+
 
 ### Skin Benefits Built In
 

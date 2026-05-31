@@ -73,6 +73,8 @@ Based on your week of dressing, identify the 3-5 items that would make the bigge
 Buy only the gap-fillers. Research before purchasing. Try on with your existing clothes if possible. If you're not excited to wear it tomorrow, don't buy it.
 
 ![A well-organized wardrobe with coordinated pieces](https://images.unsplash.com/photo-1524282745852-a463fa495a7f)
+![fashion-03-capsule-wardrobe](https://images.unsplash.com/photo-1604882767135-b41fac508fff)
+
 
 ## Real Capsule Examples
 

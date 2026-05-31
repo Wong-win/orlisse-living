@@ -57,6 +57,8 @@ Amed's shoreline is unusual: black volcanic sand that sparkles in certain lights
 **What to do:** The USAT Liberty wreck at Tulamben is the headline attraction -- a WWII cargo ship torpedoed by a Japanese submarine in 1942, beached at Tulamben, and then pushed back into the water by the 1963 eruption of Mount Agung. It now lies just 30 meters from shore in 5-30 meters of water, encrusted with corals and inhabited by schools of fish, making it accessible to snorkelers and divers of all levels. On land, visit the salt makers in Amed village, who still use traditional methods of evaporating seawater in carved wooden troughs to produce salt. Buy a bag directly from the maker -- it's some of the best salt you'll ever use.
 
 ![Traditional Balinese jukung boats on a black sand beach at sunrise](https://images.unsplash.com/photo-1730697897470-0efaee4922de)
+![travel-01-bali-beyond-canggu](https://images.unsplash.com/photo-1555400038-63f5ba517a47)
+
 
 ## Candidasa: The Gateway to East Bali
 

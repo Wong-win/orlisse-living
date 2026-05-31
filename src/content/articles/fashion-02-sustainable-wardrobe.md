@@ -73,6 +73,8 @@ Proper care dramatically extends the life of your clothing. The most sustainable
 - **Learn basic mending.** Replacing a button, stitching a small tear, and darning a hole are skills that take minutes to learn and save garments from landfill. YouTube has excellent tutorials for all three.
 
 ![A mending kit with thread, needles, and fabric swatches](https://images.unsplash.com/photo-1573612664822-d7d347da7b80)
+![fashion-02-sustainable-wardrobe](https://images.unsplash.com/photo-1518838439236-2b73ceb4638a)
+
 
 ## Building Your Ethical Wardrobe: A Practical Timeline
 

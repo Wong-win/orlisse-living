@@ -69,6 +69,8 @@ A slow travel day has a different shape than a tourist day:
 The hardest part of slow travel for many people is the feeling that they're "wasting" time -- that every moment not spent at an attraction is a moment squandered. This is the tourist mindset that slow travel deliberately works against. Some of the richest travel experiences happen when you're doing nothing in particular: watching children play in a plaza, observing how neighbors interact, noticing the quality of light at different times of day. These aren't wasted moments. They're the moments that give you a feel for a place rather than just a list of sights seen there.
 
 ![A quiet morning at a neighborhood café with a journal and coffee](https://images.unsplash.com/photo-1768327504629-56264b92daa7)
+![travel-02-slow-travel](https://images.unsplash.com/photo-1635330409706-7fd68a8608b9)
+
 
 ### Day Trips Are Allowed
 

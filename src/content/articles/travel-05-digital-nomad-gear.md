@@ -69,6 +69,8 @@ Laptops are ergonomically terrible. The screen is too low, forcing you to hunch 
 **What you don't need:** A portable standing desk converter (heavy, bulky, rarely used), an ergonomic assessment tool (your body tells you when something's wrong), or a specialized travel chair (if the chairs at your workspace are that bad, find a different workspace).
 
 ![A compact portable workspace setup with laptop stand and external keyboard](https://images.unsplash.com/photo-1766128867499-549b5ad1f61a)
+![travel-05-digital-nomad-gear](https://images.unsplash.com/photo-1581574313687-c8b70fcd663a)
+
 
 ## Cables and Power: The Minimal Kit
 
