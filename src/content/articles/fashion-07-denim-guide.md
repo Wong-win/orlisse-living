@@ -4,7 +4,7 @@ category: "fashion"
 keywords: "denim jeans casual fashion style fabric"
 excerpt: "Finding the right pair of jeans can feel impossible. Here's a comprehensive guide to denim fits, washes, and care that actually makes sense."
 ---
-![Cover: fashion-07-denim-guide](https://images.unsplash.com/photo-1645859724073-d9bff094b1c7)
+![fashion-07-denim-guide cover](https://images.unsplash.com/photo-1713880442898-0f151fba5e16)
 Few items of clothing inspire as much frustration as jeans. The fitting room experience -- piling a dozen pairs over your arm, steeling yourself for the fluorescent-lit confrontation, then rejecting all of them -- is a near-universal rite of passage. It's not your body that's the problem. It's the jeans. Finding the right pair is hard because denim involves multiple variables that interact in unpredictable ways: rise, leg shape, fabric weight, stretch content, wash, and brand-specific sizing that rarely aligns across manufacturers.
 
 This guide breaks down every variable that matters so you can narrow your search and find jeans that actually fit -- and that you actually want to wear.

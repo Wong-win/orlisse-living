@@ -4,7 +4,7 @@ category: "fashion"
 keywords: "professional outfit blazer office style clothing"
 excerpt: "Dressing for work doesn't mean abandoning your personality. Here's how to build a professional wardrobe that still feels authentically yours."
 ---
-![Cover: fashion-06-work-wardrobe](https://images.unsplash.com/photo-1558886086-a765f736af3d)
+![fashion-06-work-wardrobe cover](https://images.unsplash.com/photo-1664195455972-53827f75bad4)
 The phrase "work wardrobe" has traditionally conjured images of stiff suits, scratchy pencil skirts, and a palette limited to navy, black, and grey. For decades, dressing professionally meant suppressing your personal style in favor of a corporate uniform. But the rules have shifted. Offices are more casual. Dress codes have relaxed. And the line between work clothes and weekend clothes has blurred to the point of near-invisibility.
 
 This is good news -- but it also creates a new challenge. When there's no dress code to follow, how do you build a wardrobe that reads as professional while still feeling like you? This guide walks through the principles, pieces, and strategies for building a work wardrobe that bridges the gap between corporate expectations and personal expression.

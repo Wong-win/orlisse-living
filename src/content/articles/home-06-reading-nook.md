@@ -4,7 +4,7 @@ category: "home-garden"
 keywords: "armchair reading corner cozy lamp blanket books"
 excerpt: "Every home needs a dedicated corner for reading. Here's how to create one -- no matter how small your space."
 ---
-![Cover](https://images.unsplash.com/photo-1567113463686-c2253e8210db)
+![home-06-reading-nook cover](https://images.unsplash.com/photo-1764040663782-a617acb22581)
 The reading nook is one of the most satisfying small-space projects in the home. It doesn't require a renovation, a large budget, or a dedicated room. It requires nothing more than a corner, a chair, good light, and the willingness to claim that space for the specific purpose of sitting down with a book. The return on investment is disproportionate: a properly set up reading nook becomes one of the most-used, most-loved spots in any home.
 
 This guide covers everything you need to create a reading nook -- from choosing the right location to selecting the furniture, light, and textile layers that make a corner feel like a destination.

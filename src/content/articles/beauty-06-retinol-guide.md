@@ -4,7 +4,7 @@ category: "beauty"
 keywords: "skincare serum bottle product beauty cosmetic"
 excerpt: "Retinol is the most evidence-backed skincare ingredient available -- but it can also cause irritation. Here's how to start safely and effectively."
 ---
-![Cover: beauty-06-retinol-guide](https://images.unsplash.com/photo-1576426863848-c21f53c60b19)
+![beauty-06-retinol-guide cover](https://images.unsplash.com/photo-1758560936904-4eb0049284aa)
 Retinol is the closest thing dermatology has to a proven anti-aging ingredient. It's not the newest, it's not the trendiest, and it's certainly not the most pleasant to use at first. But it is the most researched, the most reliably effective, and -- when used correctly -- one of the few over-the-counter ingredients that produces measurable, visible changes in skin over time.
 
 The problem is that most people start retinol wrong. They use it too frequently, at too high a concentration, without adequate moisturization or sun protection, and they burn their skin. They quit after two weeks with red, flaking, irritated skin and conclude that retinol "doesn't work for them." It's not their fault -- nobody taught them how to start.

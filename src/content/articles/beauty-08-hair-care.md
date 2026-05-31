@@ -4,7 +4,7 @@ category: "beauty"
 keywords: "hair brush beauty care products routine styling"
 excerpt: "Most hair care advice is written for one hair type and generalized to everyone. Here's how to build a routine that works for your specific hair."
 ---
-![Cover: beauty-08-hair-care](https://images.unsplash.com/photo-1712641970787-e178ca70c6c4)
+![beauty-08-hair-care cover](https://images.unsplash.com/photo-1577467013350-7c22a844e1a9)
 Most hair care advice fails for a simple reason: it assumes everyone has the same hair. The products that give your friend glossy, bouncy waves might leave your hair greasy and limp. The routine that transformed your colleague's curls might do nothing for your straight, fine strands. Hair care is deeply individual -- it depends on your hair type, porosity, density, scalp condition, climate, water hardness, and how you treat your hair (color, heat, chemical processing).
 
 This guide breaks down routines for the major hair types, with the understanding that most people fall somewhere between categories. Use these as starting points, not rigid rules, and adjust based on how your actual hair responds.

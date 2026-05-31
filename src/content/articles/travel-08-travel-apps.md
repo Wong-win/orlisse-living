@@ -4,7 +4,7 @@ category: "travel"
 keywords: "smartphone mobile map travel planning navigation"
 excerpt: "The right apps can transform how you plan, book, and experience travel. Here are the essential ones worth downloading before your next trip."
 ---
-![Cover: travel-08-travel-apps](https://images.unsplash.com/photo-1509576931792-214960705f8a)
+![travel-08-travel-apps cover](https://images.unsplash.com/photo-1659872078778-5acbe1bdb143)
 The right travel app can do things that would have required a travel agent, a phrasebook, a stack of guidebooks, and a physical map just twenty years ago. The wrong travel app is yet another icon on your phone that you never open and that harvests your data in the background.
 
 After years of testing and relying on travel apps across dozens of countries, here are the ones that genuinely earn their place on your phone -- organized by what they help you do, not by what features they claim to have.

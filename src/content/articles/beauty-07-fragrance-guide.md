@@ -4,7 +4,7 @@ category: "beauty"
 keywords: "perfume fragrance bottle luxury elegant scent"
 excerpt: "Finding a fragrance you love can be overwhelming. Here's a practical guide to understanding perfume notes, families, and how to find your match."
 ---
-![Cover: beauty-07-fragrance-guide](https://images.unsplash.com/photo-1458538977777-0549b2370168)
+![beauty-07-fragrance-guide cover](https://images.unsplash.com/photo-1598634222670-87c5f558119c)
 Scent is the most personal category in beauty -- and the most intimidating to navigate. It's the only beauty product you can't see, can't test from a screen, and can't fully evaluate in five minutes. A fragrance that smells divine on a blotter can turn unpleasant on your skin. A scent that you loved in the store can give you a headache after an hour. And the vocabulary of fragrance -- with its talk of notes, accords, and concentrations -- can feel deliberately opaque.
 
 This guide explains fragrance from the ground up: how it's structured, what the terminology means, how to shop for it, and how to find a scent that genuinely feels like you.
