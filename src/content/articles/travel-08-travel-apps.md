@@ -4,7 +4,7 @@ category: "travel"
 keywords: "smartphone mobile map travel planning navigation"
 excerpt: "The right apps can transform how you plan, book, and experience travel. Here are the essential ones worth downloading before your next trip."
 ---
-![Cover: travel-08-travel-apps](https://images.unsplash.com/photo-1486976862325-fbac7b41739b)
+![person touching smartphone](https://images.unsplash.com/photo-1509576931792-214960705f8a)
 The right travel app can do things that would have required a travel agent, a phrasebook, a stack of guidebooks, and a physical map just twenty years ago. The wrong travel app is yet another icon on your phone that you never open and that harvests your data in the background.
 
 After years of testing and relying on travel apps across dozens of countries, here are the ones that genuinely earn their place on your phone -- organized by what they help you do, not by what features they claim to have.
@@ -58,7 +58,45 @@ After years of testing and relying on travel apps across dozens of countries, he
 **Why it's useful:** For spontaneous travelers, road trips where you don't know exactly where you'll stop, or when a booking falls through. The inventory is curated (not every hotel is listed -- only ones that meet quality standards), which reduces the risk of a terrible room.
 
 ## Communication and Connectivity
-![travel-08-travel-apps detail](https://images.unsplash.com/photo-1486976862325-fbac7b41739b)
+![person touching smartphone](https://images.unsplash.com/photo-1486976862325-fbac7b41739b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### WhatsApp
@@ -86,9 +124,47 @@ After years of testing and relying on travel apps across dozens of countries, he
 
 **Expense tracking apps specifically for travel:** A simple spreadsheet or notes document is faster and more flexible.
 
-**VPN apps (unless you have a specific, legitimate need):** Most hotel and cafe Wi-Fi is now encrypted. A VPN slows your connection and adds friction for minimal security benefit in most travel contexts. The exception: if you need to access services blocked i
-![travel-08-travel-apps context](https://images.unsplash.com/photo-1759256243611-502772ac391b)
-n certain countries (bank websites, news sites), a VPN is essential.
+**VPN apps (unless you have a specific, legitimate need):** Most hotel and cafe Wi-Fi is now encrypted. A VPN slows your connection and adds friction for minimal security benefit in most travel contexts. The excepti
+on: if you need to acc
+ess servi
+
+c
+e
+s
+ b
+l
+
+
+
+o
+ck
+
+
+e
+
+
+
+
+
+
+
+
+
+
+d
+ 
+
+i
+n
+
+ cer
+t
+![person touching smartphone](https://images.unsplash.com/photo-1759256243611-502772ac391b)
+
+
+ain c
+ount
+ries (bank websites, news sites), a VPN is essential.
 
 ## The Pre-Trip Checklist
 

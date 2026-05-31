@@ -4,7 +4,7 @@ category: "home-garden"
 keywords: "armchair reading corner cozy lamp blanket books"
 excerpt: "Every home needs a dedicated corner for reading. Here's how to create one -- no matter how small your space."
 ---
-![Cover](https://images.unsplash.com/photo-1669729227685-770f727fb709)
+![home-06-reading-nook](https://images.unsplash.com/photo-1762280237553-e58441808e0c)
 The reading nook is one of the most satisfying small-space projects in the home. It doesn't require a renovation, a large budget, or a dedicated room. It requires nothing more than a corner, a chair, good light, and the willingness to claim that space for the specific purpose of sitting down with a book. The return on investment is disproportionate: a properly set up reading nook becomes one of the most-used, most-loved spots in any home.
 
 This guide covers everything you need to create a reading nook -- from choosing the right location to selecting the furniture, light, and textile layers that make a corner feel like a destination.
@@ -65,7 +65,8 @@ You need somewhere to put your coffee, tea, water, or the current stack of books
 A small C-table (a table with a base that slides under the chair) is particularly space-efficient for tight corners. A stack of large-format art books can also serve as an impromptu side table -- functional and visually appealing.
 
 ## Step 5: Layer Textiles
-![Detail](https://images.unsplash.com/photo-1669729227685-770f727fb709)
+![home-06-reading-nook](https://images.unsplash.com/photo-1773061865077-12120d59a217)
+
 
 
 This is where the "cozy" happens. The difference between a chair in a corner and a reading nook is largely textural.
@@ -92,8 +93,9 @@ A reading nook without books nearby is just a chair. You need at least a small c
 
 **A clock, but not your phone.** A small analog clock lets you read without checking your phone and getting pulled into notifications. The goal of a reading nook is analog immersion -- the clock is incidental, the phone is a portal to everything else.
 
-**No screens.** This is the hardest rule and the most important. A reading nook with a television in view is a television room with a chair. If you can see a screen from the chair, repo
-![Context](https://images.unsplash.com/photo-1773061865077-12120d59a217)
+**No screens.** This is the hardest rule and the most important. A reading nook with a television in view is a television room with a chair. If you can see a screen from th
+![home-06-reading-nook](https://images.unsplash.com/photo-1777896067223-9990008a07d7)
+e chair, repo
 sition. The nook should face away from screens.
 
 

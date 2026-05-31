@@ -4,7 +4,7 @@ category: "home-garden"
 keywords: "herbs plants kitchen windowsill basil indoor garden"
 excerpt: "Fresh herbs elevate any dish -- and they're surprisingly easy to grow at home. Here's everything you need to get started."
 ---
-![Cover](https://images.unsplash.com/photo-1776604965126-86eed56418b9)
+![home-07-growing-herbs](https://images.unsplash.com/photo-1758485794612-1c7713dbc36f)
 Fresh herbs are the single most cost-effective thing you can grow at home. A bunch of basil at the grocery store costs $3-4 and wilts in your refrigerator within days. A basil plant costs $4-5 and produces leaves for months. The math is inescapable -- and the experience of snipping fresh herbs while cooking, rather than guiltily retrieving a plastic clamshell of slimy greens from the back of the fridge, is one of life's small, reliable pleasures.
 
 Growing herbs indoors is easier than most people think. You don't need a garden, a green thumb, or any prior experience. You need a windowsill, a few pots, some potting soil, and the willingness to water consistently. Here's everything you need to know.
@@ -72,7 +72,8 @@ Any pot with drainage holes works. Terra cotta (clay) pots are excellent for her
 **Buying seedlings ($4-6 per plant):** Easier and faster. This is the better option for slow-growing herbs like rosemary and thyme, and for anyone who wants an instant herb garden. Supermarket herb plants are often overcrowded -- repot them into a larger pot with fresh soil as soon as you get home.
 
 ## Harvesting for Continued Growth
-![Detail](https://images.unsplash.com/photo-1776604965126-86eed56418b9)
+![home-07-growing-herbs](https://images.unsplash.com/photo-1768407313710-9fb5f82c63d6)
+
 
 
 How you harvest determines how your herbs grow:
@@ -92,8 +93,9 @@ How you harvest determines how your herbs grow:
 
 **Leggy, stretched growth:** Insufficient light. Move to a brighter window or add a grow light.
 
-**Tiny insects (aphids, spider mites, whiteflies):** Isolate the affected plant immediately. Spray with a mixture of water and a few drops of mild dish soap, focusing on the undersides of leaves where pests hide. Repeat e
-![Context](https://images.unsplash.com/photo-1694827891674-21e4e24fb1b4)
+**Tiny insects (aphids, spider mites, whiteflies):** Isolate the affected plant immediately. Spray with a mixture of water and a few drops of mild dish soap, focusing on the undersides of leaves where pests 
+![home-07-growing-herbs](https://images.unsplash.com/photo-1553275991-b6ba99f234e1)
+hide. Repeat e
 very few days until the infestation clears.
 
 ## The Cost-Benefit Analysis
