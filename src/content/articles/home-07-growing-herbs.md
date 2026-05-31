@@ -6,7 +6,7 @@ keywords: "herbs,indoor,growing,garden,kitchen"
 excerpt: "Fresh herbs elevate any dish — and they're surprisingly easy to grow at home. Here's everything you need to get started."
 ---
 
-![Potted herb plants growing on a sunny kitchen windowsill](https://images.unsplash.com/photo-1776604965126-86eed56418b9
+![Potted herb plants growing on a sunny kitchen windowsill](https://images.unsplash.com/photo-1776604965126-86eed56418b9)
 
 Fresh herbs are the single most cost-effective thing you can grow at home. A bunch of basil at the grocery store costs $3-4 and wilts in your refrigerator within days. A basil plant costs $4-5 and produces leaves for months. The math is inescapable — and the experience of snipping fresh herbs while cooking, rather than guiltily retrieving a plastic clamshell of slimy greens from the back of the fridge, is one of life's small, reliable pleasures.
 
@@ -84,7 +84,7 @@ How you harvest determines how your herbs grow:
 
 **Harvest before flowering.** Most herbs are at their peak flavor just before they flower. Once they flower, the leaves often become bitter or lose intensity. If you see flower buds forming, pinch them off immediately unless you're growing the plant for seeds.
 
-![Freshly harvested basil, parsley, and chives on a cutting board](https://images.unsplash.com/photo-1758524055179-99ee75e6115b
+![Freshly harvested basil, parsley, and chives on a cutting board](https://images.unsplash.com/photo-1758524055179-99ee75e6115b)
 
 ## Common Problems and Solutions
 

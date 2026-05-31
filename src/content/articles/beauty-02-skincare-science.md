@@ -6,7 +6,7 @@ keywords: "skincare,beauty,serum,cream"
 excerpt: "More products don't mean better skin. Here's the science-backed, minimalist approach to building a skincare routine that actually works."
 ---
 
-![Skincare products arranged in morning and evening order](https://images.unsplash.com/photo-1600428877878-1a0fd85beda8
+![Skincare products arranged in morning and evening order](https://images.unsplash.com/photo-1600428877878-1a0fd85beda8)
 
 Walk into any beauty retailer and you'll be confronted with an overwhelming array of products, each promising to transform your skin. Serums, essences, ampoules, creams, oils, toners, masks — the categories multiply endlessly, and the messaging implies you need all of them. You don't. In fact, the most common skincare mistake is using too many products rather than too few.
 
@@ -52,7 +52,7 @@ Choose a moisturizer based on your skin type:
 
 As discussed extensively above — non-negotiable, SPF 30 minimum, PA++++ if using Asian sunscreens. Apply generously.
 
-![Morning skincare products arranged neatly](https://images.unsplash.com/photo-1576426863848-c21f53c60b19
+![Morning skincare products arranged neatly](https://images.unsplash.com/photo-1576426863848-c21f53c60b19)
 
 ## The Evening Routine: Repair
 

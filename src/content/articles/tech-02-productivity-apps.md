@@ -6,7 +6,7 @@ keywords: "apps,phone,digital,notion,calendar"
 excerpt: "Most productivity apps create more work than they save. After testing dozens, here are the few that genuinely help — organized by the problem they solve."
 ---
 
-![A clean desk setup with a laptop showing a minimalist productivity app](https://images.unsplash.com/photo-1764406327615-556aeeada2e5
+![A clean desk setup with a laptop showing a minimalist productivity app](https://images.unsplash.com/photo-1764406327615-556aeeada2e5)
 
 The productivity app industry thrives on a paradox: it sells tools to people who feel overwhelmed, but the tools themselves often add to the overwhelm. The average knowledge worker now uses more than a dozen different apps across their work and personal life. Each has its own interface, its own notification system, its own way of organizing information. The result isn't productivity — it's fragmentation.
 
@@ -58,7 +58,7 @@ The biggest productivity challenge for most knowledge workers isn't organizing t
 
 **Freedom ($40/year, all platforms):** Blocks distracting websites and apps across all your devices simultaneously. Unlike free browser extensions, Freedom is difficult to circumvent, which is the point — it removes the option of distraction so you don't have to exercise willpower.
 
-![A phone screen showing a focus timer with a growing tree](https://images.unsplash.com/photo-1759296682393-a5c3695080fa
+![A phone screen showing a focus timer with a growing tree](https://images.unsplash.com/photo-1759296682393-a5c3695080fa)
 
 ## The Read-It-Later Problem
 

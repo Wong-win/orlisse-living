@@ -6,7 +6,7 @@ keywords: "laptop,buying,computer,guide,work"
 excerpt: "The laptop market is overwhelming. Here's a clear, jargon-free guide to choosing the right laptop for your actual needs and budget."
 ---
 
-![A selection of modern laptops on a clean desk](https://images.unsplash.com/photo-1511385348-a52b4a160dc2
+![A selection of modern laptops on a clean desk](https://images.unsplash.com/photo-1511385348-a52b4a160dc2)
 
 Walking into a store or browsing laptop listings online is an exercise in overwhelm. Processor names that read like alphanumeric codes. Display specifications that require a physics degree to parse. Marketing claims about battery life that never match reality. Prices that range from $300 to $3,000 for machines that all look like the same thin silver rectangle.
 
@@ -60,7 +60,7 @@ The most common laptop-buying mistake is overbuying — spending $1,500+ on a ma
 
 **Recommended:** Lenovo IdeaPad 3 ($280-350), Acer Aspire 3 ($250-350), ASUS Chromebook Plus (if you know a Chromebook is sufficient, $350-500).
 
-![A student working on a laptop in a library](https://images.unsplash.com/photo-1542744095-291d1f67b221
+![A student working on a laptop in a library](https://images.unsplash.com/photo-1542744095-291d1f67b221)
 
 ## The Specifications That Actually Matter
 

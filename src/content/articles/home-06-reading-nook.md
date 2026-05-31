@@ -6,7 +6,7 @@ keywords: "reading,nook,cozy,chair,lighting"
 excerpt: "Every home needs a dedicated corner for reading. Here's how to create one — no matter how small your space."
 ---
 
-![A cozy reading nook with an armchair, lamp, and bookshelf](https://images.unsplash.com/photo-1519791883288-dc8bd696e667
+![A cozy reading nook with an armchair, lamp, and bookshelf](https://images.unsplash.com/photo-1519791883288-dc8bd696e667)
 
 The reading nook is one of the most satisfying small-space projects in the home. It doesn't require a renovation, a large budget, or a dedicated room. It requires nothing more than a corner, a chair, good light, and the willingness to claim that space for the specific purpose of sitting down with a book. The return on investment is disproportionate: a properly set up reading nook becomes one of the most-used, most-loved spots in any home.
 
@@ -95,7 +95,7 @@ A reading nook without books nearby is just a chair. You need at least a small c
 
 **No screens.** This is the hardest rule and the most important. A reading nook with a television in view is a television room with a chair. If you can see a screen from the chair, reposition. The nook should face away from screens.
 
-![A reading nook with a floor lamp, books, and a throw blanket](https://images.unsplash.com/photo-1777896067223-9990008a07d7
+![A reading nook with a floor lamp, books, and a throw blanket](https://images.unsplash.com/photo-1777896067223-9990008a07d7)
 
 ## The Budget Breakdown
 

@@ -6,7 +6,7 @@ keywords: "hair,care,routine,type,products"
 excerpt: "Most hair care advice is written for one hair type and generalized to everyone. Here's how to build a routine that works for your specific hair."
 ---
 
-![A collection of hair care products for different hair types](https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388
+![A collection of hair care products for different hair types](https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388)
 
 Most hair care advice fails for a simple reason: it assumes everyone has the same hair. The products that give your friend glossy, bouncy waves might leave your hair greasy and limp. The routine that transformed your colleague's curls might do nothing for your straight, fine strands. Hair care is deeply individual — it depends on your hair type, porosity, density, scalp condition, climate, water hardness, and how you treat your hair (color, heat, chemical processing).
 
@@ -102,7 +102,7 @@ Coily hair is the most fragile hair type and the one most prone to dryness and b
 
 **Between washes:** Moisturize daily or every other day with a water-based spray, followed by a light oil or butter to seal in the moisture. The LOC method (Liquid, Oil, Cream) or LCO method (Liquid, Cream, Oil) is a reliable framework.
 
-![Natural curly and coily hair with defined texture](https://images.unsplash.com/photo-1672788694268-ecc234591d31
+![Natural curly and coily hair with defined texture](https://images.unsplash.com/photo-1672788694268-ecc234591d31)
 
 ## Common Hair Problems and Solutions
 

@@ -6,7 +6,7 @@ keywords: "retinol,skincare,anti-aging,beginner,serum"
 excerpt: "Retinol is the most evidence-backed skincare ingredient available — but it can also cause irritation. Here's how to start safely and effectively."
 ---
 
-![A retinol serum bottle with simple skincare products](https://images.unsplash.com/photo-1582103540024-f12c99ace136
+![A retinol serum bottle with simple skincare products](https://images.unsplash.com/photo-1582103540024-f12c99ace136)
 
 Retinol is the closest thing dermatology has to a proven anti-aging ingredient. It's not the newest, it's not the trendiest, and it's certainly not the most pleasant to use at first. But it is the most researched, the most reliably effective, and — when used correctly — one of the few over-the-counter ingredients that produces measurable, visible changes in skin over time.
 
@@ -72,7 +72,7 @@ Using retinol requires two non-negotiable commitments:
 
 **2. No other actives during the adjustment period.** For the first 8-12 weeks of retinol use, pause all other active ingredients: AHAs (glycolic, lactic), BHAs (salicylic acid), vitamin C (ascorbic acid), benzoyl peroxide, and physical exfoliants. Once your skin has fully adjusted to retinol, you can reintroduce these on alternate nights — but never in the same routine.
 
-![A simple PM skincare routine with retinol and moisturizer](https://images.unsplash.com/photo-1686121522744-dc323ce3fb26
+![A simple PM skincare routine with retinol and moisturizer](https://images.unsplash.com/photo-1686121522744-dc323ce3fb26)
 
 ## Managing the Purge
 

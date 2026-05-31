@@ -6,7 +6,7 @@ keywords: "interior,minimal,design,living,room"
 excerpt: "Minimalism isn't about owning nothing — it's about surrounding yourself only with things that matter. Here's how to create a calm, intentional home."
 ---
 
-![A calm, minimalist living room with natural light and warm textures](https://images.unsplash.com/photo-1705321963943-de94bb3f0dd3
+![A calm, minimalist living room with natural light and warm textures](https://images.unsplash.com/photo-1705321963943-de94bb3f0dd3)
 
 Minimalism has an image problem. The popular version — all-white walls, no furniture, a single artfully placed branch in a ceramic vase — feels cold, unlivable, and vaguely judgmental. It implies that the objects you love are clutter, and that comfort is a compromise. This version of minimalism has made a lot of people conclude that minimalism isn't for them.
 
@@ -93,7 +93,7 @@ Minimalist kitchens are the hardest to achieve because kitchens are working room
 
 **Cabinets and drawers:** Edit ruthlessly. You don't need six wooden spoons. You don't need the panini press you've used twice in three years. You don't need mugs from every event you've ever attended. Keep what you use and what you love; release the rest.
 
-![A minimalist kitchen with clear counters and warm wood details](https://images.unsplash.com/photo-1724582586529-62622e50c0b3
+![A minimalist kitchen with clear counters and warm wood details](https://images.unsplash.com/photo-1724582586529-62622e50c0b3)
 
 ## How to Start
 
