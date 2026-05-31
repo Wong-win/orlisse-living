@@ -6,7 +6,7 @@ keywords: "streaming,services,comparison,entertainment,subscription"
 excerpt: "With dozens of streaming services competing for your subscription dollars, here's an honest comparison of what's worth keeping."
 ---
 
-![A TV screen displaying multiple streaming service logos](https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=800
+![A TV screen displaying multiple streaming service logos](https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37
 
 The streaming landscape in 2026 is starting to look a lot like the cable industry it was supposed to replace. Prices have risen steadily across every major service. Content is fragmented across a dozen platforms. And the promise of "watch what you want, when you want, for one low price" has been replaced by the reality of juggling multiple subscriptions, each costing $8-23 per month, totaling more than a cable subscription ever did.
 
@@ -113,7 +113,7 @@ A practical rotation strategy for two services at a time:
 
 This rotation costs about $17-34 per month (two ad-free services) rather than $100+ for all of them, saving $800-1,000 annually. The only services worth keeping year-round are Amazon Prime (if you use the shipping benefit) and Apple TV+ (if you're sharing with family and it's effectively free through an Apple One bundle).
 
-![A person choosing between streaming apps on a smart TV](https://images.unsplash.com/photo-1652265932153-03c3c4b475cc?w=800
+![A person choosing between streaming apps on a smart TV](https://images.unsplash.com/photo-1652265932153-03c3c4b475cc
 
 ## The Bottom Line
 

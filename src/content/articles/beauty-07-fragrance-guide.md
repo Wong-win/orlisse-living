@@ -6,7 +6,7 @@ keywords: "fragrance,perfume,scent,notes,guide"
 excerpt: "Finding a fragrance you love can be overwhelming. Here's a practical guide to understanding perfume notes, families, and how to find your match."
 ---
 
-![An arrangement of perfume bottles with different scents](https://images.unsplash.com/photo-1458538977777-0549b2370168?w=800
+![An arrangement of perfume bottles with different scents](https://images.unsplash.com/photo-1458538977777-0549b2370168
 
 Scent is the most personal category in beauty — and the most intimidating to navigate. It's the only beauty product you can't see, can't test from a screen, and can't fully evaluate in five minutes. A fragrance that smells divine on a blotter can turn unpleasant on your skin. A scent that you loved in the store can give you a headache after an hour. And the vocabulary of fragrance — with its talk of notes, accords, and concentrations — can feel deliberately opaque.
 
@@ -70,7 +70,7 @@ Higher concentration doesn't necessarily mean better — it means different. An 
 
 **5. Buy the smallest bottle first.** A 30ml or 50ml bottle is enough to determine whether you truly love a fragrance. You can always buy the 100ml later. A large bottle of something you grow tired of is an expensive mistake.
 
-![Testing perfume on a wrist blotter at a fragrance counter](https://images.unsplash.com/photo-1615634260167-c8cdede054de?w=800
+![Testing perfume on a wrist blotter at a fragrance counter](https://images.unsplash.com/photo-1615634260167-c8cdede054de
 
 ## Building a Fragrance Wardrobe
 

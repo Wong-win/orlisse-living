@@ -6,7 +6,7 @@ keywords: "wardrobe,clothing,style"
 excerpt: "The foundation of any elevated look starts with impeccable basics. Here are the pieces worth investing in — and how to style them."
 ---
 
-![Wardrobe essentials laid flat on a wooden floor](https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800
+![Wardrobe essentials laid flat on a wooden floor](https://images.unsplash.com/photo-1558769132-cb1aea458c5e
 
 The foundation of any elevated look starts with impeccable basics. Trends come and go, but the pieces that ground your wardrobe — the ones you reach for again and again — define your personal style more than any statement piece ever could. An elevated basic isn't just a plain white T-shirt or a pair of jeans. It's a piece chosen with intention: better fabric, a considered cut, a detail that makes it feel special. The difference between a basic and an *elevated* basic is how it makes you feel when you put it on. It fits. It drapes. It lasts.
 
@@ -56,7 +56,7 @@ Dark wash, no distressing, a raw hem for just enough edge. Straight-leg denim is
 
 **How to style it:** Cuff them once to show an ankle with loafers. Wear them full-length with heeled boots. The raw hem adds just enough texture to keep the look current.
 
-![Straight-leg denim styled with loafers and a blazer](https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=800
+![Straight-leg denim styled with loafers and a blazer](https://images.unsplash.com/photo-1441984904996-e0b6ba687e04
 
 ## 6. A Silk Camisole
 
@@ -96,7 +96,7 @@ Clean, unbranded, goes with everything from jeans to midi skirts. White leather 
 
 **What to look for:** Full-grain white leather (not synthetic, which cracks and yellows). Minimal branding — ideally none visible. A slim sole rather than a chunky one. Removable insoles so you can replace them.
 
-![Clean white sneakers paired with tailored trousers](https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800
+![Clean white sneakers paired with tailored trousers](https://images.unsplash.com/photo-1490481651871-ab68de25d43d
 
 **How to style it:** With everything. Tailored trousers, jeans, midi dresses, shorts, linen suits. The only rule is to keep them clean — scuffed white sneakers undo the elevation you're aiming for.
 

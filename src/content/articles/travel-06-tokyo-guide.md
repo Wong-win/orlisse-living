@@ -6,7 +6,7 @@ keywords: "tokyo,japan,neighborhood,guide,travel"
 excerpt: "Tokyo is a city of distinct neighborhoods, each with its own personality. Here's how to choose where to stay and what to see."
 ---
 
-![Tokyo skyline with traditional temple in foreground](https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=800
+![Tokyo skyline with traditional temple in foreground](https://images.unsplash.com/photo-1542051841857-5f90071e7989
 
 Tokyo is not one city — it's dozens of small cities stitched together by one of the world's most efficient transit systems. First-time visitors often make the mistake of trying to "see Tokyo" as if it were a single, coherent destination that can be checked off in three days. You can't. What you can do is pick the right neighborhood to stay in, explore outward from that base, and experience a few of Tokyo's many personalities rather than frantically skimming the surface of all of them.
 
@@ -74,6 +74,6 @@ These adjacent neighborhoods represent Tokyo at its most stylish and livable. Na
 
 **Rush hour is real.** Avoid trains between 8-9am and 5:30-7pm on weekdays unless you want to experience what sardines feel like. If you must travel during rush hour, the first and last cars are usually slightly less crowded.
 
-![A quiet Tokyo backstreet with traditional lanterns](https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=800
+![A quiet Tokyo backstreet with traditional lanterns](https://images.unsplash.com/photo-1513407030348-c983a97b98d8
 
 Tokyo rewards slowness. Don't try to "do" Tokyo — pick one or two neighborhoods per day, walk a lot, eat whatever looks good, and trust that you'll be back. Most visitors who love Tokyo are already planning their return before their first trip ends.

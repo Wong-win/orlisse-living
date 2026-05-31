@@ -6,7 +6,7 @@ keywords: "led,mask,face,beauty,light"
 excerpt: "LED face masks promise professional-grade light therapy at home. We tested 6 popular masks over 8 weeks — here's what the science says and what actually worked."
 ---
 
-![LED face mask glowing in red and blue light](https://images.unsplash.com/photo-1775642545290-485976d0026e?w=800
+![LED face mask glowing in red and blue light](https://images.unsplash.com/photo-1775642545290-485976d0026e
 
 LED light therapy has been a staple of dermatologist offices and medical spas for decades. Originally developed by NASA for wound healing in space, low-level light therapy (LLLT) has accumulated a substantial body of research supporting its use for acne, inflammation, and signs of aging. The question isn't whether LED therapy works — the evidence says it does, under specific conditions. The question is whether the at-home devices that have flooded the market can replicate those conditions at a fraction of the clinical price tag.
 
@@ -28,7 +28,7 @@ LED therapy uses specific wavelengths of light to trigger biological processes i
 
 The key variable that determines whether LED therapy works is **fluence** (energy delivered per unit area, measured in J/cm²) and **irradiance** (power density, measured in mW/cm²). Too little energy and nothing happens. Too much and you risk heat damage. The therapeutic window is specific to each wavelength.
 
-![LED mask treatment session with protective eyewear](https://images.unsplash.com/photo-1737144426404-9b99f49cce04?w=800
+![LED mask treatment session with protective eyewear](https://images.unsplash.com/photo-1737144426404-9b99f49cce04
 
 ## What Clinical Research Actually Shows
 

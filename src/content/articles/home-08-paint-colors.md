@@ -6,7 +6,7 @@ keywords: "paint,colors,interior,design,room"
 excerpt: "Choosing paint colors is surprisingly difficult. Here's a systematic approach to finding colors you'll love living with."
 ---
 
-![Paint swatches and color samples on a wall with natural light](https://images.unsplash.com/photo-1618221381711-42ca8ab6e908?w=800
+![Paint swatches and color samples on a wall with natural light](https://images.unsplash.com/photo-1618221381711-42ca8ab6e908
 
 Paint is the most transformative, least expensive renovation you can do. A gallon of paint costs $30-60 and changes the feeling of an entire room in an afternoon. It's also the renovation decision people agonize over the most — because the tiny swatch that looked perfect in the store somehow reads as hospital-white, baby-blue, or "what was I thinking?" once it covers an entire wall.
 
