@@ -6,7 +6,7 @@ keywords: "accessories,jewelry,bag,scarf,style"
 excerpt: "The right accessory can transform a basic outfit into something memorable. Here's how to choose, wear, and collect pieces that earn their place."
 ---
 
-![A thoughtful arrangement of accessories on a marble surface](https://images.unsplash.com/photo-1569388330292-79cc1ec67270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxhY2Nlc3NvcmllcyUyQ2pld2VscnklMkNiYWclMkNzY2FyZiUyQ3N0eWxlfGVufDB8MHx8fDE3ODAyNDM2NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800
+![A thoughtful arrangement of accessories on a marble surface](https://images.unsplash.com/photo-1569388330292-79cc1ec67270?w=800
 
 A white T-shirt and jeans is a blank canvas. Add a gold chain necklace and a leather belt, and suddenly it's an outfit. Swap the gold chain for a silk scarf tied at the neck, and it's a different outfit entirely. That's the power of accessories: they're the cheapest, most space-efficient way to transform existing clothes into new looks. The same white shirt can read as preppy, minimalist, bohemian, or polished — depending entirely on what you put with it.
 
@@ -86,7 +86,7 @@ A scarf is the most versatile accessory in existence. It can be a neck warmer, a
 - **The bracelet:** Fold into a narrow band, wrap twice around the wrist, and tie. This works best with smaller silk squares (50-55cm).
 - **The belt:** Thread through belt loops and tie at the side or front. Works especially well with high-waisted trousers and jeans.
 
-![A silk scarf styled as a neck accessory on a simple outfit](https://images.unsplash.com/photo-1586878341523-7acb55eb8c12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxhY2Nlc3NvcmllcyUyQ2pld2VscnklMkNiYWclMkNzY2FyZiUyQ3N0eWxlfGVufDB8MHx8fDE3ODAyNDM2NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800
+![A silk scarf styled as a neck accessory on a simple outfit](https://images.unsplash.com/photo-1586878341523-7acb55eb8c12?w=800
 
 ## How to Collect Accessories
 

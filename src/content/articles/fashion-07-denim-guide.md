@@ -6,7 +6,7 @@ keywords: "denim,jeans,fits,style,casual"
 excerpt: "Finding the right pair of jeans can feel impossible. Here's a comprehensive guide to denim fits, washes, and care that actually makes sense."
 ---
 
-![A collection of different denim styles and washes](https://images.unsplash.com/photo-1637069585336-827b298fe84a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxkZW5pbSUyQ2plYW5zJTJDZml0cyUyQ3N0eWxlJTJDY2FzdWFsfGVufDB8MHx8fDE3ODAyNDM2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800
+![A collection of different denim styles and washes](https://images.unsplash.com/photo-1637069585336-827b298fe84a?w=800
 
 Few items of clothing inspire as much frustration as jeans. The fitting room experience — piling a dozen pairs over your arm, steeling yourself for the fluorescent-lit confrontation, then rejecting all of them — is a near-universal rite of passage. It's not your body that's the problem. It's the jeans. Finding the right pair is hard because denim involves multiple variables that interact in unpredictable ways: rise, leg shape, fabric weight, stretch content, wash, and brand-specific sizing that rarely aligns across manufacturers.
 
@@ -35,7 +35,7 @@ Before we talk about fit, we need to talk about what denim actually is. Jeans ar
 **Best for:** Anyone who prioritizes comfort above all else, or who has a body type that makes rigid denim genuinely uncomfortable.
 **The trade-off:** These jeans bag out at the knees and seat during the day because the high stretch content can't hold its shape. They also wear out faster than lower-stretch alternatives and rarely develop attractive fading.
 
-![Close-up of raw denim texture showing the twill weave](https://images.unsplash.com/photo-1542272604-787c3835535d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxkZW5pbSUyQ2plYW5zJTJDZml0cyUyQ3N0eWxlJTJDY2FzdWFsfGVufDB8MHx8fDE3ODAyNDM2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800
+![Close-up of raw denim texture showing the twill weave](https://images.unsplash.com/photo-1542272604-787c3835535d?w=800
 
 ## The Fit Variables
 

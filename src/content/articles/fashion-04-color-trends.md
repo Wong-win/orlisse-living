@@ -6,7 +6,7 @@ keywords: "fashion,color,textile,fabric"
 excerpt: "This season's color palette is unusually wearable. From quiet luxury neutrals to surprisingly versatile brights, here's what's actually worth wearing."
 ---
 
-![Fabric swatches in trending seasonal colors](https://images.unsplash.com/photo-1624516268152-1e48624026ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwY29sb3JmdWwlMjBmYWJyaWMlMjB0ZXh0aWxlfGVufDB8MHx8fDE3ODAwODMwMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
+![Fabric swatches in trending seasonal colors](https://images.unsplash.com/photo-1624516268152-1e48624026ed?w=800
 
 Color trends can feel like a trap. Every season, the fashion industry announces a new set of "must-have" shades, and every season, most of them disappear within months. But occasionally, a season's palette lands in a sweet spot — colors that feel fresh but not gimmicky, trend-driven but genuinely wearable. This season is one of those moments.
 
@@ -48,7 +48,7 @@ Almost black but not quite — the color of dark chocolate, strong coffee, and r
 
 **Best on:** This one truly works for everyone. The depth of the shade makes it universally flattering.
 
-![A tonal outfit in warm stone and toasted almond](https://images.unsplash.com/photo-1627052045672-be78a58fcd37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxmYXNoaW9uJTIwY29sb3JmdWwlMjBmYWJyaWMlMjB0ZXh0aWxlfGVufDB8MHx8fDE3ODAwODMwMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
+![A tonal outfit in warm stone and toasted almond](https://images.unsplash.com/photo-1627052045672-be78a58fcd37?w=800
 
 ## The Unexpected Pastels
 

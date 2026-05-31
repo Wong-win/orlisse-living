@@ -6,7 +6,7 @@ keywords: "capsule,wardrobe,minimal,closet"
 excerpt: "Forget the restrictive rules of traditional capsule wardrobes. Here's how to build a flexible, personal collection of 30 pieces that truly works."
 ---
 
-![A curated selection of clothing in neutral and accent tones](https://images.unsplash.com/photo-1558769132-cb1aea458c5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxjYXBzdWxlJTIwd2FyZHJvYmUlMjBtaW5pbWFsaXN0JTIwY2xvc2V0fGVufDB8MHx8fDE3ODAwODMwMTV8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
+![A curated selection of clothing in neutral and accent tones](https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800
 
 The capsule wardrobe concept has been around for decades — Susie Faux coined the term in the 1970s — but somewhere along the way, it became a rigid, joyless exercise in minimalism. The traditional advice boils down to: own 30-40 items, all in neutrals, all interchangeable, and somehow this will set you free. For most people, it feels less like freedom and more like a uniform they didn't choose.
 
@@ -72,7 +72,7 @@ Based on your week of dressing, identify the 3-5 items that would make the bigge
 **Week 4: Shop Intentionally**
 Buy only the gap-fillers. Research before purchasing. Try on with your existing clothes if possible. If you're not excited to wear it tomorrow, don't buy it.
 
-![A well-organized wardrobe with coordinated pieces](https://images.unsplash.com/photo-1524282745852-a463fa495a7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxjYXBzdWxlJTIwd2FyZHJvYmUlMjBtaW5pbWFsaXN0JTIwY2xvc2V0fGVufDB8MHx8fDE3ODAwODMwMTV8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
+![A well-organized wardrobe with coordinated pieces](https://images.unsplash.com/photo-1524282745852-a463fa495a7f?w=800
 
 ## Real Capsule Examples
 

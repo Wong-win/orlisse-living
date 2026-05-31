@@ -6,7 +6,7 @@ keywords: "travel,insurance,protection,medical,coverage"
 excerpt: "Travel insurance is one of the most confusing parts of trip planning. Here's what it actually covers, when you need it, and how to choose a policy."
 ---
 
-![A traveler checking documents at an airport departure gate](https://images.unsplash.com/photo-1673515335086-c762bbd7a7cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMkNpbnN1cmFuY2UlMkNwcm90ZWN0aW9uJTJDbWVkaWNhbCUyQ2NvdmVyYWdlfGVufDB8MHx8fDE3ODAyNDM2Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800
+![A traveler checking documents at an airport departure gate](https://images.unsplash.com/photo-1673515335086-c762bbd7a7cf?w=800
 
 Travel insurance occupies a strange space in the psychology of trip planning. Most people either buy it reflexively (checking the box during flight booking without reading the policy) or skip it entirely (assuming nothing bad will happen). Both approaches can be expensive mistakes.
 

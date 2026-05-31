@@ -6,7 +6,7 @@ keywords: "cosmetics,natural,beauty,organic"
 excerpt: "\"Clean beauty\" is one of the most confusing terms in skincare. We separate science from marketing to help you make informed choices."
 ---
 
-![Natural and synthetic skincare ingredients on a clean white background](https://images.unsplash.com/photo-1583209814683-c023dd293cc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxuYXR1cmFsJTIwb3JnYW5pYyUyMGNvc21ldGljcyUyMGJlYXV0eSUyMHByb2R1Y3RzfGVufDB8MHx8fDE3ODAwODMwMjF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
+![Natural and synthetic skincare ingredients on a clean white background](https://images.unsplash.com/photo-1583209814683-c023dd293cc6?w=800
 
 "Clean beauty" is simultaneously the most influential and the most confusing movement in modern skincare. It has driven real change — pushing brands toward greater transparency, phasing out genuinely problematic ingredients, and elevating formulation standards across the industry. But it has also spawned an enormous amount of misinformation, fear-mongering, and marketing spin that conflates "natural" with "safe" and "synthetic" with "dangerous."
 
@@ -74,7 +74,7 @@ Rather than focusing exclusively on what to avoid, here are ingredients that hav
 
 **Niacinamide (Vitamin B3):** One of the most versatile and well-tolerated ingredients in skincare. Reduces pore appearance, regulates sebum production, strengthens barrier function, fades hyperpigmentation, and has anti-inflammatory properties. Effective at 2-10% concentrations. Plays well with nearly every other ingredient.
 
-![Close-up of skincare ingredients with niacinamide highlighted](https://images.unsplash.com/photo-1612817288484-6f916006741a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxuYXR1cmFsJTIwb3JnYW5pYyUyMGNvc21ldGljcyUyMGJlYXV0eSUyMHByb2R1Y3RzfGVufDB8MHx8fDE3ODAwODMwMjF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=800)
+![Close-up of skincare ingredients with niacinamide highlighted](https://images.unsplash.com/photo-1612817288484-6f916006741a?w=800
 
 **Ceramides:** Lipids that are naturally present in your skin barrier and make up about 50% of its composition. Ceramide levels decline with age and environmental damage. Applying them topically helps restore barrier function, reduces moisture loss, and improves skin resilience. Look for products containing ceramides NP, AP, and EOP in a 3:1:1 ratio — this mimics the skin's natural ceramide composition.
 

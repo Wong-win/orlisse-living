@@ -6,7 +6,7 @@ keywords: "office,desk,workspace,computer,chair"
 excerpt: "A well-designed home office pays for itself in focus and physical comfort. Here's how to set up a workspace you actually want to spend time in."
 ---
 
-![A thoughtfully designed home office with natural light, plants, and clean tech](https://images.unsplash.com/photo-1616440347437-b1c73416efc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxob21lJTIwb2ZmaWNlJTIwZGVzayUyMHdvcmtzcGFjZSUyMGNvbXB1dGVyJTIwc2V0dXB8ZW58MHwwfHx8MTc4MDA4MzA0MHww&ixlib=rb-4.1.0&q=80&w=1080&w=800)
+![A thoughtfully designed home office with natural light, plants, and clean tech](https://images.unsplash.com/photo-1616440347437-b1c73416efc2?w=800
 
 The home office has evolved from a temporary pandemic expedient into a permanent feature of modern life. For millions of people, the place where they spend eight hours a day, five days a week is no longer a corporate cubicle — it's a corner of the living room, a converted guest bedroom, or a desk wedged against the bedroom wall. Yet most home offices are still thrown together from whatever was available during the initial scramble to work from home: a kitchen chair, a laptop on a coffee table, a monitor from 2018. Lighting is whatever comes through the window or from the ceiling fixture. Ergonomics are an afterthought.
 
@@ -90,7 +90,7 @@ Visible cables make even the most expensive setup look chaotic. Clean cable mana
 
 **Monitor arm with integrated cable routing:** If your monitor supports VESA mounting (most do), a monitor arm clamps to the back edge of the desk and routes cables through its internal channel. This frees up the entire area under the monitor and positions the screen at the optimal height more precisely than any stand.
 
-![A clean home office desk with hidden cables and warm lighting](https://images.unsplash.com/photo-1621743018966-29194999d736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxob21lJTIwb2ZmaWNlJTIwZGVzayUyMHdvcmtzcGFjZSUyMGNvbXB1dGVyJTIwc2V0dXB8ZW58MHwwfHx8MTc4MDA4MzA0MHww&ixlib=rb-4.1.0&q=80&w=1080&w=800)
+![A clean home office desk with hidden cables and warm lighting](https://images.unsplash.com/photo-1621743018966-29194999d736?w=800
 
 ## What Makes It a Home
 

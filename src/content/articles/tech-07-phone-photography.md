@@ -6,7 +6,7 @@ keywords: "smartphone,photography,camera,tips,shooting"
 excerpt: "Modern phone cameras are remarkably capable. Here's how to take advantage of yours — from composition to editing."
 ---
 
-![A smartphone capturing a landscape with professional composition](https://images.unsplash.com/photo-1618228123700-a1c948bb2bd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxzbWFydHBob25lJTJDcGhvdG9ncmFwaHklMkNjYW1lcmElMkN0aXBzJTJDc2hvb3Rpbmd8ZW58MHwwfHx8MTc4MDI0MzY3N3ww&ixlib=rb-4.1.0&q=80&w=1080&w=800
+![A smartphone capturing a landscape with professional composition](https://images.unsplash.com/photo-1618228123700-a1c948bb2bd1?w=800
 
 The best camera is the one you have with you. For most people, that's a smartphone — and modern flagship phones produce images that rival dedicated cameras costing thousands of dollars just a decade ago. The sensor in an iPhone 16 Pro or Samsung Galaxy S25 Ultra captures more detail than a professional DSLR from 2010. The difference between a good photo and a great one is no longer about hardware — it's about technique.
 
@@ -95,7 +95,7 @@ Editing is not cheating — it's finishing. Every professional photo you've ever
 
 **Apple Photos / Google Photos (built-in, free):** The built-in editors in both ecosystem apps have improved dramatically in recent years. For basic adjustments (crop, exposure, warmth), they're entirely sufficient. Start here before downloading additional apps.
 
-![Before and after editing comparison on a phone screen](https://images.unsplash.com/photo-1658837721890-fc4b47a6f0e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxzbWFydHBob25lJTJDcGhvdG9ncmFwaHklMkNjYW1lcmElMkN0aXBzJTJDc2hvb3Rpbmd8ZW58MHwwfHx8MTc4MDI0MzY3N3ww&ixlib=rb-4.1.0&q=80&w=1080&w=800
+![Before and after editing comparison on a phone screen](https://images.unsplash.com/photo-1658837721890-fc4b47a6f0e2?w=800
 
 ## Common Mistakes to Avoid
 

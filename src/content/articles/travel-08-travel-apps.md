@@ -6,7 +6,7 @@ keywords: "travel,apps,planning,digital,tools"
 excerpt: "The right apps can transform how you plan, book, and experience travel. Here are the essential ones worth downloading before your next trip."
 ---
 
-![A smartphone showing travel apps on a map background](https://images.unsplash.com/photo-1488646953014-85cb44e25828?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMkNhcHBzJTJDcGxhbm5pbmclMkNkaWdpdGFsJTJDdG9vbHN8ZW58MHwwfHx8MTc4MDI0MzY4MHww&ixlib=rb-4.1.0&q=80&w=1080&w=800
+![A smartphone showing travel apps on a map background](https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800
 
 The right travel app can do things that would have required a travel agent, a phrasebook, a stack of guidebooks, and a physical map just twenty years ago. The wrong travel app is yet another icon on your phone that you never open and that harvests your data in the background.
 
@@ -100,6 +100,6 @@ Before any international trip, do these four things on your phone:
 
 These four steps take 15 minutes and eliminate the most common travel-tech frustrations. Everything else — the restaurant apps, the currency converters, the transit apps — is secondary. The offline map and translation tools are the ones that rescue you when everything else fails.
 
-![A traveler using Google Maps on a phone in a European city](https://images.unsplash.com/photo-1499591934245-40b55745b905?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHx0cmF2ZWwlMkNhcHBzJTJDcGxhbm5pbmclMkNkaWdpdGFsJTJDdG9vbHN8ZW58MHwwfHx8MTc4MDI0MzY4MHww&ixlib=rb-4.1.0&q=80&w=1080&w=800
+![A traveler using Google Maps on a phone in a European city](https://images.unsplash.com/photo-1499591934245-40b55745b905?w=800
 
 The best travel app is the one you actually use. Most people download a dozen before a trip and use three. Start with the essentials — Maps, Translate, and your accommodation app — and add others as you encounter specific needs. A lean, well-curated phone is more useful than one cluttered with apps you've never opened.

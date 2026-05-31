@@ -6,7 +6,7 @@ keywords: "work,office,clothing,professional,style"
 excerpt: "Dressing for work doesn't mean abandoning your personality. Here's how to build a professional wardrobe that still feels authentically yours."
 ---
 
-![A curated work wardrobe showing personality and professionalism](https://images.unsplash.com/photo-1761117228880-df2425bd70da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHx3b3JrJTJDb2ZmaWNlJTJDY2xvdGhpbmclMkNwcm9mZXNzaW9uYWwlMkNzdHlsZXxlbnwwfDB8fHwxNzgwMjQzNjcwfDA&ixlib=rb-4.1.0&q=80&w=1080&w=800
+![A curated work wardrobe showing personality and professionalism](https://images.unsplash.com/photo-1761117228880-df2425bd70da?w=800
 
 The phrase "work wardrobe" has traditionally conjured images of stiff suits, scratchy pencil skirts, and a palette limited to navy, black, and grey. For decades, dressing professionally meant suppressing your personal style in favor of a corporate uniform. But the rules have shifted. Offices are more casual. Dress codes have relaxed. And the line between work clothes and weekend clothes has blurred to the point of near-invisibility.
 
@@ -80,7 +80,7 @@ The 15-piece foundation is just a canvas. The art is in how you personalize it:
 
 **Seasonal rotation:** The foundation stays; the accents shift with seasons. Summer brings lighter colors and fabrics (linen blends, cotton poplin). Winter brings richer tones and heavier textures (wool, cashmere, leather).
 
-![A work outfit combining a blazer with jeans and a silk blouse](https://images.unsplash.com/photo-1590292805178-f05995e7087a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHx3b3JrJTJDb2ZmaWNlJTJDY2xvdGhpbmclMkNwcm9mZXNzaW9uYWwlMkNzdHlsZXxlbnwwfDB8fHwxNzgwMjQzNjcwfDA&ixlib=rb-4.1.0&q=80&w=1080&w=800
+![A work outfit combining a blazer with jeans and a silk blouse](https://images.unsplash.com/photo-1590292805178-f05995e7087a?w=800
 
 ## Work Dressing by Context
 

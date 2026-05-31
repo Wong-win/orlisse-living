@@ -6,7 +6,7 @@ keywords: "compost,soil,garden,organic,worms"
 excerpt: "No backyard? No problem. Modern composting methods make it possible to turn kitchen scraps into rich soil — even in a studio apartment."
 ---
 
-![A compact worm composting bin on an apartment balcony](https://images.unsplash.com/photo-1597868165956-03a6827955b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxjb21wb3N0aW5nJTIwZ2FyZGVuJTIwc29pbCUyMG9yZ2FuaWMlMjBwbGFudHN8ZW58MHwwfHx8MTc4MDA4MzAzNXww&ixlib=rb-4.1.0&q=80&w=1080&w=800)
+![A compact worm composting bin on an apartment balcony](https://images.unsplash.com/photo-1597868165956-03a6827955b1?w=800
 
 Food waste makes up roughly 30% of what the average household sends to landfill. In a landfill, that food waste decomposes without oxygen, producing methane — a greenhouse gas many times more potent than carbon dioxide in the short term. The same banana peel, coffee grounds, and vegetable scraps, when composted, become nutrient-rich soil that can feed plants on your balcony, in your community garden, or in a friend's backyard.
 
@@ -98,7 +98,7 @@ Before getting into the how, let's address the reasonable question: why bother? 
 
 ## Which Method Should You Choose?
 
-![A countertop bokashi bin and a worm composting setup compared](https://images.unsplash.com/photo-1715766911065-83723bc00d2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwyfHxjb21wb3N0aW5nJTIwZ2FyZGVuJTIwc29pbCUyMG9yZ2FuaWMlMjBwbGFudHN8ZW58MHwwfHx8MTc4MDA4MzAzNXww&ixlib=rb-4.1.0&q=80&w=1080&w=800)
+![A countertop bokashi bin and a worm composting setup compared](https://images.unsplash.com/photo-1715766911065-83723bc00d2f?w=800
 
 | Factor | Worm Bin | Bokashi | Electric |
 |---|---|---|---|
