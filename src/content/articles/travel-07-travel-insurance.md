@@ -4,7 +4,7 @@ category: "travel"
 keywords: "passport airport documents travel security"
 excerpt: "Travel insurance is one of the most confusing parts of trip planning. Here's what it actually covers, when you need it, and how to choose a policy."
 ---
-![Cover: travel-07-travel-insurance](https://images.unsplash.com/photo-1581553673739-c4906b5d0de8)
+![Cover: travel-07-travel-insurance](https://images.unsplash.com/photo-1655722725332-9925c96dd627)
 Travel insurance occupies a strange space in the psychology of trip planning. Most people either buy it reflexively (checking the box during flight booking without reading the policy) or skip it entirely (assuming nothing bad will happen). Both approaches can be expensive mistakes.
 
 The truth is that travel insurance is like any other insurance: it's a waste of money until the moment it isn't. A medical emergency abroad can cost tens of thousands of dollars. A canceled trip can vaporize thousands in non-refundable bookings. Lost luggage, missed connections, and emergency evacuations all have real financial consequences. Whether you need insurance -- and which kind -- depends on your trip, your existing coverage, and your risk tolerance.

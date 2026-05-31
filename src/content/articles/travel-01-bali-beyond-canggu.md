@@ -6,7 +6,7 @@ keywords: "bali,travel,tropical,rice,terrace"
 excerpt: "Skip the beach clubs. These under-the-radar destinations offer a deeper, more refined Balinese experience."
 ---
 
-![A misty rice terrace in Sidemen, Bali at sunrise](https://images.unsplash.com/photo-1730697897499-84b5057569f9)
+![A misty rice terrace in Sidemen, Bali at sunrise](https://images.unsplash.com/photo-1730697897470-0efaee4922de)
 
 Bali has a reputation problem -- and an overcrowding problem. Canggu, Seminyak, and Ubud's main streets now feel more like a global coworking campus than the island paradise promised by travel posters. Traffic on the Canggu-Seminyak corridor can eat two hours of your day. The famous beach clubs charge entry fees that would feel steep in London or New York. The rice terraces of Tegallalang are so crowded with tourists and swing-photo setups that you queue for the view.
 

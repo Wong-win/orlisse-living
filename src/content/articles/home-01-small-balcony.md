@@ -6,7 +6,7 @@ keywords: "balcony,garden,plants,flowers,small"
 excerpt: "Even the tiniest outdoor space can become a lush retreat. Here's a step-by-step transformation guide for balconies of any size."
 ---
 
-![A small balcony transformed with plants, a chair, and soft lighting](https://images.unsplash.com/photo-1486484290742-0ce4eb743a34)
+![A small balcony transformed with plants, a chair, and soft lighting](https://images.unsplash.com/photo-1746553618662-2965b5a4ef8d)
 
 Even the tiniest outdoor space can become a lush retreat. A balcony doesn't need to be big to be beautiful -- it just needs to be intentional. Most small balconies end up as neglected storage areas for a drying rack and a sad, half-dead plant. But with a few hours of work and a clear plan, that same space can become the most restorative corner of your home.
 

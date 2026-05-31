@@ -4,7 +4,7 @@ category: "home-garden"
 keywords: "paint color swatches interior wall design home"
 excerpt: "Choosing paint colors is surprisingly difficult. Here's a systematic approach to finding colors you'll love living with."
 ---
-![Cover: home-08-paint-colors](https://images.unsplash.com/photo-1622250544703-997d69d856e3)
+![Cover: home-08-paint-colors](https://images.unsplash.com/photo-1560242252-9d4dd1b8337c)
 Paint is the most transformative, least expensive renovation you can do. A gallon of paint costs $30-60 and changes the feeling of an entire room in an afternoon. It's also the renovation decision people agonize over the most -- because the tiny swatch that looked perfect in the store somehow reads as hospital-white, baby-blue, or "what was I thinking?" once it covers an entire wall.
 
 The difficulty of choosing paint colors isn't about taste -- it's about lighting. Paint colors look completely different depending on the light in your room: its direction, intensity, color temperature, and how it changes throughout the day. The same beige that looks warm and inviting in a south-facing room can look flat and grey in a north-facing one. Understanding this is the key to choosing colors you'll actually be happy with.

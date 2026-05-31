@@ -6,7 +6,7 @@ keywords: "cosmetics,natural,beauty,organic"
 excerpt: "\"Clean beauty\" is one of the most confusing terms in skincare. We separate science from marketing to help you make informed choices."
 ---
 
-![Natural and synthetic skincare ingredients on a clean white background](https://images.unsplash.com/photo-1583209814683-c023dd293cc6)
+![Natural and synthetic skincare ingredients on a clean white background](https://images.unsplash.com/photo-1612817288484-6f916006741a)
 
 "Clean beauty" is simultaneously the most influential and the most confusing movement in modern skincare. It has driven real change -- pushing brands toward greater transparency, phasing out genuinely problematic ingredients, and elevating formulation standards across the industry. But it has also spawned an enormous amount of misinformation, fear-mongering, and marketing spin that conflates "natural" with "safe" and "synthetic" with "dangerous."
 

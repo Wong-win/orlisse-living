@@ -6,7 +6,7 @@ keywords: "kyoto,japan,ryokan,garden,hotel"
 excerpt: "Kyoto's accommodation scene has been quietly transformed by design-forward boutique hotels and restored ryokan. Here are the most beautiful places to stay."
 ---
 
-![A traditional Japanese room with tatami mats and sliding doors opening to a garden](https://images.unsplash.com/photo-1610238115511-81be15284155)
+![A traditional Japanese room with tatami mats and sliding doors opening to a garden](https://images.unsplash.com/photo-1558869632-279458ac1734)
 
 Kyoto exerts a gravitational pull unlike any other city in Japan. It's the repository of the country's most refined cultural traditions -- tea ceremony, kaiseki cuisine, temple architecture, garden design -- but it's also a living, working city, where centuries-old shops sit alongside contemporary galleries and third-wave coffee roasters. Accommodation in Kyoto has historically been a binary choice: very expensive traditional ryokan, or functional business hotels. But in the last decade, a new category has emerged: design-forward boutique hotels and thoughtfully restored machiya (traditional townhouses) that offer something genuinely memorable -- spaces where the architecture, interiors, and hospitality are as considered as the city itself.
 

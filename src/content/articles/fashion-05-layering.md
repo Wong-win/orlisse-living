@@ -6,7 +6,7 @@ keywords: "fashion,layering,outfit,coat"
 excerpt: "Layering is the most underrated skill in dressing well. Here's how to master the art -- from fabric weights to proportion play."
 ---
 
-![Layered outfits on a rack showing different textures and lengths](https://images.unsplash.com/photo-1514813836041-518668f092b1)
+![Layered outfits on a rack showing different textures and lengths](https://images.unsplash.com/photo-1594748504715-2e715b1034bf)
 
 Layering is the difference between someone who wears clothes and someone who dresses. It's what turns a simple shirt-and-pants combination into an outfit that reads as intentional, thoughtful, and effortlessly stylish. It's also the most practical skill in your wardrobe arsenal -- master layering, and you can navigate temperature shifts, dress codes, and seasonal transitions without ever feeling like you have nothing to wear.
 

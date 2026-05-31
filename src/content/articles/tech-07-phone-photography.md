@@ -4,7 +4,7 @@ category: "technology"
 keywords: "smartphone camera photography taking photo outdoor"
 excerpt: "Modern phone cameras are remarkably capable. Here's how to take advantage of yours -- from composition to editing."
 ---
-![Cover: tech-07-phone-photography](https://images.unsplash.com/photo-1652772213091-571b69abc51a)
+![Cover: tech-07-phone-photography](https://images.unsplash.com/photo-1625669981647-dc396c990a6d)
 The best camera is the one you have with you. For most people, that's a smartphone -- and modern flagship phones produce images that rival dedicated cameras costing thousands of dollars just a decade ago. The sensor in an iPhone 16 Pro or Samsung Galaxy S25 Ultra captures more detail than a professional DSLR from 2010. The difference between a good photo and a great one is no longer about hardware -- it's about technique.
 
 This guide covers the principles, techniques, and editing practices that elevate smartphone photos from snapshots to images you'd be proud to print, frame, or share.

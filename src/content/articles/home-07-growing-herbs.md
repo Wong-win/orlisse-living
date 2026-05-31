@@ -4,7 +4,7 @@ category: "home-garden"
 keywords: "herbs plants kitchen windowsill basil indoor garden"
 excerpt: "Fresh herbs elevate any dish -- and they're surprisingly easy to grow at home. Here's everything you need to get started."
 ---
-![Cover](https://images.unsplash.com/photo-1768407313710-9fb5f82c63d6)
+![Cover](https://images.unsplash.com/photo-1776604965126-86eed56418b9)
 Fresh herbs are the single most cost-effective thing you can grow at home. A bunch of basil at the grocery store costs $3-4 and wilts in your refrigerator within days. A basil plant costs $4-5 and produces leaves for months. The math is inescapable -- and the experience of snipping fresh herbs while cooking, rather than guiltily retrieving a plastic clamshell of slimy greens from the back of the fridge, is one of life's small, reliable pleasures.
 
 Growing herbs indoors is easier than most people think. You don't need a garden, a green thumb, or any prior experience. You need a windowsill, a few pots, some potting soil, and the willingness to water consistently. Here's everything you need to know.

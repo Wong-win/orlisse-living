@@ -6,7 +6,7 @@ keywords: "travel,europe,street,cafe,village"
 excerpt: "The era of cramming 10 cities into 14 days is over. Here's why slow travel creates richer experiences -- and how to do it well."
 ---
 
-![A quiet European street with a bicycle leaning against a wall](https://images.unsplash.com/photo-1758626217702-87457b282323)
+![A quiet European street with a bicycle leaning against a wall](https://images.unsplash.com/photo-1768327504629-56264b92daa7)
 
 The classic European whirlwind tour -- ten cities in fourteen days, a new hotel every night, a checklist of attractions to photograph and move on from -- is a relic of an era when travel was about collecting destinations like stamps in a passport. It was exhausting, expensive, and left travelers with a blur of cathedrals and train stations rather than a genuine sense of having been anywhere at all.
 

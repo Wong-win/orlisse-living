@@ -6,7 +6,7 @@ keywords: "houseplants,indoor,plant,green,leaf"
 excerpt: "You don't need a green thumb to keep these plants alive. Here are the most forgiving houseplants and the simple care they actually need."
 ---
 
-![A bright room with a variety of thriving houseplants](https://images.unsplash.com/photo-1604762524889-3e2fcc145683)
+![A bright room with a variety of thriving houseplants](https://images.unsplash.com/photo-1604762511431-6280a12cb835)
 
 The most common thing people say about houseplants is "I kill everything." The second most common is "I don't have enough light." These two beliefs stop millions of people from experiencing the genuine pleasure of living with plants. The good news: both beliefs are usually wrong. Most people don't kill plants because they're bad at plant care -- they kill plants because they choose difficult plants, or because they water them incorrectly.
 

@@ -4,7 +4,7 @@ category: "technology"
 keywords: "laptop computer desk modern technology workspace"
 excerpt: "The laptop market is overwhelming. Here's a clear, jargon-free guide to choosing the right laptop for your actual needs and budget."
 ---
-![Cover: tech-06-laptop-guide](https://images.unsplash.com/photo-1501163109389-abf37ca1276a)
+![Cover: tech-06-laptop-guide](https://images.unsplash.com/photo-1683813479742-4730f91fa3ec)
 Walking into a store or browsing laptop listings online is an exercise in overwhelm. Processor names that read like alphanumeric codes. Display specifications that require a physics degree to parse. Marketing claims about battery life that never match reality. Prices that range from $300 to $3,000 for machines that all look like the same thin silver rectangle.
 
 The good news is that for most people, choosing a laptop in 2026 is simpler than it appears. The market has converged around a few distinct categories, and matching a category to your actual needs eliminates 90% of the noise. This guide focuses on what matters -- not specs for their own sake, but what you'll actually notice in daily use.

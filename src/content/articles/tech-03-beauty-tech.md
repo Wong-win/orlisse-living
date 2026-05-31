@@ -6,7 +6,7 @@ keywords: "beauty,device,technology,led,skincare"
 excerpt: "From LED masks to microcurrent devices, beauty tech promises clinical results at home. We examine the evidence behind the most popular categories."
 ---
 
-![A collection of beauty tech devices arranged on a vanity](https://images.unsplash.com/photo-1711563658786-6a3741179cd9)
+![A collection of beauty tech devices arranged on a vanity](https://images.unsplash.com/photo-1711563658804-b92581235e15)
 
 The beauty technology market is booming. Devices that were once found only in dermatologist offices and medical spas -- LED therapy panels, microcurrent toning machines, radiofrequency skin-tightening wands -- are now available in consumer versions priced for home use. The pitch is compelling: professional-grade results without professional-grade prices or the inconvenience of appointments.
 

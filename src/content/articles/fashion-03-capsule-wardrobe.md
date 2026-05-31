@@ -6,7 +6,7 @@ keywords: "capsule,wardrobe,minimal,closet"
 excerpt: "Forget the restrictive rules of traditional capsule wardrobes. Here's how to build a flexible, personal collection of 30 pieces that truly works."
 ---
 
-![A curated selection of clothing in neutral and accent tones](https://images.unsplash.com/photo-1558769132-cb1aea458c5e)
+![A curated selection of clothing in neutral and accent tones](https://images.unsplash.com/photo-1524282745852-a463fa495a7f)
 
 The capsule wardrobe concept has been around for decades -- Susie Faux coined the term in the 1970s -- but somewhere along the way, it became a rigid, joyless exercise in minimalism. The traditional advice boils down to: own 30-40 items, all in neutrals, all interchangeable, and somehow this will set you free. For most people, it feels less like freedom and more like a uniform they didn't choose.
 

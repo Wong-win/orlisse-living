@@ -4,7 +4,7 @@ category: "fashion"
 keywords: "gold jewelry accessories necklace handbag flatlay"
 excerpt: "The right accessory can transform a basic outfit into something memorable. Here's how to choose, wear, and collect pieces that earn their place."
 ---
-![Cover: fashion-08-accessories](https://images.unsplash.com/photo-1631050165122-626a1377fbce)
+![Cover: fashion-08-accessories](https://images.unsplash.com/photo-1609451043305-745f798b51a3)
 A white T-shirt and jeans is a blank canvas. Add a gold chain necklace and a leather belt, and suddenly it's an outfit. Swap the gold chain for a silk scarf tied at the neck, and it's a different outfit entirely. That's the power of accessories: they're the cheapest, most space-efficient way to transform existing clothes into new looks. The same white shirt can read as preppy, minimalist, bohemian, or polished -- depending entirely on what you put with it.
 
 Yet accessories are the category most people neglect. Shoes, bags, jewelry, belts, scarves, and hair accessories are treated as afterthoughts -- the last thing you grab on the way out the door -- rather than the strategic tools they actually are. This guide covers the core categories and how to use them intentionally.

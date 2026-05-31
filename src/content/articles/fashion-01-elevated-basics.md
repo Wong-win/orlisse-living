@@ -6,7 +6,7 @@ keywords: "wardrobe,clothing,style"
 excerpt: "The foundation of any elevated look starts with impeccable basics. Here are the pieces worth investing in -- and how to style them."
 ---
 
-![Wardrobe essentials laid flat on a wooden floor](https://images.unsplash.com/photo-1558769132-cb1aea458c5e)
+![Wardrobe essentials laid flat on a wooden floor](https://images.unsplash.com/photo-1441984904996-e0b6ba687e04)
 
 The foundation of any elevated look starts with impeccable basics. Trends come and go, but the pieces that ground your wardrobe -- the ones you reach for again and again -- define your personal style more than any statement piece ever could. An elevated basic isn't just a plain white T-shirt or a pair of jeans. It's a piece chosen with intention: better fabric, a considered cut, a detail that makes it feel special. The difference between a basic and an *elevated* basic is how it makes you feel when you put it on. It fits. It drapes. It lasts.
 

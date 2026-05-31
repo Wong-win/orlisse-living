@@ -6,7 +6,7 @@ keywords: "fashion,color,textile,fabric"
 excerpt: "This season's color palette is unusually wearable. From quiet luxury neutrals to surprisingly versatile brights, here's what's actually worth wearing."
 ---
 
-![Fabric swatches in trending seasonal colors](https://images.unsplash.com/photo-1624516268152-1e48624026ed)
+![Fabric swatches in trending seasonal colors](https://images.unsplash.com/photo-1627052045672-be78a58fcd37)
 
 Color trends can feel like a trap. Every season, the fashion industry announces a new set of "must-have" shades, and every season, most of them disappear within months. But occasionally, a season's palette lands in a sweet spot -- colors that feel fresh but not gimmicky, trend-driven but genuinely wearable. This season is one of those moments.
 

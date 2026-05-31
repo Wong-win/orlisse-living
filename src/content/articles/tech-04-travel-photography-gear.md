@@ -6,7 +6,7 @@ keywords: "camera,photography,lens,travel,gear"
 excerpt: "The best travel camera isn't the one with the most megapixels -- it's the one you'll actually carry. Here's the gear that earns its weight in your bag."
 ---
 
-![A compact travel photography kit laid out on a wooden table](https://images.unsplash.com/photo-1502982720700-bfff97f2ecac)
+![A compact travel photography kit laid out on a wooden table](https://images.unsplash.com/photo-1452587925148-ce544e77e70d)
 
 The question "what camera should I buy for travel?" has never had a more complicated answer -- or a simpler one. The complicated answer involves sensor sizes, focal lengths, lens ecosystems, and pixel-level comparisons that you can spend months researching. The simple answer is: the best travel camera is the one you'll actually carry and use, and for most people, that camera is already in your pocket.
 

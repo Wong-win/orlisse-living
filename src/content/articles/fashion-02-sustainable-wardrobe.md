@@ -6,7 +6,7 @@ keywords: "sustainable,fashion,ethical,clothing"
 excerpt: "Building an ethical wardrobe doesn't mean wearing sackcloth. Here's a practical guide to looking good while doing good."
 ---
 
-![A thoughtfully arranged closet with natural fiber clothing](https://images.unsplash.com/photo-1558769132-cb1aea458c5e)
+![A thoughtfully arranged closet with natural fiber clothing](https://images.unsplash.com/photo-1573612664822-d7d347da7b80)
 
 Sustainable fashion has a PR problem. For too long, the conversation has been framed as a binary choice: you either care about looking good, or you care about the planet. This is a false choice. The reality is that the most sustainable pieces are often the most beautiful -- they're made with care, from better materials, and designed to last. They're the pieces you reach for season after season, not the ones that fall apart after three washes.
 
