@@ -8,9 +8,9 @@ excerpt: "Forget the restrictive rules of traditional capsule wardrobes. Here's 
 
 ![A curated selection of clothing in neutral and accent tones](https://images.unsplash.com/photo-1558769132-cb1aea458c5e)
 
-The capsule wardrobe concept has been around for decades — Susie Faux coined the term in the 1970s — but somewhere along the way, it became a rigid, joyless exercise in minimalism. The traditional advice boils down to: own 30-40 items, all in neutrals, all interchangeable, and somehow this will set you free. For most people, it feels less like freedom and more like a uniform they didn't choose.
+The capsule wardrobe concept has been around for decades -- Susie Faux coined the term in the 1970s -- but somewhere along the way, it became a rigid, joyless exercise in minimalism. The traditional advice boils down to: own 30-40 items, all in neutrals, all interchangeable, and somehow this will set you free. For most people, it feels less like freedom and more like a uniform they didn't choose.
 
-We think the capsule wardrobe deserves a rethink. The goal isn't to own as little as possible. The goal is to own only things you genuinely wear — and to be able to create outfits from them without standing in front of your closet feeling like you have nothing to put on. This is a guide to building a capsule that's personal, practical, and actually enjoyable to wear.
+We think the capsule wardrobe deserves a rethink. The goal isn't to own as little as possible. The goal is to own only things you genuinely wear -- and to be able to create outfits from them without standing in front of your closet feeling like you have nothing to put on. This is a guide to building a capsule that's personal, practical, and actually enjoyable to wear.
 
 ## Why Traditional Capsule Advice Falls Short
 
@@ -30,11 +30,11 @@ Before counting items, audit your actual life. For two weeks, note what you do e
 
 ### Rule 2: Pick a Color Palette (But Make It Yours)
 
-A cohesive palette is what makes a capsule work — it's why everything goes with everything else. But "cohesive" doesn't mean "neutral." You can build a capsule around navy, burgundy, and cream. Or olive, rust, and ivory. Or even pastels if that's your thing. The key is to choose:
+A cohesive palette is what makes a capsule work -- it's why everything goes with everything else. But "cohesive" doesn't mean "neutral." You can build a capsule around navy, burgundy, and cream. Or olive, rust, and ivory. Or even pastels if that's your thing. The key is to choose:
 
 - **2-3 base neutrals** that form the foundation (these are your blacks, navies, creams, camels, greys)
 - **2-3 accent colors** that add personality (these are your greens, burgundies, blues, pinks)
-- **1 metallic** for hardware and accessories (gold, silver, or rose gold — just pick one for cohesion)
+- **1 metallic** for hardware and accessories (gold, silver, or rose gold -- just pick one for cohesion)
 
 Everything you buy should fit into this palette. It's a constraint, but a creative one.
 
@@ -67,7 +67,7 @@ Remove everything from your closet. Try on anything you're unsure about. Create 
 For one full week, dress only from your keep pile. Notice what's missing. Do you reach for a specific type of top that isn't there? Do your shoes not work with your pants? Write down the gaps.
 
 **Week 3: Identify the Gaps**
-Based on your week of dressing, identify the 3-5 items that would make the biggest difference. Not the items you want — the items that would make your existing clothes work harder. Often, the missing piece is something boring: the right bra, a belt that fits, shoes in the right color.
+Based on your week of dressing, identify the 3-5 items that would make the biggest difference. Not the items you want -- the items that would make your existing clothes work harder. Often, the missing piece is something boring: the right bra, a belt that fits, shoes in the right color.
 
 **Week 4: Shop Intentionally**
 Buy only the gap-fillers. Research before purchasing. Try on with your existing clothes if possible. If you're not excited to wear it tomorrow, don't buy it.
@@ -90,8 +90,8 @@ Buy only the gap-fillers. Research before purchasing. Try on with your existing 
 
 ## Maintaining Your Capsule
 
-A capsule isn't a one-time project — it's an ongoing practice. Every three months, do a quick check-in: what haven't you worn? What needs repair? What genuinely needs replacing? Seasonal rotation should happen naturally as the weather shifts.
+A capsule isn't a one-time project -- it's an ongoing practice. Every three months, do a quick check-in: what haven't you worn? What needs repair? What genuinely needs replacing? Seasonal rotation should happen naturally as the weather shifts.
 
 When you do buy something new, remove something old. This one-in-one-out rule prevents wardrobe creep and forces you to evaluate each new purchase against what you already own. If you can't bear to let anything go to make room, ask yourself: do you really need this new item?
 
-The point isn't minimalism for its own sake. It's a wardrobe that works so well you don't have to think about it. You open your closet, everything fits, everything goes together, and you can get dressed in five minutes feeling like yourself. That's the goal — and it's worth the effort.
+The point isn't minimalism for its own sake. It's a wardrobe that works so well you don't have to think about it. You open your closet, everything fits, everything goes together, and you can get dressed in five minutes feeling like yourself. That's the goal -- and it's worth the effort.

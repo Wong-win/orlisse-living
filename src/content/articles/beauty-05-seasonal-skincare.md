@@ -10,25 +10,25 @@ excerpt: "Your skin's needs change with the seasons. Here's exactly how to trans
 
 Your skin is not the same organ in January that it is in July. Temperature, humidity, UV exposure, wind, and even indoor heating and air conditioning create dramatically different environments for your skin across the year. A routine that works perfectly in the humid summer can leave you tight and flaking in the dry winter. The products you reach for in cold weather might feel suffocating when temperatures rise.
 
-Seasonal skincare transitions are one of the most overlooked aspects of an effective routine. Most people find a set of products that work, stick with them year-round, and then wonder why their skin suddenly becomes problematic when the seasons shift. The answer isn't more products — it's understanding how to adapt what you're already using to your skin's changing needs.
+Seasonal skincare transitions are one of the most overlooked aspects of an effective routine. Most people find a set of products that work, stick with them year-round, and then wonder why their skin suddenly becomes problematic when the seasons shift. The answer isn't more products -- it's understanding how to adapt what you're already using to your skin's changing needs.
 
 ## Why Your Skin Changes With the Seasons
 
 Your skin's primary job is to function as a barrier between your internal body and the external environment. When that environment changes, your skin has to adapt. These adaptations show up as changes in:
 
 - **Sebum production:** Increases in hot, humid weather; decreases in cold, dry weather
-- **Transepidermal water loss (TEWL):** Increases dramatically in low-humidity environments — both outdoor cold and indoor heating
+- **Transepidermal water loss (TEWL):** Increases dramatically in low-humidity environments -- both outdoor cold and indoor heating
 - **Barrier function:** Can become compromised by extreme temperatures, wind, and rapid temperature shifts (going from heated indoors to freezing outdoors and back)
 - **UV exposure:** Seasonal variation, though UVA rays (the aging ones) penetrate clouds and glass year-round
 - **Cellular turnover:** Can slow in winter and increase in summer due to increased circulation
 
 ## The Seasonal Transition Framework
 
-Rather than replacing your entire routine four times a year, adapt your existing framework. The three pillars — cleanse, moisturize, protect — remain constant. What changes is the texture, weight, and specific focus of the products within each category.
+Rather than replacing your entire routine four times a year, adapt your existing framework. The three pillars -- cleanse, moisturize, protect -- remain constant. What changes is the texture, weight, and specific focus of the products within each category.
 
 ### Winter → Spring Transition
 
-This is often the most dramatic seasonal shift. Coming out of winter, most people are dealing with accumulated dryness, dehydration, and dullness from months of indoor heating and cold air. Spring brings increased humidity and UV exposure — your routine needs to shift from repair mode to protection and renewal.
+This is often the most dramatic seasonal shift. Coming out of winter, most people are dealing with accumulated dryness, dehydration, and dullness from months of indoor heating and cold air. Spring brings increased humidity and UV exposure -- your routine needs to shift from repair mode to protection and renewal.
 
 **What to change:**
 
@@ -57,10 +57,10 @@ Summer brings peak humidity, heat, and the strongest UV exposure of the year. Yo
 | PM Moisturizer | Medium cream | Light lotion or gel |
 | Sunscreen | SPF 50+ | SPF 50+, water-resistant, reapplication |
 | Treatment focus | Renewal, brightening | Oil control, pore care |
-| Extras | — | Antioxidant serum (extra UV defense) |
+| Extras | -- | Antioxidant serum (extra UV defense) |
 
 **Key transition moves:**
-- **Consider a moisturizer-sunscreen combination.** In very humid conditions, a moisturizing Korean sunscreen may provide enough hydration without a separate moisturizer layer. This "skip-care" approach is popular in Korea and Japan for good reason — fewer layers feel better in humidity.
+- **Consider a moisturizer-sunscreen combination.** In very humid conditions, a moisturizing Korean sunscreen may provide enough hydration without a separate moisturizer layer. This "skip-care" approach is popular in Korea and Japan for good reason -- fewer layers feel better in humidity.
 - **Add an antioxidant serum (AM).** Vitamin C in the morning provides an extra layer of UV defense through free radical neutralization. It's beneficial year-round but especially during peak UV months.
 - **Keep blotting papers on hand.** For very oily skin types, blotting papers are the gentlest way to manage midday shine without disrupting your sunscreen.
 - **Don't forget reapplication.** A full day outdoors in summer means you need to reapply sunscreen every two hours. A sunscreen stick or setting spray with SPF makes this feasible over makeup.
@@ -96,14 +96,14 @@ Winter is the most challenging season for most skin types. Low outdoor humidity 
 | Moisturizer (PM) | Medium cream | Rich cream + occlusive |
 | Sunscreen | SPF 50+ | SPF 30+ (still daily) |
 | Treatment focus | Repair, barrier | Barrier, hydration |
-| Extras | — | Humidifier, overnight masks |
+| Extras | -- | Humidifier, overnight masks |
 
 ![Winter skincare essentials including rich moisturizers](https://images.unsplash.com/photo-1586220742613-b731f66f7743)
 
 **Key transition moves:**
 - **Dial back exfoliation.** In winter, your barrier is already under stress from the environment. Reduce chemical exfoliants to once every 1-2 weeks, or pause entirely if your skin feels sensitive.
 - **Add an occlusive layer at night.** For very dry skin, a thin layer of a balm, facial oil, or even petroleum jelly over your night cream seals in moisture and dramatically reduces overnight water loss.
-- **Consider a humidifier.** Running a humidifier in your bedroom at night is one of the most effective — and least expensive — skincare interventions for winter dryness. Aim for 40-60% relative humidity.
+- **Consider a humidifier.** Running a humidifier in your bedroom at night is one of the most effective -- and least expensive -- skincare interventions for winter dryness. Aim for 40-60% relative humidity.
 - **Don't skip sunscreen.** It's easy to let sunscreen slide on grey winter days, but UVA rays (the aging ones) penetrate clouds and windows. A moisturizing sunscreen can do double duty.
 
 ## How to Know When It's Time to Transition
@@ -134,4 +134,4 @@ A few categories should remain constant regardless of season:
 
 When you do switch products, don't swap everything at once. Introduce one change at a time, with at least a week between each new product. This way, if something causes a reaction, you know exactly what it was. It also gives your skin time to adjust.
 
-The goal of seasonal skincare isn't to own dozens of products for different times of year. It's to understand your skin's changing needs and adapt accordingly — often with just a few strategic switches in texture and focus. A lighter moisturizer in summer, a richer one in winter, and consistent sun protection all year round will take you further than an elaborate routine that doesn't account for the environment your skin actually lives in.
+The goal of seasonal skincare isn't to own dozens of products for different times of year. It's to understand your skin's changing needs and adapt accordingly -- often with just a few strategic switches in texture and focus. A lighter moisturizer in summer, a richer one in winter, and consistent sun protection all year round will take you further than an elaborate routine that doesn't account for the environment your skin actually lives in.

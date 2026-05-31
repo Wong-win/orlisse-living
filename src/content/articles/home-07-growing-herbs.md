@@ -1,14 +1,11 @@
----
-title: "The Beginner's Guide to Growing Herbs Indoors Year-Round"
+---title: "The Beginner's Guide to Growing Herbs Indoors Year-Round"
 date: "2026-05-30"
 category: "home-garden"
-keywords: "herbs,indoor,growing,garden,kitchen"
-excerpt: "Fresh herbs elevate any dish — and they're surprisingly easy to grow at home. Here's everything you need to get started."
+keywords: "herbs plants kitchen windowsill basil indoor garden"
+excerpt: "Fresh herbs elevate any dish -- and they're surprisingly easy to grow at home. Here's everything you need to get started."
 ---
-
-![Potted herb plants growing on a sunny kitchen windowsill](https://images.unsplash.com/photo-1776604965126-86eed56418b9)
-
-Fresh herbs are the single most cost-effective thing you can grow at home. A bunch of basil at the grocery store costs $3-4 and wilts in your refrigerator within days. A basil plant costs $4-5 and produces leaves for months. The math is inescapable — and the experience of snipping fresh herbs while cooking, rather than guiltily retrieving a plastic clamshell of slimy greens from the back of the fridge, is one of life's small, reliable pleasures.
+![Cover](https://images.unsplash.com/photo-1768407313710-9fb5f82c63d6)
+Fresh herbs are the single most cost-effective thing you can grow at home. A bunch of basil at the grocery store costs $3-4 and wilts in your refrigerator within days. A basil plant costs $4-5 and produces leaves for months. The math is inescapable -- and the experience of snipping fresh herbs while cooking, rather than guiltily retrieving a plastic clamshell of slimy greens from the back of the fridge, is one of life's small, reliable pleasures.
 
 Growing herbs indoors is easier than most people think. You don't need a garden, a green thumb, or any prior experience. You need a windowsill, a few pots, some potting soil, and the willingness to water consistently. Here's everything you need to know.
 
@@ -18,15 +15,15 @@ Not all herbs thrive indoors. Some require more light than a typical windowsill 
 
 ### The Easy Starter Kit
 
-**Basil:** The most rewarding indoor herb. Basil germinates quickly from seed (5-10 days), grows fast, and produces abundantly. It needs warmth and at least 4-6 hours of direct sunlight daily. Pinch off flowers as soon as they appear — once basil flowers, the leaves become bitter and the plant declines.
+**Basil:** The most rewarding indoor herb. Basil germinates quickly from seed (5-10 days), grows fast, and produces abundantly. It needs warmth and at least 4-6 hours of direct sunlight daily. Pinch off flowers as soon as they appear -- once basil flowers, the leaves become bitter and the plant declines.
 
-**Mint:** Virtually unkillable. Mint grows in almost any light condition and spreads aggressively. Always grow mint in its own pot — never with other herbs, as it will overtake them. Spearmint and peppermint are the most versatile for cooking and tea.
+**Mint:** Virtually unkillable. Mint grows in almost any light condition and spreads aggressively. Always grow mint in its own pot -- never with other herbs, as it will overtake them. Spearmint and peppermint are the most versatile for cooking and tea.
 
 **Chives:** Low-maintenance and forgiving. Chives tolerate lower light than most herbs and regrow quickly after cutting. They produce edible purple flowers in spring that look beautiful and taste mildly oniony.
 
-**Parsley (flat-leaf):** Reliable and productive. Flat-leaf (Italian) parsley has better flavor than curly parsley and grows well in a sunny window. It's a biennial — it'll produce leaves for two years before going to seed.
+**Parsley (flat-leaf):** Reliable and productive. Flat-leaf (Italian) parsley has better flavor than curly parsley and grows well in a sunny window. It's a biennial -- it'll produce leaves for two years before going to seed.
 
-**Thyme:** Compact, drought-tolerant, and aromatic. Thyme thrives on neglect — it prefers to dry out between waterings and doesn't need fertilizer. English thyme and lemon thyme are both excellent indoor choices.
+**Thyme:** Compact, drought-tolerant, and aromatic. Thyme thrives on neglect -- it prefers to dry out between waterings and doesn't need fertilizer. English thyme and lemon thyme are both excellent indoor choices.
 
 ### Herbs to Avoid Indoors
 
@@ -48,12 +45,12 @@ Light is the limiting factor for indoor herbs. Most culinary herbs are native to
 
 ### Water
 
-Overwatering kills more indoor herbs than any other cause. The general rule: water when the top 2-3cm (about 1 inch) of soil is dry to the touch. Stick your finger in the soil — if it feels moist, don't water.
+Overwatering kills more indoor herbs than any other cause. The general rule: water when the top 2-3cm (about 1 inch) of soil is dry to the touch. Stick your finger in the soil -- if it feels moist, don't water.
 
 **Watering tips:**
 - Water in the morning so excess moisture evaporates during the day
 - Water the soil, not the leaves (wet leaves encourage fungal disease)
-- Always use pots with drainage holes — herbs sitting in waterlogged soil will develop root rot
+- Always use pots with drainage holes -- herbs sitting in waterlogged soil will develop root rot
 - Different herbs have different needs: basil likes consistent moisture, thyme and rosemary prefer to dry out between waterings
 
 ### Soil
@@ -64,7 +61,7 @@ For Mediterranean herbs (thyme, rosemary, oregano), add about 20% perlite or coa
 
 ### Containers
 
-Any pot with drainage holes works. Terra cotta (clay) pots are excellent for herbs because they're porous — they wick excess moisture away from the roots and help prevent overwatering. Plastic and glazed ceramic pots work too but require more attention to watering frequency.
+Any pot with drainage holes works. Terra cotta (clay) pots are excellent for herbs because they're porous -- they wick excess moisture away from the roots and help prevent overwatering. Plastic and glazed ceramic pots work too but require more attention to watering frequency.
 
 **Size matters:** A 15-20cm (6-8 inch) diameter pot is adequate for most individual herbs. Basil, which grows quickly and has a larger root system, benefits from a slightly larger pot (20-25cm / 8-10 inches).
 
@@ -72,19 +69,20 @@ Any pot with drainage holes works. Terra cotta (clay) pots are excellent for her
 
 **Starting from seed ($2-4 per packet):** Cheaper, more satisfying, and gives you access to a wider variety of herbs. Basil, chives, parsley, and cilantro grow easily from seed. Start seeds in small pots, keep the soil consistently moist (not wet), and expect germination within 1-2 weeks.
 
-**Buying seedlings ($4-6 per plant):** Easier and faster. This is the better option for slow-growing herbs like rosemary and thyme, and for anyone who wants an instant herb garden. Supermarket herb plants are often overcrowded — repot them into a larger pot with fresh soil as soon as you get home.
+**Buying seedlings ($4-6 per plant):** Easier and faster. This is the better option for slow-growing herbs like rosemary and thyme, and for anyone who wants an instant herb garden. Supermarket herb plants are often overcrowded -- repot them into a larger pot with fresh soil as soon as you get home.
 
 ## Harvesting for Continued Growth
+![Detail](https://images.unsplash.com/photo-1776604965126-86eed56418b9)
+
 
 How you harvest determines how your herbs grow:
 
 **Pinch from the top.** For basil, mint, and other leafy herbs, pinch off the top set of leaves just above a leaf node (where leaves meet the stem). This encourages the plant to branch outward rather than growing tall and leggy.
 
-**Snip from the outside.** For chives, parsley, and cilantro, harvest the outer leaves first, leaving the center of the plant to continue growing. Never harvest more than one-third of the plant at a time — it needs enough foliage to photosynthesize and recover.
+**Snip from the outside.** For chives, parsley, and cilantro, harvest the outer leaves first, leaving the center of the plant to continue growing. Never harvest more than one-third of the plant at a time -- it needs enough foliage to photosynthesize and recover.
 
 **Harvest before flowering.** Most herbs are at their peak flavor just before they flower. Once they flower, the leaves often become bitter or lose intensity. If you see flower buds forming, pinch them off immediately unless you're growing the plant for seeds.
 
-![Freshly harvested basil, parsley, and chives on a cutting board](https://images.unsplash.com/photo-1758524055179-99ee75e6115b)
 
 ## Common Problems and Solutions
 
@@ -94,10 +92,12 @@ How you harvest determines how your herbs grow:
 
 **Leggy, stretched growth:** Insufficient light. Move to a brighter window or add a grow light.
 
-**Tiny insects (aphids, spider mites, whiteflies):** Isolate the affected plant immediately. Spray with a mixture of water and a few drops of mild dish soap, focusing on the undersides of leaves where pests hide. Repeat every few days until the infestation clears.
+**Tiny insects (aphids, spider mites, whiteflies):** Isolate the affected plant immediately. Spray with a mixture of water and a few drops of mild dish soap, focusing on the undersides of leaves where pests hide. Repeat e
+![Context](https://images.unsplash.com/photo-1694827891674-21e4e24fb1b4)
+very few days until the infestation clears.
 
 ## The Cost-Benefit Analysis
 
-An indoor herb garden with five plants (basil, mint, chives, parsley, thyme) costs approximately $30-50 to set up (pots, soil, seedlings or seeds, optional grow light) and produces herbs for months. At grocery store prices of $3-4 per bunch, the setup pays for itself within 2-3 months. Beyond the economics, having fresh herbs at arm's reach changes how you cook — you'll use them more, experiment more, and eat better as a result.
+An indoor herb garden with five plants (basil, mint, chives, parsley, thyme) costs approximately $30-50 to set up (pots, soil, seedlings or seeds, optional grow light) and produces herbs for months. At grocery store prices of $3-4 per bunch, the setup pays for itself within 2-3 months. Beyond the economics, having fresh herbs at arm's reach changes how you cook -- you'll use them more, experiment more, and eat better as a result.
 
 Start with one or two of the easy herbs. Get comfortable with watering and harvesting. Then expand. By the end of your first season, you'll wonder why you didn't start years ago.

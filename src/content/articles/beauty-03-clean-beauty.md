@@ -8,13 +8,13 @@ excerpt: "\"Clean beauty\" is one of the most confusing terms in skincare. We se
 
 ![Natural and synthetic skincare ingredients on a clean white background](https://images.unsplash.com/photo-1583209814683-c023dd293cc6)
 
-"Clean beauty" is simultaneously the most influential and the most confusing movement in modern skincare. It has driven real change — pushing brands toward greater transparency, phasing out genuinely problematic ingredients, and elevating formulation standards across the industry. But it has also spawned an enormous amount of misinformation, fear-mongering, and marketing spin that conflates "natural" with "safe" and "synthetic" with "dangerous."
+"Clean beauty" is simultaneously the most influential and the most confusing movement in modern skincare. It has driven real change -- pushing brands toward greater transparency, phasing out genuinely problematic ingredients, and elevating formulation standards across the industry. But it has also spawned an enormous amount of misinformation, fear-mongering, and marketing spin that conflates "natural" with "safe" and "synthetic" with "dangerous."
 
-This guide aims to cut through the noise. We'll look at which "clean beauty" concerns are backed by science, which are marketing, and how to evaluate products based on evidence rather than fear. The goal is not to tell you what to buy — it's to give you the tools to make your own informed decisions.
+This guide aims to cut through the noise. We'll look at which "clean beauty" concerns are backed by science, which are marketing, and how to evaluate products based on evidence rather than fear. The goal is not to tell you what to buy -- it's to give you the tools to make your own informed decisions.
 
 ## The "Clean" Problem
 
-The central problem with "clean beauty" is that there is no legal or regulatory definition of the term. Unlike "organic," which requires certification, any brand can call itself clean. This has led to a situation where "clean" often means whatever a brand's marketing department wants it to mean — which is frequently "our competitors' products are dirty and dangerous" without evidence to back that claim up.
+The central problem with "clean beauty" is that there is no legal or regulatory definition of the term. Unlike "organic," which requires certification, any brand can call itself clean. This has led to a situation where "clean" often means whatever a brand's marketing department wants it to mean -- which is frequently "our competitors' products are dirty and dangerous" without evidence to back that claim up.
 
 This doesn't mean the movement is without merit. The consumer pressure behind clean beauty has pushed the industry toward greater transparency in ingredient sourcing, better testing, and more thoughtful formulations. But it also means you need to evaluate clean claims critically rather than taking them at face value.
 
@@ -38,7 +38,7 @@ This doesn't mean the movement is without merit. The consumer pressure behind cl
 
 **The evidence:** The problematic phthalates are largely phased out of cosmetics. However, because fragrance formulations are protected as trade secrets, consumers have no way of knowing what's in "fragrance" or "parfum" on an ingredient list. This lack of transparency is the real concern.
 
-**Our take:** The most practical step is to choose fragrance-free products when possible — not because fragrance is inherently harmful, but because transparency is valuable. If a product lists "fragrance" without further detail, you're trusting the brand's sourcing standards without evidence.
+**Our take:** The most practical step is to choose fragrance-free products when possible -- not because fragrance is inherently harmful, but because transparency is valuable. If a product lists "fragrance" without further detail, you're trusting the brand's sourcing standards without evidence.
 
 ### Formaldehyde-Releasing Preservatives
 
@@ -76,7 +76,7 @@ Rather than focusing exclusively on what to avoid, here are ingredients that hav
 
 ![Close-up of skincare ingredients with niacinamide highlighted](https://images.unsplash.com/photo-1612817288484-6f916006741a)
 
-**Ceramides:** Lipids that are naturally present in your skin barrier and make up about 50% of its composition. Ceramide levels decline with age and environmental damage. Applying them topically helps restore barrier function, reduces moisture loss, and improves skin resilience. Look for products containing ceramides NP, AP, and EOP in a 3:1:1 ratio — this mimics the skin's natural ceramide composition.
+**Ceramides:** Lipids that are naturally present in your skin barrier and make up about 50% of its composition. Ceramide levels decline with age and environmental damage. Applying them topically helps restore barrier function, reduces moisture loss, and improves skin resilience. Look for products containing ceramides NP, AP, and EOP in a 3:1:1 ratio -- this mimics the skin's natural ceramide composition.
 
 **Centella Asiatica (Cica):** A herb with centuries of use in traditional Asian medicine, now extensively studied for its wound-healing and anti-inflammatory properties. Particularly beneficial for sensitive, reactive, and redness-prone skin. Madecassoside and asiaticoside are the key active compounds.
 
@@ -96,4 +96,4 @@ Rather than relying on "clean" or "natural" labels, evaluate products using thes
 
 ## The Bottom Line
 
-The most important skincare principle isn't "clean" or "natural" — it's "evidence-based." Focus on ingredients with strong scientific backing at effective concentrations. Avoid fear-based marketing that positions all synthetic ingredients as dangerous and all natural ones as safe (nature produces plenty of irritants and toxins). And remember: a well-formulated product from a transparent brand is worth more than a "clean" label on a bottle that doesn't actually deliver results.
+The most important skincare principle isn't "clean" or "natural" -- it's "evidence-based." Focus on ingredients with strong scientific backing at effective concentrations. Avoid fear-based marketing that positions all synthetic ingredients as dangerous and all natural ones as safe (nature produces plenty of irritants and toxins). And remember: a well-formulated product from a transparent brand is worth more than a "clean" label on a bottle that doesn't actually deliver results.

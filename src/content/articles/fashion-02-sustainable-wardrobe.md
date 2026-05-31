@@ -8,7 +8,7 @@ excerpt: "Building an ethical wardrobe doesn't mean wearing sackcloth. Here's a 
 
 ![A thoughtfully arranged closet with natural fiber clothing](https://images.unsplash.com/photo-1558769132-cb1aea458c5e)
 
-Sustainable fashion has a PR problem. For too long, the conversation has been framed as a binary choice: you either care about looking good, or you care about the planet. This is a false choice. The reality is that the most sustainable pieces are often the most beautiful — they're made with care, from better materials, and designed to last. They're the pieces you reach for season after season, not the ones that fall apart after three washes.
+Sustainable fashion has a PR problem. For too long, the conversation has been framed as a binary choice: you either care about looking good, or you care about the planet. This is a false choice. The reality is that the most sustainable pieces are often the most beautiful -- they're made with care, from better materials, and designed to last. They're the pieces you reach for season after season, not the ones that fall apart after three washes.
 
 This guide is for anyone who wants to build a wardrobe that aligns with their values without sacrificing personal style. No guilt, no judgment, no wardrobe purges that send everything to landfill. Just practical, realistic steps toward a more considered closet.
 
@@ -24,7 +24,7 @@ First, it's classist. Not everyone can afford a $200 organic cotton T-shirt. Sec
 
 This sounds obvious, but in a culture that treats clothing as disposable, it's genuinely radical. The average garment is worn only seven times before being discarded. Extending the life of your clothing by just nine months reduces its carbon, water, and waste footprint by 20-30%. Before buying anything new, shop your own closet. You'll be surprised what you find.
 
-Try this exercise: pull out ten items you haven't worn in the last six months and create three new outfits with them. Most people discover that they already own more than they think — they just needed to see it differently.
+Try this exercise: pull out ten items you haven't worn in the last six months and create three new outfits with them. Most people discover that they already own more than they think -- they just needed to see it differently.
 
 ### 2. Buy Better, Buy Less
 
@@ -53,7 +53,7 @@ The takeaway: prioritize linen, organic cotton, Tencel, and responsibly sourced 
 
 ### 4. Shop Secondhand First
 
-The secondhand market has been transformed in recent years. Platforms like The RealReal, Vestiaire Collective, Depop, and even eBay have made it possible to find virtually anything secondhand — often in excellent condition and at a fraction of the retail price.
+The secondhand market has been transformed in recent years. Platforms like The RealReal, Vestiaire Collective, Depop, and even eBay have made it possible to find virtually anything secondhand -- often in excellent condition and at a fraction of the retail price.
 
 Secondhand shopping does require more patience than clicking "buy" on a new item, but the rewards are significant: unique pieces, better quality for your budget, and a fraction of the environmental impact. Some of the best-dressed people we know buy almost exclusively secondhand.
 
@@ -92,6 +92,6 @@ For everyday elevated basics, look toward brands that manufacture in Portugal, J
 
 ## A Final Thought
 
-The most sustainable wardrobe isn't the one with the most certifications — it's the one you actually wear, care for, and keep. A closet full of "sustainable" clothes that sit unworn with tags attached is not a victory. A small wardrobe of well-loved, frequently worn pieces is.
+The most sustainable wardrobe isn't the one with the most certifications -- it's the one you actually wear, care for, and keep. A closet full of "sustainable" clothes that sit unworn with tags attached is not a victory. A small wardrobe of well-loved, frequently worn pieces is.
 
 Start where you are. Wear what you have. When you do buy, buy something you'll still want to wear in five years. That's the whole philosophy, and it's genuinely enough.
