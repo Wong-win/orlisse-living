@@ -1,5 +1,5 @@
 ---title: "How to Start a Vegetable Garden in Any Space"
-date: "2026-06-01"
+date: "2026-03-13"
 category: "home-garden"
 keywords: "vegetable,garden,growing,food,organic"
 excerpt: "You don't need a backyard to grow your own food. Here's how to start a vegetable garden in whatever space you have."

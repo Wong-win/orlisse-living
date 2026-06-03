@@ -1,6 +1,6 @@
 ---
 title: "Seasonal Skincare Transitions: How to Adapt Your Routine for Every Season"
-date: "2026-05-15"
+date: "2025-09-12"
 category: "beauty"
 keywords: "skincare,seasonal,moisturizer,beauty"
 excerpt: "Your skin's needs change with the seasons. Here's exactly how to transition your routine from winter to spring, summer to fall, and everything in between."

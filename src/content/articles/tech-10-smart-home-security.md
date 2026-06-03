@@ -1,5 +1,5 @@
 ---title: "Smart Home Security: What's Actually Worth Installing in 2026"
-date: "2026-05-31"
+date: "2026-01-28"
 category: "technology"
 keywords: "security,camera,doorbell,smart,home"
 excerpt: "Home security technology has come a long way. Here's what's worth your money — from video doorbells to sensors — and what you can safely skip."

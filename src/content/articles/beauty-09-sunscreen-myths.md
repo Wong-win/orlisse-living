@@ -1,5 +1,5 @@
 ---title: "Sunscreen Myths Debunked: What the Science Actually Says About Sun Protection"
-date: "2026-05-31"
+date: "2025-12-19"
 category: "beauty"
 keywords: "sunscreen,protection,UV,skincare,science"
 excerpt: "From SPF numbers to chemical versus mineral, sunscreen is surrounded by misinformation. Let's look at what the peer-reviewed evidence actually tells us."

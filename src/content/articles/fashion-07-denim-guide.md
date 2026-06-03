@@ -1,5 +1,5 @@
 ---title: "The Ultimate Guide to Denim: Fits, Washes, and How to Care for Your Jeans"
-date: "2026-05-30"
+date: "2025-10-26"
 category: "fashion"
 keywords: "denim jeans casual fashion style fabric"
 excerpt: "Finding the right pair of jeans can feel impossible. Here's a comprehensive guide to denim fits, washes, and care that actually makes sense."

@@ -1,6 +1,6 @@
 ---
 title: "Smart Home Devices Worth Actually Buying in 2026"
-date: "2026-05-27"
+date: "2025-06-20"
 category: "technology"
 keywords: "smart,home,speaker,thermostat,device"
 excerpt: "Not all smart home gadgets earn their place. We tested dozens to identify the ones that genuinely improve daily life -- and the ones to skip."

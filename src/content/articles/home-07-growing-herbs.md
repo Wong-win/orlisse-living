@@ -1,5 +1,5 @@
 ---title: "The Beginner's Guide to Growing Herbs Indoors Year-Round"
-date: "2026-05-30"
+date: "2025-11-10"
 category: "home-garden"
 keywords: "herbs plants kitchen windowsill basil indoor garden"
 excerpt: "Fresh herbs elevate any dish -- and they're surprisingly easy to grow at home. Here's everything you need to get started."

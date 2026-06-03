@@ -1,5 +1,5 @@
 ---title: "The Complete Room-by-Room Guide to Decluttering Your Home"
-date: "2026-05-31"
+date: "2025-12-29"
 category: "home-garden"
 keywords: "declutter,organize,home,cleaning,minimal"
 excerpt: "Decluttering isn't about deprivation — it's about making space for what matters. Here's a practical, room-by-room system that actually works."

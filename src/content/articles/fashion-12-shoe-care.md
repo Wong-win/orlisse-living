@@ -1,5 +1,5 @@
 ---title: "The Complete Guide to Shoe Care: Make Your Shoes Last a Lifetime"
-date: "2026-06-01"
+date: "2026-02-26"
 category: "fashion"
 keywords: "shoes,leather,care,polish,maintenance"
 excerpt: "Well-maintained shoes last years longer than neglected ones. Here's a complete guide to caring for every type of footwear you own."

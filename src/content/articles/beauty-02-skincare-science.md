@@ -1,6 +1,6 @@
 ---
 title: "The Science of Skincare: Building Your Perfect AM/PM Routine"
-date: "2026-05-24"
+date: "2025-06-30"
 category: "beauty"
 keywords: "skincare,beauty,serum,cream"
 excerpt: "More products don't mean better skin. Here's the science-backed, minimalist approach to building a skincare routine that actually works."

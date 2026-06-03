@@ -1,5 +1,5 @@
 ---title: "AI in Everyday Life: What Actually Matters for Regular People in 2026"
-date: "2026-06-01"
+date: "2026-05-31"
 category: "technology"
 keywords: "AI,artificial,intelligence,chatgpt,tools"
 excerpt: "AI is transforming how we work and live. Here's a practical guide to what's useful now — cutting through the hype."

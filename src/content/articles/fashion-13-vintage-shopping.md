@@ -1,5 +1,5 @@
 ---title: "How to Shop Vintage and Secondhand Like a Pro"
-date: "2026-06-01"
+date: "2026-03-23"
 category: "fashion"
 keywords: "vintage,secondhand,thrift,shopping,sustainable"
 excerpt: "Vintage shopping is the best way to build a unique, high-quality wardrobe on a budget. Here's how to do it right."

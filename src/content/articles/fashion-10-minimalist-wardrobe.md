@@ -1,5 +1,5 @@
 ---title: "Building a Minimalist Wardrobe: Quality Over Quantity, Without Sacrificing Joy"
-date: "2026-05-31"
+date: "2026-01-08"
 category: "fashion"
 keywords: "minimalist,wardrobe,capsule,quality,basics"
 excerpt: "A minimalist wardrobe isn't about deprivation — it's about surrounding yourself only with pieces you genuinely love and wear. Here's how to build one."

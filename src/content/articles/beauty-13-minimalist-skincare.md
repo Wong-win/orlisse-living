@@ -1,5 +1,5 @@
 ---title: "How to Build a Minimalist Skincare Routine That Actually Works"
-date: "2026-06-01"
+date: "2026-03-28"
 category: "beauty"
 keywords: "minimalist,skincare,routine,simple,essentials"
 excerpt: "You don't need a 10-step routine for great skin. Here's the evidence-based minimalist approach with just the essentials."

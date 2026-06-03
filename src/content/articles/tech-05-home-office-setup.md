@@ -1,6 +1,6 @@
 ---
 title: "The Modern Home Office: Ergonomic and Aesthetic Tech Picks for Your Workspace"
-date: "2026-05-15"
+date: "2025-09-27"
 category: "technology"
 keywords: "office,desk,workspace,computer,chair"
 excerpt: "A well-designed home office pays for itself in focus and physical comfort. Here's how to set up a workspace you actually want to spend time in."

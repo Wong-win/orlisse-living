@@ -1,5 +1,5 @@
 ---title: "Travel Insurance Explained: Do You Really Need It and How to Choose"
-date: "2026-05-30"
+date: "2025-11-05"
 category: "travel"
 keywords: "passport airport documents travel security"
 excerpt: "Travel insurance is one of the most confusing parts of trip planning. Here's what it actually covers, when you need it, and how to choose a policy."

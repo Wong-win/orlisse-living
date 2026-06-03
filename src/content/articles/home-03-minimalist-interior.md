@@ -1,6 +1,6 @@
 ---
 title: "Minimalist Interior Design: Creating Calm Through Intentional Spaces"
-date: "2026-05-22"
+date: "2025-08-03"
 category: "home-garden"
 keywords: "interior,minimal,design,living,room"
 excerpt: "Minimalism isn't about owning nothing -- it's about surrounding yourself only with things that matter. Here's how to create a calm, intentional home."

@@ -1,6 +1,6 @@
 ---
 title: "LED Face Masks Review: Do At-Home Light Therapy Devices Actually Work?"
-date: "2026-05-18"
+date: "2025-08-18"
 category: "beauty"
 keywords: "led,mask,face,beauty,light"
 excerpt: "LED face masks promise professional-grade light therapy at home. We tested 6 popular masks over 8 weeks -- here's what the science says and what actually worked."

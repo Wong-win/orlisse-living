@@ -1,5 +1,5 @@
 ---title: "Home Wi-Fi Explained: How to Fix Your Internet Problems Once and For All"
-date: "2026-06-01"
+date: "2026-04-11"
 category: "technology"
 keywords: "wifi,internet,router,mesh,speed"
 excerpt: "Slow Wi-Fi is usually fixable without spending much money. Here's how to diagnose and solve the most common problems."

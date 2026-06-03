@@ -1,6 +1,6 @@
 ---
 title: "10 Elevated Basics Every Wardrobe Needs This Season"
-date: "2026-05-28"
+date: "2025-06-01"
 category: "fashion"
 keywords: "wardrobe,clothing,style"
 excerpt: "The foundation of any elevated look starts with impeccable basics. Here are the pieces worth investing in -- and how to style them."

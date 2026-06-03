@@ -1,6 +1,6 @@
 ---
 title: "Beauty Tech: Are High-Tech Skincare Tools Worth the Investment?"
-date: "2026-05-21"
+date: "2025-08-08"
 category: "technology"
 keywords: "beauty,device,technology,led,skincare"
 excerpt: "From LED masks to microcurrent devices, beauty tech promises clinical results at home. We examine the evidence behind the most popular categories."

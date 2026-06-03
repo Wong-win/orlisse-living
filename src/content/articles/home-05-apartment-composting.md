@@ -1,6 +1,6 @@
 ---
 title: "Apartment Composting: The Complete Beginner's Guide to Composting Indoors"
-date: "2026-05-16"
+date: "2025-09-22"
 category: "home-garden"
 keywords: "compost,soil,garden,organic,worms"
 excerpt: "No backyard? No problem. Modern composting methods make it possible to turn kitchen scraps into rich soil -- even in a studio apartment."

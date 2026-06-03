@@ -1,5 +1,5 @@
 ---title: "Understanding Skin Types: How to Know What You Actually Have and Why It Matters"
-date: "2026-06-01"
+date: "2026-05-16"
 category: "beauty"
 keywords: "skin,type,oily,dry,combination"
 excerpt: "Most people misidentify their skin type, leading to products that make things worse. Here's how to accurately determine yours and choose accordingly."

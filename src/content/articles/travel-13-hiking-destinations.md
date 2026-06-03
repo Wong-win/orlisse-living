@@ -1,5 +1,5 @@
 ---title: "The Best Hiking Destinations for Every Skill Level in 2026"
-date: "2026-06-01"
+date: "2026-04-01"
 category: "travel"
 keywords: "hiking,outdoor,nature,trails,mountains"
 excerpt: "From gentle day walks to multi-day treks, here are the world's best hiking destinations organized by skill level."

@@ -1,5 +1,5 @@
 ---title: "How to Create a Cozy Reading Nook in Any Room"
-date: "2026-05-30"
+date: "2025-10-16"
 category: "home-garden"
 keywords: "armchair reading corner cozy lamp blanket books"
 excerpt: "Every home needs a dedicated corner for reading. Here's how to create one -- no matter how small your space."

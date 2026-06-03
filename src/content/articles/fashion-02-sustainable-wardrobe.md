@@ -1,6 +1,6 @@
 ---
 title: "Sustainable Fashion: How to Build an Ethical Wardrobe Without Sacrificing Style"
-date: "2026-05-25"
+date: "2025-06-25"
 category: "fashion"
 keywords: "sustainable,fashion,ethical,clothing"
 excerpt: "Building an ethical wardrobe doesn't mean wearing sackcloth. Here's a practical guide to looking good while doing good."

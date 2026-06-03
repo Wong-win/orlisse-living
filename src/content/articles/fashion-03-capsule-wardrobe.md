@@ -1,6 +1,6 @@
 ---
 title: "The Capsule Wardrobe Reimagined: 30 Pieces, Infinite Outfits"
-date: "2026-05-22"
+date: "2025-07-20"
 category: "fashion"
 keywords: "capsule,wardrobe,minimal,closet"
 excerpt: "Forget the restrictive rules of traditional capsule wardrobes. Here's how to build a flexible, personal collection of 30 pieces that truly works."

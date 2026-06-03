@@ -1,6 +1,6 @@
 ---
 title: "Where to Stay in Kyoto: The Best Boutique Hotels and Ryokan for Design Lovers"
-date: "2026-05-17"
+date: "2025-08-23"
 category: "travel"
 keywords: "kyoto,japan,ryokan,garden,hotel"
 excerpt: "Kyoto's accommodation scene has been quietly transformed by design-forward boutique hotels and restored ryokan. Here are the most beautiful places to stay."

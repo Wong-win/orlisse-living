@@ -1,6 +1,6 @@
 ---
 title: "The Modern Digital Nomad's Gear Guide: What to Pack and What to Skip"
-date: "2026-05-14"
+date: "2025-09-17"
 category: "travel"
 keywords: "laptop,workspace,remote,office,cafe"
 excerpt: "After a year of working from coffee shops, coworking spaces, and hotel rooms across four continents, here's the gear that earned its place -- and what didn't."

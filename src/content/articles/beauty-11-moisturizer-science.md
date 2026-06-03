@@ -1,5 +1,5 @@
 ---title: "The Science of Moisturizers: Creams, Gels, Lotions, and Balms Explained"
-date: "2026-06-01"
+date: "2026-02-06"
 category: "beauty"
 keywords: "moisturizer,cream,gel,lotion,skincare"
 excerpt: "Not all moisturizers work the same way. Here's the science behind the textures and how to choose the right one for your skin."

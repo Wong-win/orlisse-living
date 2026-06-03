@@ -1,5 +1,5 @@
 ---title: "The Beginner's Guide to Retinol: How to Start Without Irritation"
-date: "2026-05-30"
+date: "2025-10-06"
 category: "beauty"
 keywords: "skincare serum bottle product beauty cosmetic"
 excerpt: "Retinol is the most evidence-backed skincare ingredient available -- but it can also cause irritation. Here's how to start safely and effectively."

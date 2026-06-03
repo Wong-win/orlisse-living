@@ -1,5 +1,5 @@
 ---title: "Beginner's Guide to Furniture Restoration and Upcycling"
-date: "2026-06-01"
+date: "2026-05-26"
 category: "home-garden"
 keywords: "furniture,restoration,upcycle,DIY,refinish"
 excerpt: "Old furniture is often better made than new. Here's how to restore and upcycle pieces into something beautiful."

@@ -1,5 +1,5 @@
 ---title: "The Best Travel Apps for Planning Your Next Trip in 2026"
-date: "2026-05-30"
+date: "2025-11-30"
 category: "travel"
 keywords: "smartphone mobile map travel planning navigation"
 excerpt: "The right apps can transform how you plan, book, and experience travel. Here are the essential ones worth downloading before your next trip."

@@ -1,5 +1,5 @@
 ---title: "Eco-Friendly Home Swaps That Actually Make a Difference"
-date: "2026-06-01"
+date: "2026-04-06"
 category: "home-garden"
 keywords: "eco,friendly,sustainable,home,swaps"
 excerpt: "Not all 'green' home products are worth the switch. Here are the swaps that genuinely reduce your environmental impact."

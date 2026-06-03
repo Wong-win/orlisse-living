@@ -1,5 +1,5 @@
 ---title: "Hair Care Routines for Every Hair Type: A Practical Guide"
-date: "2026-05-30"
+date: "2025-11-25"
 category: "beauty"
 keywords: "hair brush beauty care products routine styling"
 excerpt: "Most hair care advice is written for one hair type and generalized to everyone. Here's how to build a routine that works for your specific hair."

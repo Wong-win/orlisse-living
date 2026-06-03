@@ -1,5 +1,5 @@
 ---title: "Tokyo Neighborhood Guide: Where to Stay and What to Explore"
-date: "2026-05-30"
+date: "2025-10-11"
 category: "travel"
 keywords: "tokyo japan city street urban travel"
 excerpt: "Tokyo is a city of distinct neighborhoods, each with its own personality. Here's how to choose where to stay and what to see."

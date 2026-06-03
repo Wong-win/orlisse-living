@@ -1,5 +1,5 @@
 ---title: "The Best Noise-Canceling Headphones Compared: What's Worth Your Money in 2026"
-date: "2026-05-31"
+date: "2026-01-03"
 category: "technology"
 keywords: "headphones,noise,canceling,audio,wireless"
 excerpt: "The noise-canceling headphone market is fiercely competitive. Here's an honest comparison of the top models and which one fits your needs."

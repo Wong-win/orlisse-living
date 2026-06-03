@@ -1,5 +1,5 @@
 ---title: "The Complete Guide to Double Cleansing: Why It Works and How to Do It Right"
-date: "2026-05-31"
+date: "2026-01-13"
 category: "beauty"
 keywords: "cleansing,skincare,oil,balm,routine"
 excerpt: "Double cleansing is the foundation of Korean skincare — and for good reason. Here's the science, the method, and how to choose the right products."

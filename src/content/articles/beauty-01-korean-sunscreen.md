@@ -1,6 +1,6 @@
 ---
 title: "A Complete Guide to Korean Sunscreen: Why It's Changing the Global Skincare Game"
-date: "2026-05-27"
+date: "2025-06-05"
 category: "beauty"
 keywords: "sunscreen,skincare,beauty,cream"
 excerpt: "K-beauty sunscreens have redefined what daily sun protection feels like. Here's the science behind them, the best formulas, and how to choose."

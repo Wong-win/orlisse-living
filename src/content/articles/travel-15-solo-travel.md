@@ -1,5 +1,5 @@
 ---title: "Solo Travel: Everything You Need to Know Before You Go Alone"
-date: "2026-06-01"
+date: "2026-05-21"
 category: "travel"
 keywords: "solo,travel,alone,safety,tips"
 excerpt: "Traveling alone is one of the most rewarding experiences available to you. Here's how to do it safely, confidently, and enjoyably."

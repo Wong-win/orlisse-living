@@ -1,5 +1,5 @@
 ---title: "Budget Travel: How to See the World Without Going Broke"
-date: "2026-06-01"
+date: "2026-03-08"
 category: "travel"
 keywords: "budget,cheap,travel,money,save"
 excerpt: "Travel doesn't have to be expensive. Here's how to plan incredible trips on a budget, from flights to accommodation to food."

@@ -1,6 +1,6 @@
 ---
 title: "The Art of Layering: Mastering Transitional Dressing for Every Season"
-date: "2026-05-16"
+date: "2025-09-07"
 category: "fashion"
 keywords: "fashion,layering,outfit,coat"
 excerpt: "Layering is the most underrated skill in dressing well. Here's how to master the art -- from fabric weights to proportion play."

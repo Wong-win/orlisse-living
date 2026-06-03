@@ -1,6 +1,6 @@
 ---
 title: "Indoor Plants for Beginners: 10 Hard-to-Kill Houseplants and How to Care for Them"
-date: "2026-05-25"
+date: "2025-07-10"
 category: "home-garden"
 keywords: "houseplants,indoor,plant,green,leaf"
 excerpt: "You don't need a green thumb to keep these plants alive. Here are the most forgiving houseplants and the simple care they actually need."

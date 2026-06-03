@@ -1,5 +1,5 @@
 ---title: "Ingredient Spotlight: Hyaluronic Acid, Niacinamide, and Peptides Explained"
-date: "2026-06-01"
+date: "2026-03-03"
 category: "beauty"
 keywords: "ingredients,hyaluronic,niacinamide,peptide,skincare"
 excerpt: "These three ingredients appear in nearly every skincare product. Here's what they actually do, how they work, and how to use them."

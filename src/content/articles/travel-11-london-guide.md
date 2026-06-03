@@ -1,5 +1,5 @@
 ---title: "London Neighborhood Guide: Where to Stay, Eat, and Explore Like a Local"
-date: "2026-06-01"
+date: "2026-02-11"
 category: "travel"
 keywords: "london,england,neighborhood,guide,travel"
 excerpt: "London is a city of villages, each with a distinct personality. Here's your guide to the neighborhoods worth your time."

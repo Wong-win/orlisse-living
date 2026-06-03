@@ -1,5 +1,5 @@
 ---title: "The Psychology of Color in Fashion: What Your Clothes Say Before You Speak"
-date: "2026-06-01"
+date: "2026-05-11"
 category: "fashion"
 keywords: "color,psychology,fashion,meaning,wardrobe"
 excerpt: "Color communicates before words do. Here's how to use color intentionally in your wardrobe to influence how you're perceived — and how you feel."

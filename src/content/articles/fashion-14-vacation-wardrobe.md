@@ -1,5 +1,5 @@
 ---title: "Building the Perfect Vacation Wardrobe: What to Pack and How to Plan"
-date: "2026-06-01"
+date: "2026-04-16"
 category: "fashion"
 keywords: "vacation,packing,travel,outfit,resort"
 excerpt: "Don't pack your entire closet for a week away. Here's how to build a vacation wardrobe that's stylish, practical, and fits in a carry-on."

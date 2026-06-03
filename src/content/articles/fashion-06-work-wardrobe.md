@@ -1,5 +1,5 @@
 ---title: "How to Build a Work Wardrobe That Actually Feels Like You"
-date: "2026-05-30"
+date: "2025-10-01"
 category: "fashion"
 keywords: "professional outfit blazer office style clothing"
 excerpt: "Dressing for work doesn't mean abandoning your personality. Here's how to build a professional wardrobe that still feels authentically yours."

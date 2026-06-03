@@ -1,5 +1,5 @@
 ---title: "The Psychology of Home Decor: How Your Space Affects Your Mood"
-date: "2026-06-01"
+date: "2026-05-01"
 category: "home-garden"
 keywords: "psychology,decor,mood,design,interior"
 excerpt: "Your home isn't just where you live — it actively shapes how you feel. Here's the science of designing spaces that support wellbeing."

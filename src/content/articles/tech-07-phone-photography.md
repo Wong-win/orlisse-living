@@ -1,5 +1,5 @@
 ---title: "Smartphone Photography: How to Take Professional-Quality Photos With Your Phone"
-date: "2026-05-30"
+date: "2025-11-15"
 category: "technology"
 keywords: "smartphone camera photography taking photo outdoor"
 excerpt: "Modern phone cameras are remarkably capable. Here's how to take advantage of yours -- from composition to editing."

@@ -1,5 +1,5 @@
 ---title: "Paris Neighborhood Guide: Beyond the Tourist Trail to the Real City"
-date: "2026-05-31"
+date: "2025-12-24"
 category: "travel"
 keywords: "paris,france,neighborhood,travel,guide"
 excerpt: "The real Paris exists in its neighborhoods, far from the Eiffel Tower selfie crowds. Here's where to go for an authentic experience."

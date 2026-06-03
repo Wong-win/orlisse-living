@@ -1,5 +1,5 @@
 ---title: "Seasonal Wardrobe Transitions: Mastering the Art of Dressing Between Seasons"
-date: "2026-05-31"
+date: "2025-12-14"
 category: "fashion"
 keywords: "jacket,spring,fall,layering,transitional"
 excerpt: "The weeks between seasons are the hardest to dress for. Here's how to navigate the awkward gap with style and practicality."

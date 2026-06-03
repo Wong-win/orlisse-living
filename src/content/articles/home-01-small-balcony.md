@@ -1,6 +1,6 @@
 ---
 title: "How to Transform a Small Balcony Into a Green Sanctuary"
-date: "2026-05-28"
+date: "2025-06-15"
 category: "home-garden"
 keywords: "balcony,garden,plants,flowers,small"
 excerpt: "Even the tiniest outdoor space can become a lush retreat. Here's a step-by-step transformation guide for balconies of any size."

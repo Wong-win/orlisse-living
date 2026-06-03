@@ -1,6 +1,6 @@
 ---
 title: "Packing Light: A Complete Guide to Carry-On Only Travel for Any Trip Length"
-date: "2026-05-20"
+date: "2025-07-30"
 category: "travel"
 keywords: "luggage,packing,suitcase,travel,bag"
 excerpt: "Traveling with just a carry-on is liberating, efficient, and surprisingly achievable -- even for trips of two weeks or more. Here's the system."

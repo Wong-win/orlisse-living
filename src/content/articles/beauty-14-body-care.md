@@ -1,5 +1,5 @@
 ---title: "Body Care Is Skincare Too: The Complete Guide to Taking Care of Your Skin From the Neck Down"
-date: "2026-06-01"
+date: "2026-04-21"
 category: "beauty"
 keywords: "body,care,moisturizer,exfoliation,skin"
 excerpt: "Your face gets all the attention, but the skin on your body deserves care too. Here's a complete body care routine that's simple and effective."

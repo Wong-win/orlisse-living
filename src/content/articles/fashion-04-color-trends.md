@@ -1,6 +1,6 @@
 ---
 title: "Seasonal Color Trends 2026: What to Wear and How to Wear It"
-date: "2026-05-19"
+date: "2025-08-13"
 category: "fashion"
 keywords: "fashion,color,textile,fabric"
 excerpt: "This season's color palette is unusually wearable. From quiet luxury neutrals to surprisingly versatile brights, here's what's actually worth wearing."

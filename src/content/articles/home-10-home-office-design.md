@@ -1,5 +1,5 @@
 ---title: "How to Design a Home Office You'll Actually Want to Work In"
-date: "2026-05-31"
+date: "2026-01-23"
 category: "home-garden"
 keywords: "home,office,workspace,design,productive"
 excerpt: "A well-designed home office boosts focus, productivity, and even your mood. Here's how to create a workspace that works as hard as you do."

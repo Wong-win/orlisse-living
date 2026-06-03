@@ -1,5 +1,5 @@
 ---title: "The Complete Guide to Indoor Lighting Design for Every Room"
-date: "2026-06-01"
+date: "2026-02-16"
 category: "home-garden"
 keywords: "lighting,design,interior,lamp,fixture"
 excerpt: "Lighting is the most overlooked element of interior design. Here's how to light every room beautifully and functionally."

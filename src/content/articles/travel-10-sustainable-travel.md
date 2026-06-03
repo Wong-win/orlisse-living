@@ -1,5 +1,5 @@
 ---title: "How to Travel More Sustainably: Practical Tips That Actually Make a Difference"
-date: "2026-05-31"
+date: "2026-01-18"
 category: "travel"
 keywords: "sustainable,travel,eco,green,tourism"
 excerpt: "Sustainable travel doesn't mean staying home. Here are practical, evidence-based ways to reduce your impact without sacrificing the joy of exploration."

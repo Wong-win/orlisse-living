@@ -1,5 +1,5 @@
 ---title: "Dressing for Your Body Type: A Guide That Actually Makes Sense"
-date: "2026-06-01"
+date: "2026-02-01"
 category: "fashion"
 keywords: "body,type,fit,flattering,shape"
 excerpt: "Most body type dressing advice is outdated and reductive. Here's a smarter approach to dressing for your actual body — not a fruit shape."

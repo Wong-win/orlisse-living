@@ -1,5 +1,5 @@
 ---title: "Travel Photography: How to Capture Better Memories Without Ruining the Moment"
-date: "2026-06-01"
+date: "2026-04-26"
 category: "travel"
 keywords: "photography,travel,camera,tips,composition"
 excerpt: "Great travel photos don't require expensive gear. They require seeing differently. Here's how to take photos you'll actually want to look at later."

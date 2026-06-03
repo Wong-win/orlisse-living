@@ -1,6 +1,6 @@
 ---
 title: "Clean Beauty Decoded: Ingredients to Seek Out and What to Avoid"
-date: "2026-05-21"
+date: "2025-07-25"
 category: "beauty"
 keywords: "cosmetics,natural,beauty,organic"
 excerpt: "\"Clean beauty\" is one of the most confusing terms in skincare. We separate science from marketing to help you make informed choices."

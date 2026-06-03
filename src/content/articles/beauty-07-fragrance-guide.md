@@ -1,5 +1,5 @@
 ---title: "Fragrance 101: How to Find Your Signature Scent"
-date: "2026-05-30"
+date: "2025-10-31"
 category: "beauty"
 keywords: "perfume fragrance bottle luxury elegant scent"
 excerpt: "Finding a fragrance you love can be overwhelming. Here's a practical guide to understanding perfume notes, families, and how to find your match."

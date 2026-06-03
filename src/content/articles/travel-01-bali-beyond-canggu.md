@@ -1,6 +1,6 @@
 ---
 title: "Bali Beyond Canggu: Quiet Corners for the Discerning Traveler"
-date: "2026-05-26"
+date: "2025-06-10"
 category: "travel"
 keywords: "bali,travel,tropical,rice,terrace"
 excerpt: "Skip the beach clubs. These under-the-radar destinations offer a deeper, more refined Balinese experience."

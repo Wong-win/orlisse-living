@@ -1,6 +1,6 @@
 ---
 title: "The Slow Travel Movement: Why Doing Less Means Experiencing More"
-date: "2026-05-23"
+date: "2025-07-05"
 category: "travel"
 keywords: "travel,europe,street,cafe,village"
 excerpt: "The era of cramming 10 cities into 14 days is over. Here's why slow travel creates richer experiences -- and how to do it well."
