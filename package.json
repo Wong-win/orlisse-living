@@ -6,7 +6,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "postbuild": "git add -A && git commit -m \"Build: $(date '+%Y-%m-%d %H:%M')\" || true && git push || true",
+    "postbuild": "git add -A && git commit -m \"Build: $(date '+%Y-%m-%d %H:%M')\" || true && git push || true && npx wrangler deploy || true",
     "preview": "astro preview"
   },
   "dependencies": {
