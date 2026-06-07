@@ -8,108 +8,108 @@ excerpt: "La base d'un look elegant commence par des essentiels impeccables. Voi
 
 ![Wardrobe essentials laid flat on a wooden floor](https://images.unsplash.com/photo-1558769132-cb1aea458c5e)
 
-The foundation of any elevated look starts with impeccable basics. Trends come and go, but the pieces that ground your wardrobe -- the ones you reach for again and again -- define your personal style more than any statement piece ever could. An elevated basic isn't just a plain white T-shirt or a pair of jeans. It's a piece chosen with intention: better fabric, a considered cut, a detail that makes it feel special. The difference between a basic and an *elevated* basic is how it makes you feel when you put it on. It fits. It drapes. It lasts.
+La base de tout look elegant commence par des essentiels impeccables. Les tendances vont et viennent, mais les pieces qui ancrent votre garde-robe -- celles que vous attrapez encore et encore -- definissent votre style personnel bien plus que n'importe quelle piece forte. Un essentiel elegant n'est pas simplement un t-shirt blanc basique ou un jean ordinaire. C'est une piece choisie avec intention : un meilleur tissu, une coupe reflechie, un detail qui la rend speciale. La difference entre un basique et un basique *elegant*, c'est la sensation quand vous le portez. Il tombe bien. Il dure.
 
-We've spent months testing and wearing the foundational pieces that form the backbone of a modern wardrobe. What follows is a curated list of ten elevated basics, with guidance on what to look for, how to style them, and why each piece earns its place.
+Nous avons passe des mois a tester et a porter les pieces fondamentales qui constituent l'epine dorsale d'une garde-robe moderne. Ce qui suit est une selection de dix essentiels elegants, avec des conseils sur ce qu'il faut rechercher, comment les porter, et pourquoi chaque piece merite sa place.
 
-## The Philosophy of Elevated Basics
+## La philosophie des essentiels elegants
 
-Before diving into the list, it's worth understanding what separates an elevated basic from a run-of-the-mill one. It comes down to four factors: fabric quality, construction, fit, and versatility. A truly elevated basic should work across multiple contexts -- dressed up or down, layered or standalone, and across seasons. Each piece should be able to create at least five distinct outfits with items you already own.
+Avant de plonger dans la liste, il est important de comprendre ce qui separe un essentiel elegant d'un basique ordinaire. Cela se resume a quatre facteurs : la qualite du tissu, la construction, la coupe et la polyvalence. Un essentiel vraiment elegant doit fonctionner dans plusieurs contextes -- habille ou decontracte, superpose ou porte seul, et a travers les saisons. Chaque piece doit pouvoir creer au moins cinq tenues distinctes avec des articles que vous possedez deja.
 
-## 1. The Perfect White Shirt
+## 1. La chemise blanche parfaite
 
-Not all white shirts are created equal. Look for poplin or oxford cotton with some weight to it -- too thin and it reads cheap; too stiff and you'll feel like you're in a boardroom from 2005. The sweet spot is a relaxed but tailored cut, with a collar that stands up on its own.
+Toutes les chemises blanches ne se valent pas. Recherchez un coton popeline ou oxford avec un certain poids -- trop fin et il fait bon marche ; trop rigide et vous aurez l'impression d'etre dans une salle de conseil d'administration des annees 2000. Le juste milieu est une coupe decontractee mais ajustee, avec un col qui tient debout tout seul.
 
-**What to look for:** Medium-weight cotton, French seams, a collar with structure that doesn't collapse. Avoid anything with spandex or stretch -- a 100% cotton shirt will mold to your body over time and develop character with each wash.
+**Ce qu'il faut rechercher :** Du coton de poids moyen, des coutures francaises, un col structure qui ne s'effondre pas. Evitez tout ce qui contient de l'elastanne ou du stretch -- une chemise 100% coton epousera votre corps avec le temps et developpera du caractere a chaque lavage.
 
-**How to style it:** Wear it half-tucked into high-waisted trousers for a polished daytime look. Layer it under a crewneck cashmere sweater with the collar and cuffs peeking out. On weekends, knot it at the waist over a midi skirt. The white shirt is arguably the hardest-working piece in any wardrobe.
+**Comment la porter :** Rentree a moitie dans un pantalon taille haute pour un look de journee soigne. Superposee sous un pull en cachemire a col rond avec le col et les poignets qui depassent. Le week-end, nouee a la taille sur une jupe midi. La chemise blanche est sans doute la piece la plus travailleuse de toute garde-robe.
 
-## 2. High-Waisted Trousers in Wool Blend
+## 2. Pantalon taille haute en melange laine
 
-A pair of well-cut trousers in a neutral tone -- charcoal, camel, or cream -- works with literally everything. The wool blend gives you the polish of tailored pants without the dry-clean-only hassle. Look for a slightly wide leg that breaks just above the ankle.
+Un pantalon bien coupe dans un ton neutre -- anthracite, camel ou creme -- fonctionne avec absolument tout. Le melange de laine vous donne le poli d'un pantalon de tailleur sans les contraintes du nettoyage a sec exclusif. Recherchez une jambe legerement large qui s'arrete juste au-dessus de la cheville.
 
-**What to look for:** A blend of 50-70% wool with polyester or viscose for durability. Belt loops, side pockets, and a partially elasticated waistband at the back for comfort. The trouser should drape cleanly from the hip without pulling.
+**Ce qu'il faut rechercher :** Un melange de 50 a 70% de laine avec du polyester ou de la viscose pour la durabilite. Des passants de ceinture, des poches laterales et une taille partiellement elastiquee a l'arriere pour le confort. Le pantalon doit tomber proprement depuis la hanche sans tirer.
 
-**How to style it:** Wear them with sneakers and a knit on Saturday, with loafers and a silk camisole on Monday. They also work beautifully with a chunky turtleneck and ankle boots in cooler months.
+**Comment le porter :** Avec des baskets et un pull le samedi, avec des mocassins et un caraco en soie le lundi. Ils fonctionnent aussi magnifiquement avec un col roule epais et des bottines pendant les mois plus frais.
 
-## 3. A Cashmere Crewneck
+## 3. Un pull en cachemire a col rond
 
-One good cashmere sweater replaces five acrylic ones. Go for a classic crewneck in heather grey, navy, or camel. It layers under blazers, over button-downs, and works with jeans or trousers. The cost-per-wear math on this piece is unbeatable -- a well-cared-for cashmere sweater can last a decade.
+Un bon pull en cachemire remplace cinq pulls en acrylique. Optez pour un col rond classique en gris chine, marine ou camel. Il se superpose sous les blazers, sur les chemises boutonnees, et fonctionne avec un jean ou un pantalon de tailleur. Le calcul du cout par port de cette piece est imbattable -- un pull en cachemire bien entretenu peut durer une decennie.
 
-**What to look for:** Two-ply cashmere (not single-ply, which develops holes quickly). The knit should feel dense and springy, not thin and gauzy. Check the seams -- they should be flat and even.
+**Ce qu'il faut rechercher :** Du cachemire deux fils (pas un seul fil, qui se troue rapidement). La maille doit etre dense et elastique, pas fine et transparente. Verifiez les coutures -- elles doivent etre plates et regulieres.
 
-**How to style it:** Over a white shirt for the office, under a trench coat for transitional weather, or simply on its own with jeans for a quiet weekend look.
+**Comment le porter :** Sur une chemise blanche pour le bureau, sous un trench-coat pour les intersaisons, ou simplement seul avec un jean pour un look de week-end tranquille.
 
-## 4. A Structured Blazer (Unlined)
+## 4. Un blazer structure (non double)
 
-A blazer is the instant polish piece. But the wrong blazer looks corporate; the right one looks effortless. Go for an unlined or half-lined construction in a natural fiber -- linen for summer, lightweight wool for year-round, or a linen-cotton blend.
+Le blazer est la piece qui donne instantanement du poli. Mais le mauvais blazer fait costume d'entreprise ; le bon parait sans effort. Optez pour une construction non doublee ou semi-doublee en fibre naturelle -- lin pour l'ete, laine legere pour toute l'annee, ou un melange lin-coton.
 
-**What to look for:** Unlined construction so it drapes naturally rather than sitting stiffly on the shoulders. Notch lapel (more versatile than peak). Slightly extended shoulder but no padding. The sleeve should end at your wrist bone.
+**Ce qu'il faut rechercher :** Une construction non doublee pour qu'il tombe naturellement au lieu de rester raide sur les epaules. Un revers cran (plus polyvalent que le revers pointe). Une epaule legerement allongee mais sans rembourrage. La manche doit s'arreter a l'os du poignet.
 
-**How to style it:** Throw it over a white T-shirt and jeans for the easiest elevation trick in the book. Belt it over a midi dress. Wear it with matching trousers for occasions that call for a full suit.
+**Comment le porter :** Jetez-le sur un t-shirt blanc et un jean pour l'astuce d'elevation la plus simple qui soit. Ceinturez-le sur une robe midi. Portez-le avec un pantalon assorti pour les occasions qui demandent un costume complet.
 
-## 5. Straight-Leg Denim (Raw Hem)
+## 5. Jean droit (ourlet brut)
 
-Dark wash, no distressing, a raw hem for just enough edge. Straight-leg denim is the Goldilocks of jeans -- not too skinny, not too wide. It's the most universally flattering silhouette and works with every shoe from ballet flats to chunky boots.
+Lavage fonce, sans delavage, un ourlet brut pour juste assez de caractere. Le jean droit est le juste milieu des jeans -- ni trop skinny, ni trop large. C'est la silhouette la plus universellement flatteuse et elle fonctionne avec toutes les chaussures, des ballerines aux bottes epaisses.
 
-**What to look for:** 98-100% cotton denim (minimal stretch). A mid-to-high rise that hits at or just below the natural waist. The raw hem should look intentional, not like you cut them yourself with kitchen scissors.
+**Ce qu'il faut rechercher :** Denim 98 a 100% coton (stretch minimal). Une taille moyenne a haute qui arrive a la taille naturelle ou juste en dessous. L'ourlet brut doit sembler intentionnel, pas comme si vous l'aviez coupe vous-meme avec des ciseaux de cuisine.
 
-**How to style it:** Cuff them once to show an ankle with loafers. Wear them full-length with heeled boots. The raw hem adds just enough texture to keep the look current.
+**Comment le porter :** Faites un revers pour montrer la cheville avec des mocassins. Portez-les en longueur avec des bottes a talons. L'ourlet brut ajoute juste assez de texture pour garder le look actuel.
 
 ![Straight-leg denim styled with loafers and a blazer](https://images.unsplash.com/photo-1441984904996-e0b6ba687e04)
 
-## 6. A Silk Camisole
+## 6. Un caraco en soie
 
-The ultimate layering piece. A silk camisole works under a blazer for evening, under a cardigan for daytime, under a sheer blouse for modesty, or on its own in high summer. The key is choosing one with a subtle sheen -- not too shiny -- and adjustable straps.
+La piece de superposition ultime. Un caraco en soie fonctionne sous un blazer pour le soir, sous un cardigan pour la journee, sous un chemisier transparent pour la pudeur, ou seul en plein ete. La cle est d'en choisir un avec un brillant subtil -- pas trop brillant -- et des bretelles reglables.
 
-**What to look for:** 100% mulberry silk, preferably sand-washed for a matte finish and softer hand feel. Adjustable straps are non-negotiable. V-neck rather than a straight neckline -- it's more flattering on most body types.
+**Ce qu'il faut rechercher :** 100% soie de murier, de preference lavee au sable pour une finition mate et un toucher plus doux. Les bretelles reglables sont non negociables. Un col en V plutot qu'un col droit -- c'est plus flatteur sur la plupart des morphologies.
 
-**How to style it:** Tucked into high-waisted trousers with a blazer. Peeking out from under an oversized cardigan. Layered under a sheer organza blouse for texture play.
+**Comment le porter :** Rentre dans un pantalon taille haute avec un blazer. Depassant d'un cardigan surdimensionne. Superpose sous un chemisier en organza transparent pour un jeu de textures.
 
-## 7. A Leather Belt (Minimal Hardware)
+## 7. Une ceinture en cuir (quincaillerie minimale)
 
-A quiet, well-made leather belt pulls every outfit together. The best ones have buckles so minimal they're barely noticeable -- the focus should be on the leather itself. Choose a width that fits through your trouser belt loops and a color that matches your most-worn shoes.
+Une ceinture en cuir discrete et bien faite unit chaque tenue. Les meilleures ont des boucles si minimales qu'elles sont a peine visibles -- l'attention doit etre portee sur le cuir lui-meme. Choisissez une largeur qui passe dans les passants de votre pantalon et une couleur qui s'accorde avec vos chaussures les plus portees.
 
-**What to look for:** Full-grain vegetable-tanned leather. It will develop a patina over time that's unique to how you wear it. The buckle should be solid brass or stainless steel, not plated metal that will chip.
+**Ce qu'il faut rechercher :** Cuir pleine fleur tanne vegetal. Il developpera une patine unique au fil du temps selon la facon dont vous le portez. La boucle doit etre en laiton massif ou en acier inoxydable, pas en metal plaque qui s'ecaillera.
 
-**How to style it:** Thread it through jeans, cinch a blazer at the waist, or use it to define the waist on an oversized dress.
+**Comment la porter :** Enfilez-la dans un jean, ceinturez un blazer a la taille, ou utilisez-la pour definir la taille sur une robe ample.
 
-## 8. Loafers in Brown Leather
+## 8. Mocassins en cuir marron
 
-Comfortable enough for all-day wear, polished enough for dinner. Brown leather loafers have been a cornerstone of effortless style since their introduction, and they've never really gone away. The horsebit or penny loafer silhouette is the most timeless.
+Confortables pour une journee entiere, assez soignes pour le diner. Les mocassins en cuir marron sont une pierre angulaire du style sans effort depuis leur introduction, et ils n'ont jamais vraiment disparu. La silhouette a mors ou a penny est la plus intemporelle.
 
-**What to look for:** Goodyear-welted or Blake-stitched construction -- this means they can be resoled. The leather should be full-grain calfskin. A slightly almond-shaped toe is more current than a fully round or pointed one.
+**Ce qu'il faut rechercher :** Construction cousue Goodyear ou Blake -- cela signifie qu'ils peuvent etre ressemeles. Le cuir doit etre en veau pleine fleur. Un bout legerement en amande est plus actuel qu'un bout rond ou pointu.
 
-**How to style it:** With cropped trousers and a bare ankle. With straight-leg jeans and a blazer. With a midi skirt and a tucked-in T-shirt. Loafers work in almost every context except formal evening events.
+**Comment le porter :** Avec un pantalon crop et la cheville nue. Avec un jean droit et un blazer. Avec une jupe midi et un t-shirt rentre. Les mocassins fonctionnent dans presque tous les contextes, sauf les evenements de soiree formels.
 
-## 9. A Gold-Tone Necklace (Simple)
+## 9. Un collier dore (simple)
 
-One piece of everyday jewelry that becomes a signature. A simple gold-tone chain, a small pendant, or a delicate locket -- something you never take off. It should be light enough that you forget you're wearing it but substantial enough that it doesn't feel flimsy.
+Un bijou de tous les jours qui devient une signature. Une simple chaine doree, un petit pendentif ou un medaillon delicat -- quelque chose que vous n'enlevez jamais. Il doit etre assez leger pour oublier que vous le portez mais assez substantiel pour ne pas sembler fragile.
 
-**What to look for:** Gold-filled or solid gold rather than plated -- it won't tarnish with daily wear. A chain length of 16-18 inches sits at the most versatile spot on the collarbone.
+**Ce qu'il faut rechercher :** Or rempli ou or massif plutot que plaque -- il ne ternira pas avec le port quotidien. Une chaine de 40 a 45 cm se situe a l'endroit le plus polyvalent sur la clavicule.
 
-**How to style it:** Wear it alone for a minimalist look, or layer it with one or two other delicate chains of different lengths. It should work with a T-shirt neckline and a formal dress equally well.
+**Comment le porter :** Portez-le seul pour un look minimaliste, ou superposez-le avec une ou deux autres chaines delicates de differentes longueurs. Il doit fonctionner aussi bien avec un col de t-shirt qu'avec une robe de soiree.
 
-## 10. White Leather Sneakers
+## 10. Baskets en cuir blanc
 
-Clean, unbranded, goes with everything from jeans to midi skirts. White leather sneakers are the footwear equivalent of a white T-shirt -- they're a blank canvas that lets the rest of your outfit do the talking. Keep them clean (a damp cloth after each wear does the job), and they'll serve you for years.
+Propres, sans marque, vont avec tout, des jeans aux jupes midi. Les baskets en cuir blanc sont l'equivalent chaussant du t-shirt blanc -- une toile vierge qui laisse le reste de votre tenue parler. Gardez-les propres (un chiffon humide apres chaque port suffit) et elles vous serviront pendant des annees.
 
-**What to look for:** Full-grain white leather (not synthetic, which cracks and yellows). Minimal branding -- ideally none visible. A slim sole rather than a chunky one. Removable insoles so you can replace them.
+**Ce qu'il faut rechercher :** Cuir blanc pleine fleur (pas de synthetique, qui se craquelle et jaunit). Marquage minimal -- idealement aucun visible. Une semelle fine plutot qu'epaisse. Des semelles interieures amovibles pour pouvoir les remplacer.
 
 ![Clean white sneakers paired with tailored trousers](https://images.unsplash.com/photo-1490481651871-ab68de25d43d)
 
-**How to style it:** With everything. Tailored trousers, jeans, midi dresses, shorts, linen suits. The only rule is to keep them clean -- scuffed white sneakers undo the elevation you're aiming for.
+**Comment le porter :** Avec tout. Pantalon de tailleur, jean, robes midi, shorts, costumes en lin. La seule regle est de les garder propres -- des baskets blanches usees annulent l'elegance que vous recherchez.
 
-## How to Build This Wardrobe
+## Comment construire cette garde-robe
 
-Don't buy all ten at once. Start with the pieces that fill real gaps in your current wardrobe. A good rule of thumb: if you can't make at least five new outfits with a piece using what you already own, hold off.
+N'achetez pas les dix d'un coup. Commencez par les pieces qui comblent de vraies lacunes dans votre garde-robe actuelle. Une bonne regle generale : si vous ne pouvez pas creer au moins cinq nouvelles tenues avec une piece en utilisant ce que vous possedez deja, attendez.
 
-The order we'd suggest:
-1. **Start with denim and white sneakers** -- highest wear frequency, instant impact
-2. **Add the white shirt and cashmere crewneck** -- foundational layering pieces
-3. **Trousers and blazer** -- for polish when you need it
-4. **Accessories last** -- the belt, loafers, necklace, and camisole are the finishing touches
+L'ordre que nous suggerons :
+1. **Commencez par le denim et les baskets blanches** -- frequence de port la plus elevee, impact immediat
+2. **Ajoutez la chemise blanche et le cachemire a col rond** -- pieces fondamentales de superposition
+3. **Pantalon et blazer** -- pour le poli quand vous en avez besoin
+4. **Les accessoires en dernier** -- la ceinture, les mocassins, le collier et le caraco sont les finitions
 
-A wardrobe of elevated basics isn't boring -- it's the canvas that lets your personality show through. The statement earrings, the vintage scarf, the bold lip color: all of that works better when the foundation is calm, considered, and truly yours.
+Une garde-robe d'essentiels elegants n'est pas ennuyeuse -- c'est la toile qui permet a votre personnalite de s'exprimer. Les boucles d'oreilles affirmées, le foulard vintage, le rouge a levres vif : tout cela fonctionne mieux quand la fondation est calme, reflechie et vraiment la votre.
 
-The real test of an elevated basic is how you feel when you put it on. If you find yourself adjusting, tugging, or fussing with a piece throughout the day, it's not the right one. The best basics are the ones you forget you're wearing -- because they're doing their job so well.
+Le vrai test d'un essentiel elegant est ce que vous ressentez quand vous le portez. Si vous vous surprenez a ajuster, tirer ou tripoter une piece tout au long de la journee, ce n'est pas la bonne. Les meilleurs essentiels sont ceux que vous oubliez que vous portez -- parce qu'ils font leur travail si bien.
