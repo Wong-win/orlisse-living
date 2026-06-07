@@ -1,5 +1,5 @@
 ---
-title: "The Best Productivity Apps for a More Organized Life in 2026"
+title: "Les meilleures applications de productivite pour une vie plus organisee"
 date: "2025-07-15"
 category: "technology"
 keywords: "apps,phone,digital,notion,calendar"

@@ -1,4 +1,5 @@
----title: "How to Travel More Sustainably: Practical Tips That Actually Make a Difference"
+---
+title: "Comment voyager plus durablement : des conseils pratiques qui font la difference"
 date: "2026-01-18"
 category: "travel"
 keywords: "sustainable,travel,eco,green,tourism"

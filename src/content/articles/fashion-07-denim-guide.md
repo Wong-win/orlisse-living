@@ -1,4 +1,5 @@
----title: "Le guide ultime du denim : coupes, lavages et entretien"
+---
+title: "Le guide ultime du denim : coupes, lavages et entretien"
 date: "2025-10-26"
 category: "fashion"
 keywords: "denim jeans casual fashion style fabric"

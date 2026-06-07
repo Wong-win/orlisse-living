@@ -1,5 +1,5 @@
 ---
-title: "The Science of Skincare: Building Your Perfect AM/PM Routine"
+title: "La science des soins de la peau : construire votre routine matin et soir"
 date: "2025-06-30"
 category: "beauty"
 keywords: "skincare,beauty,serum,cream"

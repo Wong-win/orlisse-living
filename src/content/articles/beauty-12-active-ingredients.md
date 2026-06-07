@@ -1,4 +1,5 @@
----title: "Ingredient Spotlight: Hyaluronic Acid, Niacinamide, and Peptides Explained"
+---
+title: "Gros plan sur les ingredients : acide hyaluronique, niacinamide et peptides"
 date: "2026-03-03"
 category: "beauty"
 keywords: "ingredients,hyaluronic,niacinamide,peptide,skincare"

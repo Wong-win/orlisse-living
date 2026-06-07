@@ -1,4 +1,5 @@
----title: "The Complete Room-by-Room Guide to Decluttering Your Home"
+---
+title: "Le guide complet du desencombrement piece par piece"
 date: "2025-12-29"
 category: "home-garden"
 keywords: "declutter,organize,home,cleaning,minimal"

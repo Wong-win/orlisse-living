@@ -1,4 +1,5 @@
----title: "How to Design a Home Office You'll Actually Want to Work In"
+---
+title: "Comment concevoir un bureau a domicile ou vous aurez envie de travailler"
 date: "2026-01-23"
 category: "home-garden"
 keywords: "home,office,workspace,design,productive"

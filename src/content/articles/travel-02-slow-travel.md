@@ -1,5 +1,5 @@
 ---
-title: "The Slow Travel Movement: Why Doing Less Means Experiencing More"
+title: "Le mouvement du voyage lent : pourquoi faire moins signifie vivre plus"
 date: "2025-07-05"
 category: "travel"
 keywords: "travel,europe,street,cafe,village"

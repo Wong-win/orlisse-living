@@ -1,4 +1,5 @@
----title: "Paris Neighborhood Guide: Beyond the Tourist Trail to the Real City"
+---
+title: "Guide des quartiers de Paris : au-dela des sentiers touristiques"
 date: "2025-12-24"
 category: "travel"
 keywords: "paris,france,neighborhood,travel,guide"

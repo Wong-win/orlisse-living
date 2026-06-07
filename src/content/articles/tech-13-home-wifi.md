@@ -1,4 +1,5 @@
----title: "Home Wi-Fi Explained: How to Fix Your Internet Problems Once and For All"
+---
+title: "Le Wi-Fi domestique explique : comment resoudre vos problemes"
 date: "2026-04-11"
 category: "technology"
 keywords: "wifi,internet,router,mesh,speed"

@@ -1,4 +1,5 @@
----title: "Sunscreen Myths Debunked: What the Science Actually Says About Sun Protection"
+---
+title: "Les mythes sur la creme solaire demystifies : ce que dit vraiment la science"
 date: "2025-12-19"
 category: "beauty"
 keywords: "sunscreen,protection,UV,skincare,science"

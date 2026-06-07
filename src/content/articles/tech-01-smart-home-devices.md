@@ -1,5 +1,5 @@
 ---
-title: "Smart Home Devices Worth Actually Buying in 2026"
+title: "Appareils connectes qui valent vraiment l'achat en 2026"
 date: "2025-06-20"
 category: "technology"
 keywords: "smart,home,speaker,thermostat,device"

@@ -1,4 +1,5 @@
----title: "Tokyo Neighborhood Guide: Where to Stay and What to Explore"
+---
+title: "Guide des quartiers de Tokyo : ou sejourner et quoi explorer"
 date: "2025-10-11"
 category: "travel"
 keywords: "tokyo japan city street urban travel"

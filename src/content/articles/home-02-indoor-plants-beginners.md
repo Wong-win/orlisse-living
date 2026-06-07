@@ -1,5 +1,5 @@
 ---
-title: "Indoor Plants for Beginners: 10 Hard-to-Kill Houseplants and How to Care for Them"
+title: "Plantes d'interieur pour debutants : 10 plantes increvables"
 date: "2025-07-10"
 category: "home-garden"
 keywords: "houseplants,indoor,plant,green,leaf"

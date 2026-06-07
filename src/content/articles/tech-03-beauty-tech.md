@@ -1,5 +1,5 @@
 ---
-title: "Beauty Tech: Are High-Tech Skincare Tools Worth the Investment?"
+title: "Technologie beaute : les appareils high-tech valent-ils l'investissement ?"
 date: "2025-08-08"
 category: "technology"
 keywords: "beauty,device,technology,led,skincare"

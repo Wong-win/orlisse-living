@@ -1,4 +1,5 @@
----title: "How to Choose Paint Colors for Every Room: A Practical Guide"
+---
+title: "Comment choisir les couleurs de peinture pour chaque piece"
 date: "2025-12-04"
 category: "home-garden"
 keywords: "paint color swatches interior wall design home"

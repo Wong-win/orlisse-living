@@ -1,5 +1,5 @@
 ---
-title: "Travel Photography Gear Guide: What to Pack (and What to Leave Behind)"
+title: "Guide de l'equipement photo de voyage : quoi emporter"
 date: "2025-09-02"
 category: "technology"
 keywords: "camera,photography,lens,travel,gear"

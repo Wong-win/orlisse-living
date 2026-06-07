@@ -1,4 +1,5 @@
----title: "Construire une garde-robe minimaliste : la qualité avant la quantité"
+---
+title: "Construire une garde-robe minimaliste : la qualité avant la quantité"
 date: "2026-01-08"
 category: "fashion"
 keywords: "minimalist,wardrobe,capsule,quality,basics"

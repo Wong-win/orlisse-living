@@ -1,5 +1,5 @@
 ---
-title: "LED Face Masks Review: Do At-Home Light Therapy Devices Actually Work?"
+title: "Test des masques LED : les appareils de therapie par lumiere a domicile fonctionnent-ils ?"
 date: "2025-08-18"
 category: "beauty"
 keywords: "led,mask,face,beauty,light"

@@ -1,4 +1,5 @@
----title: "The Complete Guide to Double Cleansing: Why It Works and How to Do It Right"
+---
+title: "Le guide complet du double nettoyage : pourquoi ca marche et comment bien le faire"
 date: "2026-01-13"
 category: "beauty"
 keywords: "cleansing,skincare,oil,balm,routine"

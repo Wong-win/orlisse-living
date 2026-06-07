@@ -1,4 +1,5 @@
----title: "Understanding Skin Types: How to Know What You Actually Have and Why It Matters"
+---
+title: "Comprendre les types de peau : comment savoir ce que vous avez vraiment"
 date: "2026-05-16"
 category: "beauty"
 keywords: "skin,type,oily,dry,combination"

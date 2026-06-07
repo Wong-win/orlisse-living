@@ -1,5 +1,5 @@
 ---
-title: "Bali Beyond Canggu: Quiet Corners for the Discerning Traveler"
+title: "Bali au-dela de Canggu : coins tranquilles pour le voyageur exigeant"
 date: "2025-06-10"
 category: "travel"
 keywords: "bali,travel,tropical,rice,terrace"

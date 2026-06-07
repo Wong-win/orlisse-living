@@ -1,4 +1,5 @@
----title: "AI in Everyday Life: What Actually Matters for Regular People in 2026"
+---
+title: "L'IA au quotidien : ce qui compte vraiment pour les gens normaux"
 date: "2026-05-31"
 category: "technology"
 keywords: "AI,artificial,intelligence,chatgpt,tools"

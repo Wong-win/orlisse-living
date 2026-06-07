@@ -1,4 +1,5 @@
----title: "Smartwatch Buying Guide 2026: Which One Is Right for You?"
+---
+title: "Guide d'achat des montres connectees 2026 : laquelle choisir ?"
 date: "2026-02-21"
 category: "technology"
 keywords: "smartwatch,apple,watch,samsung,garmin,fitness"

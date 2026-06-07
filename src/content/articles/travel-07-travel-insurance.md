@@ -1,4 +1,5 @@
----title: "Travel Insurance Explained: Do You Really Need It and How to Choose"
+---
+title: "L'assurance voyage expliquee : en avez-vous vraiment besoin ?"
 date: "2025-11-05"
 category: "travel"
 keywords: "passport airport documents travel security"

@@ -1,4 +1,5 @@
----title: "Les accessoires qui subliment : comment bijoux, sacs et foulards transforment une tenue"
+---
+title: "Les accessoires qui subliment : comment bijoux, sacs et foulards transforment une tenue"
 date: "2025-11-20"
 category: "fashion"
 keywords: "gold jewelry accessories necklace handbag flatlay"

@@ -1,4 +1,5 @@
----title: "The Best Free Software and Apps Worth Using in 2026"
+---
+title: "Les meilleurs logiciels et applications gratuits qui valent le coup"
 date: "2026-03-18"
 category: "technology"
 keywords: "free,software,apps,tools,productivity"

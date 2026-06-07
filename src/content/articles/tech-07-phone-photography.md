@@ -1,4 +1,5 @@
----title: "Smartphone Photography: How to Take Professional-Quality Photos With Your Phone"
+---
+title: "Photographie au smartphone : comment prendre des photos de qualite pro"
 date: "2025-11-15"
 category: "technology"
 keywords: "smartphone camera photography taking photo outdoor"

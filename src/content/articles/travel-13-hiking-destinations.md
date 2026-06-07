@@ -1,4 +1,5 @@
----title: "The Best Hiking Destinations for Every Skill Level in 2026"
+---
+title: "Les meilleures destinations de randonnee pour tous les niveaux"
 date: "2026-04-01"
 category: "travel"
 keywords: "hiking,outdoor,nature,trails,mountains"

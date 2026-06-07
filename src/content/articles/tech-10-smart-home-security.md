@@ -1,4 +1,5 @@
----title: "Smart Home Security: What's Actually Worth Installing in 2026"
+---
+title: "Securite residentielle connectee : ce qui vaut vraiment l'installation"
 date: "2026-01-28"
 category: "technology"
 keywords: "security,camera,doorbell,smart,home"

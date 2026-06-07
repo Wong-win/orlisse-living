@@ -1,4 +1,5 @@
----title: "Travel Photography: How to Capture Better Memories Without Ruining the Moment"
+---
+title: "Photographie de voyage : comment capturer de meilleurs souvenirs"
 date: "2026-04-26"
 category: "travel"
 keywords: "photography,travel,camera,tips,composition"

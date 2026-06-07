@@ -1,5 +1,5 @@
 ---
-title: "Packing Light: A Complete Guide to Carry-On Only Travel for Any Trip Length"
+title: "Voyager leger : guide complet pour voyager avec un seul bagage a main"
 date: "2025-07-30"
 category: "travel"
 keywords: "luggage,packing,suitcase,travel,bag"

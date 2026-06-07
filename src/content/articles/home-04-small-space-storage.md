@@ -1,5 +1,5 @@
 ---
-title: "Smart Storage Solutions for Small Spaces: Ideas That Actually Work"
+title: "Solutions de rangement intelligentes pour petits espaces"
 date: "2025-08-28"
 category: "home-garden"
 keywords: "storage,organization,shelves,closet,home"

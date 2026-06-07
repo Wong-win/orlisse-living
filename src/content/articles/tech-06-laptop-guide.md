@@ -1,4 +1,5 @@
----title: "Laptop Buying Guide 2026: How to Choose the Right One for Your Needs"
+---
+title: "Guide d'achat d'ordinateur portable 2026 : comment choisir le bon"
 date: "2025-10-21"
 category: "technology"
 keywords: "laptop computer desk modern technology workspace"

@@ -1,4 +1,5 @@
----title: "The Science of Moisturizers: Creams, Gels, Lotions, and Balms Explained"
+---
+title: "La science des hydratants : cremes, gels et lotions expliques"
 date: "2026-02-06"
 category: "beauty"
 keywords: "moisturizer,cream,gel,lotion,skincare"

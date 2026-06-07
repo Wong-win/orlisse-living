@@ -1,4 +1,5 @@
----title: "Comment construire une garde-robe professionnelle qui vous ressemble"
+---
+title: "Comment construire une garde-robe professionnelle qui vous ressemble"
 date: "2025-10-01"
 category: "fashion"
 keywords: "professional outfit blazer office style clothing"

@@ -1,4 +1,5 @@
----title: "The Beginner's Guide to Growing Herbs Indoors Year-Round"
+---
+title: "Guide du debutant pour cultiver des herbes aromatiques en interieur"
 date: "2025-11-10"
 category: "home-garden"
 keywords: "herbs plants kitchen windowsill basil indoor garden"

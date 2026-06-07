@@ -1,4 +1,5 @@
----title: "The Beginner's Guide to Retinol: How to Start Without Irritation"
+---
+title: "Le guide du retinol pour debutants : comment commencer sans irritation"
 date: "2025-10-06"
 category: "beauty"
 keywords: "skincare serum bottle product beauty cosmetic"

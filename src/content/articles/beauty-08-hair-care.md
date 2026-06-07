@@ -1,4 +1,5 @@
----title: "Hair Care Routines for Every Hair Type: A Practical Guide"
+---
+title: "Routines capillaires pour chaque type de cheveux : un guide pratique"
 date: "2025-11-25"
 category: "beauty"
 keywords: "hair brush beauty care products routine styling"

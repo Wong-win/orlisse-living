@@ -1,4 +1,5 @@
----title: "La psychologie des couleurs dans la mode : ce que vos vêtements disent avant que vous ne parliez"
+---
+title: "La psychologie des couleurs dans la mode : ce que vos vêtements disent avant que vous ne parliez"
 date: "2026-05-11"
 category: "fashion"
 keywords: "color,psychology,fashion,meaning,wardrobe"

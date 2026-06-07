@@ -1,5 +1,5 @@
 ---
-title: "Seasonal Skincare Transitions: How to Adapt Your Routine for Every Season"
+title: "Transitions saisonnieres des soins : adapter votre routine a chaque saison"
 date: "2025-09-12"
 category: "beauty"
 keywords: "skincare,seasonal,moisturizer,beauty"

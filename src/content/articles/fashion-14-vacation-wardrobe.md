@@ -1,4 +1,5 @@
----title: "La garde-robe de vacances parfaite : quoi emporter et comment planifier"
+---
+title: "La garde-robe de vacances parfaite : quoi emporter et comment planifier"
 date: "2026-04-16"
 category: "fashion"
 keywords: "vacation,packing,travel,outfit,resort"

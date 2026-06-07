@@ -1,5 +1,5 @@
 ---
-title: "Apartment Composting: The Complete Beginner's Guide to Composting Indoors"
+title: "Le compostage en appartement : guide complet pour composter a l'interieur"
 date: "2025-09-22"
 category: "home-garden"
 keywords: "compost,soil,garden,organic,worms"

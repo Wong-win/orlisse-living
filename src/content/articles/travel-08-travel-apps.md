@@ -1,4 +1,5 @@
----title: "The Best Travel Apps for Planning Your Next Trip in 2026"
+---
+title: "Les meilleures applications de voyage pour planifier votre prochain voyage"
 date: "2025-11-30"
 category: "travel"
 keywords: "smartphone mobile map travel planning navigation"

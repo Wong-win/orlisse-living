@@ -1,5 +1,5 @@
 ---
-title: "Where to Stay in Kyoto: The Best Boutique Hotels and Ryokan for Design Lovers"
+title: "Ou sejourner a Kyoto : les meilleurs hotels-boutiques et ryokans"
 date: "2025-08-23"
 category: "travel"
 keywords: "kyoto,japan,ryokan,garden,hotel"

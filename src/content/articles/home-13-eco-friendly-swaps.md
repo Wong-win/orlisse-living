@@ -1,4 +1,5 @@
----title: "Eco-Friendly Home Swaps That Actually Make a Difference"
+---
+title: "Alternatives ecologiques pour la maison qui font vraiment la difference"
 date: "2026-04-06"
 category: "home-garden"
 keywords: "eco,friendly,sustainable,home,swaps"

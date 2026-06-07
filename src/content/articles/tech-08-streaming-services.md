@@ -1,4 +1,5 @@
----title: "The Best Streaming Services Compared: What's Actually Worth Your Money in 2026"
+---
+title: "Les meilleurs services de streaming compares : ce qui vaut vraiment votre argent"
 date: "2025-12-09"
 category: "technology"
 keywords: "television tv streaming entertainment media living room"

@@ -1,4 +1,5 @@
----title: "Comment acheter vintage et seconde main comme un pro"
+---
+title: "Comment acheter vintage et seconde main comme un pro"
 date: "2026-03-23"
 category: "fashion"
 keywords: "vintage,secondhand,thrift,shopping,sustainable"

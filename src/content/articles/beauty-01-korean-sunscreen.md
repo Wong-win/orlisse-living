@@ -1,5 +1,5 @@
 ---
-title: "A Complete Guide to Korean Sunscreen: Why It's Changing the Global Skincare Game"
+title: "Guide complet des ecrans solaires coreens : pourquoi ils changent la donne"
 date: "2025-06-05"
 category: "beauty"
 keywords: "sunscreen,skincare,beauty,cream"

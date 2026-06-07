@@ -1,4 +1,5 @@
----title: "London Neighborhood Guide: Where to Stay, Eat, and Explore Like a Local"
+---
+title: "Guide des quartiers de Londres : ou sejourner, manger et explorer"
 date: "2026-02-11"
 category: "travel"
 keywords: "london,england,neighborhood,guide,travel"

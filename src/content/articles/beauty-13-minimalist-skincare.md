@@ -1,4 +1,5 @@
----title: "How to Build a Minimalist Skincare Routine That Actually Works"
+---
+title: "Comment construire une routine de soins minimaliste qui fonctionne vraiment"
 date: "2026-03-28"
 category: "beauty"
 keywords: "minimalist,skincare,routine,simple,essentials"

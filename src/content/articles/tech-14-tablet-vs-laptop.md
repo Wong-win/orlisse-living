@@ -1,4 +1,5 @@
----title: "Tablet vs. Laptop: Which One Do You Actually Need?"
+---
+title: "Tablette ou portable : lequel avez-vous vraiment besoin ?"
 date: "2026-05-06"
 category: "technology"
 keywords: "tablet,laptop,comparison,ipad,computer"

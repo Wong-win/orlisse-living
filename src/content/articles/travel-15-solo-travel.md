@@ -1,4 +1,5 @@
----title: "Solo Travel: Everything You Need to Know Before You Go Alone"
+---
+title: "Voyager seul : tout ce que vous devez savoir avant de partir"
 date: "2026-05-21"
 category: "travel"
 keywords: "solo,travel,alone,safety,tips"

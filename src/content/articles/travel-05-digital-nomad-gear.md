@@ -1,5 +1,5 @@
 ---
-title: "The Modern Digital Nomad's Gear Guide: What to Pack and What to Skip"
+title: "Le guide de l'equipement du nomade numerique moderne"
 date: "2025-09-17"
 category: "travel"
 keywords: "laptop,workspace,remote,office,cafe"

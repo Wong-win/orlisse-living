@@ -1,5 +1,5 @@
 ---
-title: "The Modern Home Office: Ergonomic and Aesthetic Tech Picks for Your Workspace"
+title: "Le bureau a domicile moderne : equipements ergonomiques et esthetiques"
 date: "2025-09-27"
 category: "technology"
 keywords: "office,desk,workspace,computer,chair"

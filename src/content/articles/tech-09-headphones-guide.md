@@ -1,4 +1,5 @@
----title: "The Best Noise-Canceling Headphones Compared: What's Worth Your Money in 2026"
+---
+title: "Les meilleurs casques a reduction de bruit compares"
 date: "2026-01-03"
 category: "technology"
 keywords: "headphones,noise,canceling,audio,wireless"

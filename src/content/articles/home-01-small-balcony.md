@@ -1,5 +1,5 @@
 ---
-title: "How to Transform a Small Balcony Into a Green Sanctuary"
+title: "Comment transformer un petit balcon en sanctuaire de verdure"
 date: "2025-06-15"
 category: "home-garden"
 keywords: "balcony,garden,plants,flowers,small"

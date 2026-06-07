@@ -1,5 +1,5 @@
 ---
-title: "Clean Beauty Decoded: Ingredients to Seek Out and What to Avoid"
+title: "La beaute propre decodee : ingredients a rechercher et a eviter"
 date: "2025-07-25"
 category: "beauty"
 keywords: "cosmetics,natural,beauty,organic"

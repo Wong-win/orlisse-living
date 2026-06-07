@@ -1,4 +1,5 @@
----title: "How to Create a Cozy Reading Nook in Any Room"
+---
+title: "Comment creer un coin lecture douillet dans n'importe quelle piece"
 date: "2025-10-16"
 category: "home-garden"
 keywords: "armchair reading corner cozy lamp blanket books"
