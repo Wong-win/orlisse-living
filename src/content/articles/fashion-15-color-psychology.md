@@ -1,8 +1,8 @@
----title: "The Psychology of Color in Fashion: What Your Clothes Say Before You Speak"
+---title: "La psychologie des couleurs dans la mode : ce que vos vêtements disent avant que vous ne parliez"
 date: "2026-05-11"
 category: "fashion"
 keywords: "color,psychology,fashion,meaning,wardrobe"
-excerpt: "Color communicates before words do. Here's how to use color intentionally in your wardrobe to influence how you're perceived — and how you feel."
+excerpt: "La couleur communique avant les mots. Voici comment utiliser la couleur intentionnellement dans votre garde-robe."
 ---
 ![fashion-15-color-psychology cover](https://images.unsplash.com/photo-1538837138777-2e85e1f9e92a)
 Before anyone registers the cut of your jacket or the brand of your shoes, they register color. Color is the first thing the human eye perceives, processed by the brain in a fraction of a second, and it carries meaning whether you intend it to or not. A red dress communicates something fundamentally different from a navy suit, even if both are impeccably tailored. Understanding how color works — psychologically, culturally, and personally — gives you a tool for intentional self-presentation that costs nothing and transforms how you're perceived.

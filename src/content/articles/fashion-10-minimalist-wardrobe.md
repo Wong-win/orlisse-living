@@ -1,8 +1,8 @@
----title: "Building a Minimalist Wardrobe: Quality Over Quantity, Without Sacrificing Joy"
+---title: "Construire une garde-robe minimaliste : la qualité avant la quantité"
 date: "2026-01-08"
 category: "fashion"
 keywords: "minimalist,wardrobe,capsule,quality,basics"
-excerpt: "A minimalist wardrobe isn't about deprivation — it's about surrounding yourself only with pieces you genuinely love and wear. Here's how to build one."
+excerpt: "Une garde-robe minimaliste n'est pas une privation — c'est s'entourer uniquement de pièces que l'on aime vraiment."
 ---
 ![fashion-10-minimalist-wardrobe cover](https://images.unsplash.com/photo-1624222244232-5f1ae13bbd53)
 The word "minimalist" in fashion conjures images of stark white rooms, five beige items on a rail, and the vague suggestion that you should feel morally superior for owning less. This version of minimalism is off-putting for good reason: it ignores the joy, creativity, and self-expression that clothing can provide.

@@ -1,9 +1,9 @@
 ---
-title: "Seasonal Color Trends 2026: What to Wear and How to Wear It"
+title: "Tendances couleurs de la saison : quoi porter et comment le porter"
 date: "2025-08-13"
 category: "fashion"
 keywords: "fashion,color,textile,fabric"
-excerpt: "This season's color palette is unusually wearable. From quiet luxury neutrals to surprisingly versatile brights, here's what's actually worth wearing."
+excerpt: "La palette de cette saison est exceptionnellement portable. Des neutres luxueux aux couleurs vives étonnamment polyvalentes."
 ---
 
 ![Fabric swatches in trending seasonal colors](https://images.unsplash.com/photo-1624516268152-1e48624026ed)

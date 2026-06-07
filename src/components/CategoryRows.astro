@@ -3,18 +3,18 @@ import { getCollection } from "astro:content";
 import imageMap from "../content/image-map.json";
 
 const categories = [
-  { slug: "fashion", name: "Fashion", desc: "Style, trends, and wardrobe inspiration" },
-  { slug: "beauty", name: "Beauty", desc: "Skincare, makeup, and routines" },
-  { slug: "travel", name: "Travel", desc: "Destinations, guides, and gear" },
-  { slug: "home-garden", name: "Home & Garden", desc: "Interiors, plants, and living well" },
-  { slug: "technology", name: "Technology", desc: "Smart living, gadgets, and productivity" },
+  { slug: "fashion", name: "Mode", desc: "Style, tendances et inspiration vestimentaire" },
+  { slug: "beauty", name: "Beauté", desc: "Soins de la peau, maquillage et routines" },
+  { slug: "travel", name: "Voyage", desc: "Destinations, guides et équipement" },
+  { slug: "home-garden", name: "Maison & Jardin", desc: "Intérieurs, plantes et art de vivre" },
+  { slug: "technology", name: "Technologie", desc: "Vie connectée, gadgets et productivité" },
 ];
 
 const allArticles = await getCollection("articles");
 ---
 
 <section class="category-rows">
-  <p class="section-label">Explore by Category</p>
+  <p class="section-label">Explorer par catégorie</p>
 
   {categories.map(cat => {
     const catArticles = allArticles
@@ -29,7 +29,7 @@ const allArticles = await getCollection("articles");
             <h2 class="cat-row-name">{cat.name}</h2>
             <p class="cat-row-desc">{cat.desc}</p>
           </div>
-          <a href={`/${cat.slug}`} class="cat-row-more">View all →</a>
+          <a href={`/${cat.slug}`} class="cat-row-more">Tout voir →</a>
         </div>
         <div class="cat-row-track">
           {catArticles.map(article => (

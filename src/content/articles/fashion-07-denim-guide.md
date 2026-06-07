@@ -1,8 +1,8 @@
----title: "The Ultimate Guide to Denim: Fits, Washes, and How to Care for Your Jeans"
+---title: "Le guide ultime du denim : coupes, lavages et entretien"
 date: "2025-10-26"
 category: "fashion"
 keywords: "denim jeans casual fashion style fabric"
-excerpt: "Finding the right pair of jeans can feel impossible. Here's a comprehensive guide to denim fits, washes, and care that actually makes sense."
+excerpt: "Trouver le jean parfait peut sembler impossible. Voici un guide complet des coupes, lavages et soins du denim."
 ---
 ![fashion-07-denim-guide cover](https://images.unsplash.com/photo-1713880442898-0f151fba5e16)
 Few items of clothing inspire as much frustration as jeans. The fitting room experience -- piling a dozen pairs over your arm, steeling yourself for the fluorescent-lit confrontation, then rejecting all of them -- is a near-universal rite of passage. It's not your body that's the problem. It's the jeans. Finding the right pair is hard because denim involves multiple variables that interact in unpredictable ways: rise, leg shape, fabric weight, stretch content, wash, and brand-specific sizing that rarely aligns across manufacturers.

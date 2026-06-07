@@ -1,8 +1,8 @@
----title: "How to Shop Vintage and Secondhand Like a Pro"
+---title: "Comment acheter vintage et seconde main comme un pro"
 date: "2026-03-23"
 category: "fashion"
 keywords: "vintage,secondhand,thrift,shopping,sustainable"
-excerpt: "Vintage shopping is the best way to build a unique, high-quality wardrobe on a budget. Here's how to do it right."
+excerpt: "Le shopping vintage est la meilleure façon de construire une garde-robe unique et de qualité avec un budget limité."
 ---
 ![fashion-13-vintage-shopping cover](https://images.unsplash.com/photo-1768145488790-185e20abfd08)
 Vintage and secondhand shopping has transformed from a niche hobby into a mainstream way of building a wardrobe. The reasons are straightforward: better quality for the price, unique pieces no one else will be wearing, and the environmental benefit of extending a garment's life rather than buying new. Some of the most stylish people in fashion buy almost exclusively secondhand — not because they have to, but because the character and quality of vintage clothing cannot be replicated by mass production.

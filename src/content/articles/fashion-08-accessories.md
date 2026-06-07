@@ -1,8 +1,8 @@
----title: "Accessories That Elevate: How Jewelry, Bags, and Scarves Transform Any Outfit"
+---title: "Les accessoires qui subliment : comment bijoux, sacs et foulards transforment une tenue"
 date: "2025-11-20"
 category: "fashion"
 keywords: "gold jewelry accessories necklace handbag flatlay"
-excerpt: "The right accessory can transform a basic outfit into something memorable. Here's how to choose, wear, and collect pieces that earn their place."
+excerpt: "Le bon accessoire peut transformer une tenue basique en quelque chose de mémorable. Voici comment choisir et porter les pièces qui comptent."
 ---
 ![fashion-08-accessories cover](https://images.unsplash.com/photo-1586878341340-1971696a9b71)
 A white T-shirt and jeans is a blank canvas. Add a gold chain necklace and a leather belt, and suddenly it's an outfit. Swap the gold chain for a silk scarf tied at the neck, and it's a different outfit entirely. That's the power of accessories: they're the cheapest, most space-efficient way to transform existing clothes into new looks. The same white shirt can read as preppy, minimalist, bohemian, or polished -- depending entirely on what you put with it.

@@ -1,8 +1,8 @@
----title: "Building the Perfect Vacation Wardrobe: What to Pack and How to Plan"
+---title: "La garde-robe de vacances parfaite : quoi emporter et comment planifier"
 date: "2026-04-16"
 category: "fashion"
 keywords: "vacation,packing,travel,outfit,resort"
-excerpt: "Don't pack your entire closet for a week away. Here's how to build a vacation wardrobe that's stylish, practical, and fits in a carry-on."
+excerpt: "N'emportez pas tout votre placard pour une semaine. Voici comment construire une garde-robe de voyage stylée et pratique."
 ---
 ![fashion-14-vacation-wardrobe cover](https://images.unsplash.com/photo-1526857240824-92be52581d9b)
 The most common vacation packing mistake is also the most predictable: packing for the person you wish you were on vacation rather than the person you actually are. The sequined dress for the club night that never happens. The heels for the fancy dinner that turns out to be a casual beachfront restaurant. The three "just in case" outfits that occupy half your suitcase and return home unworn.

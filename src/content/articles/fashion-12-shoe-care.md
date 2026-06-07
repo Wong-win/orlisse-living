@@ -1,8 +1,8 @@
----title: "The Complete Guide to Shoe Care: Make Your Shoes Last a Lifetime"
+---title: "Le guide complet de l'entretien des chaussures : faites durer vos souliers toute une vie"
 date: "2026-02-26"
 category: "fashion"
 keywords: "shoes,leather,care,polish,maintenance"
-excerpt: "Well-maintained shoes last years longer than neglected ones. Here's a complete guide to caring for every type of footwear you own."
+excerpt: "Des chaussures bien entretenues durent des années de plus. Voici comment prendre soin de chaque type de chaussure."
 ---
 ![fashion-12-shoe-care cover](https://images.unsplash.com/photo-1533867617858-e7b97e060509)
 Good shoes are an investment, and like any investment, they require maintenance to retain their value. A pair of $300 leather boots, properly cared for, can last a decade or more. The same boots, neglected, might need replacing in two years. The economics are straightforward: twenty minutes of shoe care per month saves hundreds of dollars in premature replacement costs.

@@ -11,19 +11,19 @@ export async function getStaticPaths() {
 const categorySlug = Astro.params.category;
 
 const categoryNames: Record<string, string> = {
-  "fashion": "Fashion",
-  "beauty": "Beauty",
-  "travel": "Travel",
-  "home-garden": "Home & Garden",
-  "technology": "Technology",
+  "fashion": "Mode",
+  "beauty": "Beauté",
+  "travel": "Voyage",
+  "home-garden": "Maison & Jardin",
+  "technology": "Technologie",
 };
 
 const categoryDescriptions: Record<string, string> = {
-  "fashion": "Style, trends, wardrobe curation, and outfit inspiration for every occasion.",
-  "beauty": "Skincare, makeup, ingredient deep-dives, tools, and daily routines.",
-  "travel": "Destinations, guides, hotels, airlines, and travel gear for the modern explorer.",
-  "home-garden": "Interior inspiration, renovations, small-space solutions, gardening, and cleaning tools.",
-  "technology": "Consumer electronics, smart home, beauty tech, travel gadgets, and productivity tools.",
+  "fashion": "Style, tendances, garde-robe et inspiration pour chaque occasion.",
+  "beauty": "Soins, maquillage, ingrédients, outils et routines quotidiennes.",
+  "travel": "Destinations, guides, hôtels, compagnies aériennes et équipement de voyage pour l'explorateur moderne.",
+  "home-garden": "Inspiration intérieure, rénovations, solutions petits espaces, jardinage et outils d'entretien.",
+  "technology": "Électronique grand public, maison connectée, technologie beauté, gadgets de voyage et outils de productivité.",
 };
 
 const name = categoryNames[categorySlug] || categorySlug;

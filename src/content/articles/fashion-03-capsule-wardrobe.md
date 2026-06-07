@@ -1,9 +1,9 @@
 ---
-title: "The Capsule Wardrobe Reimagined: 30 Pieces, Infinite Outfits"
+title: "La garde-robe capsule réinventée : 30 pièces, des tenues infinies"
 date: "2025-07-20"
 category: "fashion"
 keywords: "capsule,wardrobe,minimal,closet"
-excerpt: "Forget the restrictive rules of traditional capsule wardrobes. Here's how to build a flexible, personal collection of 30 pieces that truly works."
+excerpt: "Oubliez les règles restrictives des garde-robes capsules traditionnelles. Voici comment construire une collection flexible de 30 pièces."
 ---
 
 ![A curated selection of clothing in neutral and accent tones](https://images.unsplash.com/photo-1558769132-cb1aea458c5e)

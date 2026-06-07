@@ -1,8 +1,8 @@
----title: "Dressing for Your Body Type: A Guide That Actually Makes Sense"
+---title: "S'habiller selon sa morphologie : un guide qui a vraiment du sens"
 date: "2026-02-01"
 category: "fashion"
 keywords: "body,type,fit,flattering,shape"
-excerpt: "Most body type dressing advice is outdated and reductive. Here's a smarter approach to dressing for your actual body — not a fruit shape."
+excerpt: "La plupart des conseils morphologiques sont dépassés et réducteurs. Voici une approche plus intelligente."
 ---
 ![fashion-11-body-type-dressing cover](https://images.unsplash.com/photo-1605296867724-fa87a8ef53fd)
 The traditional body type framework — you're an apple, a pear, an hourglass, or a rectangle — was designed in the 1950s by the fashion industry to simplify pattern-making, not to help women dress better. It reduces complex, individual bodies to four crude categories and then prescribes rules based on those categories: wear this to hide your hips, avoid that to minimize your shoulders, never wear horizontal stripes if you're X. The result is a set of restrictions that make getting dressed feel like an exercise in damage control rather than creative expression.

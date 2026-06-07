@@ -1,9 +1,9 @@
 ---
-title: "The Art of Layering: Mastering Transitional Dressing for Every Season"
+title: "L'art de la superposition : maîtriser l'habillage de transition"
 date: "2025-09-07"
 category: "fashion"
 keywords: "fashion,layering,outfit,coat"
-excerpt: "Layering is the most underrated skill in dressing well. Here's how to master the art -- from fabric weights to proportion play."
+excerpt: "La superposition est la compétence la plus sous-estimée pour bien s'habiller. Voici comment maîtriser cet art."
 ---
 
 ![Layered outfits on a rack showing different textures and lengths](https://images.unsplash.com/photo-1514813836041-518668f092b1)

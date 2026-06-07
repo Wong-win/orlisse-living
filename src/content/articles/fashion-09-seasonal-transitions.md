@@ -1,8 +1,8 @@
----title: "Seasonal Wardrobe Transitions: Mastering the Art of Dressing Between Seasons"
+---title: "Transitions de garde-robe saisonnières : l'art de s'habiller entre les saisons"
 date: "2025-12-14"
 category: "fashion"
 keywords: "jacket,spring,fall,layering,transitional"
-excerpt: "The weeks between seasons are the hardest to dress for. Here's how to navigate the awkward gap with style and practicality."
+excerpt: "Les semaines entre les saisons sont les plus difficiles à habiller. Voici comment naviguer cette période avec style."
 ---
 ![fashion-09-seasonal-transitions cover](https://images.unsplash.com/photo-1621774404932-6c1016051fa5)
 The hardest weeks of the year to get dressed are not the depths of winter or the peak of summer. They're the in-between weeks — when the calendar says spring but the weather insists on winter, or when autumn arrives but summer refuses to leave. These transitional periods expose every weakness in a wardrobe: the coat that's too heavy, the dress that's too light, the shoes that are wrong for either possibility.

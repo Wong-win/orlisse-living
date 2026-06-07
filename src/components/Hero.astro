@@ -7,19 +7,19 @@ articles.sort((a, b) => b.data.date.localeCompare(a.data.date));
 const featured = articles.slice(0, 10);
 
 const catNames: Record<string, string> = {
-  "fashion": "Fashion",
-  "beauty": "Beauty",
-  "travel": "Travel",
-  "home-garden": "Home & Garden",
-  "technology": "Technology",
+  "fashion": "Mode",
+  "beauty": "Beauté",
+  "travel": "Voyage",
+  "home-garden": "Maison & Jardin",
+  "technology": "Technologie",
 };
 ---
 
 <section class="hero">
   <div class="hero-inner">
     <div class="hero-header">
-      <span class="hero-label">Editor's Picks</span>
-      <span class="hero-scroll-hint">Scroll →</span>
+      <span class="hero-label">Sélection de l'éditeur</span>
+      <span class="hero-scroll-hint">Défiler →</span>
     </div>
   </div>
   <div class="hero-track-wrapper">
