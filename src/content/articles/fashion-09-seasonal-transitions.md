@@ -1,8 +1,8 @@
----title: "Seasonal Wardrobe Transitions: Mastering the Art of Dressing Between Seasons"
+---title: "Transitions de garde-robe saisonnieres : l'art de s'habiller entre les saisons"
 date: "2025-12-14"
 category: "fashion"
 keywords: "jacket,spring,fall,layering,transitional"
-excerpt: "The weeks between seasons are the hardest to dress for. Here's how to navigate the awkward gap with style and practicality."
+excerpt: "Les semaines entre les saisons sont les plus difficiles a habiller. Voici comment naviguer cette periode avec style."
 ---
 
 ![Layered outfits on a rack showing different textures and lengths](https://images.unsplash.com/photo-1556905055-8f358a7a47b2)

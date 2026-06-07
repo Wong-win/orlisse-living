@@ -1,8 +1,8 @@
----title: "How to Build a Work Wardrobe That Actually Feels Like You"
+---title: "Comment construire une garde-robe professionnelle qui vous ressemble"
 date: "2025-10-01"
 category: "fashion"
 keywords: "professional outfit blazer office style clothing"
-excerpt: "Dressing for work doesn't mean abandoning your personality. Here's how to build a professional wardrobe that still feels authentically yours."
+excerpt: "S'habiller pour le travail ne signifie pas abandonner sa personnalite. Voici comment construire une garde-robe pro authentique."
 ---
 
 ![A curated work wardrobe showing personality and professionalism](https://images.unsplash.com/photo-1664195455972-53827f75bad4)

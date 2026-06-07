@@ -1,8 +1,8 @@
----title: "Accessories That Elevate: How Jewelry, Bags, and Scarves Transform Any Outfit"
+---title: "Les accessoires qui subliment : comment bijoux, sacs et foulards transforment une tenue"
 date: "2025-11-20"
 category: "fashion"
 keywords: "gold jewelry accessories necklace handbag flatlay"
-excerpt: "The right accessory can transform a basic outfit into something memorable. Here's how to choose, wear, and collect pieces that earn their place."
+excerpt: "Le bon accessoire peut transformer une tenue basique en quelque chose de memorable."
 ---
 
 ![A thoughtful arrangement of accessories on a marble surface](https://images.unsplash.com/photo-1631050165122-626a1377fbce)

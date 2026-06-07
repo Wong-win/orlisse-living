@@ -1,8 +1,8 @@
----title: "Dressing for Your Body Type: A Guide That Actually Makes Sense"
+---title: "S'habiller selon sa morphologie : un guide qui a vraiment du sens"
 date: "2026-02-01"
 category: "fashion"
 keywords: "body,type,fit,flattering,shape"
-excerpt: "Most body type dressing advice is outdated and reductive. Here's a smarter approach to dressing for your actual body — not a fruit shape."
+excerpt: "La plupart des conseils morphologiques sont depasses. Voici une approche plus intelligente."
 ---
 ![A flattering outfit showing proportion play](https://images.unsplash.com/photo-1552579964-ca321c5c8651)
 
