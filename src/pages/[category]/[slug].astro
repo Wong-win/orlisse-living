@@ -24,7 +24,7 @@ const categoryName = data.category.replace("-", " & ").replace(/\b\w/g, (c: stri
     </p>
     <h1>{data.title}</h1>
     <p class="article-meta">
-      Published on {new Date(data.date).toLocaleDateString("en-US", {
+      Publié le {new Date(data.date).toLocaleDateString("fr-FR", {
         year: "numeric",
         month: "long",
         day: "numeric",

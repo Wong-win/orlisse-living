@@ -28,7 +28,7 @@ const catNames: Record<string, string> = {
         <a href={`/${article.data.category}/${article.slug}`} class="hero-card">
           <div class="hero-card-image">
             <img
-              src={(imageMap as any)[article.slug]?.[3] || (imageMap as any)[article.slug]?.[0] || `https://picsum.photos/seed/${article.slug}/640/853`}
+              src={(imageMap as any)[article.slug]?.[2] || (imageMap as any)[article.slug]?.[0] || `https://picsum.photos/seed/${article.slug}/640/853`}
               alt={article.data.title}
               loading="lazy"
               width="640"
