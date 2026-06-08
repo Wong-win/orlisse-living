@@ -40,3 +40,12 @@ Le voyage en solo inclut inevitablement des moments de solitude. C'est normal. S
 Commencez par une destination facile avec une excellente infrastructure touristique, un anglais repandu et une reputation de securite. Le Japon, le Portugal, les Pays-Bas, la Nouvelle-Zelande et l'Islande sont d'excellents premiers voyages en solo. Reservez vos deux premieres nuits a l'avance -- savoir ou vous dormez a l'arrivee elimine la variable la plus stressante. Planifiez une activite par jour -- un seul point d'ancrage donne une structure sans sur-planifier. Apportez un livre ou un journal -- les moments entre les activites sont quand le voyage en solo semble le plus solitaire. Ces objets rendent ces moments intentionnels.
 
 Le voyage en solo n'est pas pour tout le monde, et il n'est pas pour tous les voyages. Mais il est pour plus de gens que ceux qui l'essayent reellement, et la peur qui empeche les gens de partir seuls s'avere presque toujours plus grande dans l'anticipation que dans la realite.
+## Les benefices de voyager seul
+
+Liberte complete. Vous decidez ou aller, quand vous reveiller, quoi manger, quand repartir. Il n'y a ni negociation ni compromis. Cette liberte est enivrante et, une fois experimentee, rend le voyage en groupe contraignant par comparaison.
+
+Plus d'interactions avec les habitants et les autres voyageurs. Un couple ou un groupe est une unite fermee -- les gens sont moins susceptibles de vous approcher. Un voyageur solo est abordable. Vous aurez plus de conversations avec des inconnus, plus d'invitations spontanees et plus d'interactions authentiques que vous n'en auriez jamais en voyageant avec d'autres.
+
+Autonomie. Quand quelque chose ne va pas -- et quelque chose va toujours mal -- vous le reglez vous-meme. Train rate, portefeuille perdu, mauvais hotel : ce sont des problemes que vous gerez, et les gerer construit une confiance tranquille qui persiste longtemps apres la fin du voyage.
+
+Vous apprenez qui vous etes quand personne ne regarde. Cela semble cliche parce que c'est vrai. Voyager seul depouille les roles que vous jouez a la maison et vous laisse avec vous-meme. Certaines personnes trouvent cela inconfortable les premiers jours, puis liberateur. L'inconfort fait partie du processus.
