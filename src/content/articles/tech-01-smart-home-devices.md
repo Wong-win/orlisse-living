@@ -43,3 +43,5 @@ Une serrure connectee elimine l'anxiete de se demander si on a bien ferme la por
 ## Ce qu'il faut eviter
 
 Refrigerateur intelligent, petit electromenager connecte (votre friteuse a air n'a pas besoin d'une application), jardin connecte de comptoir, bouteille d'eau connectee. La regle d'or : une maison connectee doit s'effacer dans le decor. Commencez par une enceinte et quelques prises. Ajoutez un thermostat si vous etes proprietaire. Ajoutez un aspirateur robot si vous avez des sols durs. Et puis arretez-vous.
+
+![Smart home device](https://images.unsplash.com/photo-1545259741-2ea3ebf61fa3)
