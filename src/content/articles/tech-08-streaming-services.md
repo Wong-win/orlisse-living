@@ -69,3 +69,19 @@ Cette rotation coute environ 17-34 euros par mois (deux services sans publicite)
 ## L'essentiel
 
 L'industrie du streaming est passee de tueur du cable a cable 2.0 -- chere, fragmentee et concue pour vous garder abonne toute l'annee par inertie plutot que par choix intentionnel. La seule facon de gagner en tant que consommateur est de traiter le streaming comme un buffet tournant plutot qu'une collection permanente. Abonnez-vous, regardez ce que vous voulez, resiliez et passez a autre chose. Les services comptent sur votre oubli de resilier. Ne leur faites pas ce plaisir.
+
+## Les services de niche qui valent le coup
+
+Au-dela des geants, quelques services de niche meritent d'etre consideres. **Criterion Channel (11 euros/mois) :** Pour les cinephiles serieux. La collection la plus complete de films classiques et etrangers disponible en streaming, avec des bonus organises par theme, realisateur et mouvement. Si vous aimez le cinema comme forme d'art plutot que comme divertissement, c'est le meilleur rapport qualite-prix du streaming. **MUBI (13 euros/mois) :** Un film par jour, trente films par mois, selectionnes par des conservateurs humains. Le modele est l'oppose de Netflix -- la curation sur l'abondance. Excellent pour decouvrir du cinema independant et etranger.
+
+## Les services a eviter
+
+**Peacock :** Sauf si vous etes un fan inconditionnel de The Office ou de la WWE, il y a peu de contenu exclusif qui justifie un abonnement. La version gratuite avec publicite est suffisante pour un visionnage occasionnel. **ESPN+ :** Ne diffuse pas les evenements ESPN principaux -- c'est un service complementaire, pas un remplacement d'ESPN. Utile uniquement pour les sports de niche (UFC, soccer, certains sports universitaires). **Discovery+ :** La majeure partie de son contenu a ete fusionnee dans Max. En tant que service autonome, il est redondant. **AMC+ :** Une bibliotheque trop reduite pour justifier son prix, a moins d'etre specifiquement interesse par les series AMC comme The Walking Dead ou Interview with the Vampire.
+
+## Quand resilier
+
+Le conseil le plus important en matiere de streaming : resiliez le jour meme de votre inscription. Vous conservez l'acces pour la periode payee, mais vous ne serez pas facture automatiquement le mois suivant. Si vous voulez continuer, vous pouvez toujours vous reabonner en trente secondes. Si vous oubliez, vous avez deja resilie. Cette simple habitude vous fera economiser des centaines d'euros par an en abonnements oublies. Les entreprises de streaming misent sur votre inertie. La resiliation immediate est la contre-mesure la plus efficace.
+
+## L'essentiel
+
+L'industrie du streaming est passee de tueur du cable a cable 2.0 -- chere, fragmentee, et concue pour vous garder abonne toute l'annee par inertie. La seule facon de gagner est de traiter le streaming comme un buffet tournant. Abonnez-vous, regardez, resiliez, passez au suivant.
