@@ -3,101 +3,71 @@ date: "2025-11-10"
 category: "home-garden"
 keywords: "herbs plants kitchen windowsill basil indoor garden"
 excerpt: "Les herbes fraiches subliment tous les plats. Voici comment les cultiver chez vous."
----
-![home-07-growing-herbs cover](https://images.unsplash.com/photo-1536777206078-5e694d16c678)
-Fresh herbs are the single most cost-effective thing you can grow at home. A bunch of basil at the grocery store costs $3-4 and wilts in your refrigerator within days. A basil plant costs $4-5 and produces leaves for months. The math is inescapable -- and the experience of snipping fresh herbs while cooking, rather than guiltily retrieving a plastic clamshell of slimy greens from the back of the fridge, is one of life's small, reliable pleasures.
+---![home-07-growing-herbs cover](https://images.unsplash.com/photo-1536777206078-5e694d16c678)
 
-Growing herbs indoors is easier than most people think. You don't need a garden, a green thumb, or any prior experience. You need a windowsill, a few pots, some potting soil, and the willingness to water consistently. Here's everything you need to know.
+Les herbes fraiches sont la chose la plus rentable que vous puissiez cultiver a la maison. Un bouquet de basilic a l'epicerie coute 3-4 euros et fane dans votre refrigerateur en quelques jours. Un plant de basilic coute 4-5 euros et produit des feuilles pendant des mois. Le calcul est incontestable -- et l'experience de couper des herbes fraiches en cuisinant, plutot que de recuperer d'un air coupable une barquette en plastique de verdure visqueuse au fond du frigo, est l'un des petits plaisirs fiables de la vie.
 
-## Choosing Your Herbs
+Cultiver des herbes a l'interieur est plus facile que la plupart des gens ne le pensent. Vous n'avez pas besoin d'un jardin, d'avoir la main verte ou d'une experience prealable. Vous avez besoin d'un rebord de fenetre, de quelques pots, de terreau et de la volonte d'arroser regulierement. Voici tout ce que vous devez savoir pour commencer.
 
-Not all herbs thrive indoors. Some require more light than a typical windowsill provides; others grow too large for indoor containers. Start with herbs that are proven to succeed indoors:
+## Choisir ses herbes
 
-### The Easy Starter Kit
+Toutes les herbes ne prosperent pas a l'interieur. Certaines necessitent plus de lumiere qu'un rebord de fenetre typique ne peut en fournir ; d'autres deviennent trop grandes pour des contenants d'interieur. Commencez avec des herbes dont le succes a l'interieur est avere.
 
-**Basil:** The most rewarding indoor herb. Basil germinates quickly from seed (5-10 days), grows fast, and produces abundantly. It needs warmth and at least 4-6 hours of direct sunlight daily. Pinch off flowers as soon as they appear -- once basil flowers, the leaves become bitter and the plant declines.
+### Le kit de demarrage facile
 
-**Mint:** Virtually unkillable. Mint grows in almost any light condition and spreads aggressively. Always grow mint in its own pot -- never with other herbs, as it will overtake them. Spearmint and peppermint are the most versatile for cooking and tea.
+**Le basilic :** L'herbe d'interieur la plus gratifiante. Le basilic germe rapidement a partir de graines (5-10 jours), pousse vite et produit abondamment. Il a besoin de chaleur et d'au moins 4 a 6 heures de soleil direct par jour. Pincez les fleurs des qu'elles apparaissent -- une fois que le basilic fleurit, les feuilles deviennent ameres et la plante decline.
 
-**Chives:** Low-maintenance and forgiving. Chives tolerate lower light than most herbs and regrow quickly after cutting. They produce edible purple flowers in spring that look beautiful and taste mildly oniony.
+**La menthe :** Pratiquement increvable. La menthe pousse dans presque toutes les conditions de lumiere et se propage de maniere agressive. Cultivez toujours la menthe dans son propre pot -- jamais avec d'autres herbes, car elle les envahira. La menthe verte et la menthe poivree sont les plus polyvalentes pour la cuisine et les infusions.
 
-**Parsley (flat-leaf):** Reliable and productive. Flat-leaf (Italian) parsley has better flavor than curly parsley and grows well in a sunny window. It's a biennial -- it'll produce leaves for two years before going to seed.
+**La ciboulette :** Peu d'entretien et indulgente. La ciboulette tolere une lumiere plus faible que la plupart des herbes et repousse rapidement apres la coupe. Elle produit des fleurs violettes comestibles au printemps.
 
-**Thyme:** Compact, drought-tolerant, and aromatic. Thyme thrives on neglect -- it prefers to dry out between waterings and doesn't need fertilizer. English thyme and lemon thyme are both excellent indoor choices.
+**Le persil (plat) :** Fiable et productif. Le persil plat (italien) a une meilleure saveur que le persil frise et pousse bien dans une fenetre ensoleillee.
 
-### Herbs to Avoid Indoors
+**Le thym :** Compact, resistant a la secheresse et aromatique. Le thym prospere dans la negligence -- il prefere secher entre les arrosages et n'a pas besoin d'engrais.
 
-**Cilantro:** Bolts (goes to seed) extremely quickly indoors unless you have perfect conditions. The window for harvesting is frustratingly short.
+### Herbes a eviter a l'interieur
 
-**Dill:** Grows tall and leggy indoors, requiring more light than most windowsills provide. It's better suited to outdoor growing.
+**La coriandre :** Monte en graines extremement rapidement a l'interieur. **L'aneth :** Pousse haut et grele a l'interieur. **Le romarin :** Exige une lumiere tres elevee et une excellente circulation d'air -- possible uniquement avec une fenetre plein sud tres lumineuse.
 
-**Rosemary:** Demands very high light and excellent air circulation. It's prone to powdery mildew indoors. If you have a very bright south-facing window, it's possible; otherwise, skip it.
+## Les essentiels : lumiere, eau, sol, contenants
 
-## The Essentials: Light, Water, Soil, Containers
+### La lumiere
 
-### Light
+La lumiere est le facteur limitant pour les herbes d'interieur. La plupart des herbes culinaires sont originaires de la Mediterranee et ont evolue pour prosperer en plein soleil. Une fenetre orientee au nord est insuffisante ; une fenetre a l'est fonctionne pour la ciboulette, la menthe et le persil ; une fenetre au sud ou a l'ouest est ideale pour le basilic, le thym et le romarin. Signes de lumiere insuffisante : tiges greles et etirees, feuilles pales ou jaunissantes, croissance lente et saveur faible. Eclairage d'appoint : si vous n'avez pas de fenetre ensoleillee, une lampe de culture LED est la solution. Une simple lampe a pince (25-40 euros) positionnee a 15-30 cm au-dessus des plantes, sur un programmateur de 12-14 heures par jour, est suffisante.
 
-Light is the limiting factor for indoor herbs. Most culinary herbs are native to the Mediterranean and evolved to thrive in full sun. A north-facing window is insufficient for most herbs; an east-facing window works for chives, mint, and parsley; a south or west-facing window is ideal for basil, thyme, and rosemary.
+### L'eau
 
-**Signs of insufficient light:** Leggy, stretched stems reaching toward the window, pale or yellowing leaves, slow growth, and weak flavor. If your herbs show these signs, they need more light.
+L'exces d'arrosage tue plus d'herbes d'interieur que toute autre cause. Regle generale : arrosez quand les 2-3 cm superieurs du sol sont secs au toucher. Enfoncez votre doigt dans le sol -- s'il est humide, n'arrosez pas. Arrosez le matin, arrosez le sol pas les feuilles, utilisez toujours des pots avec des trous de drainage. Besoins differents : le basilic aime une humidite constante, le thym et le romarin preferent secher entre les arrosages.
 
-**Supplemental lighting:** If you don't have a sunny window, an LED grow light is the solution. A simple clip-on grow light ($25-40) positioned 15-30cm (6-12 inches) above the plants, on a timer for 12-14 hours daily, is sufficient for most indoor herb gardens. Modern LED grow lights are energy-efficient (costing pennies per day to run) and don't produce excessive heat.
-
-### Water
-
-Overwatering kills more indoor herbs than any other cause. The general rule: water when the top 2-3cm (about 1 inch) of soil is dry to the touch. Stick your finger in the soil -- if it feels moist, don't water.
-
-**Watering tips:**
-- Water in the morning so excess moisture evaporates during the day
-- Water the soil, not the leaves (wet leaves encourage fungal disease)
-- Always use pots with drainage holes -- herbs sitting in waterlogged soil will develop root rot
-- Different herbs have different needs: basil likes consistent moisture, thyme and rosemary prefer to dry out between waterings
-
-### Soil
-
-Use a high-quality potting mix, not garden soil. Garden soil is too heavy for containers, compacts over time, and may introduce pests. Potting mix is lighter, drains better, and is sterilized to prevent disease.
-
-For Mediterranean herbs (thyme, rosemary, oregano), add about 20% perlite or coarse sand to the potting mix to improve drainage. These herbs are adapted to rocky, well-draining soils and suffer in heavy, moisture-retentive mixes.
-
-### Containers
-
-Any pot with drainage holes works. Terra cotta (clay) pots are excellent for herbs because they're porous -- they wick excess moisture away from the roots and help prevent overwatering. Plastic and glazed ceramic pots work too but require more attention to watering frequency.
-
-**Size matters:** A 15-20cm (6-8 inch) diameter pot is adequate for most individual herbs. Basil, which grows quickly and has a larger root system, benefits from a slightly larger pot (20-25cm / 8-10 inches).
-
-## Starting From Seed vs. Buying Seedlings
-
-**Starting from seed ($2-4 per packet):** Cheaper, more satisfying, and gives you access to a wider variety of herbs. Basil, chives, parsley, and cilantro grow easily from seed. Start seeds in small pots, keep the soil consistently moist (not wet), and expect germination within 1-2 weeks.
-
-**Buying seedlings ($4-6 per plant):** Easier and faster. This is the better option for slow-growing herbs like rosemary and thyme, and for anyone who wants an instant herb garden. Supermarket herb plants are often overcrowded -- repot them into a larger pot with fresh soil as soon as you get home.
-
-## Harvesting for Continued Growth
 ![Detail](https://images.unsplash.com/photo-1776604965126-86eed56418b9)
 
+### Le sol
 
-How you harvest determines how your herbs grow:
+Utilisez un terreau de qualite, pas de la terre de jardin. Pour les herbes mediterraneennes (thym, romarin, origan), ajoutez environ 20% de perlite ou de sable grossier au terreau pour ameliorer le drainage.
 
-**Pinch from the top.** For basil, mint, and other leafy herbs, pinch off the top set of leaves just above a leaf node (where leaves meet the stem). This encourages the plant to branch outward rather than growing tall and leggy.
+### Les contenants
 
-**Snip from the outside.** For chives, parsley, and cilantro, harvest the outer leaves first, leaving the center of the plant to continue growing. Never harvest more than one-third of the plant at a time -- it needs enough foliage to photosynthesize and recover.
+N'importe quel pot avec des trous de drainage fonctionne. La terre cuite est excellente car poreuse -- elle evacue l'exces d'humidite. Un pot de 15-20 cm de diametre est adequat pour la plupart des herbes.
 
-**Harvest before flowering.** Most herbs are at their peak flavor just before they flower. Once they flower, the leaves often become bitter or lose intensity. If you see flower buds forming, pinch them off immediately unless you're growing the plant for seeds.
+## Demarrer a partir de graines ou acheter des plants
 
+A partir de graines (2-4 euros le sachet) : moins cher, plus satisfaisant. Acheter des plants (4-6 euros par plant) : plus facile, plus rapide. Les plants de supermarche sont souvent surpeuples -- rempotez-les dans un pot plus grand avec du terreau frais des que vous rentrez.
 
-## Common Problems and Solutions
+## Recolter pour une croissance continue
 
-**Yellow leaves:** Usually overwatering. Let the soil dry out more between waterings and ensure drainage holes aren't blocked.
+Pincez par le haut pour le basilic et la menthe. Coupez de l'exterieur pour la ciboulette et le persil. Recoltez avant la floraison. Ne recoltez jamais plus d'un tiers de la plante a la fois.
 
-**Brown, crispy leaf edges:** Usually underwatering or low humidity. Water more consistently, and consider placing a tray of pebbles filled with water near the plants to increase local humidity.
+## L'analyse cout-benefice
 
-**Leggy, stretched growth:** Insufficient light. Move to a brighter window or add a grow light.
+Un jardin d'herbes d'interieur avec cinq plantes coute environ 30-50 euros a installer et produit des herbes pendant des mois. Aux prix d'epicerie, l'installation est rentabilisee en 2-3 mois.
 
-**Tiny insects (aphids, spider mites, whiteflies):** Isolate the affected plant immediately. Spray with a mixture of water and a few drops of mild dish soap, focusing on the undersides of leaves where pests hide. Repeat e
 ![Context](https://images.unsplash.com/photo-1694827891674-21e4e24fb1b4)
-very few days until the infestation clears.
 
-## The Cost-Benefit Analysis
 
-An indoor herb garden with five plants (basil, mint, chives, parsley, thyme) costs approximately $30-50 to set up (pots, soil, seedlings or seeds, optional grow light) and produces herbs for months. At grocery store prices of $3-4 per bunch, the setup pays for itself within 2-3 months. Beyond the economics, having fresh herbs at arm's reach changes how you cook -- you'll use them more, experiment more, and eat better as a result.
+## Problemes courants et solutions
 
-Start with one or two of the easy herbs. Get comfortable with watering and harvesting. Then expand. By the end of your first season, you'll wonder why you didn't start years ago.
+**Feuilles jaunes :** Generalement un exces d'arrosage. Laissez le sol secher davantage entre les arrosages et assurez-vous que les trous de drainage ne sont pas bloques. **Bords bruns et craquants :** Generalement un manque d'arrosage ou une faible humidite. Arrosez plus regulierement et envisagez de placer un plateau de galets rempli d'eau pres des plantes pour augmenter l'humidite locale. **Croissance etiolee :** Lumiere insuffisante. Deplacez vers une fenetre plus lumineuse ou ajoutez une lampe de culture. **Petits insectes (pucerons, araignees rouges, aleurodes) :** Isolez immediatement la plante affectee. Vaporisez avec un melange d'eau et de quelques gouttes de savon doux, en insistant sur le dessous des feuilles. Repetez tous les quelques jours jusqu'a disparition.
+
+## L'analyse cout-benefice
+
+Un jardin d'herbes d'interieur avec cinq plantes (basilic, menthe, ciboulette, persil, thym) coute environ 30-50 euros a installer (pots, terreau, plants ou graines, lampe de culture optionnelle) et produit des herbes pendant des mois. Aux prix d'epicerie de 3-4 euros le bouquet, l'installation est rentabilisee en 2-3 mois. Au-dela de l'aspect economique, avoir des herbes fraiches a portee de main change votre facon de cuisiner -- vous les utiliserez plus, experimenterez davantage et mangerez mieux. Commencez avec une ou deux herbes faciles. Familiarisez-vous avec l'arrosage et la recolte. Puis elargissez. A la fin de votre premiere saison, vous vous demanderez pourquoi vous n'avez pas commence des annees plus tot.

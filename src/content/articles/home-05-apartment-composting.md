@@ -4,114 +4,85 @@ date: "2025-09-22"
 category: "home-garden"
 keywords: "compost,soil,garden,organic,worms"
 excerpt: "Pas de jardin ? Pas de probleme. Voici comment composter en appartement sans odeur."
----
+---![A compact worm composting bin on an apartment balcony](https://images.unsplash.com/photo-1597868165956-03a6827955b1)
 
-![A compact worm composting bin on an apartment balcony](https://images.unsplash.com/photo-1597868165956-03a6827955b1)
+Les dechets alimentaires representent environ 30% de ce que le foyer moyen envoie a la decharge. Dans une decharge, ces dechets alimentaires se decomposent sans oxygene, produisant du methane -- un gaz a effet de serre bien plus puissant que le dioxyde de carbone a court terme. La meme peau de banane, le meme marc de cafe et les memes restes de legumes, une fois composter, deviennent un sol riche en nutriments qui peut nourrir des plantes sur votre balcon, dans votre jardin communautaire ou dans le jardin d'un ami.
 
-Food waste makes up roughly 30% of what the average household sends to landfill. In a landfill, that food waste decomposes without oxygen, producing methane -- a greenhouse gas many times more potent than carbon dioxide in the short term. The same banana peel, coffee grounds, and vegetable scraps, when composted, become nutrient-rich soil that can feed plants on your balcony, in your community garden, or in a friend's backyard.
+Pendant des annees, le compostage a ete traite comme un privilege reserve a ceux qui ont des jardins. Ce n'est plus le cas. Les systemes de compostage modernes permettent tout a fait de composter en appartement -- sans odeur, sans parasites et sans prendre beaucoup de place. Voici tout ce que vous devez savoir pour commencer a composter a l'interieur.
 
-For years, composting was treated as a privilege of those with yards and gardens. That's no longer true. Modern composting systems make it entirely feasible to compost in an apartment -- without smell, without pests, and without taking up significant space. Here's everything you need to know to start composting indoors.
+## Pourquoi composter en appartement ?
 
-## Why Compost in an Apartment?
+Avant d'entrer dans le comment, abordons la question raisonnable : pourquoi s'embeter ? Vous n'avez pas de jardin. Vous n'avez peut-etre meme pas de plantes d'interieur. Pourquoi separer vos dechets alimentaires ?
 
-Before getting into the how, let's address the reasonable question: why bother? You don't have a garden. You may not even have houseplants. Why separate your food scraps?
+L'impact environnemental : les dechets alimentaires dans les decharges sont une source importante de methane. Composter vos restes -- meme si vous donnez le compost obtenu -- rompt ce cycle. La meme matiere organique qui produit du methane dans une decharge produit du dioxyde de carbone dans un bac a compost (decomposition aerobie), et le CO2 est un gaz a effet de serre bien moins puissant.
 
-**Environmental impact:** Food waste in landfills is a significant source of methane. Composting your scraps -- even if you give the resulting compost away -- breaks this cycle. The same organic matter that produces methane in a landfill produces carbon dioxide in a compost bin (aerobic decomposition), and CO2 is a far less potent greenhouse gas.
+Cela reduit vos dechets : separer les restes alimentaires reduit generalement le volume des ordures menageres de 25 a 35%. Pour les appartements avec un espace de poubelle limite, c'est un avantage pratique.
 
-**It reduces your trash:** Separating food scraps typically reduces household trash volume by 25-35%. For apartments with limited bin space, this is a practical benefit.
+Cela produit quelque chose de valeur : le compost fini est veritablement utile -- pour vos plantes d'interieur, votre jardin de balcon, l'arbre de rue devant votre immeuble ou un jardin communautaire. Meme si vous ne l'utilisez pas vous-meme, quelqu'un dans votre quartier en voudra.
 
-**It produces something valuable:** Finished compost is genuinely useful -- for your houseplants, your balcony garden, the street tree outside your building, or a community garden. Even if you don't use it yourself, someone in your neighborhood will want it.
+Cela vous connecte a un cycle naturel : dans une vie de plus en plus numerique et interieure, participer au cycle litteral de decomposition et de renouvellement est ancrant d'une maniere difficile a decrire jusqu'a ce qu'on en fasse l'experience.
 
-**It connects you to a natural cycle:** In an increasingly digital and indoor life, participating in the literal cycle of decay and renewal is grounding in a way that's hard to describe until you experience it.
+## Les trois methodes de compostage en appartement
 
-## The Three Apartment Composting Methods
+### Methode 1 : Le lombricompostage (bac a vers)
 
-### Method 1: Vermicomposting (Worm Bin)
+**Ce que c'est :** Un bac contenant des vers de compostage speciaux (Eisenia fetida, ou vers rouges -- pas les vers de terre de votre jardin) qui mangent vos dechets alimentaires et produisent des dejections (lombricompost), qui est sans doute le meilleur engrais pour plantes existant. Les vers traitent environ leur propre poids corporel en dechets alimentaires par jour.
 
-**What it is:** A bin containing special composting worms (Eisenia fetida, or red wigglers -- not the earthworms in your garden) that eat your food scraps and produce castings (worm manure), which is arguably the best plant fertilizer in existence. The worms process roughly their own body weight in food scraps per day.
+**Espace necessaire :** Environ l'empreinte d'une poubelle de cuisine. Un bac a vers peut vivre sous l'evier de la cuisine, dans un placard, sur un balcon ou dans un local technique. Il doit rester entre 15 et 27 degres Celsius -- les temperatures interieures sont ideales.
 
-**Space required:** About the footprint of a kitchen trash can. A worm bin can live under the kitchen sink, in a closet, on a balcony, or in a utility room. It needs to stay between 15-27°C (60-80°F) -- indoor temperatures are ideal.
+**Ce que vous pouvez composter :** La plupart des restes de fruits et legumes, le marc de cafe et les filtres, les sachets de the (retirez les agrafes), les coquilles d'oeufs ecrasees, le pain, les pates et les cereales. Evitez les agrumes en grande quantite (trop acides), les oignons et l'ail (les vers ne les aiment pas), la viande et les produits laitiers (attirent les parasites et sentent mauvais) et les aliments gras.
 
-**What you can compost:** Most fruit and vegetable scraps, coffee grounds and filters, tea bags (remove staples), crushed eggshells, bread, pasta, and grains. Avoid citrus in large quantities (too acidic), onions and garlic (worms don't love them), meat and dairy (they attract pests and smell), and oily foods.
+**Odeur :** Un bac a vers correctement entretenu n'a presque pas d'odeur -- une legere odeur terreuse, comme un sol de foret apres la pluie. S'il sent mauvais, quelque chose ne va pas (generalement trop de nourriture, trop humide ou pas assez d'air).
 
-**What you can't compost:** Meat, fish, dairy, oily foods, pet waste, and anything treated with pesticides.
+**Installation et entretien :** Commencez avec un bac (les systemes de empilage commerciaux comme le Worm Factory 360 coutent 70-120 euros ; vous pouvez aussi bricoler avec deux bacs en plastique emboites avec des trous perces dans le superieur). Ajoutez de la litiere : du papier journal dechire, du carton ou de la fibre de coco, humidifiee a la consistance d'une eponge essoree. Ajoutez des vers (disponibles en ligne -- commencez avec environ 500g de vers rouges pour un foyer typique de 1-2 personnes). Enterrez les restes alimentaires sous la litiere chaque fois que vous les ajoutez. C'est l'etape cle qui empeche les odeurs et les moucherons. Recoltez le lombricompost tous les 2-3 mois.
 
-**Odor:** A properly maintained worm bin has almost no smell -- a faint earthy scent, like a forest floor after rain. If it smells bad, something is wrong (usually too much food, too wet, or not enough air).
-
-**Setup and maintenance:**
-1. Start with a bin (commercial stacking systems like the Worm Factory 360 cost $70-120; you can also DIY with two nesting plastic bins with holes drilled in the top one).
-2. Add bedding: shredded newspaper, cardboard, or coconut coir, moistened to the consistency of a wrung-out sponge.
-3. Add worms (available online -- start with about 500g/1 lb of red wigglers for a typical household of 1-2 people).
-4. Bury food scraps under the bedding each time you add them. This is the key step that prevents odor and fruit flies.
-5. Harvest castings every 2-3 months. The simplest method: push everything to one side of the bin, add fresh bedding and food to the empty side, and wait a few weeks. The worms will migrate to the new food, leaving the finished castings behind.
-
-**Time to finished compost:** 2-3 months.
-**Output:** Rich worm castings -- the best plant food you can produce. Even a small bin produces enough castings to fertilize a robust collection of houseplants or a balcony garden.
-
-### Method 2: Bokashi (Anaerobic Fermentation)
-
-**What it is:** A Japanese method that uses beneficial microorganisms (inoculated bran) to ferment food waste in an airtight container. Unlike traditional composting, bokashi is anaerobic (without oxygen) and can handle all food waste -- including meat, dairy, and cooked foods. The process pickles the waste rather than decomposing it, which is why it doesn't smell like rot.
-
-**Space required:** A bokashi bin is about the size of a kitchen bin. It lives in the kitchen, ideally under the sink or in a corner. Two bins are recommended -- one that you're actively filling and one that's fermenting.
-
-**What you can compost:** Everything. Meat, fish, dairy, cooked food, bones (small ones, cut up), citrus, onions -- all the things that traditional composting and worm bins can't handle. This is bokashi's primary advantage.
-
-**What you can't compost:** Large bones, excessive liquid (drain soups before adding), already-rotting food (it's already decomposing via different microorganisms and can disrupt the fermentation).
-
-**Setup and maintenance:**
-1. Get a bokashi bin (a bucket with an airtight lid and a spigot at the bottom -- commercial systems cost $50-80).
-2. Add food scraps in layers, sprinkling bokashi bran between each layer.
-3. Press down firmly after each addition to remove air pockets.
-4. Close the lid tightly after each addition. The bin must remain sealed.
-5. Drain the liquid (bokashi "tea") every few days via the spigot. This liquid is an excellent drain cleaner or, diluted 1:100 with water, a powerful plant fertilizer.
-6. When the bin is full, let it sit sealed for 2 weeks to complete fermentation. During this time, you'll need a second bin for new scraps.
-
-**Time to finished product:** 4-6 weeks (2-4 weeks to fill the bin, plus 2 weeks fermentation). However, the fermented output (pre-compost) still needs to be buried in soil or added to a traditional compost pile to finish breaking down. In an apartment, you can bury it in a large planter, a community garden, or give it to a friend with a yard. Some cities also have compost drop-off programs.
-
-**Key difference from other methods:** Bokashi doesn't produce finished compost on its own -- it produces fermented pre-compost that must be buried in soil to finish decomposing. This is the method's main limitation for apartment dwellers without access to soil. However, if you have a balcony with large planters, or a community garden nearby, bokashi is manageable.
-
-### Method 3: Electric Composters (Food Recyclers)
-
-**What it is:** A countertop appliance (about the size of a bread maker) that dehydrates and grinds food waste into a fine, dry powder over several hours. Despite the name, electric composters don't actually compost -- they dehydrate. The output is a dry, odorless powder that can be mixed into soil where it will finish decomposing. Brands include Lomi, FoodCycler, and Tero.
-
-**Space required:** Countertop appliance, about 30 x 30cm footprint. Requires access to an electrical outlet.
-
-**What you can compost:** Most food scraps including small amounts of meat and dairy (check your specific model -- capabilities vary). Some models can also process compostable bioplastics.
-
-**Pros:** Extremely convenient -- just add scraps, press a button, and you have dehydrated food "compost" in 4-8 hours. No worms, no fermentation time, no soil burial step. The output is significantly reduced in volume (up to 90%) and is dry and odorless.
-
-**Cons:** High upfront cost ($300-500). Uses electricity (though not a lot -- roughly $2-5 per month in electricity costs). The output is not finished compost -- it's dehydrated food waste that needs soil contact to fully decompose. Also, you're essentially dehydrating food scraps, which is a very different process from biological composting and has a different environmental calculus.
-
-**Best for:** People who want the absolute easiest method and are willing to pay for convenience, or who have no access to outdoor space and no interest in managing a living system (worms or microorganisms).
-
-## Common Problems and Solutions
-
-**Fruit flies (worm bin):** Fruit flies mean food is exposed. Always bury food scraps under the bedding. If flies appear, add a layer of dry bedding on top, reduce feeding for a week, and consider adding a fruit fly trap (a small jar of apple cider vinegar with a drop of dish soap) near the bin.
-
-**Bad smell (worm bin):** Usually too wet or too much food. Add dry bedding (shredded cardboard or newspaper), stop feeding for a week, and make sure the bin has adequate drainage and ventilation.
-
-**Mold (bokashi):** White mold on top of the food waste is normal and a sign of healthy fermentation. Green or black mold means something went wrong -- usually the lid wasn't sealed properly or too much air got in. If this happens, add extra bokashi bran and ensure the lid is sealing correctly.
-
-**Worms dying (worm bin):** Usually temperature or moisture. Worms need 15-27°C (60-80°F) and bedding that feels like a wrung-out sponge. If it's too dry, mist with water. If it's too wet, add dry bedding. If the temperature is wrong, move the bin.
-
-**Slow decomposition (all methods):** In a worm bin, you may be adding too much food for the worm population; reduce feeding or add more worms. In bokashi, the bin may be too cold; move it to a warmer spot.
-
-## Which Method Should You Choose?
+**Delai jusqu'au compost fini :** 2-3 mois.
 
 ![A countertop bokashi bin and a worm composting setup compared](https://images.unsplash.com/photo-1715766911065-83723bc00d2f)
+
+### Methode 2 : Le bokashi (fermentation anaerobie)
+
+**Ce que c'est :** Une methode japonaise qui utilise des micro-organismes benefiques (du son inocule) pour fermenter les dechets alimentaires dans un contenant hermetique. Contrairement au compostage traditionnel, le bokashi est anaerobie (sans oxygene) et peut traiter tous les dechets alimentaires -- y compris la viande, les produits laitiers et les aliments cuits.
+
+**Espace necessaire :** Un seau a bokashi a la taille d'une poubelle de cuisine. Deux seaux sont recommandes -- un que vous remplissez activement et un qui fermente.
+
+**Ce que vous pouvez composter :** Tout. Viande, poisson, produits laitiers, aliments cuits, petits os, agrumes, oignons -- tout ce que le compostage traditionnel et les bacs a vers ne peuvent pas traiter. C'est l'avantage principal du bokashi.
+
+**Installation et entretien :** Ajoutez les dechets alimentaires en couches, en saupoudrant du son de bokashi entre chaque couche. Pressez fermement apres chaque ajout pour eliminer les poches d'air. Fermez hermetiquement le couvercle. Videz le liquide (le the de bokashi) tous les quelques jours via le robinet -- ce liquide est un excellent nettoyant pour canalisations ou, dilue a 1:100 avec de l'eau, un puissant engrais pour plantes. Quand le seau est plein, laissez-le ferme pendant 2 semaines pour terminer la fermentation.
+
+### Methode 3 : Les composteurs electriques
+
+Des appareils de comptoir qui deshydratent et broient les dechets alimentaires en une poudre fine en quelques heures. Le plus pratique mais le plus cher (300-500 euros). La sortie n'est pas du compost fini -- c'est de la nourriture deshydratee qui a besoin de contact avec le sol pour se decomposer.
+
+## Quelle methode choisir ?
+
+Notre recommandation pour la plupart des habitants d'appartement : commencez par un bac a vers. C'est le plus abordable, il produit la sortie la plus precieuse (le lombricompost) et c'est un systeme veritablement autonome. Si vous avez acces a un jardin communautaire, un bac de balcon ou le jardin d'un ami, le bokashi est un excellent complement pour les restes que les vers ne peuvent pas manger.
+
 ![home-05-apartment-composting](https://images.unsplash.com/photo-1597868068123-97fb110c3f93)
 
 
-| Factor | Worm Bin | Bokashi | Electric |
+## Problemes courants et solutions
+
+**Moucherons (bac a vers) :** Les moucherons signifient que la nourriture est exposee. Enterrez toujours les restes sous la litiere. Si des moucherons apparaissent, ajoutez une couche de litiere seche par-dessus, reduisez l'alimentation pendant une semaine et envisagez d'ajouter un piege a moucherons (un petit pot de vinaigre de cidre avec une goutte de liquide vaisselle) pres du bac.
+
+**Mauvaise odeur (bac a vers) :** Generalement trop humide ou trop de nourriture. Ajoutez de la litiere seche (carton ou papier journal dechire), arretez de nourrir pendant une semaine et assurez-vous que le bac a un drainage et une ventilation adequats.
+
+**Moisissure (bokashi) :** De la moisissure blanche sur le dessus des dechets est normale et signe d'une fermentation saine. De la moisissure verte ou noire signifie que quelque chose a mal tourne -- generalement le couvercle n'etait pas bien ferme. Ajoutez du son de bokashi supplementaire et assurez-vous que le joint est etanche.
+
+**Vers morts (bac a vers) :** Generalement la temperature ou l'humidite. Les vers ont besoin de 15-27 degres Celsius et d'une litiere de la consistance d'une eponge essoree. Si c'est trop sec, vaporisez de l'eau. Si c'est trop humide, ajoutez de la litiere seche. Si la temperature est mauvaise, deplacez le bac.
+
+**Decomposition lente (toutes les methodes) :** Dans un bac a vers, vous ajoutez peut-etre trop de nourriture pour la population de vers ; reduisez l'alimentation ou ajoutez plus de vers. Dans le bokashi, le bac est peut-etre trop froid ; deplacez-le dans un endroit plus chaud.
+
+## Quelle methode choisir ?
+
+| Facteur | Bac a vers | Bokashi | Electrique |
 |---|---|---|---|
-| Upfront cost | $50-120 | $50-80 | $300-500 |
-| Ongoing cost | Negligible | Bran refills: ~$10/month | Electricity: ~$3/month |
-| Maintenance time | 5 min/week | 5 min/week | 1 min/day (to load and run) |
-| All food waste? | No (no meat/dairy) | Yes -- everything | Most (check model) |
-| Finished output | Worm castings (2-3 months) | Fermented pre-compost (4-6 weeks, needs soil burial) | Dehydrated powder (hours, needs soil) |
-| Best for | Plant owners, patient people | Cooks and omnivores with access to soil | Convenience-seekers with budget |
-| Living component | Yes (worms) | Yes (microorganisms) | No |
+| Cout initial | 50-120 euros | 50-80 euros | 300-500 euros |
+| Cout continu | Negligeable | Recharges de son : environ 10 euros/mois | Electricite : environ 3 euros/mois |
+| Temps d'entretien | 5 min/semaine | 5 min/semaine | 1 min/jour |
+| Tous les dechets alimentaires ? | Non (pas de viande/produits laitiers) | Oui -- tout | La plupart |
+| Produit fini | Lombricompost (2-3 mois) | Pre-compost fermente (4-6 semaines) | Poudre deshydratee (quelques heures) |
 
-**Our recommendation for most apartment dwellers:** Start with a worm bin. It's the most affordable, produces the most valuable output (worm castings), and is a genuinely self-contained system. You don't need to leave your apartment to complete the cycle. If you have access to a community garden, balcony planter, or friend's yard, bokashi is an excellent complement for the food scraps that worms can't eat.
+Notre recommandation pour la plupart des habitants d'appartement : commencez par un bac a vers. C'est le plus abordable, il produit la sortie la plus precieuse et c'est un systeme veritablement autonome. Vous n'avez pas besoin de quitter votre appartement pour boucler le cycle. Si vous avez acces a un jardin communautaire, un bac de balcon ou le jardin d'un ami, le bokashi est un excellent complement pour les restes alimentaires que les vers ne peuvent pas manger.
 
-Composting in an apartment is profoundly satisfying -- the daily ritual of feeding your worms or filling your bokashi bin connects you to a natural cycle that modern urban life has largely hidden from view. It takes a few weeks to establish the habit, after which it becomes as automatic as taking out the trash. The difference is that instead of sending your food scraps to a landfill to produce methane, you're turning them into soil. In an apartment. With no smell. It genuinely works.
+Le compostage en appartement est profondement satisfaisant -- le rituel quotidien de nourrir vos vers ou de remplir votre seau a bokashi vous connecte a un cycle naturel que la vie urbaine moderne a largement cache. Il faut quelques semaines pour etablir l'habitude, apres quoi cela devient aussi automatique que de sortir les poubelles. La difference est qu'au lieu d'envoyer vos restes alimentaires a la decharge pour produire du methane, vous les transformez en terre. Dans un appartement. Sans odeur. Cela fonctionne vraiment.
