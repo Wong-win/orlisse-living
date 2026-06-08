@@ -3,7 +3,7 @@ date: "2026-05-21"
 category: "travel"
 keywords: "solo,travel,alone,safety,tips"
 excerpt: "Voyager seul est l'une des experiences les plus enrichissantes. Voici comment le faire."
----![Voyageur seul admirant un paysage urbain](https://images.unsplash.com/photo-1656877377253-cc8a3d36c598)
+---![Voyageur seul admirant un paysage urbain](https://images.unsplash.com/photo-1487119998088-a65531a3ae5c)
 
 Voyager seul est l'experience la plus transformatrice accessible a la plupart des gens. Cela force l'autonomie. Cela supprime le tampon de la compagnie qui vous isole d'une interaction authentique avec un lieu. Cela vous met dans des situations ou vous devez parler a des inconnus, naviguer dans des systemes inconnus et resoudre des problemes par vous-meme. C'est, au sens le plus vrai, formateur de caractere.
 

@@ -5,7 +5,7 @@ keywords: "body,type,fit,flattering,shape"
 excerpt: "La plupart des conseils morphologiques sont depasses. Voici une approche plus intelligente."
 ---
 
-![A flattering outfit showing proportion play](https://images.unsplash.com/photo-1552579964-ca321c5c8651)
+![A flattering outfit showing proportion play](https://images.unsplash.com/photo-1605296867724-fa87a8ef53fd)
 
 Le cadre traditionnel des morphologies -- vous etes une pomme, une poire, un sablier ou un rectangle -- a ete concu dans les annees 1950 par l'industrie de la mode pour simplifier le patronage, pas pour aider les femmes a mieux s'habiller. Il reduit des corps complexes et individuels a quatre categories grossieres et prescrit ensuite des regles basees sur ces categories : portez ceci pour cacher vos hanches, evitez cela pour minimiser vos epaules, ne portez jamais de rayures horizontales si vous etes X. Le resultat est un ensemble de restrictions qui font que le fait de s'habiller ressemble a un exercice de gestion des degats plutot qu'a une expression creative.
 

@@ -5,7 +5,7 @@ keywords: "vintage,secondhand,thrift,shopping,sustainable"
 excerpt: "Le shopping vintage est la meilleure facon de construire une garde-robe unique avec un budget limite."
 ---
 
-![A vintage clothing rack with unique pieces](https://images.unsplash.com/photo-1703449637424-cbefa705f4e1)
+![A vintage clothing rack with unique pieces](https://images.unsplash.com/photo-1768145488790-185e20abfd08)
 
 Le shopping vintage et de seconde main est passe d'un loisir de niche a une facon mainstream de construire une garde-robe. Les raisons sont simples : une meilleure qualite pour le prix, des pieces uniques que personne d'autre ne portera, et le benefice environnemental de prolonger la duree de vie d'un vetement plutot que d'en acheter de nouveaux. Certaines des personnes les plus stylées de la mode achetent presque exclusivement en seconde main -- pas parce qu'elles y sont obligees, mais parce que le caractere et la qualite des vetements vintage ne peuvent pas etre reproduits par la production de masse.
 

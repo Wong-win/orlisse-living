@@ -3,7 +3,7 @@ date: "2026-02-11"
 category: "travel"
 keywords: "london,england,neighborhood,guide,travel"
 excerpt: "Londres est une ville de villages, chacun avec sa propre personnalite. Voici votre guide."
----![Londres, bus rouge et architecture historique](https://images.unsplash.com/photo-1659944801297-176700808ba2)
+---![Londres, bus rouge et architecture historique](https://images.unsplash.com/photo-1590436467681-d70e8494e718)
 
 Londres n'est pas une ville -- c'est une collection de villages qui ont grandi ensemble au fil des siecles, chacun conservant un caractere distinct, une architecture et un rythme propres. Le Londres de Westminster et de Buckingham Palace est ceremoniel et grandiose. Le Londres de Shoreditch et Hackney est creatif et chaotique. Le Londres de Hampstead et Richmond est verdoyant et residentiel. Ces differents Londres coexistent a quelques kilometres les uns des autres, relies par le metro et separes par des siecles de developpement independant.
 

@@ -5,7 +5,7 @@ keywords: "shoes,leather,care,polish,maintenance"
 excerpt: "Des chaussures bien entretenues durent des annees de plus. Voici comment."
 ---
 
-![Polishing a leather shoe](https://images.unsplash.com/photo-1449505278894-297fdb3edbc1)
+![Polishing a leather shoe](https://images.unsplash.com/photo-1533867617858-e7b97e060509)
 
 De bonnes chaussures sont un investissement, et comme tout investissement, elles necessitent un entretien pour conserver leur valeur. Une paire de bottes en cuir a 300 euros, correctement entretenue, peut durer une decennie ou plus. Les memes bottes, negligees, pourraient devoir etre remplacees en deux ans. L'economie est simple : vingt minutes d'entretien des chaussures par mois economisent des centaines d'euros en remplacement premature.
 

@@ -6,7 +6,7 @@ keywords: "minimalist,skincare,routine,simple,essentials"
 excerpt: "Vous n'avez pas besoin de 10 etapes. Voici l'approche essentielle."
 ---
 
-![A simple skincare routine with just a few products](https://images.unsplash.com/photo-1583209814683-c023dd293cc6)
+![A simple skincare routine with just a few products](https://images.unsplash.com/photo-1739980104488-408eff709fff)
 
 L'industrie moderne des soins de la peau veut vous faire croire que vous avez besoin d'une routine de 10 etapes. Matin et soir, une procession de produits -- nettoyant, tonique, essence, serum, ampoule, contour des yeux, hydratant, huile pour le visage, masque de nuit -- chacun promettant de traiter une preoccupation specifique. La routine coreenne de 10 etapes, autrefois une curiosite culturelle, a ete absorbee par la machine mondiale du marketing des soins de la peau et instrumentalisee pour vendre plus de produits.
 

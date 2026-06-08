@@ -3,7 +3,7 @@ date: "2026-04-01"
 category: "travel"
 keywords: "hiking,outdoor,nature,trails,mountains"
 excerpt: "Des promenades douces aux treks de plusieurs jours, voici les meilleures destinations."
----![Randonneur sur un sentier de montagne](https://images.unsplash.com/photo-1740383236046-1d15b49195a2)
+---![Randonneur sur un sentier de montagne](https://images.unsplash.com/photo-1740383233808-72a0021a5478)
 
 La randonnee est l'une des formes de voyage les plus accessibles -- elle necessite un equipement minimal, peut etre pratiquee presque partout, et vous recompense avec des paysages et des perspectives inaccessibles par tout autre moyen. Une bonne randonnee change votre relation avec un lieu. Vous ne vous contentez pas de voir les montagnes ; vous marchez a travers elles, transpirez sur elles et gagnez la vue depuis leurs sommets.
 

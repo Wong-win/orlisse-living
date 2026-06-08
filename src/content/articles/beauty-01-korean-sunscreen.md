@@ -6,7 +6,7 @@ keywords: "sunscreen,skincare,beauty,cream"
 excerpt: "Les ecrans solaires K-beauty ont redefini la protection solaire quotidienne. Voici la science et les meilleures formules."
 ---
 
-![Korean sunscreen bottles arranged on a marble surface](https://images.unsplash.com/photo-1562580836-cdbcc5152819)
+![Korean sunscreen bottles arranged on a marble surface](https://images.unsplash.com/photo-1709551264845-e9dddd775388)
 
 Les ecrans solaires coreens ont accompli quelque chose de remarquable : ils ont transforme l'etape la plus negligee des soins de la peau en quelque chose que les gens attendent avec impatience d'appliquer. Si vous avez toujours evite la creme solaire a cause de l'effet masque blanc, de la sensation grasse, ou de la facon dont elle peluche sous le maquillage, les ecrans solaires K-beauty sont sur le point de changer toute votre relation avec la protection solaire.
 

@@ -3,7 +3,7 @@ date: "2026-04-26"
 category: "travel"
 keywords: "photography,travel,camera,tips,composition"
 excerpt: "De superbes photos de voyage ne necessitent pas un equipement cher. Voici comment."
----![Voyageur prenant une photo avec un smartphone](https://images.unsplash.com/photo-1530227240313-a5047b1a0dd0)
+---![Voyageur prenant une photo avec un smartphone](https://images.unsplash.com/photo-1711621978937-8c63757a46cb)
 
 L'erreur la plus courante en photographie de voyage n'est pas technique -- c'est existentielle. Les gens passent tellement de temps a essayer de capturer la photo parfaite qu'ils oublient de vivre l'endroit qu'ils photographient. Ils regardent un coucher de soleil a travers un ecran, cadrent une cathedrale dans un viseur et manquent l'experience reelle d'etre la.
 

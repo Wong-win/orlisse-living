@@ -6,7 +6,7 @@ keywords: "moisturizer,cream,gel,lotion,skincare"
 excerpt: "Tous les hydratants ne fonctionnent pas de la meme facon. Voici comment choisir."
 ---
 
-![Creams, gels, and lotions on a surface](https://images.unsplash.com/photo-1707910393305-b57725e1d79e)
+![Creams, gels, and lotions on a surface](https://images.unsplash.com/photo-1707910393323-d86eee698d21)
 
 Entrez dans n'importe quel rayon de soins de la peau et vous etes confronte a une taxonomie accablante d'hydratants : cremes, gels, gel-cremes, lotions, baumes, masques de nuit, cremes d'eau et hydratants sans huile. Les differences ne sont pas seulement du marketing -- elles refletent des formulations fondamentalement differentes concues pour differents types de peau, climats et moments de la journee. Comprendre comment fonctionnent reellement les hydratants rend le choix entre eux simple plutot qu'accablant.
 

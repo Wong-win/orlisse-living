@@ -6,7 +6,7 @@ keywords: "ingredients,hyaluronic,niacinamide,peptide,skincare"
 excerpt: "Ces trois ingredients apparaissent partout. Voici ce qu'ils font vraiment."
 ---
 
-![Skincare serums with key ingredients](https://images.unsplash.com/photo-1748543668676-ea8241cb3886)
+![Skincare serums with key ingredients](https://images.unsplash.com/photo-1748543668687-624e058c367c)
 
 Les listes d'ingredients des produits de soin sont ecrites dans une langue que la plupart des consommateurs ne parlent pas. Le systeme de la Nomenclature Internationale des Ingredients Cosmetiques (INCI) exige que les ingredients soient listes par leurs noms chimiques plutot que par leurs noms courants, ce qui signifie que meme des substances familieres apparaissent comme des chaines intimidantes de terminologie latine et scientifique. Mais derriere le jargon, les ingredients actifs de vos produits de soin appartiennent a un ensemble relativement restreint de categories bien etudiees.
 

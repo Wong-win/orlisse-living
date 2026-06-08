@@ -3,7 +3,7 @@ date: "2026-03-08"
 category: "travel"
 keywords: "budget,cheap,travel,money,save"
 excerpt: "Le voyage n'a pas a etre cher. Voici comment planifier des voyages incroyables avec un budget limite."
----![Voyageur avec sac a dos dans un marche local](https://images.unsplash.com/photo-1542383578-000e248cde3b)
+---![Voyageur avec sac a dos dans un marche local](https://images.unsplash.com/photo-1565514158740-064f34bd6cfd)
 
 La plus grande idee recue sur le voyage est qu'il est cher. Il peut l'etre, mais il n'a pas a l'etre. La difference entre un voyage cher et un voyage abordable tient rarement a la destination -- elle tient a la facon de planifier, de reserver et aux choix quotidiens une fois sur place. Un voyage a Paris peut couter 500 ou 5 000 euros. La difference est dans la strategie, pas dans le sacrifice.
 

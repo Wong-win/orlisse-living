@@ -6,7 +6,7 @@ keywords: "fashion,layering,outfit,coat"
 excerpt: "La superposition est la competence la plus sous-estimee pour bien s'habiller."
 ---
 
-![Layered outfits on a rack showing different textures and lengths](https://images.unsplash.com/photo-1485968579580-b6d0b4d7c081)
+![Layered outfits on a rack showing different textures and lengths](https://images.unsplash.com/photo-1514813836041-518668f092b1)
 
 La superposition est la difference entre quelqu'un qui porte des vetements et quelqu'un qui s'habille. C'est ce qui transforme une simple combinaison chemise-pantalon en une tenue qui parait intentionnelle, reflechie et sans effort. C'est aussi la competence la plus pratique de votre arsenal vestimentaire -- maitrisez la superposition, et vous pourrez naviguer les changements de temperature, les codes vestimentaires et les transitions saisonnieres sans jamais avoir l'impression de n'avoir rien a vous mettre.
 
