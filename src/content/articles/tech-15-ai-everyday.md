@@ -1,8 +1,8 @@
----title: "AI in Everyday Life: What Actually Matters for Regular People in 2026"
+---title: "L'IA au quotidien : ce qui compte vraiment"
 date: "2026-05-31"
 category: "technology"
 keywords: "AI,artificial,intelligence,chatgpt,tools"
-excerpt: "AI is transforming how we work and live. Here's a practical guide to what's useful now — cutting through the hype."
+excerpt: "L'IA transforme notre vie. Voici ce qui est vraiment utile aujourd'hui."
 ---
 ![tech-15-ai-everyday cover](https://images.unsplash.com/photo-1675865254433-6ba341f0f00b)
 The conversation around artificial intelligence has become unmoored from reality. On one side, evangelists claim AI will revolutionize every aspect of human existence within years. On the other, skeptics dismiss it as overhyped autocomplete that produces plausible-sounding nonsense. The truth, as usual, is in between: AI is genuinely useful for specific tasks, genuinely useless for others, and its current limitations are as important to understand as its capabilities.

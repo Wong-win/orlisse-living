@@ -1,8 +1,8 @@
----title: "Laptop Buying Guide 2026: How to Choose the Right One for Your Needs"
+---title: "Guide d'achat d'ordinateur portable 2026"
 date: "2025-10-21"
 category: "technology"
 keywords: "laptop computer desk modern technology workspace"
-excerpt: "The laptop market is overwhelming. Here's a clear, jargon-free guide to choosing the right laptop for your actual needs and budget."
+excerpt: "Le marche est intimidant. Voici un guide clair pour choisir."
 ---
 ![tech-06-laptop-guide cover](https://images.unsplash.com/photo-1570993492881-25240ce854f4)
 Walking into a store or browsing laptop listings online is an exercise in overwhelm. Processor names that read like alphanumeric codes. Display specifications that require a physics degree to parse. Marketing claims about battery life that never match reality. Prices that range from $300 to $3,000 for machines that all look like the same thin silver rectangle.

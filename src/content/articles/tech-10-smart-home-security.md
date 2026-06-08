@@ -1,8 +1,8 @@
----title: "Smart Home Security: What's Actually Worth Installing in 2026"
+---title: "Securite residentielle connectee : ce qui vaut l'installation"
 date: "2026-01-28"
 category: "technology"
 keywords: "security,camera,doorbell,smart,home"
-excerpt: "Home security technology has come a long way. Here's what's worth your money — from video doorbells to sensors — and what you can safely skip."
+excerpt: "La securite a evolue. Voici ce qui vaut votre argent."
 ---
 ![tech-10-smart-home-security cover](https://images.unsplash.com/photo-1558002038-1055907df827)
 Home security technology has undergone a quiet revolution in the past decade. What was once the domain of expensive professional installation and multi-year monitoring contracts is now accessible to anyone with a smartphone and a screwdriver. Modern systems are wireless, self-installed, and monitored from your phone — often without a monthly fee.

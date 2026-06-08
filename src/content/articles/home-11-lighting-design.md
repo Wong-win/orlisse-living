@@ -44,3 +44,10 @@ Chaque plafonnier devrait etre sur un variateur. Les variateurs sont peu couteux
 ## Choisir les luminaires
 
 Pour un eclairage de qualite sans se ruiner : les lampadaires a bras oscillant sont ideaux pour les coins lecture, les appliques murales orientables liberent les tables de nuit, les suspensions basses definissent les zones dans les pieces ouvertes, les spots encastres offrent un eclairage ambiant discret et les rubans LED sous les meubles ou derriere les ecrans ajoutent une lumiere d'accent fonctionnelle. Evitez les luminaires uniquement decoratifs qui n'eclairent pas reellement -- un beau luminaire qui ne fournit pas une lumiere utile est une sculpture couteuse, pas un eclairage.
+
+
+## Choisir les luminaires
+
+Pour un eclairage de qualite sans se ruiner, privilegiez la fonction sur la forme. Les lampadaires a bras oscillant sont ideaux pour les coins lecture car ils dirigent la lumiere precisement la ou vous en avez besoin. Les appliques murales orientables liberent les tables de nuit et fournissent une lumiere de lecture reglable. Les suspensions basses definissent les zones dans les pieces ouvertes et creent une atmosphere intimiste au-dessus des tables a manger ou des ilots de cuisine. Les spots encastres offrent un eclairage ambiant discret sans l'encombrement visuel des luminaires de plafond. Les rubans LED sous les meubles de cuisine ou derriere les ecrans ajoutent une lumiere d'accent fonctionnelle.
+
+Evitez les luminaires uniquement decoratifs qui n'eclairent pas reellement -- un beau luminaire qui ne fournit pas une lumiere utile est une sculpture couteuse, pas un eclairage. Le meilleur eclairage est celui que vous ne remarquez pas -- vous remarquez seulement que la piece est agreable a vivre.

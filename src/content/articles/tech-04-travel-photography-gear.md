@@ -1,9 +1,9 @@
 ---
-title: "Travel Photography Gear Guide: What to Pack (and What to Leave Behind)"
+title: "Guide de l'equipement photo de voyage : quoi emporter"
 date: "2025-09-02"
 category: "technology"
 keywords: "camera,photography,lens,travel,gear"
-excerpt: "The best travel camera isn't the one with the most megapixels -- it's the one you'll actually carry. Here's the gear that earns its weight in your bag."
+excerpt: "Le meilleur appareil est celui que vous porterez. Voici comment choisir."
 ---
 
 ![A compact travel photography kit laid out on a wooden table](https://images.unsplash.com/photo-1502982720700-bfff97f2ecac)

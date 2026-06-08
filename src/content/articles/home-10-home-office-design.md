@@ -69,3 +69,9 @@ De l'art au mur. Une horloge analogique. Un bon systeme audio. Et surtout, un ri
 ## Le cout total
 
 Un bureau a domicile complet construit autour de ces recommandations varie d'environ 1500 euros (choix budget : bureau IKEA, chaise Sihoo, un seul ecran Dell 4K, peripheriques de base) a plus de 5000 euros (choix premium : bureau Uplift, Herman Miller Aeron, Apple Studio Display, clavier mecanique). Si cela semble beaucoup, considerez ceci : si vous travaillez a domicile, vous passez environ 2000 heures par an dans cet espace de travail. Sur cinq ans, une installation a 3000 euros coute 0,30 euro par heure d'utilisation. Le benefice ergonomique -- moins de maux de dos, moins de maux de tete, moins de fatigue oculaire -- vaut bien plus que cela. Et contrairement a un bureau d'entreprise, c'est un espace que vous controlez entierement. Faites-en un endroit ou vous voulez etre.
+
+## L'ecran et les peripheriques
+
+Votre configuration d'ecran affecte directement votre posture. La regle : le haut de l'ecran doit etre au niveau des yeux ou legerement en dessous. Pour un ordinateur portable utilise comme ecran principal, cela necessite un support pour le surélever. Un grand ecran 4K (27-32 pouces) vaut mieux que deux ecrans plus petits pour la plupart des gens. Recommandations : Dell UltraSharp U2723QE (27 pouces 4K, 550 euros) pour la productivite ; Apple Studio Display (27 pouces 5K, 1599 euros) pour les utilisateurs Mac ; Dell S2722QC (27 pouces 4K, 310 euros) pour le budget.
+
+Un clavier et une souris externes, associes a un support pour portable, resolvent le probleme ergonomique fondamental du travail sur portable. Recommandations clavier : Apple Magic Keyboard avec Touch ID (149-179 euros) pour Mac, Logitech MX Keys Mini (99 euros) pour le multi-appareils, Keychron Q1 Pro (199 euros) pour les amateurs de mecanique. Souris : Logitech MX Master 3S (99 euros), la reference pour la productivite.

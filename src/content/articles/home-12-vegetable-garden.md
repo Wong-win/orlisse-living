@@ -44,3 +44,10 @@ Recoltez les legumes quand ils sont murs -- ni avant ni longtemps apres. Le meil
 ## La recolte et au-dela
 
 Recoltez les legumes quand ils sont murs. Le meilleur moment est le matin. Les legumes recoltes le matin sont plus croustillants, plus sucres et durent plus longtemps. La plus grande recompense du potager est le repas que vous cuisinez avec des ingredients que vous avez cultives vous-meme. Planifiez ce premier repas le jour ou vous plantez. Au-dela du gout, il y a la satisfaction de manger quelque chose que vous avez regarde pousser. Les enfants qui participent au potager mangent plus de legumes. Le jardinage reduit le stress.
+
+
+## Au-dela du potager : pourquoi cultiver ses legumes
+
+Au-dela du gout et des economies, il y a la satisfaction profonde de manger quelque chose que vous avez regarde pousser de la graine a l'assiette. Les enfants qui participent au potager mangent plus de legumes -- c'est l'un des resultats les plus coherents de la recherche en education alimentaire. Le jardinage reduit le stress : des etudes montrent que le contact avec la terre et les plantes abaisse les niveaux de cortisol. Et dans un monde de chaines d'approvisionnement incertaines, savoir cultiver sa propre nourriture est une competence qui a de la valeur bien au-dela du loisir.
+
+Vous n'avez pas besoin d'un grand espace ni de beaucoup de temps. Commencez avec un pot, une plante, et voyez ou cela vous mene. La premiere tomate que vous cueillerez, tiede de soleil, et mangerez dans les minutes qui suivent -- ce moment vaut toutes les semaines d'arrosage et d'attente. C'est pour cela qu'on jardine.

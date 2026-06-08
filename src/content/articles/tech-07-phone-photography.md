@@ -1,8 +1,8 @@
----title: "Smartphone Photography: How to Take Professional-Quality Photos With Your Phone"
+---title: "Photographie au smartphone : comment prendre des photos de qualite pro"
 date: "2025-11-15"
 category: "technology"
 keywords: "smartphone camera photography taking photo outdoor"
-excerpt: "Modern phone cameras are remarkably capable. Here's how to take advantage of yours -- from composition to editing."
+excerpt: "Les telephones modernes sont performants. Voici comment en tirer le meilleur."
 ---
 ![tech-07-phone-photography cover](https://images.unsplash.com/photo-1775997486587-c7b6d2e9f807)
 The best camera is the one you have with you. For most people, that's a smartphone -- and modern flagship phones produce images that rival dedicated cameras costing thousands of dollars just a decade ago. The sensor in an iPhone 16 Pro or Samsung Galaxy S25 Ultra captures more detail than a professional DSLR from 2010. The difference between a good photo and a great one is no longer about hardware -- it's about technique.

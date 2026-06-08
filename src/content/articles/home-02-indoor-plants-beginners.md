@@ -90,3 +90,13 @@ Feuilles jaunes : generalement un exces d'arrosage. Bords bruns et craquants : m
 ## Entretien saisonnier
 
 Au printemps et en ete (saison de croissance), arrosez plus frequemment, fertilisez une fois par mois et rempotez si besoin. En automne et en hiver (dormance), reduisez considerablement l'arrosage, arretez de fertiliser et eloignez les plantes des fenetres froides. La plupart des plantes d'interieur sont tuees par un exces d'attention en hiver.
+
+## Engrais et rempotage
+
+La plupart des plantes d'interieur n'ont besoin d'engrais que pendant la saison de croissance (printemps et ete) et seulement a la moitie de la concentration recommandee sur l'emballage. La sur-fertilisation brule les racines et cause plus de problemes que la sous-fertilisation. Un engrais liquide equilibre pour plantes d'interieur, applique une fois par mois au printemps et en ete, est suffisant pour la plupart des plantes. En automne et en hiver, arretez de fertiliser -- les plantes sont en dormance et n'ont pas besoin de nutriments supplementaires.
+
+Le rempotage doit etre fait tous les 1 a 2 ans, ou quand les racines sortent par les trous de drainage. Choisissez un pot de 2 a 5 cm plus large que l'actuel. Le meilleur moment pour rempoter est le printemps, quand la plante entre dans sa periode de croissance active. Signes qu'une plante a besoin d'un rempotage : les racines sortent par les trous de drainage, l'eau traverse le pot sans etre absorbee, la croissance ralentit malgre des soins adequats, ou la plante devient trop lourde en haut et bascule.
+
+## Comment choisir sa premiere plante
+
+Si vous n'avez jamais eu de plante d'interieur, commencez par une plante serpent ou un pothos. Ces deux plantes sont incroyablement indulgentes et vous apprendront les bases de l'arrosage et de l'observation de la lumiere sans le stress de voir votre plante mourir a la moindre erreur. Placez-la dans un endroit ou vous la verrez tous les jours -- la visibilite encourage l'entretien. Donnez-lui un nom si cela vous aide a vous en souvenir. Verifiez le sol une fois par semaine en enfoncant votre doigt. Arrosez seulement quand c'est sec. En un mois, vous aurez developpe l'habitude la plus importante en soin des plantes : la constance.

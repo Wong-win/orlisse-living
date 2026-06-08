@@ -1,8 +1,8 @@
----title: "Home Wi-Fi Explained: How to Fix Your Internet Problems Once and For All"
+---title: "Le Wi-Fi domestique explique : comment resoudre vos problemes"
 date: "2026-04-11"
 category: "technology"
 keywords: "wifi,internet,router,mesh,speed"
-excerpt: "Slow Wi-Fi is usually fixable without spending much money. Here's how to diagnose and solve the most common problems."
+excerpt: "Un mauvais Wi-Fi est repable. Voici comment."
 ---
 ![tech-13-home-wifi cover](https://images.unsplash.com/photo-1645725677294-ed0843b97d5c)
 Bad Wi-Fi is one of modern life's most consistent frustrations. Video calls freeze. Pages load slowly. The connection drops in certain rooms mysteriously. Most people respond by blaming their internet service provider and either living with the problem or upgrading to a more expensive plan. But in most cases, the problem isn't the connection coming into your house — it's how that connection is distributed within it.

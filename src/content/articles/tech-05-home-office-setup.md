@@ -1,9 +1,9 @@
 ---
-title: "The Modern Home Office: Ergonomic and Aesthetic Tech Picks for Your Workspace"
+title: "Le bureau a domicile moderne : equipements ergonomiques"
 date: "2025-09-27"
 category: "technology"
 keywords: "office,desk,workspace,computer,chair"
-excerpt: "A well-designed home office pays for itself in focus and physical comfort. Here's how to set up a workspace you actually want to spend time in."
+excerpt: "Un bureau bien concu se rembourse en concentration et confort."
 ---
 
 ![A thoughtfully designed home office with natural light, plants, and clean tech](https://images.unsplash.com/photo-1616440347437-b1c73416efc2)
