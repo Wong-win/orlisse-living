@@ -45,3 +45,19 @@ Un test simple : si votre peau est grasse mais aussi tendue et semble terne, vou
 ## Quand votre type de peau change
 
 Le type de peau n'est pas permanent. Il evolue avec l'age (la production de sebum diminue avec le temps -- une peau grasse a l'adolescence devient souvent mixte ou normale a l'age adulte et seche plus tard dans la vie), les hormones (cycles menstruels, grossesse, menopause, medicaments hormonaux), le climat et les saisons. Reevaluez votre type de peau chaque annee ou des que vous remarquez un changement significatif. Les produits qui fonctionnaient l'annee derniere peuvent ne plus etre adaptes a votre peau aujourd'hui.
+
+## Choix des produits par type de peau
+
+**Peau grasse :** Hydratants en gel et gel-creme, niacinamide pour la regulation du sebum, acide salicylique pour le debouchage des pores, ecrans solaires legers (textures essence ou gel coreennes) et formulations sans huile. Evitez les cremes lourdes et les ingredients occlusifs, sauf utilisation parcimonieuse.
+
+**Peau seche :** Hydratants en creme et baume, ceramides pour le soutien de la barriere, squalane et huile de jojoba pour l'emollience, ecrans solaires riches et hydratants. Superposez l'hydratation -- un serum humectant sous un hydratant riche -- pour un effet maximal.
+
+**Peau mixte :** Deux approches : soit utiliser un produit leger partout et ajouter un produit plus riche uniquement sur les zones seches, soit utiliser des produits differents sur differentes zones. Cela semble demande beaucoup d'entretien mais devient automatique rapidement.
+
+**Peau normale :** Le type le plus indulgent. La plupart des produits fonctionneront, mais evitez de surcompliquer votre routine. Une routine basique nettoyer-hydrater-proteger est suffisante -- ne creez pas de problemes en sur-traitant une peau saine.
+
+**Peau sensible :** Routines minimalistes avec peu d'ingredients bien etudies. Evitez les parfums, les huiles essentielles, l'alcool denat et les tensioactifs agressifs. Testez toujours les nouveaux produits sur une petite zone (derriere l'oreille ou sur l'avant-bras) pendant 48 heures avant d'appliquer sur le visage. Introduisez les nouveaux produits un par un.
+
+## Quand votre type de peau change
+
+Le type de peau n'est pas permanent. Il evolue avec l'age (la production de sebum diminue avec le temps), les hormones (cycles menstruels, grossesse, menopause), le climat (les environnements humides rendent la peau plus grasse, les environnements secs la rendent plus seche) et les saisons. Reevaluez votre type de peau chaque annee environ, et chaque fois que vous remarquez un changement significatif. Les produits qui fonctionnaient l'annee derniere peuvent ne plus etre adaptes a votre peau aujourd'hui.

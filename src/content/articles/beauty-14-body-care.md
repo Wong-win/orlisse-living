@@ -45,3 +45,11 @@ Les zones les plus vulnerables aux dommages solaires et au cancer de la peau son
 Une routine de soin corporel complete n'a pas besoin d'etre elaboree. Sous la douche : gel douche doux, exfoliation 1-2x par semaine (brosse seche ou gant exfoliant). Apres la douche, dans les trois minutes : lotion corporelle sur peau humide, en insistant sur les zones seches. Protection solaire sur le visage, le cou, la poitrine et le dos des mains. Une fois par semaine : exfoliation plus approfondie, soin des pieds et attention aux zones rugueuses.
 
 Cela prend environ cinq minutes de plus qu'une douche standard et fait une difference significative dans l'apparence et la sensation de votre peau. La peau de votre corps est le meme organe que celle de votre visage -- elle merite le meme niveau d'attention et de soin.
+
+## Protection solaire pour le corps
+
+Les zones les plus vulnerables aux dommages solaires et au cancer de la peau sont les parties du corps constamment exposees : visage, cou, poitrine, mains et bras. Le visage recoit de la creme solaire ; tout le reste, souvent pas. Pourtant, les mains et la poitrine sont la ou les dommages solaires sont les plus visibles et les plus vieillissants.
+
+Le minimum : ecran solaire sur le visage, le cou et le dos des mains chaque jour. Les mains sont lavees frequemment, donc la reapplication est importante. L'ideal : toute peau exposee recoit de la creme solaire. En ete, cela signifie bras, jambes et pieds aussi. Un ecran solaire corporel leger et non gras rend l'application quotidienne supportable. Les sprays solaires sont plus faciles a appliquer sur de grandes surfaces mais assurez-vous d'en appliquer suffisamment -- la plupart des gens sous-appliquent considerablement les sprays.
+
+La peau de votre corps est le meme organe que celle de votre visage. Elle merite le meme niveau d'attention et de soin -- et la difference se verra avec le temps.

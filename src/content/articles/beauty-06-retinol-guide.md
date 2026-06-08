@@ -65,3 +65,13 @@ N'arretez pas le retinol pendant la purge, sauf si l'irritation est severe. N'aj
 **1 an+ :** Amelioration continue des preoccupations dependantes du collagene : rides fines, fermete, texture globale.
 
 Le meilleur retinol est celui que vous utiliserez avec constance. Commencez bas, allez lentement, et laissez le temps faire le travail. Six mois d'utilisation constante et douce produisent de meilleurs resultats que six semaines d'utilisation agressive suivies de six mois de recuperation d'une barriere endommagee.
+
+## Comment choisir son premier retinol
+
+Pour les peaux sensibles : commencez par un retinol a 0,1%-0,25% dans une base creme ou lotion. Le retinol encapsule (ou l'actif est en suspension dans un systeme de delivrance a liberation lente) est plus doux que le retinol libre. Recherchez des produits contenant aussi des ingredients apaisants comme la niacinamide, les ceramides ou le centella.
+
+Pour les peaux normales : commencez par 0,25%-0,5% de retinol. The Ordinary Granactive Retinoid 2% Emulsion est un point de depart populaire et abordable. CeraVe Resurfacing Retinol Serum est une autre excellente option d'entree de gamme avec une formule douce et hydratante.
+
+Pour les peaux a tendance acneique : l'adapalene 0,1% (Differin) est souvent un meilleur premier choix que le retinol. Il est plus efficace pour l'acne avec moins d'irritation, et disponible en vente libre pour environ 15 euros.
+
+Le meilleur retinol est celui que vous utiliserez avec constance. Commencez bas, allez lentement, et laissez le temps faire le travail. Six mois d'utilisation constante et douce produisent de meilleurs resultats que six semaines d'utilisation agressive suivies de six mois de recuperation d'une barriere endommagee. Le retinol est un marathon, pas un sprint -- et les recompenses valent la patience.

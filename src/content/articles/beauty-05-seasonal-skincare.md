@@ -56,3 +56,13 @@ Plutot que de changer aux dates du calendrier, laissez votre peau vous dire quan
 La regle de transition d'une semaine : introduisez un changement a la fois, avec au moins une semaine entre chaque nouveau produit. Ainsi, si quelque chose provoque une reaction, vous savez exactement ce que c'etait.
 
 Les produits qui restent identiques toute l'annee : ecran solaire (SPF 30+, toujours), serum vitamine C (votre antioxydant de jour), nettoyant doux (la texture peut changer mais gardez un pH equilibre) et contour des yeux si vous en utilisez un. L'objectif n'est pas de posseder des dizaines de produits pour differentes saisons -- c'est de comprendre les besoins changeants de votre peau et de vous adapter avec quelques changements strategiques de texture et de focus.
+
+## Produits qui restent identiques toute l'annee
+
+Quelques categories doivent rester constantes independamment de la saison : ecran solaire (SPF 30+, toujours, chaque jour, sans exception), serum vitamine C (votre antioxydant de jour, toute l'annee), nettoyant doux (vous pouvez changer de texture mais gardez un pH equilibre) et contour des yeux si vous en utilisez un (la zone des yeux a moins de glandes sebacees et beneficie de soins constants).
+
+## La regle de transition d'une semaine
+
+Quand vous changez de produits, ne changez pas tout d'un coup. Introduisez un changement a la fois, avec au moins une semaine entre chaque nouveau produit. Ainsi, si quelque chose provoque une reaction, vous savez exactement ce que c'etait. Cela donne aussi a votre peau le temps de s'adapter.
+
+L'objectif des soins saisonniers n'est pas de posseder des dizaines de produits pour differentes periodes de l'annee. C'est de comprendre les besoins changeants de votre peau et de vous adapter en consequence -- souvent avec juste quelques changements strategiques de texture et d'orientation. Un hydratant plus leger en ete, un plus riche en hiver, et une protection solaire constante toute l'annee vous meneront plus loin qu'une routine elaboree qui ne tient pas compte de l'environnement dans lequel votre peau vit reellement.
