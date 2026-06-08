@@ -5,8 +5,7 @@ category: "beauty"
 keywords: "hair brush beauty care products routine styling"
 excerpt: "La plupart des conseils sont ecrits pour un seul type. Voici une routine pour le votre."
 ---
-
-![A collection of hair care products for different hair types](https://images.unsplash.com/photo-1526947425960-945c6e72858f)
+![Une collection de produits capillaires pour differents types de cheveux](https://images.unsplash.com/photo-1526947425960-945c6e72858f)
 
 La plupart des conseils capillaires echouent pour une raison simple : ils supposent que tout le monde a les memes cheveux. Les produits qui donnent a votre amie des ondulations brillantes et rebondissantes pourraient laisser vos cheveux gras et mous. La routine qui a transforme les boucles de votre collegue pourrait ne rien faire pour vos cheveux fins et raides. Les soins capillaires sont profondement individuels -- ils dependent de votre type de cheveux, de votre porosite, de votre densite, de l'etat de votre cuir chevelu, du climat, de la durete de l'eau et de la facon dont vous traitez vos cheveux (coloration, chaleur, traitements chimiques).
 
@@ -14,36 +13,67 @@ Ce guide decompose les routines pour les principaux types de cheveux, en partant
 
 ## Comprendre vos cheveux
 
-Avant de construire une routine, comprenez avec quoi vous travaillez :
+Avant de construire une routine, comprenez avec quoi vous travaillez.
 
-**Type de cheveux (texture) :** La forme de vos meches individuelles. Type 1 : raides (pas de boucle). Type 2 : ondules (courbes en S). Type 3 : boucles (boucles definies). Type 4 : crepus (boucles serrees et motifs en zigzag). La plupart des gens ont plusieurs types sur une meme tete.
+**Type de cheveux (texture) :** La forme de vos meches individuelles. Type 1 : raides (pas de boucle). Type 2 : ondules (courbes en S). Type 3 : boucles (boucles definies). Type 4 : crepus (boucles serrees et motifs en zigzag). La plupart des gens ont plusieurs types sur une meme tete -- plus laches a la nuque, plus serres a la couronne.
 
-**Porosite :** La facilite avec laquelle vos cheveux absorbent et perdent l'humidite. Faible porosite : cuticules bien fermees, resiste a l'humidite mais la retient bien. Haute porosite : cuticules soulevees, absorbe vite mais perd vite.
+**Porosite :** La facilite avec laquelle vos cheveux absorbent et perdent l'humidite. Faible porosite : cuticules bien fermees -- resiste a l'humidite (l'eau perle a la surface) mais la retient bien une fois absorbee. Haute porosite : cuticules soulevees, endommagees ou naturellement ouvertes -- absorbe l'humidite rapidement mais la perd aussi vite. Porosite moyenne : le juste milieu.
 
-**Densite :** Le nombre de meches par centimetre carre de cuir chevelu -- different de l'epaisseur de la meche individuelle.
+**Densite :** Le nombre de meches par centimetre carre de cuir chevelu. Different de l'epaisseur de la meche individuelle (fine, moyenne ou epaisse).
 
 **Etat du cuir chevelu :** Gras, sec, pelliculaire, sensible ou equilibre. Votre cuir chevelu est de la peau -- il a besoin de soins tout comme la peau de votre visage.
 
 ## Les principes universels
 
-Quel que soit le type de cheveux, quatre principes s'appliquent a tout le monde :
+Quel que soit le type de cheveux, quatre principes s'appliquent a tout le monde.
 
-**1. Lavez le cuir chevelu, revitalisez les pointes.** Le shampooing est pour le cuir chevelu, ou l'huile et les accumulations s'accumulent. L'apres-shampooing est pour les mi-longueurs et les pointes, qui sont plus anciennes, plus abimees et moins hydratees. Mettre de l'apres-shampooing sur le cuir chevelu peut entraîner des accumulations et de la graisse.
+**1. Lavez le cuir chevelu, revitalisez les pointes.** Le shampooing est pour le cuir chevelu, la ou l'huile et les accumulations s'accumulent. L'apres-shampooing est pour les mi-longueurs et les pointes, plus anciennes, plus abimees et moins hydratees que la racine. Mettre de l'apres-shampooing sur le cuir chevelu peut entrainer des accumulations ; shampouiner les pointes les asseche inutilement.
 
-**2. La protection thermique est non negociable.** Chaque fois que vous appliquez de la chaleur directe au-dessus de 150 degres, vous causez des dommages cumulatifs et irreversibles a la structure proteique de vos cheveux. Un spray ou une creme thermoprotecteur cree un tampon.
+**2. La protection thermique est non negociable.** Chaque fois que vous appliquez de la chaleur directe au-dessus de 150 degres Celsius, vous causez des dommages cumulatifs et irreversibles a la structure proteique de vos cheveux. Un spray ou une creme thermoprotecteur cree un tampon qui reduit -- mais n'elimine pas -- ces dommages.
 
-**3. Les cheveux mouilles sont fragiles.** Les cheveux sont les plus vulnerables a la casse quand ils sont mouilles. Ne brossez jamais les cheveux mouilles avec un peigne fin. Utilisez un peigne a dents larges ou une brosse demelante, en commencant par les pointes.
+**3. Les cheveux mouilles sont fragiles.** Les cheveux sont les plus vulnerables a la casse quand ils sont mouilles parce que les liaisons hydrogenes qui leur donnent leur force sont temporairement rompues. Ne brossez jamais les cheveux mouilles avec un peigne fin. Utilisez un peigne a dents larges ou une brosse demelante a picots flexibles, en commencant toujours le demelage par les pointes, en remontant vers les racines.
 
-**4. Pas besoin de laver tous les jours.** Le shampooing quotidien elimine les huiles naturelles. La plupart des types de cheveux se portent bien avec un lavage tous les 2 a 4 jours.
+**4. Vous n'avez pas besoin de laver vos cheveux tous les jours.** Le shampooing quotidien elimine les huiles naturelles qui protegent et hydratent vos cheveux. La plupart des types de cheveux se portent bien avec un lavage tous les 2 a 4 jours. L'exception : les cheveux tres fins et gras qui peuvent necessiter un lavage quotidien. Le shampooing sec est votre allie les jours sans lavage.
 
 ## Routines par type de cheveux
 
-**Type 1 (Raides) :** Le defi est la gestion du sebum. Lavage tous les 1-3 jours. Shampooing clarifiant ou volumateur. Apres-shampooing leger aux pointes uniquement. Shampooing sec entre les lavages.
+### Type 1 : Cheveux raides
 
-**Type 2 (Ondules) :** Lavage tous les 2-4 jours. Shampooing sans sulfate. Apres-shampooing hydratant des mi-longueurs aux pointes. Creme coiffante ou mousse appliquee sur cheveux mouilles, froisser vers le haut. Ne pas toucher pendant le sechage.
+Le defi des cheveux raides est la gestion du sebum. Le sebum descend facilement le long des meches droites, donc les cheveux raides ont tendance a paraître gras plus vite que les cheveux textures. Ils tendent aussi vers un aspect plat aux racines.
 
-**Type 3 (Boucles) :** Le defi est la retention d'hydratation. Lavage tous les 3-7 jours. Co-washing entre les shampoings. Apres-shampooing riche avec du glissant. Soin profond hebdomadaire. Produits coiffants appliques sur cheveux trempes. Dormir sur taie d'oreiller en soie.
+**Frequence de lavage :** Tous les 1 a 3 jours, selon la production de sebum. Les cheveux raides et fins ont besoin d'un lavage plus frequent que les cheveux raides et epais.
+**Shampooing :** Clarifiant ou volumateur. Les sulfates sont acceptables si votre cuir chevelu est gras ; evitez-les s'il est sec ou sensible.
+**Apres-shampooing :** Formule legere appliquee uniquement sur les pointes. Evitez les racines.
+**Entre les lavages :** Shampooing sec aux racines applique le soir -- il absorbe l'huile pendant la nuit et parait plus naturel au matin.
 
-**Type 4 (Crepus) :** Le type le plus fragile. Lavage tous les 7-14 jours. Shampooing ultra-hydratant sans sulfate. Demelage toujours sur cheveux mouilles et satures d'apres-shampooing, en sections. Coiffures protectrices. Hydratation quotidienne avec un spray a base d'eau suivi d'une huile legere.
+### Type 2 : Cheveux ondules
 
-Coupes regulieres toutes les 8-12 semaines. Les pointes fourchues ne se reparant pas, couper les empeche de se propager le long de la tige.
+Les cheveux ondules existent dans l'espace entre le raide et le boucle. Ils peuvent etre coiffes lisses ou encourages a onduler, ce qui les rend polyvalents et aussi frustrants.
+
+**Frequence de lavage :** Tous les 2 a 4 jours. Les cheveux ondules ont tendance a etre plus secs que les raides.
+**Shampooing :** Sans sulfate, hydratant.
+**Apres-shampooing :** Hydratant des mi-longueurs aux pointes. Recherchez glycerine, aloe vera, huiles legeres.
+**Coiffage pour ondulations definies :** Appliquez une creme coiffante ou une mousse sur cheveux mouilles, froissez vers le haut, sechez a l'air ou au diffuseur. Ne touchez pas pendant le sechage.
+**Entre les lavages :** Rafraichissez avec un spray d'eau et d'apres-shampooing sans rincage.
+
+### Type 3 : Cheveux boucles
+
+Le defi principal est la retention d'hydratation. Le motif de boucle empeche le sebum de descendre la tige, donc les cheveux boucles sont chroniquement secs. Ils tendent aussi aux frisottis.
+
+**Frequence de lavage :** Tous les 3 a 7 jours.
+**Shampooing :** Sans sulfate, hydratant, principalement sur le cuir chevelu. Co-washing benefique entre les shampoings.
+**Apres-shampooing :** Riche et cremeux, applique genereusement. Demelez au peigne a dents larges avec l'apres-shampooing, laissez poser 3-5 minutes.
+**Soin profond :** Hebdomadaire, laissez poser 20-30 minutes.
+**Coiffage :** Appliquez les produits sur cheveux trempes. Dormez sur une taie d'oreiller en soie ou en satin. Le "pineapple" (queue de cheval haute et lache) preserve les boucles.
+
+### Type 4 : Cheveux crepus
+
+Le type le plus fragile et le plus sujet a la secheresse et a la casse. Les huiles naturelles ne peuvent pratiquement pas descendre la tige.
+
+**Frequence de lavage :** Tous les 7 a 14 jours.
+**Shampooing :** Ultra-hydratant sans sulfate, ou nettoyant conditionneur. Concentrez-vous sur le cuir chevelu.
+**Apres-shampooing et soin profond :** Ultra-riche, a chaque lavage. Demelage toujours sur cheveux mouilles et satures, en sections, des pointes vers les racines.
+**Coiffures protectrices :** Tresses, twists qui rentrent les pointes. Durent 1-8 semaines avec un entretien approprie.
+**Entre les lavages :** Hydratation quotidienne avec la methode LOC (Liquide, Huile, Creme) ou LCO.
+
+Coupes regulieres toutes les 8-12 semaines. Les pointes fourchues ne se reparent pas -- elles continuent de se fendre. Couper les empeche de se propager.
