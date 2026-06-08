@@ -1,4 +1,2 @@
 name = "orlisse-living"
-compatibility_date = "2026-06-03"
-account_id = "1cdb0f6868f08184d88f6ab3f99cebcd"
 pages_build_output_dir = "./dist"
