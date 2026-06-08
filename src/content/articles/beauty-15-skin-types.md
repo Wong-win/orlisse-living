@@ -8,20 +8,40 @@ excerpt: "La plupart des gens identifient mal leur type de peau. Voici comment l
 
 ![Examining skin in natural light](https://images.unsplash.com/photo-1670201203208-055d6d79db4a)
 
-La plupart des gens ne connaissent pas leur vrai type de peau. Identifier correctement votre type de peau est la base de soins efficaces. Chaque decision de produit en decoule.
+La plupart des gens ne connaissent pas leur vrai type de peau. Ils supposent avoir la peau grasse parce que leur zone T brille a midi, ou la peau seche parce que leurs joues tiraillent apres le nettoyage, ou la peau sensible parce qu'un produit leur a un jour provoque des boutons. Ces autodiagnostics sont souvent faux, et ils conduisent a l'achat de produits qui traitent les mauvaises preoccupations -- parfois en aggravant le probleme reel.
+
+Identifier correctement votre type de peau est la fondation de soins efficaces. Chaque decision de produit en decoule. Voici comment determiner ce que vous avez reellement et ce qu'il faut faire a ce sujet.
 
 ## Les cinq types de peau
 
-**Normale :** Production equilibree de sebum. Confortable apres le nettoyage. **Grasse :** Production excessive. Pores visiblement elargis. Brille a midi. **Seche :** Production insuffisante. Sensation de tiraillement, pores petits. **Mixte :** Zone T grasse, joues normales ou seches. La plus courante. **Sensible :** Reactive, rougit facilement.
+La dermatologie reconnait cinq types de peau de base, determines principalement par la genetique mais influences par l'age, les hormones, le climat et les medicaments :
+
+**Normale :** Production de sebum et d'eau equilibree. Ni excessivement grasse ni seche. Les pores sont visibles mais non elargis. Les eruptions sont occasionnelles. La peau est confortable apres le nettoyage -- ni tendue ni grasse.
+
+**Grasse :** Les glandes sebacees hyperactives produisent un exces de sebum. Les pores sont visiblement elargis, particulierement dans la zone T. La peau semble brillante, surtout a midi. Les eruptions sont frequentes. Le maquillage peut glisser ou necessiter des retouches frequentes.
+
+**Seche :** Les glandes sebacees sous-actives produisent un sebum insuffisant. Les pores sont petits et a peine visibles. La peau est tendue, particulierement apres le nettoyage. La desquamation, la texture rugueuse et les ridules de deshydratation sont courantes. La peau peut sembler terne.
+
+**Mixte :** Le type de peau le plus courant. La zone T (front, nez, menton) est grasse, tandis que les joues et la machoire sont normales ou seches. Differentes zones du visage necessitent des soins differents.
+
+**Sensible :** Pas techniquement un type de peau dans le cadre huile-eau, mais une categorie distincte caracterisee par la reactivite. La peau sensible est sujette aux rougeurs, picotements, brulures et irritations en reponse aux produits, a la meteo ou aux facteurs environnementaux. Elle peut coexister avec n'importe lequel des types ci-dessus (grasse et sensible, seche et sensible, etc.).
 
 ## Le test du visage nu
 
-Lavez avec un nettoyant doux. N'appliquez rien. Attendez une heure. Examinez votre peau. Pressez un mouchoir sur differentes zones : huile partout = gras, zone T seulement = mixte, pas d'huile + tiraillement = sec.
+Le moyen le plus simple et le plus fiable de determiner votre type de peau :
+
+1. Lavez votre visage avec un nettoyant doux. Sechez en tapotant. N'appliquez rien.
+2. Attendez une heure. Ne touchez pas votre visage pendant ce temps.
+3. Apres une heure, examinez votre peau a la lumiere naturelle. Pressez un mouchoir propre sur differentes zones de votre visage.
+
+Le mouchoir recueille de l'huile partout : peau grasse. Le mouchoir recueille de l'huile uniquement dans la zone T : peau mixte. Le mouchoir ne recueille aucune huile, la peau est tendue ou pèle : peau seche. Le mouchoir recueille un minimum d'huile, la peau est confortable : peau normale.
 
 ## Deshydratation vs secheresse
 
-La peau seche manque d'huile. La peau deshydratee manque d'eau. Elles peuvent coexister. La deshydratation se traite avec des humectants, pas des huiles.
+L'une des confusions les plus courantes est de confondre peau deshydratee et peau seche. La peau seche est un type de peau -- genetique et constant. Elle signifie que votre peau produit insuffisamment de sebum. La solution est d'ajouter des produits a base d'huile. La peau deshydratee est une condition temporaire qui peut affecter n'importe quel type de peau, y compris les peaux grasses. Elle signifie que votre peau manque d'eau, pas d'huile. La solution est l'hydratation a base d'eau.
 
-## Quand votre type change
+Un test simple : si votre peau est grasse mais aussi tendue et semble terne, vous avez probablement une peau grasse et deshydratee. La solution est une hydratation legere (gel hydratant, serum a l'acide hyaluronique) plutot que des produits lourds a base d'huile.
 
-Avec l'age, les hormones, le climat, les saisons. Reevaluez chaque annee. Les produits qui fonctionnaient l'annee derniere peuvent ne plus convenir aujourd'hui.
+## Quand votre type de peau change
+
+Le type de peau n'est pas permanent. Il evolue avec l'age (la production de sebum diminue avec le temps -- une peau grasse a l'adolescence devient souvent mixte ou normale a l'age adulte et seche plus tard dans la vie), les hormones (cycles menstruels, grossesse, menopause, medicaments hormonaux), le climat et les saisons. Reevaluez votre type de peau chaque annee ou des que vous remarquez un changement significatif. Les produits qui fonctionnaient l'annee derniere peuvent ne plus etre adaptes a votre peau aujourd'hui.

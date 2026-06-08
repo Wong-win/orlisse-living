@@ -6,22 +6,34 @@ keywords: "ingredients,hyaluronic,niacinamide,peptide,skincare"
 excerpt: "Ces trois ingredients apparaissent partout. Voici ce qu'ils font vraiment."
 ---
 
-![Skincare serums with hyaluronic acid, niacinamide, and peptides](https://images.unsplash.com/photo-1748543668676-ea8241cb3886)
+![Skincare serums with key ingredients](https://images.unsplash.com/photo-1748543668676-ea8241cb3886)
 
-Les listes d'ingredients des produits de soin sont ecrites dans une langue que la plupart des consommateurs ne parlent pas. Mais derriere le jargon, les ingredients actifs de vos produits de soin appartiennent a un ensemble relativement restreint de categories bien etudiees.
+Les listes d'ingredients des produits de soin sont ecrites dans une langue que la plupart des consommateurs ne parlent pas. Le systeme de la Nomenclature Internationale des Ingredients Cosmetiques (INCI) exige que les ingredients soient listes par leurs noms chimiques plutot que par leurs noms courants, ce qui signifie que meme des substances familieres apparaissent comme des chaines intimidantes de terminologie latine et scientifique. Mais derriere le jargon, les ingredients actifs de vos produits de soin appartiennent a un ensemble relativement restreint de categories bien etudiees.
 
-Trois des plus courants -- et des plus efficaces -- sont l'acide hyaluronique, la niacinamide et les peptides. Vous trouverez au moins l'un d'eux dans pratiquement chaque serum, hydratant et produit de traitement du marche. Voici ce que chacun fait reellement.
+Trois des plus courants -- et des plus efficaces -- sont l'acide hyaluronique, la niacinamide et les peptides. Vous trouverez au moins l'un d'eux dans pratiquement chaque serum, hydratant et produit de traitement du marche. Voici ce que chacun fait reellement, ce que les preuves soutiennent et comment les utiliser efficacement.
 
 ## Acide hyaluronique
 
-Un polysaccharide naturel present dans tout le corps. Sa caracteristique definissante est sa capacite extraordinaire a retenir l'eau -- un seul gramme peut retenir jusqu'a six litres d'eau. Dans la peau, l'acide hyaluronique agit comme une eponge moleculaire.
+### Ce que c'est
 
-Applique topiquement, il fonctionne comme un humectant, attirant l'eau dans la peau. L'astuce la plus importante : appliquez sur peau humide et scellez avec un hydratant. Sans occlusion, l'eau s'evapore et la peau s'asseche. Les differentes tailles moleculaires comptent : le haut poids moleculaire reste en surface, le bas poids penetre plus profondement. Les formulations multi-poids sont les plus efficaces.
+L'acide hyaluronique (HA) est un polysaccharide naturel present dans tout le corps, avec les concentrations les plus elevees dans la peau, les articulations et les yeux. Sa caracteristique definissante est sa capacite extraordinaire a retenir l'eau -- un seul gramme d'acide hyaluronique peut retenir jusqu'a six litres d'eau. Dans la peau, le HA agit comme une eponge moleculaire, aidant a maintenir l'hydratation, la repulpage et le volume. Avec l'age, la teneur naturelle en HA de la peau diminue. A 50 ans, la personne moyenne a environ la moitie du HA dans sa peau qu'elle avait a 20 ans.
+
+### Comment l'utiliser
+
+Appliquez l'acide hyaluronique sur peau humide -- c'est le conseil d'utilisation le plus important. Le HA a besoin d'eau pour se lier. S'il est applique sur peau seche dans un environnement sec, il peut en realite attirer l'humidite hors de la peau. Apres avoir applique le HA, appliquez immediatement un hydratant pour sceller l'hydratation.
 
 ## Niacinamide
 
-La vitamine B3 est l'un des actifs les plus polyvalents et les mieux toleres disponibles. Elle reduit l'apparence des pores, renforce la barriere cutanee, estompe l'hyperpigmentation, reduit l'inflammation, et regule la production de sebum. Utilisable matin et soir a 2-10%. Compatible avec presque tous les autres ingredients.
+### Ce que c'est
+
+La niacinamide, egalement connue sous le nom de vitamine B3, est une vitamine hydrosoluble qui sert de precurseur aux coenzymes essentiels impliques dans le metabolisme et la reparation cellulaire. En soins de la peau, c'est l'un des ingredients actifs les plus polyvalents et les mieux toleres disponibles.
+
+### Ce que les preuves soutiennent
+
+La niacinamide reduit l'apparence des pores, renforce la barriere cutanee en stimulant la production de ceramides, estompe l'hyperpigmentation en inhibant le transfert de melanine, reduit l'inflammation, et regule la production de sebum. Utilisable matin et soir a des concentrations de 2-10%.
 
 ## Peptides
 
-De courtes chaines d'acides amines qui signalent a la peau de produire plus de collagene. Moins puissants que les retinoides mais extremement bien toleres. La qualite de la formulation est cruciale -- les peptides sont de grosses molecules qui ont besoin de systemes de delivrance pour penetrer efficacement. A utiliser de preference le matin (retinoides le soir). Les peptides de signal (Matrixyl) sont les plus etudies. Les peptides de cuivre soutiennent la cicatrisation.
+### Ce qu'ils sont
+
+Les peptides sont de courtes chaines d'acides amines -- les blocs de construction des proteines. En soins de la peau, des sequences peptidiques specifiques sont concues pour imiter les signaux que votre corps utilise naturellement pour stimuler la production de collagene. Les peptides de signal (Matrixyl) sont les plus etudies. Les peptides de cuivre soutiennent la cicatrisation. La qualite de la formulation est cruciale car les peptides sont de grosses molecules qui ont besoin de systemes de delivrance pour penetrer efficacement.
