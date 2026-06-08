@@ -1,8 +1,9 @@
----title: "How to Build a Minimalist Skincare Routine That Actually Works"
+---
+title: "Comment construire une routine de soins minimaliste"
 date: "2026-03-28"
 category: "beauty"
 keywords: "minimalist,skincare,routine,simple,essentials"
-excerpt: "You don't need a 10-step routine for great skin. Here's the evidence-based minimalist approach with just the essentials."
+excerpt: "Vous n'avez pas besoin de 10 etapes. Voici l'approche essentielle."
 ---
 ![beauty-13-minimalist-skincare cover](https://images.unsplash.com/photo-1739980104488-408eff709fff)
 The modern skincare industry wants you to believe you need a 10-step routine. Morning and night, a procession of products — cleanser, toner, essence, serum, ampoule, eye cream, moisturizer, face oil, sleeping mask — each promising to address a specific concern. The Korean 10-step routine, once a cultural curiosity, has been absorbed into the global skincare marketing machine and weaponized to sell more products.

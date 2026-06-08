@@ -1,8 +1,9 @@
----title: "The Science of Moisturizers: Creams, Gels, Lotions, and Balms Explained"
+---
+title: "La science des hydratants : cremes, gels et lotions expliques"
 date: "2026-02-06"
 category: "beauty"
 keywords: "moisturizer,cream,gel,lotion,skincare"
-excerpt: "Not all moisturizers work the same way. Here's the science behind the textures and how to choose the right one for your skin."
+excerpt: "Tous les hydratants ne fonctionnent pas de la meme facon. Voici comment choisir."
 ---
 ![beauty-11-moisturizer-science cover](https://images.unsplash.com/photo-1707910393323-d86eee698d21)
 Walk into any skincare aisle and you're confronted with an overwhelming taxonomy of moisturizers: creams, gels, gel-creams, lotions, balms, sleeping masks, water creams, and oil-free hydrators. The differences aren't just marketing — they reflect fundamentally different formulations designed for different skin types, climates, and times of day. Understanding how moisturizers actually work makes choosing between them straightforward rather than overwhelming.

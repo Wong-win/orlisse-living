@@ -1,8 +1,9 @@
----title: "Ingredient Spotlight: Hyaluronic Acid, Niacinamide, and Peptides Explained"
+---
+title: "Gros plan sur les ingredients : acide hyaluronique, niacinamide et peptides"
 date: "2026-03-03"
 category: "beauty"
 keywords: "ingredients,hyaluronic,niacinamide,peptide,skincare"
-excerpt: "These three ingredients appear in nearly every skincare product. Here's what they actually do, how they work, and how to use them."
+excerpt: "Ces trois ingredients apparaissent partout. Voici ce qu'ils font vraiment."
 ---
 ![beauty-12-active-ingredients cover](https://images.unsplash.com/photo-1748543668687-624e058c367c)
 Skincare ingredient lists are written in a language most consumers don't speak. The International Nomenclature of Cosmetic Ingredients (INCI) system requires ingredients to be listed by their chemical names rather than their common ones, which means that even familiar substances appear as intimidating strings of Latin and scientific terminology. But behind the jargon, the active ingredients in your skincare products fall into a relatively small set of well-studied categories.

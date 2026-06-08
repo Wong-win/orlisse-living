@@ -1,8 +1,9 @@
----title: "Body Care Is Skincare Too: The Complete Guide to Taking Care of Your Skin From the Neck Down"
+---
+title: "Les soins du corps comptent aussi : le guide complet"
 date: "2026-04-21"
 category: "beauty"
 keywords: "body,care,moisturizer,exfoliation,skin"
-excerpt: "Your face gets all the attention, but the skin on your body deserves care too. Here's a complete body care routine that's simple and effective."
+excerpt: "Votre visage recoit toute l'attention. Votre corps aussi merite des soins."
 ---
 ![beauty-14-body-care cover](https://images.unsplash.com/photo-1654864471383-50ac3ed9b4f6)
 Skincare culture has an unspoken boundary: everything above the neck gets serums, treatments, and SPF 50; everything below gets whatever body lotion was on sale. This disparity makes no dermatological sense. The skin on your body is the same organ as the skin on your face, subject to the same processes of aging, sun damage, and dehydration. It just happens to be covered by clothing most of the time.

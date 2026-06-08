@@ -1,8 +1,9 @@
----title: "Understanding Skin Types: How to Know What You Actually Have and Why It Matters"
+---
+title: "Comprendre les types de peau : comment savoir ce que vous avez vraiment"
 date: "2026-05-16"
 category: "beauty"
 keywords: "skin,type,oily,dry,combination"
-excerpt: "Most people misidentify their skin type, leading to products that make things worse. Here's how to accurately determine yours and choose accordingly."
+excerpt: "La plupart des gens identifient mal leur type de peau. Voici comment le determiner."
 ---
 ![beauty-15-skin-types cover](https://images.unsplash.com/photo-1670201203208-055d6d79db4a)
 Most people don't know their actual skin type. They assume they have oily skin because their T-zone gets shiny by midday, or dry skin because their cheeks feel tight after washing, or sensitive skin because a product once made them break out. These self-diagnoses are often wrong, and they lead to purchasing products that address the wrong concerns — sometimes making the actual problem worse.
