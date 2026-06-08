@@ -69,3 +69,13 @@ Mat/plat (pas de brillance, cache le mieux les imperfections, le moins durable -
 ## La realite du budget
 
 Peindre une piece soi-meme coute 50-150 euros en materiel (sous-couche, peinture, pinceaux, rouleaux, ruban de masquage, baches) plus 4-8 heures de travail. Engager un professionnel coute 300-800 euros par piece. La preparation est la cle -- scotchez soigneusement, bouchez les trous, poncez les surfaces rugueuses et nettoyez les murs avant de peindre. La qualite de la preparation determine la qualite du resultat final plus que la marque de peinture. Et surtout, ne sautez pas les echantillons. Testez sur vos vrais murs, observez pendant deux jours, puis decidez.
+
+## Erreurs courantes de peinture a eviter
+
+Ne pas tester avant de peindre -- c'est l'erreur numero un. Regarder un echantillon dans le magasin et commander trois pots sans tester sur le mur est la raison de la plupart des regrets de peinture. Les pots d'echantillon coutent 5-8 euros chacun et vous evitent des erreurs a 100 euros et plus.
+
+Choisir une couleur trop foncee pour une petite piece -- les couleurs sombres absorbent la lumiere et peuvent donner l'impression qu'une petite piece est encore plus petite. Si vous voulez une couleur profonde dans un petit espace, utilisez-la comme mur d'accent et gardez les autres murs clairs.
+
+Ignorer les sous-tons -- chaque couleur a des sous-tons qui emergent selon l'eclairage. Un gris peut reveler des sous-tons violets, verts ou bleus. Comparez toujours l'echantillon a un blanc pur pour identifier les sous-tons avant d'acheter.
+
+Oublier le plafond -- un plafond blanc eclatant contre des murs chauds peut sembler decale. Envisagez de peindre le plafond dans une version eclaircie de la couleur des murs pour une transition plus douce. Un plafond peint dans un blanc chaud (plutot qu'un blanc pur) est plus flatteur dans la plupart des pieces.

@@ -41,3 +41,7 @@ Une decouverte surprenante : la hauteur de plafond affecte la facon de penser. L
 ## Principes de conception pratiques
 
 Base sur la recherche, cinq principes pour une conception domestique psychologiquement saine. Donnez un chez-soi a chaque objet. Maximisez la lumiere naturelle. Apportez la nature a l'interieur -- une vraie plante par piece est le minimum. Separez les espaces par fonction -- ne travaillez pas la ou vous dormez, ne mangez pas la ou vous travaillez. Exposez les choses qui vous rendent heureux, cachez les choses qui vous stressent -- une photo qui apporte de la joie merite de l'espace mural, une pile de factures qui provoque de l'anxiete appartient dans un tiroir.
+
+## L'effet de la table a manger
+
+Les familles qui mangent ensemble a une table rapportent une satisfaction relationnelle plus elevee et les enfants de ces familles ont de meilleurs resultats scolaires. La presence physique d'une table a manger ne cause pas ces resultats -- mais elle les permet. Concevoir une maison avec un espace repas designe, sans ecrans, cree les conditions pour que les repas en famille aient lieu. La table n'a pas besoin d'etre grande ou chere. Elle a juste besoin d'exister et d'etre utilisee.

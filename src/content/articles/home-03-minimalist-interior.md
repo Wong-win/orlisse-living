@@ -80,3 +80,11 @@ Les cuisines minimalistes sont les plus difficiles a realiser car les cuisines s
 ## Comment commencer
 
 La transition vers une maison plus minimaliste ne se fait pas en un week-end. C'est un processus graduel d'edition, pas une purge. Mois 1 : arretez d'acquerir. Mois 2 : l'edition visible. Mois 3 : l'edition en profondeur. Mois 4 : raffiner. Ce n'est pas un projet avec une ligne d'arrivee. C'est une facon de se rapporter a votre maison -- et aux choses qui s'y trouvent -- qui privilegie le calme, l'intention et le plaisir tranquille d'un espace bien edite.
+
+## Les benefices d'un interieur minimaliste
+
+Au-dela de l'esthetique, un interieur minimaliste apporte des benefices psychologiques tangibles. Moins de desordre visuel signifie moins de charge cognitive -- votre cerveau n'a pas a traiter des dizaines d'objets en competition pour votre attention chaque fois que vous entrez dans une piece. Le nettoyage devient plus rapide et plus facile parce qu'il y a moins de surfaces a depoussierer et moins d'objets a deplacer. Et peut-etre le plus important : vous commencez a remarquer et a apprecier les choses que vous avez choisies de garder, parce qu'elles ne sont plus noyees dans le bruit visuel de tout le reste.
+
+## Le minimalisme n'est pas une destination
+
+Le minimalisme n'est pas un etat final que vous atteignez un jour et que vous cochez. C'est une pratique continue -- une facon de penser a ce qui entre dans votre maison et a ce qui y reste. Chaque saison, chaque changement de vie, chaque nouvelle phase apporte de nouveaux objets et de nouvelles Priorites. Le minimalisme est le processus qui consiste a aligner continuellement votre espace physique sur votre vie reelle, et non sur la vie que vous pensiez avoir ou la vie que vous esperez avoir un jour.

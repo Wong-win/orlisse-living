@@ -70,3 +70,9 @@ Des tables gigognes -- un ensemble de deux ou trois tables qui s'emboitent les u
 ## La fondation du desencombrement
 
 Aucune de ces solutions de rangement n'a d'importance si vous stockez des choses dont vous n'avez pas besoin. La strategie la plus efficace pour les petits espaces est de posseder moins. Avant de mettre en oeuvre un systeme de rangement, videz tout de l'espace que vous organisez, triez en trois piles (garder -- utilise au cours des 6 derniers mois, stocker -- saisonnier ou sentimental, et liberer -- pas utilise depuis plus d'un an), ne remettez en place que la pile garder, puis implementez les solutions de rangement qui servent ces articles. Un petit chez-soi avec des affaires soigneusement editees et un rangement intelligent semble spacieux et calme. Commencez par la zone qui vous derange le plus. Mettez en oeuvre une solution. Vivez avec pendant une semaine avant de passer a la suivante.
+
+## Des solutions de rangement specifiques pour chaque piece
+
+Dans l'entree : un porte-manteau mural libere l'espace au sol tout en gardant les manteaux et sacs accessibles. Dans la chambre : des organisateurs de tiroir divisent l'espace et permettent de ranger les vetements verticalement (comme des dossiers) plutot qu'empiles -- un tiroir divise peut contenir significativement plus qu'un tiroir non divise. Dans le salon : un meuble televiseur avec rangement ferme cache les cables, les consoles de jeu et le desordre electronique. Dans le couloir : une bibliotheque etroite (20-25 cm de profondeur) offre du rangement sans entraver le passage.
+
+Le rangement intelligent en petit espace, bien fait, n'est pas un projet unique -- c'est un systeme evolutif qui s'adapte a mesure que vos besoins changent. L'objectif est un chez-soi qui soutient votre vie reelle, pas celle qu'un catalogue imagine que vous devriez avoir.

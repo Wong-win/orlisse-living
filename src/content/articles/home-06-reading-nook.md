@@ -61,3 +61,9 @@ C'est la que le douillet se produit. La difference entre une chaise dans un coin
 ## Le budget detaille
 
 Configuration minimale (200-400 euros) : fauteuil IKEA STRANDMON (299 euros), lampadaire IKEA RANARP (49 euros), une table d'appoint de friperie (20-30 euros), un plaid en laine que vous avez deja et une pile de livres au sol. Configuration intermediaire (500-800 euros) : fauteuil club vintage (300-500 euros), lampe pharmacie en laiton (100-150 euros), petite table d'appoint en bois massif (50-100 euros), plaid en laine (50-80 euros), bibliotheque etroite (50-80 euros). Configuration investissement (1000 euros et plus) : fauteuil de qualite superieure (800 euros et plus), lampadaire de designer (200 euros et plus), table d'appoint en bois massif (100 euros et plus), plaid en cachemire (150 euros et plus), bibliotheque sur mesure. Le coin lecture, a tout budget, est l'un des investissements au meilleur rendement que vous puissiez faire dans votre maison.
+
+## Pourquoi un coin lecture change tout
+
+Un coin lecture dedie n'est pas un luxe -- c'est un investissement dans votre vie interieure. Avoir un endroit specifique pour lire envoie un signal a votre cerveau : c'est l'endroit ou l'on ralentit, ou l'on se concentre, ou l'on echappe aux ecrans. C'est un sanctuaire analogique dans un monde numerique. Et l'un des plus beaux aspects d'un coin lecture est qu'il ne necessite pas d'etre grand ou cher pour etre efficace. Un fauteuil confortable, une bonne lumiere et une pile de livres a cote -- c'est tout ce dont vous avez besoin pour creer un espace qui vous appelle a vous asseoir et a lire.
+
+Dans un monde ou nous passons de plus en plus de temps devant des ecrans, un coin lecture est une forme de resistance douce. C'est un endroit sans notifications, sans defilement infini, sans publicites. Juste vous, un livre et le plaisir tranquille de tourner les pages. Cela vaut chaque minute et chaque euro investi pour le creer.

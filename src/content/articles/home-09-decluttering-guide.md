@@ -71,3 +71,11 @@ Greniers, sous-sols, garages et placards de couloir sont la ou les objets vont m
 ## Maintenir le systeme
 
 Le desencombrement n'est pas un evenement ponctuel. Deux habitudes d'entretien empechent la recidive. La regle un entre, un sort : pour chaque nouvel article, un article comparable sort. Le balayage trimestriel : tous les trois mois, passez une heure a parcourir votre maison avec une boite a dons. L'objectif n'est pas une maison vide. C'est une maison ou tout ce que vous possedez est quelque chose que vous utilisez, dont vous avez besoin ou que vous aimez vraiment -- et ou vous pouvez trouver ce que vous cherchez sans deplacer une pile de choses que vous avez oublie posseder.
+
+## Le desencombrement numerique
+
+Le desordre ne se limite pas aux objets physiques. Le desordre numerique -- des milliers d'emails non lus, un bureau d'ordinateur couvert de fichiers, des notifications constantes -- cree une charge cognitive similaire au desordre physique. Passez une heure a vous desabonner des newsletters que vous ne lisez jamais. Supprimez les applications que vous n'utilisez pas. Organisez les fichiers de votre bureau dans des dossiers. Videz votre dossier de telechargements. Configurez des filtres d'email pour trier automatiquement les messages promotionnels. L'objectif est le meme que pour le desordre physique : que seules les choses qui meritent votre attention occupent votre champ visuel.
+
+## Pourquoi le desencombrement en vaut la peine
+
+Une maison desencombree n'est pas seulement plus agreable a regarder -- elle est plus facile a vivre. Vous trouvez ce que vous cherchez sans chercher. Le nettoyage prend moins de temps. Vous utilisez reellement les choses que vous possedez parce que vous pouvez les voir et y acceder. Et il y a un avantage psychologique plus profond : une maison ou tout a sa place est une maison qui vous soutient plutot que de vous stresser. C'est un endroit qui travaille pour vous, pas un endroit qui exige constamment votre attention et votre energie pour le maintenir.
