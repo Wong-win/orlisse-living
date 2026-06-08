@@ -62,3 +62,31 @@ Les appareils moins chers avec une irradiance plus faible n'ont montre que des r
 ## Ce qui compte plus que la marque
 
 L'irradiance publiee (recherchez 40+ mW/cm2 pour la lumiere rouge/NIR), la specificite de longueur d'onde, le temps de traitement a irradiance efficace, le confort et l'ajustement. La constance est primordiale. Notre meilleure recommandation : le CurrentBody Skin LED Mask pour son equilibre entre confort, irradiance efficace et valeur. Pour ceux qui veulent le traitement le plus court, le Dr. Dennis Gross DRx SpectraliteFaceWare Pro est ce qui se rapproche le plus des resultats cliniques a domicile.
+
+## Erreurs a eviter avec la therapie LED
+
+**Utilisation irreguliere :** La therapie LED necessite une exposition cumulative sur des semaines a des mois. Utiliser un masque trois fois une semaine puis sauter deux semaines ne produira pas de resultats. La constance compte plus que la duree des sessions.
+
+**Utiliser des actifs juste avant le traitement :** Certains ingredients, notamment les retinoides et les acides forts, peuvent augmenter la photosensibilite. Bien que la lumiere LED ne soit pas UV, la combinaison peut provoquer une irritation inattendue chez certaines personnes. Appliquez votre traitement LED sur une peau propre et seche, sans actifs.
+
+**Attendre des resultats de type Botox :** La therapie LED fournit une amelioration subtile et cumulative au fil du temps. Elle ne produira pas les resultats spectaculaires et immediats des injectables. Considérez-la comme un entretien preventif, pas un traitement correctif.
+
+**Sauter la protection oculaire :** La plupart des masques domestiques incluent une protection oculaire integree ou sont fournis avec des lunettes. Utilisez-les. Bien que la lumiere LED ne soit pas UV, l'exposition prolongee a une lumiere vive a courte distance des yeux est un domaine pour lequel les donnees de securite a long terme sont insuffisantes. Faites preuve de prudence.
+
+## Comment choisir le bon masque LED pour vous
+
+**Pour les debutants :** Commencez par un appareil qui publie ses specifications d'irradiance et de longueur d'onde. Le CurrentBody Skin LED Mask est notre recommandation pour les debutants -- confortable, efficace et a un prix raisonnable.
+
+**Pour les peaux acneiques :** Recherchez un masque qui combine lumiere rouge et lumiere bleue. La combinaison traite a la fois l'inflammation et les bacteries responsables de l'acne. Le Dr. Dennis Gross DRx SpectraliteFaceWare Pro offre les deux modes.
+
+**Pour les peaux matures :** Privilegiez la lumiere rouge et le proche infrarouge. Plus l'irradiance est elevee, mieux c'est -- cela reduit le temps de traitement necessaire pour atteindre des doses therapeutiques.
+
+**Pour les petits budgets :** Les masques LED sont un investissement. Si votre budget est limite, investissez plutot dans une routine de soins solide -- ecran solaire, retinoide, vitamine C -- qui produira des resultats plus significatifs pour moins d'argent. Un masque LED est un complement, pas une necessite.
+
+## L'essentiel
+
+La therapie LED a domicile est l'un des rares appareils de beaute avec un veritable soutien scientifique. Cependant, l'efficacite varie considerablement d'un produit a l'autre en fonction de l'irradiance, de la specificite de longueur d'onde et du protocole de traitement. Les meilleurs appareils domestiques peuvent produire des ameliorations mesurables de la texture, de la fermete et de l'acne sur 8-12 semaines d'utilisation reguliere -- mais ils ne sont pas equivalents aux traitements professionnels.
+
+Notre recommandation principale, en equilibre prix-performance : le CurrentBody Skin LED Mask. Pour ceux qui sont prets a investir davantage pour le temps de traitement le plus court, le Dr. Dennis Gross DRx SpectraliteFaceWare Pro est ce qui se rapproche le plus des resultats cliniques a domicile.
+
+Mais rappelez-vous : la therapie LED, comme tous les soins de la peau, fonctionne mieux dans le cadre d'une routine coherente qui inclut les fondamentaux -- ecran solaire, nettoyage et hydratation. Aucun appareil ne remplace ces bases.

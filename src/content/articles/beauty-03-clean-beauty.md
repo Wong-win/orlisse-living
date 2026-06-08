@@ -63,3 +63,17 @@ Cela ne signifie pas que le mouvement soit sans merite. La pression des consomma
 Plutot que de se concentrer exclusivement sur ce qu'il faut eviter, voici des ingredients avec des preuves solides : niacinamide, ceramides, centella, peptides, acide azelaique. Concentrez-vous sur des ingredients efficaces a des concentrations adequates, dans des emballages qui protegent la formule.
 
 Le principe le plus important n'est pas << propre >> ou << naturel >> -- c'est << fonde sur des preuves >>.
+
+## Un cadre pratique pour evaluer les produits
+
+Plutot que de vous fier aux etiquettes << propre >> ou << naturel >>, evaluez les produits selon ces criteres fondes sur des preuves :
+
+1. **La marque divulgue-t-elle la liste complete des ingredients ?** Sinon, passez votre chemin.
+2. **Les ingredients actifs cles sont-ils a des concentrations efficaces ?** Beaucoup de produits incluent des ingredients tendance a des niveaux trop bas pour avoir un effet.
+3. **Le produit est-il formule au bon pH pour que les actifs fonctionnent ?** La vitamine C necessite un pH bas ; la niacinamide fonctionne mieux pres du neutre.
+4. **L'emballage protege-t-il la formule ?** Les actifs dans des pots perdent leur efficacite a chaque ouverture. Les pompes sans air et les emballages opaques preservent la puissance.
+5. **Le produit a-t-il ete teste ?** Pas necessairement des essais cliniques pour chaque produit, mais au minimum, une marque devrait pouvoir expliquer ses normes de test.
+
+## L'essentiel
+
+Le principe de soin le plus important n'est pas << propre >> ou << naturel >> -- c'est << fonde sur des preuves >>. Concentrez-vous sur des ingredients avec un solide soutien scientifique a des concentrations efficaces. Evitez le marketing base sur la peur qui presente tous les ingredients synthetiques comme dangereux et tous les naturels comme surs. Et rappelez-vous : un produit bien formule d'une marque transparente vaut plus qu'une etiquette << propre >> sur un flacon qui ne produit aucun resultat.

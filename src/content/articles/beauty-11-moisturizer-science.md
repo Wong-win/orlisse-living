@@ -37,3 +37,9 @@ La plupart des hydratants combinent les trois fonctions dans des proportions var
 ## Choix par type de peau et saison
 
 Votre hydratant devrait changer avec les saisons, meme si votre type de peau ne change pas. En ete humide, la plupart des types de peau peuvent descendre d'un niveau dans le spectre. En hiver sec, montez d'un niveau. Cet ajustement saisonnier simple evite a la fois la congestion estivale et la secheresse hivernale.
+
+## L'ordre d'application
+
+L'hydratant est generalement la derniere etape d'une routine de soins, applique apres le nettoyage, le traitement et la protection. La sequence correcte : nettoyant, traitements a base d'eau (toniques, essences, serums), hydratant, ecran solaire (le matin). Le soir, l'hydratant peut etre l'etape finale, ou vous pouvez appliquer un baume occlusif ou une huile pour le visage par-dessus votre hydratant pour tout sceller.
+
+L'hydratation n'est pas optionnelle. Meme les peaux grasses ont besoin d'hydratation -- priver la peau d'hydratation peut declencher une production accrue de sebum alors que la peau tente de compenser. Le bon hydratant, dans la bonne texture, pour votre type de peau et votre climat, est aussi fondamental pour les soins de la peau que l'ecran solaire.

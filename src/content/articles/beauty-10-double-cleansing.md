@@ -65,3 +65,11 @@ Le processus total prend environ deux a trois minutes -- a peine plus longtemps 
 ## Erreurs courantes
 
 Sauter le nettoyage a l'huile parce qu'on a la peau grasse. Utiliser de l'eau avant le nettoyage a l'huile. Se precipiter. Utiliser un deuxieme nettoyant trop agressif. Faire un double nettoyage le matin -- inutile et potentiellement irritant.
+
+## Ce a quoi s'attendre
+
+Quand vous commencez le double nettoyage, vous remarquerez peut-etre des changements immediats : une peau qui semble vraiment propre mais pas agressee, moins d'eruptions apres quelques semaines, et une meilleure absorption de vos produits de traitement. Vous pourriez egalement connaitre une breve << purge >> pendant que les pores congestionnes se liberent enfin -- cela devrait se resoudre en deux a trois semaines.
+
+Le retour le plus frequent des personnes qui adoptent le double nettoyage est la surprise de decouvrir combien de residus leur routine precedente laissait derriere elle. Cette seule observation -- << je n'avais aucune idee que ma peau n'etait pas vraiment propre >> -- est le meilleur argument pour essayer.
+
+Le double nettoyage n'est ni une tendance ni un gadget. C'est une approche simple, fondee sur la chimie, de l'etape la plus fondamentale des soins de la peau. Pour le cout d'un produit supplementaire et deux minutes de plus par soir, il ameliore sensiblement la fondation sur laquelle chaque autre produit de votre routine depend.

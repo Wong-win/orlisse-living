@@ -39,3 +39,9 @@ Les zones les plus vulnerables aux dommages solaires et au cancer de la peau son
 **Poils incarnes :** La prevention est plus efficace que le traitement. Exfoliation douce 2-3x par semaine dans les zones sujettes aux poils incarnes. Hydratez quotidiennement. Rasez dans le sens du poil avec une lame propre et tranchante.
 
 **Talons secs et craqueles :** Lime a pieds ou pierre ponce 1-2x par semaine, suivie d'une creme epaisse a l'uree. Pour les cas severes, appliquez la creme et portez des chaussettes en coton toute la nuit.
+
+## La routine en cinq minutes
+
+Une routine de soin corporel complete n'a pas besoin d'etre elaboree. Sous la douche : gel douche doux, exfoliation 1-2x par semaine (brosse seche ou gant exfoliant). Apres la douche, dans les trois minutes : lotion corporelle sur peau humide, en insistant sur les zones seches. Protection solaire sur le visage, le cou, la poitrine et le dos des mains. Une fois par semaine : exfoliation plus approfondie, soin des pieds et attention aux zones rugueuses.
+
+Cela prend environ cinq minutes de plus qu'une douche standard et fait une difference significative dans l'apparence et la sensation de votre peau. La peau de votre corps est le meme organe que celle de votre visage -- elle merite le meme niveau d'attention et de soin.

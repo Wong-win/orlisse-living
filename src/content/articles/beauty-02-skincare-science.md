@@ -84,3 +84,15 @@ Votre hydratant du soir peut etre plus riche que celui du matin. C'est aussi le 
 ## La regle d'un mois
 
 Quand vous introduisez un nouvel ingredient actif, donnez-lui un mois complet avant d'ajouter autre chose. Le cycle de renouvellement de votre peau est d'environ 28 jours. La lenteur et la constance gagnent vraiment ici.
+
+## Les extras hebdomadaires
+
+**Masque a l'argile (une fois par semaine) :** Pour les peaux grasses et a tendance congestionnee, un masque a l'argile aide a extraire l'exces de sebum et a reduire l'apparence des pores. A eviter si votre peau est seche ou sensible.
+
+**Masque hydratant ou masque en tissu (selon les besoins) :** Pour les peaux deshydratees, avant un evenement special, ou simplement comme rituel de soin personnel. Les masques en tissu fournissent un boost d'hydratation par occlusion -- le tissu empeche l'evaporation, forcant les ingredients a penetrer dans la peau.
+
+## Produits qui restent constants toute l'annee
+
+Quelques categories devraient rester constantes independamment de la saison : ecran solaire (SPF 30+, toujours, chaque jour), serum vitamine C (votre antioxydant de jour, toute l'annee), nettoyant doux (vous pouvez changer de texture mais gardez un pH equilibre) et contour des yeux si vous en utilisez un.
+
+La meilleure routine de soins n'est pas celle avec le plus d'etapes ou les produits les plus chers. C'est celle que vous pouvez maintenir avec constance, qui repond aux besoins reels de votre peau, et que vous avez plaisir a faire chaque matin et chaque soir.
