@@ -44,3 +44,19 @@ Mangez local et de saison. Evitez les plastiques a usage unique. Achetez des sou
 ## Surtourisme et ou vous allez
 
 Voyagez hors saison. Choisissez des villes secondaires et des destinations moins connues. Respectez les capacites locales.
+
+## Se deplacer a votre destination
+
+Le transport a destination est la composante la plus controlable de votre empreinte de voyage. Les trains plutot que les avions pour les deplacements regionaux -- en Europe et dans certaines parties de l'Asie, le train a grande vitesse produit environ 90% de carbone en moins par passager que l'avion sur le meme trajet. Les transports en commun plutot que les voitures de location -- les bus, les tramways et les metros deplacent les gens bien plus efficacement. Marchez et faites du velo -- a l'echelle du quartier, la marche et le velo sont zero emission, gratuits et le meilleur moyen de decouvrir une ville.
+
+## Manger et faire ses courses
+
+Mangez local et de saison -- l'empreinte carbone des aliments importes est enorme. Evitez les plastiques a usage unique -- apportez une bouteille d'eau reutilisable et un sac de courses reutilisable. Achetez des souvenirs aupres d'artisans, pas d'usines -- un article fait main achete directement aupres de l'artisan soutient les moyens de subsistance locaux et preserve les competences traditionnelles.
+
+## Surtourisme et ou vous allez
+
+L'impact environnemental du voyage ne concerne pas seulement le carbone -- il concerne aussi la pression que le tourisme concentre exerce sur des destinations specifiques. Voyagez en hors saison. Choisissez des villes secondaires et des destinations moins connues. Respectez les capacites locales -- si une destination a mis en place des plafonds de visiteurs ou des taxes de sejour, respectez-les.
+
+## Vue d'ensemble
+
+Le voyage durable ne concerne pas la perfection -- il s'agit d'ameliorations significatives. Reduire votre empreinte de voyage de 30% par des choix reflechis est bien mieux que d'ignorer le probleme ou d'abandonner le voyage par desespoir. La hierarchie merite d'etre repetee : volez moins souvent et restez plus longtemps, choisissez le train quand c'est possible, soutenez les entreprises locales et evitez les pires contrevenants. Ces choix ne vous obligent pas a devenir une personne differente.
