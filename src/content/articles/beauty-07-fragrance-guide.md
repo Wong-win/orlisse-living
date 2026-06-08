@@ -52,3 +52,15 @@ Une concentration plus elevee ne signifie pas necessairement meilleur -- cela si
 ## Comment acheter du parfum
 
 N'achetez jamais sur touche papier. Testez sur votre poignet, pas le dos de votre main. Ne testez pas plus de trois a la fois. Testez dans differentes saisons. Achetez le plus petit flacon d'abord. Appliquez sur les points de pulsation (poignets, coudes interieurs, derriere les oreilles, base de la gorge). Ne frottez pas vos poignets l'un contre l'autre. La peau hydratee retient mieux le parfum. Le parfum doit etre decouvert, pas annonce. Une fragrance qui recoit des compliments quand on est proche de vous, c'est la bonne quantite.
+
+## Construire une garde-robe de parfums
+
+Tout comme vous avez differents vetements pour differentes occasions, une petite garde-robe de parfums couvre differents contextes. Une signature quotidienne : legere, distinctive, assez legere pour la journee. Une fragrance de soiree : plus riche, plus intense, pour les diners et les evenements. Une fragrance d'ete : un agrume ou un aquatique rafraichissant. Trois parfums couvrent essentiellement tous les contextes. Plus de cinq et vous aurez des flacons que vous utilisez rarement.
+
+## Comment appliquer le parfum
+
+L'objectif est de sentir bon pour quelqu'un proche de vous -- pas pour tout le monde dans la piece. Appliquez sur les points de pulsation : poignets, coudes interieurs, derriere les oreilles, base de la gorge. Ces zones sont plus chaudes et aident le parfum a se developper. Ne frottez pas vos poignets l'un contre l'autre apres application -- cela ecrase les molecules de parfum et perturbe le developpement. Ne vaporisez pas et ne traversez pas le nuage -- cela gaspille la plupart du parfum dans l'air. La peau hydratee retient mieux le parfum -- appliquez apres l'hydratant. Les vetements et les cheveux retiennent le parfum plus longtemps que la peau.
+
+## L'erreur la plus courante
+
+En mettre trop. Le parfum projette plus que vous ne le pensez, et vous devenez insensible a votre propre odeur apres environ 30 minutes d'application. Si vous pouvez vous sentir fortement, tout le monde peut vous sentir de l'autre cote de la piece. Trouver un parfum signature vaut l'effort. L'odorat est le sens le plus fortement lie a la memoire -- un parfum que vous portez regulierement deviendra, avec le temps, associe a vous dans l'esprit des personnes avec qui vous passez du temps.

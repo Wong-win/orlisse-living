@@ -77,3 +77,17 @@ Le type le plus fragile et le plus sujet a la secheresse et a la casse. Les huil
 **Entre les lavages :** Hydratation quotidienne avec la methode LOC (Liquide, Huile, Creme) ou LCO.
 
 Coupes regulieres toutes les 8-12 semaines. Les pointes fourchues ne se reparent pas -- elles continuent de se fendre. Couper les empeche de se propager.
+
+## Problemes capillaires courants et solutions
+
+**Frisottis :** Causes par l'humidite de l'air qui penetre la tige capillaire et fait gonfler la cuticule. Solutions : utilisez des produits anti-humectants par temps humide, scellez la cuticule avec de l'eau froide en fin de douche, dormez sur de la soie pour reduire les frottements nocturnes.
+
+**Cheveux plats et mous :** Generalement causes par une accumulation de produits qui alourdit les cheveux fins. Utilisez un shampooing clarifiant une fois toutes les 1-2 semaines, ne mettez de l'apres-shampooing que sur les pointes, evitez les silicones lourdes et les huiles.
+
+**Pointes seches et cassantes :** Les pointes sont la partie la plus ancienne et la plus abimee de vos cheveux. Des coupes regulieres toutes les 8-12 semaines empechent les pointes fourchues de remonter le long de la tige. Une huile legere appliquee uniquement sur les pointes offre une protection quotidienne.
+
+**Cuir chevelu gras, pointes seches :** Cette combinaison est tres courante. Shampouinez soigneusement le cuir chevelu, ne mettez de l'apres-shampooing que sur les pointes. La frequence de lavage doit etre determinee par votre cuir chevelu, pas par vos pointes.
+
+## La regle de la coupe
+
+La chose la plus efficace que vous puissiez faire pour l'apparence de vos cheveux est de les couper regulierement. Les pointes fourchues ne se reparant pas, elles continuent de se fendre le long de la tige capillaire jusqu'a ce que la meche se casse. Couper toutes les 8-12 semaines elimine les dommages avant qu'ils ne se propagent. Les soins capillaires sont une pratique, pas un achat. Les bons produits aident, mais la constance compte plus que n'importe quel produit individuel dans votre routine.
