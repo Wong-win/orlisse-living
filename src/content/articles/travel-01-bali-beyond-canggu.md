@@ -1,91 +1,63 @@
 ---
-title: "Bali Beyond Canggu: Quiet Corners for the Discerning Traveler"
+title: "Bali au-dela de Canggu : coins tranquilles pour le voyageur exigeant"
 date: "2025-06-10"
 category: "travel"
 keywords: "bali,travel,tropical,rice,terrace"
-excerpt: "Skip the beach clubs. These under-the-radar destinations offer a deeper, more refined Balinese experience."
+excerpt: "Evitez les beach clubs. Ces destinations hors des sentiers battus offrent une experience balinaise plus profonde et raffinee."
 ---
 
-![A misty rice terrace in Sidemen, Bali at sunrise](https://images.unsplash.com/photo-1730697897499-84b5057569f9)
+![Riziere dans la brume a Sidemen, Bali au lever du soleil](https://images.unsplash.com/photo-1549693578-d683be217e58)
 
-Bali has a reputation problem -- and an overcrowding problem. Canggu, Seminyak, and Ubud's main streets now feel more like a global coworking campus than the island paradise promised by travel posters. Traffic on the Canggu-Seminyak corridor can eat two hours of your day. The famous beach clubs charge entry fees that would feel steep in London or New York. The rice terraces of Tegallalang are so crowded with tourists and swing-photo setups that you queue for the view.
+Bali a un probleme de reputation -- et un probleme de surfrequentation. Canggu, Seminyak et les rues principales d'Ubud ressemblent desormais plus a un campus de coworking mondial qu'au paradis insulaire promis par les affiches de voyage. La circulation sur le couloir Canggu-Seminyak peut vous prendre deux heures de votre journee. Les fameux beach clubs facturent des droits d'entree qui sembleraient eleves a Londres ou a New York. Les rizieres de Tegallalang sont tellement envahies de touristes et d'installations de balancoires a photos que l'on fait litteralement la queue pour la vue.
 
-But Bali is more than 5,700 square kilometers -- roughly the size of Delaware in the United States, or three times the size of Greater London. Venture beyond the well-worn triangle of Canggu-Seminyak-Ubud, and you'll find the Bali that still moves at island pace. Places where the loudest sound is rushing water, where ceremonies outnumber tourists, and where the connection to the island's extraordinary culture feels genuine rather than performed.
+Mais Bali s'etend sur plus de 5 700 kilometres carres -- a peu pres la taille du Delaware aux Etats-Unis, ou trois fois la taille du Grand Londres. Aventurez-vous au-dela du triangle bien rode de Canggu-Seminyak-Ubud, et vous trouverez le Bali qui vit encore au rythme de l'ile. Des endroits ou le son le plus fort est celui de l'eau qui coule, ou les ceremonies sont plus nombreuses que les touristes, et ou le lien avec la culture extraordinaire de l'ile semble authentique plutot que mis en scene.
 
-Here are four destinations that offer a deeper, more refined Balinese experience -- each within reach of the airport but worlds away from the crowds.
+Voici quatre destinations qui offrent une experience balinaise plus profonde et plus raffinee -- chacune accessible depuis l'aeroport mais a des annees-lumiere des foules qui definissent le sud de Bali.
 
-## Sidemen: Ubud Without the Crowds
+## Sidemen : Ubud sans la foule
 
-About 90 minutes east of Ubud, Sidemen delivers the same terraced rice fields, temple-studded valleys, and misty mountain views -- with perhaps ten percent of the visitors. This is what Ubud was twenty years ago, before the yoga studios and vegan cafes and digital nomad infrastructure arrived.
+A environ 90 minutes a l'est d'Ubud, Sidemen offre les memes rizieres en terrasses, les vallees parsemeess de temples et les vues montagneuses brumeuses -- avec peut-etre dix pour cent des visiteurs. Voici ce qu'etait Ubud il y a vingt ans, avant l'arrivee des studios de yoga, des cafes vegans et de l'infrastructure pour nomades numeriques.
 
-The Sidemen Valley sits in the shadow of Mount Agung, Bali's highest and most sacred volcano. The terrain is dramatic: steep ravines carved by rivers, hillsides terraced for rice cultivation that follow the contours of the land like a green topographic map, and the ever-present silhouette of Agung dominating the northern horizon. The valley floor is threaded with walking paths that connect villages, temples, and rice paddies -- you can walk for hours and encounter more ducks than people.
+La vallee de Sidemen se trouve dans l'ombre du mont Agung, le volcan le plus haut et le plus sacre de Bali. Le terrain est spectaculaire : des ravins abrupts creuses par les rivieres, des collines terrassees pour la culture du riz qui suivent les contours du terrain comme une carte topographique verte, et la silhouette toujours presente de l'Agung dominant l'horizon nord. Le fond de la vallee est sillonne de sentiers pedestres qui relient les villages, les temples et les rizieres -- on peut marcher pendant des heures et rencontrer plus de canards que de personnes.
 
-**Where to stay:** Small guesthouses and family-run resorts are the norm here. There are no mega-hotels, no international chains, and -- for now -- no large developments. Most accommodations are built into the hillside and oriented toward the view. You wake to roosters and gamelan practice drifting across the valley, not traffic.
+**Ou se loger :** De petites maisons d'hotes et des complexes familiaux sont la norme ici. Il n'y a pas de mega-hotels, pas de chaines internationales et -- pour l'instant -- pas de grands projets de developpement. La plupart des hebergements sont construits a flanc de colline et orientes vers la vue. On se reveille au chant des coqs et aux repetitions de gamelan qui derivent a travers la vallee, pas a la circulation.
 
-**What to do:** The morning walk through the rice terraces before the heat sets in is essential -- the light is golden, the air is cool, and you'll pass farmers tending their fields and making offerings at small shrines. The local weaving industry is also worth exploring; Sidemen is known for *songket*, a traditional handwoven textile with gold and silver threads, and you can visit workshops where women weave on backstrap looms using techniques passed down through generations.
+**Que faire :** La promenade matinale a travers les rizieres avant que la chaleur ne s'installe est essentielle -- la lumiere est doree, l'air est frais, et vous croiserez des agriculteurs s'occupant de leurs champs et faisant des offrandes aux petits sanctuaires. L'industrie locale du tissage merite egalement d'etre exploree ; Sidemen est connue pour le *songket*, un textile traditionnel tisse a la main avec des fils d'or et d'argent, et vous pouvez visiter des ateliers ou des femmes tissent sur des metiers a sangle en utilisant des techniques transmises de generation en generation.
 
-**Practical notes:** Sidemen has very limited dining options outside of guesthouses, and most places close early. There's no nightlife to speak of. If you need constant stimulation and restaurant variety, this isn't your destination. If you want to read, walk, and decompress, it's perfect.
+**Notes pratiques :** Sidemen a des options de restauration tres limitees en dehors des maisons d'hotes, et la plupart des endroits ferment tot. Il n'y a pas de vie nocturne digne de ce nom. Si vous avez besoin de stimulation constante et de variete de restaurants, ce n'est pas votre destination. Si vous voulez lire, marcher et decompresser, c'est parfait.
 
-## Pemuteran: For the Underwater Crowd
+## Pemuteran : pour les passionnes du monde sous-marin
 
-On Bali's northwest coast, about four hours from the airport, Pemuteran sits at the edge of West Bali National Park. The big draw is the underwater temple garden -- one of the world's largest artificial reef restoration projects, doubling as an extraordinary snorkeling and diving site. The black-sand beach is quiet, the water is calm (protected by the bay's geography), and the pace is slow enough that you'll stop checking the time.
+Sur la cote nord-ouest de Bali, a environ quatre heures de l'aeroport, Pemuteran se trouve a la lisiere du parc national de Bali Ouest. L'attraction principale est le jardin de temples sous-marin -- l'un des plus grands projets de restauration de recifs coralliens au monde, qui fait egalement office de site de snorkeling et de plongee extraordinaire. La plage de sable noir est calme, l'eau est tranquille (protegee par la geographie de la baie), et le rythme est assez lent pour que vous arretiez de verifier l'heure.
 
-Pemuteran's coral restoration project deserves special mention. Beginning in 2000, local communities, dive operators, and marine biologists collaborated to restore reefs that had been devastated by cyanide fishing and the 1998 El Nino bleaching event. Using Biorock technology -- low-voltage electrical currents that stimulate coral growth -- they've built an underwater landscape that now supports thriving marine life. Snorkeling here means floating above structures encrusted with both transplanted and naturally recruited corals, surrounded by reef fish, and occasionally spotting sea turtles.
+Le projet de restauration corallienne de Pemuteran merite une mention speciale. A partir de l'an 2000, les communautes locales, les operateurs de plongee et les biologistes marins ont collabore pour restaurer les recifs qui avaient ete devastes par la peche au cyanure et le blanchissement d'El Nino de 1998. En utilisant la technologie Biorock -- des courants electriques de faible tension qui stimulent la croissance corallienne -- ils ont construit un paysage sous-marin qui abrite aujourd'hui une vie marine florissante. Faire du snorkeling ici signifie flotter au-dessus de structures incrustees de coraux a la fois transplantes et naturellement recrutes, entoures de poissons de recif, et parfois apercevoir des tortues de mer.
 
-**Where to stay:** Small beachfront resorts line the bay. Most have their own snorkel gear and small boats for trips to Menjangan Island. The accommodations are comfortable but not luxurious -- the appeal is the setting, not thread-count competition.
+**Ou se loger :** De petits complexes de plage bordent la baie. La plupart disposent de leur propre equipement de snorkeling et de petits bateaux pour les excursions vers l'ile de Menjangan. Les hebergements sont confortables mais pas luxueux -- l'attrait est le cadre, pas la competition sur le nombre de fils.
 
-**What to do:** The nearby Menjangan Island offers the best wall diving in Bali, with minimal current and visibility that regularly exceeds 30 meters. Even if you're not a diver, the snorkeling at Menjangan is exceptional -- the reef starts right at the water's edge, and the drop-off into deep blue water is dramatic. On land, West Bali National Park offers hiking, birdwatching (Bali mynas, a critically endangered endemic species, are being reintroduced here), and savannah-like landscapes that look nothing like the tropical Bali most people imagine.
+**Que faire :** L'ile de Menjangan offre la meilleure plongee sur tombant de Bali, avec un courant minimal et une visibilite qui depasse regulierement 30 metres. Meme si vous n'etes pas plongeur, le snorkeling a Menjangan est exceptionnel -- le recif commence directement au bord de l'eau, et le tombant dans l'eau bleu profond est spectaculaire. Sur terre, le parc national de Bali Ouest propose de la randonnee, de l'observation des oiseaux (le mainate de Bali, une espece endemique en danger critique d'extinction, est reintroduit ici) et des paysages de savane qui ne ressemblent en rien au Bali tropical que la plupart des gens imaginent.
 
-## Munduk: Mist, Cloves, and Waterfalls
+## Munduk : brume, clous de girofle et cascades
 
-Munduk sits in Bali's central highlands at around 800 meters above sea level. It's cool enough to need a light jacket in the evening -- a genuine novelty in tropical Bali. The area is surrounded by clove and coffee plantations, and the air carries a faint spice note that you'll forever associate with this place. Laced with walking trails that connect waterfalls, Munduk is Bali's best-kept secret for hikers and anyone who needs a break from tropical humidity.
+Munduk se trouve dans les hautes terres centrales de Bali a environ 800 metres d'altitude. Il fait assez frais pour avoir besoin d'une veste legere le soir -- un veritable luxe dans le Bali tropical. La region est entouree de plantations de clous de girofle et de cafe, et l'air porte une legere note epicee que vous associerez a jamais a cet endroit. Sillonne de sentiers de randonnee qui relient les cascades, Munduk est le secret le mieux garde de Bali pour les randonneurs et tous ceux qui ont besoin d'une pause de l'humidite tropicale.
 
-The Dutch colonial presence is still visible in Munduk's architecture -- several original plantation houses remain, some converted into guesthouses. The area was a major coffee and spice growing region during the colonial period, and the infrastructure of that era -- roads, irrigation, and some buildings -- still shapes the landscape.
+La presence coloniale hollandaise est encore visible dans l'architecture de Munduk -- plusieurs maisons de plantation d'origine subsistent, certaines converties en maisons d'hotes. La region etait une importante zone de culture du cafe et des epices pendant la periode coloniale, et l'infrastructure de cette epoque -- routes, irrigation et certains batiments -- faconne encore le paysage.
 
-**Where to stay:** Dutch-colonial-style guesthouses with mountain views, often family-run for generations. Many are set within working coffee or clove plantations. The cooler climate means hot water and thicker blankets are standard, which is not always the case in coastal Bali.
+**Ou se loger :** Des maisons d'hotes de style colonial hollandais avec vue sur les montagnes, souvent gerees par des familles depuis des generations. Beaucoup sont situees dans des plantations de cafe ou de clous de girofle en activite. Le climat plus frais signifie que l'eau chaude et les couvertures plus epaisses sont la norme, ce qui n'est pas toujours le cas sur la cote de Bali.
 
-**What to do:** The waterfall loop trail -- three waterfalls linked by a roughly three-hour moderate walk through the jungle -- is the main attraction. The three falls (Melanting, Golden Valley, and Labuhan Kebo) are each distinct in character. The trail connects them through coffee and clove plantations, bamboo groves, and patches of primary forest. Hire a local guide for the interpretive experience -- you'll learn more about the plants, the history, and the ecology than you would walking alone, and you'll be putting money directly into the village economy.
+**Que faire :** Le sentier en boucle des cascades -- trois chutes d'eau reliees par une marche d'environ trois heures a travers la jungle -- est l'attraction principale. Les trois chutes (Melanting, Golden Valley et Labuhan Kebo) ont chacune un caractere distinct. Le sentier les relie a travers des plantations de cafe et de clous de girofle, des bosquets de bambous et des parcelles de foret primaire. Engagez un guide local pour l'experience interpretative -- vous en apprendrez plus sur les plantes, l'histoire et l'ecologie que vous ne le feriez en marchant seul, et vous mettrez de l'argent directement dans l'economie villageoise.
 
-## Amed: Black Sand, Blue Water
+## Amed : sable noir, eau bleue
 
-On Bali's northeast coast, Amed is a string of fishing villages stretched along a coast of volcanic black sand. The main draw here is the snorkeling and freediving -- a series of shallow reefs and bays offer some of the most accessible underwater scenery in Bali, including the USAT Liberty shipwreck at nearby Tulamben, consistently ranked among the world's best shore dives. But even if you never put your face in the water, Amed is worth visiting for the pace, the views of Agung across the Lombok Strait, and the salt-making traditions that are still practiced along the coast.
+Sur la cote nord-est de Bali, Amed est un chapelet de villages de pecheurs le long d'une cote de sable volcanique noir. L'attraction principale est le snorkeling et la plongee libre -- une serie de recifs et de baies peu profondes offrent certains des paysages sous-marins les plus accessibles de Bali, y compris l'epave de l'USAT Liberty a Tulamben, regulierement classee parmi les meilleures plongees de rivage au monde. Mais meme si vous ne mettez jamais le visage dans l'eau, Amed vaut le detour pour le rythme, les vues sur l'Agung a travers le detroit de Lombok et les traditions de fabrication du sel qui sont encore pratiquees le long de la cote.
 
-Amed's shoreline is unusual: black volcanic sand that sparkles in certain lights, evidence of Agung's historic eruptions. Between the villages, the coastal road winds past coves and headlands, each bay with its own small community of fishing boats (traditional *jukung* outriggers with painted hulls) and a handful of warungs serving grilled fish caught that morning.
+**Ou se loger :** De simples bungalows de plage et de petits complexes, pour la plupart possedes par des familles locales. L'ambiance est decontractee et sans pretention.
 
-**Where to stay:** Simple beachfront bungalows and small resorts, most owned by local families. The vibe is low-key and unpretentious. Some places offer yoga and freediving courses, but Amed is not a wellness destination in the Ubud mold -- it's more rough-hewn and authentic.
+**Que faire :** Visitez les sauniers du village d'Amed, qui utilisent encore des methodes traditionnelles pour evaporer l'eau de mer dans des auges en bois sculptees. Achetez un sac directement aupres du producteur -- c'est l'un des meilleurs sels que vous gouterez jamais.
 
-**What to do:** The USAT Liberty wreck at Tulamben is the headline attraction -- a WWII cargo ship torpedoed by a Japanese submarine in 1942, beached at Tulamben, and then pushed back into the water by the 1963 eruption of Mount Agung. It now lies just 30 meters from shore in 5-30 meters of water, encrusted with corals and inhabited by schools of fish, making it accessible to snorkelers and divers of all levels. On land, visit the salt makers in Amed village, who still use traditional methods of evaporating seawater in carved wooden troughs to produce salt. Buy a bag directly from the maker -- it's some of the best salt you'll ever use.
+## Notes pratiques pour toutes les destinations
 
-![Traditional Balinese jukung boats on a black sand beach at sunrise](https://images.unsplash.com/photo-1730697897470-0efaee4922de)
-![travel-01-bali-beyond-canggu](https://images.unsplash.com/photo-1555400038-63f5ba517a47)
+Toutes ces destinations sont accessibles en chauffeur prive depuis l'aeroport (reservez via votre hebergement pour de meilleurs tarifs). Les routes sont bonnes mais sinueuses dans les hautes terres. Duree des trajets : Sidemen 90 minutes, Candidasa 90 minutes, Amed 2h30, Munduk 3h, Pemuteran 4h. Louez un scooter si vous etes a l'aise -- cela vous donne une liberte qu'un chauffeur ne peut pas offrir. La saison seche (avril-octobre) est ideale.
 
+**Connectivite :** Le WiFi est disponible dans la plupart des maisons d'hotes mais peut etre lent et peu fiable. Telechargez des cartes hors ligne et le contenu dont vous avez besoin avant de quitter la zone de l'aeroport. C'est particulierement vrai pour Pemuteran et Munduk.
 
-## Candidasa: The Gateway to East Bali
-
-Candidasa, on Bali's east coast, occupies an interesting position -- more developed than Sidemen or Amed, but far quieter than the southern tourist centers. It's the best base for exploring East Bali's extraordinary cultural sites: the water palaces of Tirta Gangga and Taman Ujung, the ancient village of Tenganan (home to the Bali Aga, the island's original inhabitants who maintain pre-Hindu traditions), and some of the island's oldest temples.
-
-**Where to stay:** A mix of boutique hotels and mid-range resorts along the waterfront. Candidasa lost its beach to erosion decades ago (a cautionary tale about mining the offshore reef for construction material), but the waterfront setting is still beautiful, with views across the Lombok Strait.
-
-**What to do:** Tirta Gangga -- a former royal water palace built in 1946 -- is the highlight. Its tiered fountains, ornamental ponds, and stone carvings set against a backdrop of rice fields make it one of Bali's most photogenic sites. Arrive early (before 9am) to experience it before the tour buses. Taman Ujung, another water palace a short drive away, is larger and less visited, with a fascinating blend of Balinese and European architectural influences.
-
-## Practical Notes for All Destinations
-
-**Getting there:** All five areas are reachable by private driver from the airport (book through your accommodation for better rates than street touts). Roads are good but winding in the highlands. Journey times: Sidemen 90 minutes, Candidasa 90 minutes, Amed 2.5 hours, Munduk 3 hours, Pemuteran 4 hours.
-
-**Getting around locally:** Rent a scooter if you're comfortable riding one -- it gives you freedom that a driver can't. If not, your accommodation can arrange a driver for day trips. In Sidemen and Munduk, walking is the primary mode of exploration.
-
-**When to go:** Dry season (April-October) is ideal, but these areas are generally less affected by rain than the southern coast. Munduk and the highlands can be misty and atmospheric in the wet season -- it's actually a beautiful time to visit, with fewer visitors and lush vegetation.
-
-**Connectivity:** WiFi is available at most guesthouses but can be slow and unreliable. Download offline maps and any content you need before leaving the airport area. This is especially true for Pemuteran and Munduk.
-
-## A Note on Responsible Travel in Bali
-
-These quieter destinations are economically dependent on tourism but not overrun by it -- yet. A few principles for traveling well:
-
-- **Stay in locally owned accommodations.** Your money stays in the community.
-- **Hire local guides.** They'll show you things you'd never find alone, and you're supporting local livelihoods.
-- **Respect ceremonies and temple etiquette.** Wear a sarong and sash (available at temple entrances), don't enter during active ceremonies unless invited, and never stand higher than the priest during a ceremony.
-- **Be mindful of photography.** Ask before photographing people. During ceremonies, put the camera away entirely.
-- **Support the local economy in non-tourism ways.** Buy salt from Amed's traditional makers. Buy coffee directly from Munduk's farmers. Buy songket from Sidemen's weavers.
-
-Bali's quieter corners are worth the extra effort to reach. They offer what the overdeveloped south increasingly can't: space, silence, and a genuine connection to one of the world's most extraordinary island cultures.
+Les coins plus tranquilles de Bali valent l'effort supplementaire pour les atteindre. Ils offrent ce que le sud surdeveloppe ne peut plus offrir : de l'espace, du silence et un lien authentique avec l'une des cultures insulaires les plus extraordinaires du monde.

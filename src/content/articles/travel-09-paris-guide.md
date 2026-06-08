@@ -1,8 +1,8 @@
----title: "Paris Neighborhood Guide: Beyond the Tourist Trail to the Real City"
+---title: "Guide des quartiers de Paris : au-dela des sentiers touristiques"
 date: "2025-12-24"
 category: "travel"
 keywords: "paris,france,neighborhood,travel,guide"
-excerpt: "The real Paris exists in its neighborhoods, far from the Eiffel Tower selfie crowds. Here's where to go for an authentic experience."
+excerpt: "Le vrai Paris existe dans ses quartiers, loin des foules de selfies. Voici ou aller."
 ---
 ![travel-09-paris-guide cover](https://images.unsplash.com/photo-1684240843021-971638c1a328)
 Paris is one of the few cities in the world where the most famous attractions are genuinely worth seeing. The Eiffel Tower is extraordinary. The Louvre deserves its reputation. Notre-Dame, even in restoration, moves people to tears. But these landmarks are not Paris — they're the backdrop against which Parisians live their actual lives, mostly in neighborhoods you've never heard of.

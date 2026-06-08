@@ -1,97 +1,79 @@
 ---
-title: "Where to Stay in Kyoto: The Best Boutique Hotels and Ryokan for Design Lovers"
+title: "Ou sejourner a Kyoto : les meilleurs hotels-boutiques et ryokans"
 date: "2025-08-23"
 category: "travel"
 keywords: "kyoto,japan,ryokan,garden,hotel"
-excerpt: "Kyoto's accommodation scene has been quietly transformed by design-forward boutique hotels and restored ryokan. Here are the most beautiful places to stay."
----
+excerpt: "La scene d'hebergement de Kyoto a ete transformee. Voici les plus beaux endroits ou sejourner."
+---![Chambre japonaise traditionnelle avec tatami et porte coulissante donnant sur un jardin](https://images.unsplash.com/photo-1659944801297-176700808ba2)
 
-![A traditional Japanese room with tatami mats and sliding doors opening to a garden](https://images.unsplash.com/photo-1610238115511-81be15284155)
+Kyoto exerce une attraction gravitationnelle comme aucune autre ville au Japon. C'est le depositaire des traditions culturelles les plus raffinees du pays -- ceremonie du the, cuisine kaiseki, architecture des temples, conception des jardins -- mais c'est aussi une ville vivante et active, ou des boutiques centenaires cotoient des galeries contemporaines et des torrefacteurs de cafe de la troisieme vague. L'hebergement a Kyoto a longtemps ete un choix binaire : des ryokans traditionnels tres chers, ou des hotels d'affaires fonctionnels. Mais au cours de la derniere decennie, une nouvelle categorie a emerge : des hotels-boutiques au design soigne et des machiya (maisons de ville traditionnelles) restaurees avec reflexion qui offrent quelque chose de veritablement memorable -- des espaces ou l'architecture, les interieurs et l'hospitalite sont aussi reflechis que la ville elle-meme.
 
-Kyoto exerts a gravitational pull unlike any other city in Japan. It's the repository of the country's most refined cultural traditions -- tea ceremony, kaiseki cuisine, temple architecture, garden design -- but it's also a living, working city, where centuries-old shops sit alongside contemporary galleries and third-wave coffee roasters. Accommodation in Kyoto has historically been a binary choice: very expensive traditional ryokan, or functional business hotels. But in the last decade, a new category has emerged: design-forward boutique hotels and thoughtfully restored machiya (traditional townhouses) that offer something genuinely memorable -- spaces where the architecture, interiors, and hospitality are as considered as the city itself.
+Voici les plus beaux endroits ou sejourner a Kyoto, des maisons de ville restaurees aux hotels de design minimaliste.
 
-Here are the most beautiful places to stay in Kyoto, from restored townhouses to minimalist design hotels.
+## La renaissance des machiya : sejourner dans une maison de ville restauree
 
-## The Machiya Revival: Staying in a Restored Townhouse
-
-Kyoto's traditional machiya -- narrow wooden townhouses that line the city's historic streets -- were disappearing rapidly through the late 20th century, demolished in favor of modern apartment buildings and parking lots. An estimated 50,000 machiya existed in Kyoto in the 1950s; by the early 2000s, fewer than 30,000 remained. A concerted preservation movement has since reversed the trend, and some of the most beautiful places to stay in Kyoto are now restored machiya, reimagined as intimate guesthouses.
+Les machiya traditionnelles de Kyoto -- ces etroites maisons de ville en bois qui bordent les rues historiques de la ville -- disparaissaient rapidement a la fin du XXe siecle, demolies au profit d'immeubles modernes et de parkings. On estimait a 50 000 le nombre de machiya existant a Kyoto dans les annees 1950 ; au debut des annees 2000, il en restait moins de 30 000. Un mouvement de preservation concerte a depuis inverse la tendance, et certains des plus beaux endroits ou sejourner a Kyoto sont aujourd'hui des machiya restaurees, reimaginees en maisons d'hotes intimes.
 
 ### Maana Kyoto
 
-Maana is perhaps the most design-forward of Kyoto's machiya restorations. The three-property collection (Maana Kamo, Maana Kiyomizu, and Maana Kyoto) transforms traditional townhouses into serene, minimalist retreats. The interiors -- by Japanese design firm Suppose Design Office -- strip the machiya back to its essential elements: exposed timber structure, earthen walls, and tatami, complemented by custom furniture, hand-thrown ceramics, and carefully controlled lighting. The effect is both deeply Japanese and strikingly contemporary. A Japanese breakfast is delivered each morning in stacked lacquer boxes.
+Maana est peut-etre la restauration de machiya la plus design de Kyoto. La collection de trois proprietes (Maana Kamo, Maana Kiyomizu et Maana Kyoto) transforme des maisons de ville traditionnelles en retraites serenes et minimalistes. Les interieurs -- concus par le cabinet de design japonais Suppose Design Office -- depouillent la machiya jusqu'a ses elements essentiels : structure en bois apparente, murs en terre et tatami, completes par des meubles sur mesure, des ceramiques faites a la main et un eclairage soigneusement controle. L'effet est a la fois profondement japonais et etonnamment contemporain. Un petit-dejeuner japonais est livre chaque matin dans des boites laquees empilees.
 
-**Best for:** Design purists and anyone who appreciates the intersection of traditional architecture and contemporary minimalism. The properties sleep 2-4 and are ideal for couples or small families who value aesthetics as part of the travel experience.
+**Idéal pour :** Les puristes du design et tous ceux qui apprecient l'intersection de l'architecture traditionnelle et du minimalisme contemporain. Les proprietes accueillent 2 a 4 personnes et sont ideales pour les couples ou les petites familles qui valorisent l'esthetique.
 
-**Location:** Maana Kamo sits near the Kamo River in a quiet residential area north of the city center; Maana Kiyomizu is nestled in the historic Higashiyama district, walking distance from Kiyomizu-dera temple.
+**Emplacement :** Maana Kamo se trouve pres de la riviere Kamo ; Maana Kiyomizu est niche dans le quartier historique de Higashiyama.
 
 ### Kanra Hotel Kyoto
 
-Kanra occupies a sweet spot between ryokan and boutique hotel. The design is modern but deeply informed by traditional Japanese aesthetics -- rooms feature tatami areas, cypress ofuro soaking tubs, and shoji-style lighting, but with contemporary furniture and full Western-style bathrooms. The lobby incorporates an irori (traditional sunken hearth), and the hotel offers cultural programming including tea ceremony and calligraphy workshops, which are genuinely well-executed rather than perfunctory tourist experiences.
+Kanra occupe un juste milieu entre le ryokan et l'hotel-boutique. Le design est moderne mais profondement informe par l'esthetique japonaise traditionnelle -- les chambres disposent de coins tatami, de baignoires en cypres ofuro et d'un eclairage de style shoji, mais avec des meubles contemporains et des salles de bains de style occidental completes. Le hall integre un irori traditionnel (foyer solaire encastre) et l'hotel propose des ateliers de ceremonie du the et de calligraphie.
 
-**Best for:** Travelers who want ryokan elements -- tatami, ofuro, Japanese aesthetics -- but prefer Western beds and modern plumbing. Also good for first-time Kyoto visitors who want cultural programming built into their stay.
+**Idéal pour :** Les voyageurs qui veulent des elements de ryokan mais preferent les lits occidentaux et la plomberie moderne. Bon pour les premiers visiteurs de Kyoto.
 
-**Location:** A quiet street near Gojo, walking distance to both the Higashiyama temple district and downtown. The immediate neighborhood has excellent small restaurants and is less touristy than the areas around Kyoto Station or Gion.
+### Rinn Collection
 
-### Rinn Collection (Multiple Properties)
+Rinn gere une collection de machiya et de maisons de ville restaurees a travers Kyoto, chacune differente dans son caractere. Certaines sont des maisons de ville en bois traditionnelles ; d'autres occupent d'anciennes maisons de geishas ou des residences de marchands. Ce qui les unit, c'est une restauration reflechie et une intimite autonome -- chaque propriete est une maison independante avec cuisine, ce qui les rend ideales pour les longs sejours.
 
-Rinn operates a collection of restored machiya and townhouses across Kyoto, each different in character. Some are traditional wooden townhouses; others occupy former geisha houses or merchant residences. What unites them is thoughtful restoration and self-contained privacy -- each property is a standalone house with a kitchen, making them ideal for longer stays. The properties in the Higashiyama and Gion areas are particular standouts, with original features like internal gardens, sliding screen paintings, and wooden ofuro tubs.
-
-**Best for:** Independent travelers and families who want the machiya experience without the shared spaces of a hotel. Ideal for stays of three nights or more where you'll use the kitchen and appreciate the extra space.
-
-## Contemporary Design Hotels
+## Hotels de design contemporain
 
 ### Ace Hotel Kyoto
 
-The Ace Hotel's Kyoto outpost occupies the former Kyoto Central Telephone Company building, a 1920s brick structure that the architect Kengo Kuma has reimagined with a new wing and a dynamic ground-floor public space. The rooms are classic Ace -- high ceilings, exposed materials, curated art, turntables with a vinyl selection -- but with a distinctly Japanese sensibility. The lobby is one of Kyoto's most vibrant public spaces, with a bakery, coffee shop, and restaurant drawing locals and guests alike. Kuma's architecture bridges the historic brick building and the new construction with a wooden lattice facade that references traditional Kyoto townhouse screens.
+L'antenne de l'Ace Hotel a Kyoto occupe l'ancien batiment de la Compagnie du Telephone Central de Kyoto, une structure en brique des annees 1920 que l'architecte Kengo Kuma a reimaginee avec une nouvelle aile et un espace public dynamique au rez-de-chaussee. Les chambres sont du Ace classique -- hauts plafonds, materiaux apparents, art curate, platines avec une selection de vinyles -- mais avec une sensibilite distinctement japonaise. Le hall est l'un des espaces publics les plus vibrants de Kyoto.
 
-**Best for:** Creatives, solo travelers, and anyone who values a lively lobby scene. Less suited to those seeking traditional Japanese atmosphere or complete tranquility.
-
-**Location:** Central, adjacent to the Nishiki Market and connected to the Karasuma subway line. The immediate area is commercial rather than atmospheric, but the hotel itself is a destination.
+**Idéal pour :** Les creatifs, les voyageurs solo et tous ceux qui apprecient une scene de hall animee. Moins adapte a ceux qui cherchent une atmosphere japonaise traditionnelle.
 
 ### Sowaka
 
-Sowaka occupies a century-old former ryotei (traditional high-end restaurant) in the heart of Gion, Kyoto's famous geisha district. The main building's 11 rooms retain original architectural features -- tokonoma alcoves, painted screens, private gardens -- while adding restrained contemporary comforts. A modern annex across the narrow lane adds 12 more rooms in a minimalist style. The garden-view rooms in the main building are among the most beautiful places to sleep in Kyoto. The name "Sowaka" is a Buddhist term expressing joy and gratitude.
+Sowaka occupe un ancien ryotei (restaurant traditionnel haut de gamme) centenaire au coeur de Gion, le celebre quartier des geishas de Kyoto. Le batiment principal de 11 chambres conserve des elements architecturaux d'origine -- alcoves tokonoma, paravents peints, jardins prives -- tout en ajoutant un confort contemporain discret. Une annexe moderne de l'autre cote de la ruelle etroite ajoute 12 chambres dans un style minimaliste. Les chambres avec vue sur le jardin dans le batiment principal sont parmi les plus beaux endroits ou dormir a Kyoto.
 
-**Best for:** Couples seeking a romantic, atmospherically Japanese experience with modern luxury standards. The main building rooms with garden views are worth the premium.
-
-**Location:** In the heart of Gion, walking distance to the historic entertainment district, Yasaka Shrine, and Maruyama Park. You're in the middle of Kyoto's most atmospheric neighborhood, with the benefit of being able to walk the lantern-lit streets at night after day-trippers have left.
+**Idéal pour :** Les couples recherchant une experience romantique et atmospheriquement japonaise avec des standards de luxe moderne.
 
 ### Hotel the Mitsui Kyoto
 
-Occupying the former residence of the Mitsui family (one of Japan's most prominent merchant dynasties), this hotel sits on a site with more than 250 years of history. The architecture, by André Fu, is a masterclass in restrained luxury -- a central courtyard garden anchors the property, and the on-site natural hot spring (onsen) draws from a thermal spring 1,000 meters below the hotel. The rooms are spacious by Kyoto standards, with deeply considered details: washi paper lighting, custom ceramics, and views of either the central courtyard or private gardens. The thermal spring spa, fed by water that takes 1,000 years to filter through Kyoto's bedrock, is the hotel's standout feature.
+Occupant l'ancienne residence de la famille Mitsui, cet hotel se trouve sur un site avec plus de 250 ans d'histoire. L'architecture, par Andre Fu, est une masterclass de luxe discret -- un jardin central ancre la propriete, et la source thermale naturelle sur place (onsen) puise dans une source thermale a 1 000 metres sous l'hotel. Les chambres sont spacieuses selon les standards de Kyoto, avec des details profondement reflechis : eclairage en papier washi, ceramiques sur mesure, et vues sur le jardin central ou des jardins prives.
 
-**Best for:** Luxury travelers, honeymoons, and anyone who wants a genuine onsen experience within their hotel. The thermal spring is a significant differentiator -- most Kyoto hotels don't have true onsen water.
+**Idéal pour :** Les voyageurs de luxe, les lunes de miel et tous ceux qui veulent une veritable experience onsen au sein de leur hotel.
 
-**Location:** Adjacent to Nijo Castle, with its famous nightingale floors and UNESCO-listed gardens. The surrounding neighborhood is quiet and residential, with good access to the Nishijin textile district.
-
-![A serene Japanese garden visible from a hotel room](https://images.unsplash.com/photo-1558869632-279458ac1734)
-![travel-04-boutique-hotels-kyoto](https://images.unsplash.com/photo-1522623349500-de37a56ea2a5)
-
-
-## Traditional Ryokan
-
-No guide to Kyoto accommodation would be complete without the traditional ryokan -- an inn where you sleep on a futon laid over tatami, bathe in a communal or private ofuro, and are served kaiseki meals in your room. Ryokan are more than accommodation; they're a cultural experience in their own right, and the best ones represent the pinnacle of Japanese hospitality (omotenashi).
+## Ryokans traditionnels
 
 ### Tawaraya
 
-Tawaraya is widely considered the finest ryokan in Japan, a title it has held for decades. The building dates to the early 18th century, and the service -- provided by staff in kimono, many of whom have worked here for decades -- is a level of hospitality that borders on art. There are only 18 rooms, each with a private garden. There are no menus; meals are prepared based on what's best at the market that morning. The price is stratospheric, and the experience is unlike any other accommodation in the world.
-
-**Best for:** A once-in-a-lifetime experience. Not for budget-conscious travelers or those uncomfortable with formal, traditional service.
-
-**Location:** Central, on a quiet street near the Imperial Palace. You'd never know the hotel is there unless you were looking for it.
+Tawaraya est largement considere comme le plus beau ryokan du Japon, un titre qu'il detient depuis des decennies. Le batiment date du debut du XVIIIe siecle, et le service -- fourni par du personnel en kimono -- est un niveau d'hospitalite qui confine a l'art. Seulement 18 chambres, chacune avec un jardin prive. Pas de menus ; les repas sont prepares en fonction de ce qu'il y a de meilleur au marche le matin.
 
 ### Gion Hatanaka
 
-A more accessible ryokan option in the heart of Gion. Gion Hatanaka offers the essential ryokan experience -- tatami rooms, futon bedding, kaiseki dining, and ofuro bathing -- at a price point that's high but not astronomical. The property is walking distance to the historic streets of Gion, and the kaiseki dinner (served in a private dining room, not in guest rooms) is beautifully executed. The inn also arranges maiko (apprentice geisha) performances for guests, which are more intimate and authentic than the public performances available to tourists.
+Une option de ryokan plus accessible au coeur de Gion. Gion Hatanaka offre l'experience essentielle du ryokan -- chambres en tatami, literie futon, repas kaiseki et bains ofuro -- a un prix eleve mais pas astronomique.
 
-**Best for:** First-time ryokan guests who want the full experience without the price tag of Tawaraya or Hiiragiya.
+## Planifier votre sejour
 
-## Planning Your Stay
+Minimum trois nuits. Kyoto recompense la lenteur. Les meilleurs etablissements se reservent des mois a l'avance, surtout pendant la saison des cerisiers en fleurs (fin mars-debut avril) et le feuillage d'automne (novembre). Pour Tawaraya et les meilleures chambres du Sowaka, reservez six mois a l'avance.
 
-**How long:** Minimum three nights. Kyoto rewards slowness, and a single night barely scratches the surface. Ideally, stay five to seven nights to explore at a pace that matches the city's rhythm.
+## Conseils pratiques pour Kyoto
 
-**Which type of accommodation to choose:** If you're comfortable with traditional Japanese hospitality and have the budget, stay at least two nights in a ryokan and the remainder in a machiya or boutique hotel. The ryokan experience is so fundamentally different from hotel accommodation that it's worth experiencing both.
+**Comment s'y rendre :** Le train express Haruka de l'aeroport du Kansai a la gare de Kyoto prend 75 minutes. A l'interieur de Kyoto, le reseau de bus est excellent et couvre des zones que le metro n'atteint pas. Les taxis sont abondants et, bien que chers, valent la peine pour rejoindre les ryokans dans des rues etroites. Envisagez de louer un velo -- Kyoto est etonnamment cyclable, et voir la ville sur deux roues a votre rythme est l'une des grandes experiences de Kyoto.
 
-**Booking strategy:** Kyoto's best properties book months in advance, especially during cherry blossom season (late March-early April) and autumn foliage (November). For Tawaraya and the best rooms at Sowaka, book six months ahead. For most other properties, two to three months is sufficient outside peak seasons.
+**Quand partir :** La saison des cerisiers en fleurs (fin mars-debut avril) et le feuillage d'automne (novembre) sont les periodes les plus spectaculaires mais aussi les plus frequentees. L'ete (juin-aout) est chaud et humide mais offre des festivals. L'hiver (decembre-fevrier) est froid mais tranquille, avec des temples enneiges qui sont extraordinairement beaux.
 
-**Getting there and around:** The Haruka express train from Kansai Airport to Kyoto Station takes 75 minutes. Within Kyoto, the bus system is excellent and covers areas the subway doesn't reach. Taxis are abundant and, while expensive, are worth it for reaching ryokan on narrow streets or arriving with luggage. Consider renting a bicycle -- Kyoto is surprisingly bikeable, and seeing the city on two wheels at your own pace is one of the great Kyoto experiences.
+**Quel type d'hebergement choisir :** Si vous etes a l'aise avec l'hospitalite japonaise traditionnelle et avez le budget, passez au moins deux nuits dans un ryokan et le reste dans une machiya ou un hotel-boutique. L'experience du ryokan est si fondamentalement differente de l'hebergement hotelier qu'il vaut la peine de vivre les deux.
+
+**Strategie de reservation :** Les meilleurs etablissements de Kyoto se reservent des mois a l'avance, surtout pendant les periodes de haute saison. Pour Tawaraya et les meilleures chambres du Sowaka, reservez six mois a l'avance. Pour la plupart des autres etablissements, deux a trois mois suffisent en dehors des periodes de pointe.
+
+**Etiquette :** Dans les ryokans, retirez vos chaussures a l'entree. Portez le yukata (kimono leger) fourni dans l'enceinte de l'etablissement. Respectez les heures de bain -- les bains communs ont souvent des horaires separes pour les hommes et les femmes. Les repas kaiseki sont servis a des heures precises ; soyez a l'heure. Le personnel des ryokans fournit un niveau de service que la plupart des visiteurs occidentaux n'ont jamais connu -- acceptez-le avec gratitude et un leger salut.

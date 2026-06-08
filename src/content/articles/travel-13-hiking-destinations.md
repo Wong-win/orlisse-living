@@ -1,8 +1,8 @@
----title: "The Best Hiking Destinations for Every Skill Level in 2026"
+---title: "Les meilleures destinations de randonnee pour tous les niveaux"
 date: "2026-04-01"
 category: "travel"
 keywords: "hiking,outdoor,nature,trails,mountains"
-excerpt: "From gentle day walks to multi-day treks, here are the world's best hiking destinations organized by skill level."
+excerpt: "Des promenades douces aux treks de plusieurs jours, voici les meilleures destinations."
 ---
 ![travel-13-hiking-destinations cover](https://images.unsplash.com/photo-1740383233808-72a0021a5478)
 Hiking is one of the most accessible forms of travel — it requires minimal equipment, can be done almost anywhere, and rewards you with landscapes and perspectives inaccessible by any other means. A good hike changes your relationship with a place. You don't just see the mountains; you walk through them, sweat on them, and earn the view from their summits.

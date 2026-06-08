@@ -1,8 +1,8 @@
----title: "How to Travel More Sustainably: Practical Tips That Actually Make a Difference"
+---title: "Comment voyager plus durablement : conseils pratiques"
 date: "2026-01-18"
 category: "travel"
 keywords: "sustainable,travel,eco,green,tourism"
-excerpt: "Sustainable travel doesn't mean staying home. Here are practical, evidence-based ways to reduce your impact without sacrificing the joy of exploration."
+excerpt: "Le voyage durable ne signifie pas rester chez soi. Voici comment reduire votre impact."
 ---
 ![travel-10-sustainable-travel cover](https://images.unsplash.com/photo-1617548862871-4e46c1c81b45)
 The conversation around sustainable travel tends to oscillate between two extremes: either you should never fly again, or individual actions don't matter so you might as well do whatever you want. Neither position is helpful. The first is unrealistic for most people. The second is a convenient excuse for inaction. The truth lies in between: individual choices do matter, and there are meaningful ways to reduce the environmental and social impact of your travel without giving up the experience entirely.

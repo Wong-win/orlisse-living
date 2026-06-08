@@ -1,8 +1,8 @@
----title: "Travel Photography: How to Capture Better Memories Without Ruining the Moment"
+---title: "Photographie de voyage : comment capturer de meilleurs souvenirs"
 date: "2026-04-26"
 category: "travel"
 keywords: "photography,travel,camera,tips,composition"
-excerpt: "Great travel photos don't require expensive gear. They require seeing differently. Here's how to take photos you'll actually want to look at later."
+excerpt: "De superbes photos de voyage ne necessitent pas un equipement cher. Voici comment."
 ---
 ![travel-14-travel-photography-tips cover](https://images.unsplash.com/photo-1711621978937-8c63757a46cb)
 The most common travel photography mistake isn't technical — it's existential. People spend so much time trying to capture the perfect photo that they forget to experience the place they're photographing. They watch a sunset through a screen, frame a cathedral in a viewfinder, and miss the actual experience of being there.

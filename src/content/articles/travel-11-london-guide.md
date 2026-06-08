@@ -1,8 +1,8 @@
----title: "London Neighborhood Guide: Where to Stay, Eat, and Explore Like a Local"
+---title: "Guide des quartiers de Londres : ou sejourner, manger et explorer"
 date: "2026-02-11"
 category: "travel"
 keywords: "london,england,neighborhood,guide,travel"
-excerpt: "London is a city of villages, each with a distinct personality. Here's your guide to the neighborhoods worth your time."
+excerpt: "Londres est une ville de villages, chacun avec sa propre personnalite. Voici votre guide."
 ---
 ![travel-11-london-guide cover](https://images.unsplash.com/photo-1590436467681-d70e8494e718)
 London is not one city — it's a collection of villages that grew into each other over centuries, each retaining a distinct character, architecture, and rhythm. The London of Westminster and Buckingham Palace is ceremonial and grand. The London of Shoreditch and Hackney is creative and chaotic. The London of Hampstead and Richmond is leafy and residential. These different Londons coexist within a few miles of each other, connected by the Tube and separated by centuries of independent development.

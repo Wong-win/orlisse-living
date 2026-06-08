@@ -1,8 +1,8 @@
----title: "Solo Travel: Everything You Need to Know Before You Go Alone"
+---title: "Voyager seul : tout ce que vous devez savoir avant de partir"
 date: "2026-05-21"
 category: "travel"
 keywords: "solo,travel,alone,safety,tips"
-excerpt: "Traveling alone is one of the most rewarding experiences available to you. Here's how to do it safely, confidently, and enjoyably."
+excerpt: "Voyager seul est l'une des experiences les plus enrichissantes. Voici comment le faire."
 ---
 ![travel-15-solo-travel cover](https://images.unsplash.com/photo-1487119998088-a65531a3ae5c)
 Traveling alone is the single most transformative experience available to most people. It forces self-reliance. It removes the buffer of companionship that insulates you from genuine interaction with a place. It puts you in situations where you have to talk to strangers, navigate unfamiliar systems, and solve problems on your own. It is, in the truest sense, character-building.

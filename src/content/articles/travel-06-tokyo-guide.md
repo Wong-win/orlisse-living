@@ -1,8 +1,8 @@
----title: "Tokyo Neighborhood Guide: Where to Stay and What to Explore"
+---title: "Guide des quartiers de Tokyo : ou sejourner et quoi explorer"
 date: "2025-10-11"
 category: "travel"
 keywords: "tokyo japan city street urban travel"
-excerpt: "Tokyo is a city of distinct neighborhoods, each with its own personality. Here's how to choose where to stay and what to see."
+excerpt: "Tokyo est une ville de quartiers distincts. Voici comment choisir votre base et quoi voir."
 ---
 ![travel-06-tokyo-guide cover](https://images.unsplash.com/photo-1549693578-d683be217e58)
 Tokyo is not one city -- it's dozens of small cities stitched together by one of the world's most efficient transit systems. First-time visitors often make the mistake of trying to "see Tokyo" as if it were a single, coherent destination that can be checked off in three days. You can't. What you can do is pick the right neighborhood to stay in, explore outward from that base, and experience a few of Tokyo's many personalities rather than frantically skimming the surface of all of them.

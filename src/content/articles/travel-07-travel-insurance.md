@@ -1,8 +1,8 @@
----title: "Travel Insurance Explained: Do You Really Need It and How to Choose"
+---title: "L'assurance voyage expliquee : en avez-vous vraiment besoin ?"
 date: "2025-11-05"
 category: "travel"
 keywords: "passport airport documents travel security"
-excerpt: "Travel insurance is one of the most confusing parts of trip planning. Here's what it actually covers, when you need it, and how to choose a policy."
+excerpt: "L'assurance voyage est l'un des aspects les plus confus de la planification. Voici ce qu'elle couvre vraiment."
 ---
 ![travel-07-travel-insurance cover](https://images.unsplash.com/photo-1581553672347-95d9444c0d2c)
 Travel insurance occupies a strange space in the psychology of trip planning. Most people either buy it reflexively (checking the box during flight booking without reading the policy) or skip it entirely (assuming nothing bad will happen). Both approaches can be expensive mistakes.

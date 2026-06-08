@@ -1,8 +1,8 @@
----title: "The Best Travel Apps for Planning Your Next Trip in 2026"
+---title: "Les meilleures applications de voyage pour 2026"
 date: "2025-11-30"
 category: "travel"
 keywords: "smartphone mobile map travel planning navigation"
-excerpt: "The right apps can transform how you plan, book, and experience travel. Here are the essential ones worth downloading before your next trip."
+excerpt: "Les bonnes applications transforment la facon de planifier, reserver et vivre un voyage. Voici les indispensables."
 ---
 ![travel-08-travel-apps cover](https://images.unsplash.com/photo-1659872078778-5acbe1bdb143)
 The right travel app can do things that would have required a travel agent, a phrasebook, a stack of guidebooks, and a physical map just twenty years ago. The wrong travel app is yet another icon on your phone that you never open and that harvests your data in the background.

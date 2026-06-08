@@ -1,8 +1,8 @@
----title: "Budget Travel: How to See the World Without Going Broke"
+---title: "Voyager avec un petit budget : comment voir le monde sans se ruiner"
 date: "2026-03-08"
 category: "travel"
 keywords: "budget,cheap,travel,money,save"
-excerpt: "Travel doesn't have to be expensive. Here's how to plan incredible trips on a budget, from flights to accommodation to food."
+excerpt: "Le voyage n'a pas a etre cher. Voici comment planifier des voyages incroyables avec un budget limite."
 ---
 ![travel-12-budget-travel cover](https://images.unsplash.com/photo-1565514158740-064f34bd6cfd)
 The biggest misconception about travel is that it's expensive. It can be, but it doesn't have to be. The difference between an expensive trip and an affordable one is rarely about where you go — it's about how you plan, how you book, and the daily choices you make once you're there. A trip to Paris can cost $500 or $5,000. The difference is strategy, not sacrifice.
