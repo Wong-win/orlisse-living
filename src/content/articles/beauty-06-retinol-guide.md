@@ -20,6 +20,8 @@ Le retinol appartient a une classe de composes appeles retinoides, des derives d
 L'acide retinoique fait plusieurs choses simultanement. Il accelere le renouvellement cellulaire : les cellules de la peau se renouvellent normalement tous les 28 a 30 jours ; l'acide retinoique accelere ce processus, ce qui explique la desquamation initiale. Il stimule la production de collagene en signalant aux fibroblastes d'augmenter leur production, epaississant le derme avec le temps et reduisant l'apparence des rides fines. Il regule la pigmentation en accelerant l'elimination des cellules hyperpigmentees. Il debloque les pores en normalisant la desquamation des cellules qui tapissent les pores.
 
 ## La hierarchie des retinoides
+![beauty-06-retinol-guide detail](https://images.unsplash.com/photo-1633793566189-8e9fe6f817fc)
+
 
 Tous les retinoides ne se valent pas. Ils existent sur un spectre du plus faible (et le plus doux) au plus fort (et le plus efficace, mais le plus irritant).
 
@@ -31,7 +33,9 @@ Tous les retinoides ne se valent pas. Ils existent sur un spectre du plus faible
 
 **Adapalene (Differin) :** Un retinoide synthetique, disponible en vente libre a 0,1%. Plus stable que le retinol, plus cible sur l'acne. Excellent pour les peaux a tendance acneique.
 
-**Tretinoine (Retin-A, sur ordonnance) :** Acide retinoique pur -- aucune conversion necessaire. Le plus efficace et le plus irritant. Des decennies de preuves cliniques.
+**Tretinoine (Retin-A, sur ordonnance) :** Acide retinoique pur -- aucune conversion necessaire. Le plus efficace e
+![beauty-06-retinol-guide context](https://images.unsplash.com/photo-1636740599648-ae84f705fc2e)
+t le plus irritant. Des decennies de preuves cliniques.
 
 ## Comment commencer : le protocole lent
 

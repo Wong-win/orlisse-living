@@ -19,10 +19,14 @@ Le double nettoyage est exactement ce que son nom indique : laver votre visage d
 La raison pour laquelle cela fonctionne est la chimie de base : le semblable dissout le semblable. Les nettoyants a base d'huile dissolvent les substances a base d'huile sur votre peau que les nettoyants a base d'eau ne peuvent pas eliminer efficacement. Les ecrans solaires modernes et le maquillage longue tenue sont specifiquement formules pour resister a l'eau et a la sueur -- ce qui signifie qu'ils resistent aussi aux nettoyants a base d'eau. Un seul nettoyage a l'eau laisse un residu significatif de ces produits sur votre peau. Un nettoyage a l'huile en premiere etape les dissout completement.
 
 ## Pourquoi un seul nettoyage ne suffit pas
+![beauty-10-double-cleansing](https://images.unsplash.com/photo-1595521969746-7d87f7480fc3)
+
 
 La recherche sur l'efficacite du nettoyage est eclairante. Une etude de 2016 publiee dans le Journal of Cosmetic Dermatology a compare le nettoyage simple au double nettoyage et a constate qu'un seul nettoyage a base d'eau eliminnait environ 65-70% des residus d'ecran solaire, tandis que la methode de double nettoyage en eliminnait plus de 95%. Ces 25-30% restants d'ecran solaire, melanges au sebum et aux polluants environnementaux, restent sur votre peau toute la nuit -- potentiellement obstruant les pores, contribuant a l'inflammation et reduisant l'efficacite de vos produits de traitement.
 
-C'est particulierement pertinent maintenant que l'utilisation quotidienne d'un ecran solaire est devenue la norme dans les communautes conscientes des soins de la peau. Les ecrans solaires modernes resistants a l'eau et chimiques sont concus pour former un film tenace sur la peau. Eliminer ce film efficacement necessite plus qu'un peu de nettoyant moussant.
+C'est particulierement pertinent maintenant que l'utilisation quotidienne d'un ecran solaire est devenue la norme dans les communautes conscientes des soins de la peau. Les ecrans solaires modernes resistants a l'eau et chimiques sont concus pour former un film tenace sur la peau. Eliminer ce film efficacem
+![beauty-10-double-cleansing](https://images.unsplash.com/photo-1775642548388-7dc24f226554)
+ent necessite plus qu'un peu de nettoyant moussant.
 
 ## Qui devrait faire un double nettoyage
 

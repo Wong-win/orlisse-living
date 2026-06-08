@@ -18,6 +18,8 @@ La plupart des gens possedent deux garde-robes : temps chaud et temps froid. La 
 La solution n'est pas une troisieme garde-robe. C'est un ensemble de pieces passerelles qui fonctionnent avec les deux, etendant leur plage utilisable de plusieurs semaines dans chaque direction.
 
 ## Les pieces passerelles
+![fashion-09-seasonal-transitions](https://images.unsplash.com/photo-1543351491-27928bbaa362)
+
 
 Ces douze articles sont l'epine dorsale de l'habillage de transition. Vous en possedez probablement deja la plupart.
 
@@ -53,7 +55,9 @@ Ces douze articles sont l'epine dorsale de l'habillage de transition. Vous en po
 
 **11. Mocassins en cuir.** La chaussure de transition parfaite. Les mocassins offrent plus de couverture que les sandales mais ne sont pas aussi lourds que les bottes. Ils fonctionnent pieds nus par temps chaud et avec des chaussettes fines par temps frais. Le cuir marron ou noir dans une silhouette classique est le plus polyvalent.
 
-**12. Bottines basses.** Pour la partie la plus fraiche du temps de transition. Une Chelsea boot ou une bottine a talon bloc bas fait le pont entre les sandales d'ete et les bottes d'hiver. En cuir plutot qu'en daim, elles gerent les averses de printemps sans se plaindre.
+**12. Bottines basses.** Pour la partie la plus fraiche du temps de transition. Une Chelsea boot ou une bottine a talon bloc bas fait le pont entre les sandales d'ete et les bottes d'hiver. En cuir plutot qu'e
+![fashion-09-seasonal-transitions](https://images.unsplash.com/photo-1610122621578-341e4352ef07)
+n daim, elles gerent les averses de printemps sans se plaindre.
 
 ## La formule de superposition
 

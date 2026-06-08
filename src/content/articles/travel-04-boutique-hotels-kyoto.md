@@ -53,6 +53,8 @@ Occupant l'ancienne residence de la famille Mitsui, cet hotel se trouve sur un s
 **Idéal pour :** Les voyageurs de luxe, les lunes de miel et tous ceux qui veulent une veritable experience onsen au sein de leur hotel.
 
 ## Ryokans traditionnels
+![A serene Japanese garden visible from a hotel room](https://images.unsplash.com/photo-1558869632-279458ac1734)
+
 
 ### Tawaraya
 
@@ -64,7 +66,9 @@ Une option de ryokan plus accessible au coeur de Gion. Gion Hatanaka offre l'exp
 
 ## Planifier votre sejour
 
-Minimum trois nuits. Kyoto recompense la lenteur. Les meilleurs etablissements se reservent des mois a l'avance, surtout pendant la saison des cerisiers en fleurs (fin mars-debut avril) et le feuillage d'automne (novembre). Pour Tawaraya et les meilleures chambres du Sowaka, reservez six mois a l'avance.
+Minimum trois nuits. Kyoto recompense la lenteur. Les meilleurs etablissements se reservent des mois a l'avance, surtout pendant la saison des cerisiers en fleurs (fin mars-debut avril) et le feuillage d'automne (novembre). P
+![travel-04-boutique-hotels-kyoto](https://images.unsplash.com/photo-1522623349500-de37a56ea2a5)
+our Tawaraya et les meilleures chambres du Sowaka, reservez six mois a l'avance.
 
 ## Conseils pratiques pour Kyoto
 

@@ -33,6 +33,8 @@ Les molecules d'acide hyaluronique existent en differents poids moleculaires, ce
 Appliquez l'acide hyaluronique sur peau humide -- c'est le conseil d'utilisation le plus important. Le HA a besoin d'eau pour se lier. Si applique sur peau seche dans un environnement sec, il peut en realite attirer l'humidite hors de la peau plutot que dedans. Apres avoir applique le HA, appliquez immediatement un hydratant pour sceller l'hydratation. Sans couche occlusive par-dessus, l'eau que le HA attire a la surface s'evaporera, laissant la peau plus seche qu'avant.
 
 ## Niacinamide
+![beauty-12-active-ingredients](https://images.unsplash.com/photo-1748543668676-ea8241cb3886)
+
 
 ### Ce que c'est
 
@@ -44,7 +46,9 @@ Les effets de la niacinamide sont inhabituellement larges et bien documentes. El
 
 ### Comment l'utiliser
 
-La niacinamide s'entend bien avec presque tous les autres ingredients, ce qui la rend facile a integrer dans n'importe quelle routine. Elle peut etre utilisee matin et soir, a des concentrations de 2-10%. Les concentrations plus elevees (10%+) offrent des rendements decroissants et un risque d'irritation accru pour certaines personnes -- 5% est le juste milieu pour la plupart des utilisateurs. Appliquez le serum de niacinamide apres le nettoyage et avant l'hydratant.
+La niacinamide s'entend bien avec presque tous les autres ingredients, ce qui la rend facile a integrer dans n'importe quelle routine. Elle peut etre utilisee matin et soir, a des concentrations de 2-10%. Les concentrations plus elevees (10%+) offrent des rendements decroissants et un risque d'irritation accru pour certaines personnes -- 5% est le juste milieu pour la plupart des utilis
+![beauty-12-active-ingredients](https://images.unsplash.com/photo-1748543668646-e81cda0890f3)
+ateurs. Appliquez le serum de niacinamide apres le nettoyage et avant l'hydratant.
 
 ## Peptides
 

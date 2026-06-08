@@ -25,6 +25,8 @@ Chaque routine de soins efficace repose sur trois piliers non negociables. Tout 
 C'est tout. Nettoyer, hydrater, proteger. Si vous ne faites rien d'autre pour votre peau, faites ces trois choses avec constance. Vous aurez une meilleure peau que la plupart des gens avec des routines elaborees qui sautent la creme solaire.
 
 ## Les ajouts optionnels
+![beauty-13-minimalist-skincare](https://images.unsplash.com/photo-1583209814683-c023dd293cc6)
+
 
 Une fois la fondation en place, vous pouvez ajouter des traitements cibles pour des preoccupations specifiques. Un ou deux ajouts suffisent generalement.
 
@@ -34,7 +36,9 @@ Une fois la fondation en place, vous pouvez ajouter des traitements cibles pour 
 
 **Pour l'acne :** Acide salicylique (BHA) 2-3 fois par semaine, ou adapalene (Differin) qui est a la fois un traitement de l'acne et un retinoide doux.
 
-**Pour un boost d'hydratation :** Un serum a l'acide hyaluronique ou a la glycerine applique sur peau humide avant l'hydratant.
+**Pour un boost d'hydratation :** Un serum a l'acide hyalu
+![beauty-13-minimalist-skincare](https://images.unsplash.com/photo-1739980155900-36562bcb7857)
+ronique ou a la glycerine applique sur peau humide avant l'hydratant.
 
 ## Les modeles de routine
 

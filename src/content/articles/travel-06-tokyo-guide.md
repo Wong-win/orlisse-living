@@ -44,6 +44,8 @@ Asakusa est le grand quartier le plus traditionnel de Tokyo, centre autour du Se
 **Que faire :** Visitez le Senso-ji tot le matin (avant 8h) ou le soir (apres 20h) pour en faire l'experience sans les foules ecrasantes. Les ruelles derriere le temple sont remplies de petits restaurants familiaux et de boutiques d'artisanat.
 
 ## Conseils pratiques pour Tokyo
+![travel-06-tokyo-guide detail](https://images.unsplash.com/photo-1534214526114-0ea4d47b04f2)
+
 
 Procurez-vous une carte Suica ou Pasmo -- ces cartes de transport rechargeables fonctionnent sur pratiquement tous les trains, metros et bus de Tokyo. La ligne Yamanote est votre amie -- cette ligne de train circulaire relie les principaux hubs de Tokyo. Tokyo est une ville ou l'argent liquide est courant dans un monde numerique -- gardez 10 000 a 20 000 yens en especes. Apprenez a aimer les konbini -- les supérettes japonaises sont authentiquement bonnes. Et surtout, n'essayez pas de << faire >> Tokyo. Tokyo recompense la lenteur.
 ## Ginza : le centre raffine
@@ -52,7 +54,9 @@ Ginza est le quartier du shopping haut de gamme de Tokyo -- de larges boulevards
 
 ## Asakusa : le coeur traditionnel
 
-Asakusa est le grand quartier le plus traditionnel de Tokyo, centre autour du Senso-ji, le plus ancien temple bouddhiste de la ville. L'approche du temple -- Nakamise-dori -- est une rue commerçante centenaire bordee d'etalages vendant de l'artisanat traditionnel, des collations et des souvenirs. Visitez le Senso-ji tot le matin (avant 8h) ou le soir (apres 20h) pour en faire l'experience sans les foules ecrasantes. Les ruelles derriere le temple -- loin de Nakamise-dori -- sont remplies de petits restaurants familiaux et de boutiques d'artisanat qui fonctionnent depuis des generations.
+Asakusa est le grand quartier le plus traditionnel de Tokyo, centre autour du Senso-ji, le plus ancien temple bouddhiste de la ville. L'approche du temple -- Nakamise-dori -- est une rue commerçante centenaire bordee d'etalages vendant de l'artisanat traditionnel, des collations et des souvenirs. Visitez le Senso-ji tot le matin (avant 8h) ou le soir (apres 20h) pour en faire l'experience sans les foules ecrasantes. Les ruelles derriere le temple -- loin de Nakamise-dori -- sont remplies de petits restaurants familiaux et de b
+![travel-06-tokyo-guide context](https://images.unsplash.com/photo-1551641506-ee5bf4cb45f1)
+outiques d'artisanat qui fonctionnent depuis des generations.
 
 ## Conseils pratiques pour Tokyo
 

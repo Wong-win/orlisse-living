@@ -28,6 +28,8 @@ La therapie LED utilise des longueurs d'onde specifiques de lumiere pour declenc
 La variable cle qui determine si la therapie LED fonctionne est la fluence (energie delivree par unite de surface, mesuree en J/cm2) et l'irradiance (densite de puissance, mesuree en mW/cm2). Trop peu d'energie et rien ne se passe. Trop et vous risquez des dommages thermiques. La fenetre therapeutique est specifique a chaque longueur d'onde.
 
 ## Ce que la recherche clinique montre reellement
+![LED mask treatment session with protective eyewear](https://images.unsplash.com/photo-1737144426404-9b99f49cce04)
+
 
 Avant d'evaluer des appareils specifiques, etablissons ce que les preuves evalu√©es par des pairs soutiennent :
 
@@ -35,7 +37,9 @@ Avant d'evaluer des appareils specifiques, etablissons ce que les preuves evalu√
 
 **Pour l'acne :** Une meta-analyse de 2018 a constate que la therapie par lumiere bleue reduisait significativement les lesions d'acne inflammatoire par rapport au placebo, bien que les resultats soient comparables au peroxyde de benzoyle topique a 5% -- pas spectaculairement meilleurs, mais avec moins d'effets secondaires. La combinaison lumiere bleue et rouge surpassait la lumiere bleue seule.
 
-**Note critique sur les appareils cliniques versus domestiques :** Les panneaux LED cliniques delivrent une irradiance nettement plus elevee que les masques domestiques. Le panneau LED d'un dermatologue peut delivrer 80 a 100 mW/cm2 ; un masque domestique delivre generalement 20 a 50 mW/cm2. Cela signifie que les traitements a domicile necessitent souvent des sessions plus frequentes ou plus longues pour atteindre des doses cumulatives comparables.
+**Note critique sur les appareils cliniques versus domestiques :** Les panneaux LED cliniques delivrent une irradiance nettement plus elevee que les masques domestiques. Le panneau LED d'un dermatologue peut delivrer 80 a 100 mW/cm2 ; un masque domestique delivre generalement 20 a 50 mW/cm2. Cela signifie que les traitements a domicile necessitent souvent des sess
+![beauty-04-led-face-masks](https://images.unsplash.com/photo-1571461638238-44ceea2b1542)
+ions plus frequentes ou plus longues pour atteindre des doses cumulatives comparables.
 
 ## Notre methodologie de test
 

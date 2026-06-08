@@ -24,6 +24,8 @@ Un parfum est construit comme une pyramide, avec trois couches qui se revelent d
 Un parfum bien construit assure une transition fluide entre ces couches. Un parfum mal construit a une belle ouverture qui s'effondre en quelque chose de plat ou d'agressif apres 30 minutes.
 
 ## Les familles de parfums
+![beauty-07-fragrance-guide detail](https://images.unsplash.com/photo-1543422655-ac1c6ca993ed)
+
 
 La plupart des parfums appartiennent a l'une de ces grandes familles. Comprendre vers quelles familles vous gravitez est la cle pour trouver des parfums que vous aimerez.
 
@@ -39,7 +41,9 @@ La plupart des parfums appartiennent a l'une de ces grandes familles. Comprendre
 
 **Chypre :** Une structure specifique plutot qu'une note unique : notes de tete d'agrumes sur un coeur floral ou boise, ancre par la mousse de chene et le patchouli dans la base. Complexes, sophistiques. Exemple classique : Chanel No. 19.
 
-**Gourmand :** Une sous-categorie de l'oriental qui sent specifiquement la nourriture -- vanille, chocolat, caramel, cafe, amandes, miel. Aimés ou detestes. Exemple classique : Maison Margiela Replica By the Fireplace.
+**Gourmand :** Une sous-categorie de l'oriental qui sent specifiquement la nourriture -- vanille, chocolat, caramel, cafe, amandes, miel. Aimés ou detestes. Exemple classique :
+![beauty-07-fragrance-guide context](https://images.unsplash.com/photo-1615108395437-df128ad79e80)
+ Maison Margiela Replica By the Fireplace.
 
 ## Concentrations : ce que signifient les etiquettes
 

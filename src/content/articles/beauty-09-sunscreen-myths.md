@@ -21,6 +21,8 @@ Cet article examine les mythes les plus persistants a travers le prisme de la re
 **Le verdict :** La creme solaire est appropriee chaque jour, quelles que soient les conditions meteorologiques ou le statut interieur. Cela ne signifie pas que vous devez reappliquer du SPF 50 toutes les deux heures en etant assis dans un bureau sans fenetres. Mais une application matinale d'un ecran solaire quotidien est une habitude sensee, pas de la paranoia.
 
 ## Mythe 2 : Les indices SPF eleves ne sont que du marketing
+![beauty-09-sunscreen-myths](https://images.unsplash.com/photo-1594527964562-32ed6eb11709)
+
 
 **L'affirmation :** Le SPF 30 bloque 97% des rayons UVB et le SPF 50 en bloque 98% -- la difference est negligeable, donc tout ce qui depasse 30 est du gaspillage.
 
@@ -28,7 +30,9 @@ Cet article examine les mythes les plus persistants a travers le prisme de la re
 
 Le SPF ne mesure que la protection UVB. Le systeme de classification PA (PA+, PA++, PA+++, PA++++) est ce qui vous renseigne sur la protection UVA. Un SPF eleve avec une classification PA basse signifie que vous etes protege des coups de soleil mais pas du vieillissement.
 
-**Le verdict :** Le SPF 30 est le minimum. Le SPF 50 offre une marge de securite significative compte tenu de la facon dont les gens appliquent reellement la creme solaire. Recherchez egalement PA++++ -- cela indique le plus haut niveau de protection UVA.
+**Le verdict :** Le SPF 30 est le minimum. Le SPF 50 offre une marge de securite significative compte tenu de la facon dont les gens appliquent reellement la creme solaire. Recherchez egalement PA++++ -- cela indique le plus haut niveau de pro
+![beauty-09-sunscreen-myths](https://images.unsplash.com/photo-1596980846062-81a524d170ee)
+tection UVA.
 
 ## Mythe 3 : Les ecrans solaires chimiques sont dangereux et causent le cancer
 

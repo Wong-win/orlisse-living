@@ -18,6 +18,8 @@ Avant d'ouvrir votre placard, notez les specifics de votre voyage : la duree (no
 Ces reponses determinent tout. Une semaine dans une station balneaire ou vous vivez en maillot de bain et en paréos exige une garde-robe fondamentalement differente d'une semaine a Paris ou vous marcherez des kilometres chaque jour et dinerez dans de bons restaurants.
 
 ## Etape 2 : La formule
+![fashion-14-vacation-wardrobe](https://images.unsplash.com/photo-1740843202723-8330ce3340c1)
+
 
 Pour tout voyage d'une semaine ou plus, cette formule fonctionne :
 
@@ -28,7 +30,9 @@ Pour tout voyage d'une semaine ou plus, cette formule fonctionne :
 - 2-3 paires de chaussures (une pour marcher, une elegante, une plage ou decontractee)
 - 1 maillot de bain (deux si vous nagez quotidiennement)
 
-Cette formule donne environ 15 a 20 tenues distinctes a partir d'environ 12 articles -- largement assez de variete pour n'importe quel voyage. La cle est que tout doit fonctionner avec tout le reste. Chaque haut doit aller avec chaque bas. Chaque chaussure doit fonctionner avec chaque tenue. Cette contrainte impose la cohesion.
+Cette formule donne environ 15 a 20 tenues distinctes a partir d'environ 12 articles -- largement assez de variete pour n'importe quel voyage. La cle est que tout doit fonctionner avec tout le reste. Chaque haut doit aller avec chaque bas. Chaque chaussure doit fonctionner avec c
+![fashion-14-vacation-wardrobe](https://images.unsplash.com/photo-1646619944883-7168ec5344ab)
+haque tenue. Cette contrainte impose la cohesion.
 
 ## Etape 3 : Choisir une palette de couleurs
 

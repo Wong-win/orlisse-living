@@ -22,6 +22,8 @@ Avant d'entrer dans les soins specifiques aux materiaux, trois regles s'applique
 **3. Traitez les problemes immediatement.** Une petite eraflure polie aujourd'hui est invisible. La meme eraflure, laissee pendant des mois et exposee a l'eau et a la salete, devient une cicatrice permanente. Un point lache repris tot est une reparation a deux euros chez le cordonnier. Un point lache ignore devient une semelle decousue qui coute bien plus cher a reparer.
 
 ## Chaussures en cuir
+![fashion-12-shoe-care](https://images.unsplash.com/photo-1449505278894-297fdb3edbc1)
+
 
 Le cuir est de la peau -- il doit etre nettoye, nourri et protege, tout comme votre propre peau. Le cuir neglige se desseche, se craquelle et finit par ceder.
 
@@ -31,7 +33,9 @@ Le cuir est de la peau -- il doit etre nettoye, nourri et protege, tout comme vo
 
 **Cirage :** Le cirage ajoute de la couleur, de la brillance et une couche protectrice. La creme de cirage nourrit le cuir et offre un eclat doux. La cire offre une brillance plus elevee et une meilleure resistance a l'eau. Appliquez le cirage en fines couches avec un chiffon ou une brosse applicatrice, laissez secher et lustrez avec une brosse en crin de cheval. Pour un brillant miroir sur le bout de la chaussure, appliquez de fines couches de cire avec une petite quantite d'eau, en construisant la brillance progressivement.
 
-**Impermeabilisation :** Un spray impermeabilisant fournit une barriere supplementaire contre l'humidite. Appliquez apres le cirage et reappliquez tous les quelques mois ou apres une exposition a une forte pluie. Meme le cuir impermeabilise n'est pas completement etanche -- si vos chaussures sont trempees, bourrez-les de papier journal, laissez-les secher a temperature ambiante loin d'une source de chaleur directe, et nourrissez-les une fois seches.
+**Impermeabilisation :** Un spray impermeabilisant fournit une barriere supplementaire contre l'humidite. Appliquez apres le cirage et reappliquez tous les quelques mois ou apres une exposition a une forte pluie. Meme le cuir impermeabilise n'est pas completement etanche -- si vos chaussures sont trempees, bourrez-les de papier journal, laissez-les secher a temperature ambiante loin
+![fashion-12-shoe-care](https://images.unsplash.com/photo-1614252235316-8c857d38b5f4)
+ d'une source de chaleur directe, et nourrissez-les une fois seches.
 
 ## Daim et nubuck
 

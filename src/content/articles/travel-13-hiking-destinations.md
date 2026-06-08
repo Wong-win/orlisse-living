@@ -26,6 +26,8 @@ Voici les meilleures destinations de randonnee au monde, organisees par l'experi
 **West Highland Way, Ecosse :** Un parcours de 154 km de Milngavie (pres de Glasgow) a Fort William dans les Highlands ecossaises. Le sentier prend 5 a 8 jours et traverse certains des paysages les plus spectaculaires d'Ecosse.
 
 ## Avance : treks de plusieurs jours et itineraires eloignes
+![travel-13-hiking-destinations](https://images.unsplash.com/photo-1740383236046-1d15b49195a2)
+
 
 **Torres del Paine, Chili :** Le circuit O dans le parc national Torres del Paine en Patagonie prend 8 a 10 jours. Les paysages sont d'un autre monde : lacs turquoise, glaciers, tours de granit et des vents assez forts pour vous renverser.
 
@@ -35,7 +37,9 @@ Voici les meilleures destinations de randonnee au monde, organisees par l'experi
 
 ## Equipement essentiel pour toute randonnee
 
-Quel que soit le niveau de difficulte, chaque randonnee necessite : des chaussures de randonnee solides et rodees, une quantite d'eau adequate (au moins 1 litre pour 2 heures de marche), un moyen de navigation (telephone avec carte hors ligne et une batterie externe de secours), une protection contre la pluie, une protection solaire, une trousse de premiers soins et plus de nourriture que vous ne pensez en avoir besoin.
+Quel que soit le niveau de difficulte, chaque randonnee necessite : des chaussures de randonnee solides et rodees, une quantite d'eau adequate (au moins 1 litre pour 2 heures de marche), un moyen de navigation (telephone avec carte hors ligne et une batterie externe de secours), une protection contre la pluie, une protection solaire, une trousse de premiers soins et plus
+![travel-13-hiking-destinations](https://images.unsplash.com/photo-1740383235721-f89b59569e8a)
+ de nourriture que vous ne pensez en avoir besoin.
 
 ## Equipement essentiel pour toute randonnee
 

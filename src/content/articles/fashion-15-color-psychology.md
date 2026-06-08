@@ -18,6 +18,8 @@ Les associations culturelles se superposent a la biologie. Le blanc signifie la 
 Le message pratique est le suivant : la couleur communique. Choisir quoi porter en fonction de la couleur n'est pas superficiel -- c'est une communication efficace.
 
 ## Les principales couleurs et leurs significations
+![fashion-15-color-psychology](https://images.unsplash.com/photo-1778856920032-328a86d21a22)
+
 
 ### Noir
 **Effet psychologique :** Autorite, sophistication, mystere, pouvoir.
@@ -62,7 +64,9 @@ Le message pratique est le suivant : la couleur communique. Choisir quoi porter 
 ### Marron et camel
 **Effet psychologique :** Chaleur, fiabilite, ancrage, confort.
 **Quand le porter :** Automne et hiver, contextes decontractes et smart-casual. Le camel est le neutre chaud le plus polyvalent -- un manteau ou un pull camel fonctionne avec tout.
-**Le risque :** Le marron peut etre percus comme ennuyeux ou depasse. Les marrons riches et chauds (chocolat, cognac, camel) sont plus flatteurs et actuels.
+**Le risque :** Le marron peut etre percus comme ennuyeux ou depasse. Les marrons riches et chauds (chocolat, 
+![fashion-15-color-psychology](https://images.unsplash.com/photo-1732310141503-32bdab8eca11)
+cognac, camel) sont plus flatteurs et actuels.
 
 ## Comment utiliser la couleur strategiquement
 

@@ -22,6 +22,8 @@ Le travail principal de votre peau est de fonctionner comme une barriere entre v
 - **Le renouvellement cellulaire :** Peut ralentir en hiver et augmenter en ete en raison d'une circulation accrue
 
 ## Le cadre de transition saisonniere
+![Winter skincare essentials including rich moisturizers](https://images.unsplash.com/photo-1586220742613-b731f66f7743)
+
 
 Plutot que de remplacer toute votre routine quatre fois par an, adaptez votre cadre existant. Les trois piliers -- nettoyer, hydrater, proteger -- restent constants. Ce qui change est la texture, le poids et l'objectif specifique des produits dans chaque categorie.
 
@@ -47,7 +49,9 @@ Reintroduisez ou augmentez la frequence des retinoides. Beaucoup de gens reduise
 
 L'hiver est la saison la plus difficile pour la plupart des types de peau. Une faible humidite exterieure combinee au chauffage interieur peut reduire l'humidite ambiante a des niveaux quasi-desertiques. La perte d'eau transepidermique s'accelere, et la fonction barriere devient la priorite absolue.
 
-Passez aux nettoyants creme, baume ou huile. Utilisez un hydratant riche. Ajoutez une couche occlusive le soir -- pour les peaux tres seches, une fine couche de baume, d'huile pour le visage ou meme de vaseline sur votre creme de nuit scelle l'hydratation et reduit considerablement la perte d'eau nocturne. Reduisez l'exfoliation a une fois toutes les 1-2 semaines, ou faites une pause complete si votre peau est sensible. Utilisez un humidificateur dans votre chambre la nuit -- l'une des interventions les plus efficaces et les moins cheres contre la secheresse hivernale. Visez 40-60% d'humidite relative. Ne sautez pas la creme solaire -- il est facile de la negliger les jours gris d'hiver, mais les UVA traversent les nuages et les fenetres.
+Passez aux nettoyants creme, baume ou huile. Utilisez un hydratant riche. Ajoutez une couche occlusive le soir -- pour les peaux tres seches, une fine couche de baume, d'huile pour le visage ou meme de vaseline sur votre creme de nuit scelle l'hydratation et reduit considerablement la perte d'eau nocturne. Reduisez l'exfoliation a une fois toutes les 1-2 semaines, ou faites une pause complete si votre peau est sensible. Utilisez un humidificateur dans votre chambre la nuit -- l'une des interventions les plus efficaces et les moins cheres contre la secheresse hivernale. Visez 40-60% d'humidite relative. Ne sautez pas la creme solaire -- il est facile de la negliger
+![beauty-05-seasonal-skincare](https://images.unsplash.com/photo-1670201203208-055d6d79db4a)
+ les jours gris d'hiver, mais les UVA traversent les nuages et les fenetres.
 
 ## Comment savoir quand faire la transition
 

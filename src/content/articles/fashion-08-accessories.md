@@ -42,6 +42,8 @@ Une fois que vous avez une fondation quotidienne, ajoutez :
 L'or et l'argent n'ont plus besoin d'etre strictement separes -- les metaux melanges sont un look delibere. Mais pour les debutants, choisir un metal (or, argent ou or rose) pour vos pieces quotidiennes simplifie tout. Tous vos bijoux de fondation s'accordent sans reflexion. Une fois a l'aise, melanger les metaux ajoute de la profondeur -- une montre en argent avec des bagues en or, par exemple -- mais le melange doit sembler intentionnel (repete sur plusieurs pieces) plutot qu'accidentel.
 
 ## Sacs : la fonction rencontre la forme
+![fashion-08-accessories context](https://images.unsplash.com/photo-1586878340978-f9ca47ad7d72)
+
 
 Un sac est simultanement un outil pratique et une declaration visuelle. Le bon sac dans la bonne proportion peut definir une tenue autant qu'un blazer. Le mauvais sac -- trop grand, trop petit, trop decontracte, trop formel -- peut saper un look par ailleurs parfait.
 

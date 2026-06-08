@@ -20,6 +20,8 @@ Deuxiemement, il prescrit des corrections pour des caracteristiques qui ne sont 
 Troisiemement, il suppose que toute personne avec une morphologie donnee a les memes objectifs. Une personne aux epaules larges pourrait vouloir les minimiser, ou pourrait vouloir les accentuer parce qu'elles font paraitre sa taille plus fine. Le systeme ne peut pas s'adapter a differentes preferences.
 
 ## Un meilleur cadre : la proportion, pas la forme
+![fashion-11-body-type-dressing](https://images.unsplash.com/photo-1552579964-ca321c5c8651)
+
 
 Plutot que de categoriser votre corps dans un type, concentrez-vous sur les proportions visuelles que vous voulez creer. C'est a la fois plus precis et plus valorisant : vous decidez de ce a quoi vous voulez ressembler, au lieu qu'on vous dise ce que vous devriez cacher.
 
@@ -27,7 +29,9 @@ Plutot que de categoriser votre corps dans un type, concentrez-vous sur les prop
 
 **Proportion horizontale :** Le ratio apparent de vos epaules par rapport a vos hanches. Un pantalon large et des jupes evasees ajoutent du poids visuel au bas du corps, equilibrant des epaules plus larges. Des epaules structurees (blazers, manches bouffantes, epaulettes) ajoutent du poids visuel au haut du corps, equilibrant des hanches plus larges. Une ceinture a la taille naturelle cree un effet sablier independamment de vos mensurations reelles.
 
-**Equilibre des volumes :** La relation entre les pieces ajustees et les pieces amples. La formule la plus universellement flatteuse est ajustee d'un cote, plus ample de l'autre : un haut slim avec un pantalon large, ou un pull surdimensionne avec un jean slim. Un ensemble integralement ajuste peut fonctionner mais est moins indulgent ; un ensemble integralement ample se lit souvent comme informe.
+**Equilibre des volumes :** La relation entre les pieces ajustees et les pieces amples. La formule la plus universellement flatteuse est ajustee d'un cote, plus ample de l'autre : un haut slim avec un pantalon large, ou un pull surdimensionne avec un jean slim. Un ensemble integralement ajuste peut fonctionner mais est moin
+![fashion-11-body-type-dressing](https://images.unsplash.com/photo-1591102118184-9a7957ceb811)
+s indulgent ; un ensemble integralement ample se lit souvent comme informe.
 
 ## Les principes
 

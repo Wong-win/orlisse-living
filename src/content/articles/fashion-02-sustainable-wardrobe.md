@@ -19,6 +19,8 @@ Le discours dominant en matiere de mode durable se presente comme suit : jetez t
 Premierement, elle est classiste. Tout le monde ne peut pas s'offrir un t-shirt en coton biologique a 200 euros. Deuxiemement, elle ignore la realite selon laquelle le style personnel est une forme d'expression de soi et de joie. Dire aux gens de porter les memes cinq articles beiges pour toujours n'est pas une vision convaincante. Troisiemement, et c'est le plus important, le vetement le plus durable est celui que vous possedez deja. Jeter une garde-robe fonctionnelle pour acheter de nouveaux articles dits << durables >> passe completement a cote de l'essentiel.
 
 ## Les cinq piliers d'une garde-robe ethique
+![fashion-02-sustainable-wardrobe](https://images.unsplash.com/photo-1518838439236-2b73ceb4638a)
+
 
 ### 1. Portez ce que vous possedez deja
 

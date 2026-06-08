@@ -26,6 +26,8 @@ Sejournez dans des hebergements sociaux -- auberges, maisons d'hotes avec espace
 Commencez par une destination facile -- Japon, Portugal, Pays-Bas, Nouvelle-Zelande, Islande. Reservez vos deux premieres nuits a l'avance. Planifiez une activite par jour. Apportez un livre ou un journal. La peur qui empeche les gens de partir seuls s'avere presque toujours plus grande dans l'anticipation que dans la realite.
 
 ## Securite : pratique, pas paranoiaque
+![travel-15-solo-travel](https://images.unsplash.com/photo-1656877377253-cc8a3d36c598)
+
 
 La securite en voyage solo releve largement des memes precautions que vous prendriez dans une ville inconnue de votre propre pays, appliquees avec constance. Partagez votre itineraire avec quelqu'un a la maison -- un document Google partage ou un message de pointage quotidien suffit. Faites confiance a votre instinct -- si une situation, un lieu ou une personne vous semble anormal, partez. Vous n'avez pas besoin de vous justifier. Votre subconscient traite bien plus d'informations que votre esprit conscient.
 
@@ -39,7 +41,9 @@ Le voyage en solo inclut inevitablement des moments de solitude. C'est normal. S
 
 Commencez par une destination facile avec une excellente infrastructure touristique, un anglais repandu et une reputation de securite. Le Japon, le Portugal, les Pays-Bas, la Nouvelle-Zelande et l'Islande sont d'excellents premiers voyages en solo. Reservez vos deux premieres nuits a l'avance -- savoir ou vous dormez a l'arrivee elimine la variable la plus stressante. Planifiez une activite par jour -- un seul point d'ancrage donne une structure sans sur-planifier. Apportez un livre ou un journal -- les moments entre les activites sont quand le voyage en solo semble le plus solitaire. Ces objets rendent ces moments intentionnels.
 
-Le voyage en solo n'est pas pour tout le monde, et il n'est pas pour tous les voyages. Mais il est pour plus de gens que ceux qui l'essayent reellement, et la peur qui empeche les gens de partir seuls s'avere presque toujours plus grande dans l'anticipation que dans la realite.
+Le voyage en solo n'est pas pour tout le monde, et il n'est pas pour tous les voyages. Mais il est pour plus de gens que ceux qui l'essayent reellement, et la peur qui empeche les gens de partir seuls s'avere presque toujou
+![travel-15-solo-travel](https://images.unsplash.com/photo-1752068298689-22692722ee57)
+rs plus grande dans l'anticipation que dans la realite.
 ## Les benefices de voyager seul
 
 Liberte complete. Vous decidez ou aller, quand vous reveiller, quoi manger, quand repartir. Il n'y a ni negociation ni compromis. Cette liberte est enivrante et, une fois experimentee, rend le voyage en groupe contraignant par comparaison.

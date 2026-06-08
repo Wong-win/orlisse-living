@@ -26,6 +26,8 @@ Le dejeuner est le repas de valeur -- de nombreux restaurants proposent des menu
 La marche est gratuite et constitue le meilleur moyen de voir une ville. Les musees ont des jours de gratuite. La nature est toujours gratuite -- parcs, plages, sentiers de randonnee et jardins publics ne coutent rien et offrent souvent les experiences les plus memorables d'un voyage.
 
 ## La psychologie du voyage economique
+![travel-12-budget-travel](https://images.unsplash.com/photo-1542383578-000e248cde3b)
+
 
 L'objectif n'est pas de depenser le moins possible -- c'est de depenser intentionnellement. Identifiez ce que vous valorisez vraiment dans un voyage et allouez votre budget en consequence. Si la nourriture est le but de votre voyage, depensez pour les restaurants et economisez sur l'hebergement. Si un lit confortable est non negociable, depensez pour l'hebergement et economisez sur les activites. Il n'y a pas de superiorite morale a depenser moins -- il y a seulement la liberte qui vient de savoir que votre argent va vers ce qui compte vraiment pour vous.
 
@@ -35,7 +37,9 @@ Une fois a destination, les transports peuvent rapidement devenir l'un des plus 
 
 ## La technologie qui fait economiser
 
-Utilisez des applications de cashback et de comparaison de prix pour les reservations. Installez des applications de transport local pour les tarifs les moins chers. Activez les alertes de prix sur les hebergements et les vols. Utilisez des applications de repas a prix reduit comme Too Good To Go pour de la nourriture de restaurant a une fraction du prix en fin de journee.
+Utilisez des applications de cashback et de comparaison de prix pour les reservations. Installez des applications de transport local pour les tarifs les moins chers. Activez les alertes de prix sur les hebergements et les vols. Utilisez des applications de repas a prix reduit comme Too Good To Go pour de la nourriture de restau
+![travel-12-budget-travel](https://images.unsplash.com/photo-1610023926499-571d3b203226)
+rant a une fraction du prix en fin de journee.
 
 ## L'etat d'esprit du voyage economique
 

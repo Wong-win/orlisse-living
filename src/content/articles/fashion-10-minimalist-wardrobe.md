@@ -20,6 +20,8 @@ Le minimalisme vestimentaire est souvent defini par un nombre : 30 articles, 40 
 Une garde-robe minimaliste saine peut contenir 50 ou 100 articles. La difference avec une garde-robe maximaliste n'est pas le nombre -- c'est que chaque piece individuelle est portee, aimee et fonctionnelle, plutot que 60% du placard soit aspirationnel, sentimental ou achete par culpabilite.
 
 ## Les benefices
+![fashion-10-minimalist-wardrobe](https://images.unsplash.com/photo-1714386450145-fa4886e94d04)
+
 
 **Moins de fatigue decisionnelle.** Quand votre garde-robe est organisee, s'habiller demande moins d'energie mentale. Tout va ensemble. Tout vous va. Vous passez moins de temps debout devant votre placard et plus de temps a vivre votre vie.
 
@@ -27,7 +29,9 @@ Une garde-robe minimaliste saine peut contenir 50 ou 100 articles. La difference
 
 **Impact environnemental.** Le vetement le plus durable est celui que vous possedez deja. Une garde-robe plus petite de pieces frequemment portees a une fraction de l'empreinte environnementale d'une grande garde-robe d'articles rarement portes, independamment de la durabilite affichee de chaque piece individuelle.
 
-**Clarte.** Quand vous arretez d'acheter des vetements dont vous n'avez pas besoin, vous liberez de l'espace mental, de l'espace physique et des ressources financieres pour des choses qui comptent vraiment pour vous.
+**Clarte.** Quand vous arretez d'acheter des vetements dont vous n'avez pas besoin, vous liberez de l'espace mental, de l'espace physique et des ress
+![fashion-10-minimalist-wardrobe](https://images.unsplash.com/photo-1535940910958-f63320df7c62)
+ources financieres pour des choses qui comptent vraiment pour vous.
 
 ## Comment en construire une
 

@@ -21,6 +21,8 @@ Les formulations coreennes utilisent des filtres chimiques de nouvelle generatio
 Le resultat est une creme solaire qui ressemble davantage a un hydratant leger ou a un serum. Pas de masque blanc sur aucune carnation. Pas de residu gras. Pas de peluchage sous le maquillage. Pour la premiere fois, porter une creme solaire quotidiennement ne ressemble plus a une corvee.
 
 ## Comprendre les etiquettes des ecrans solaires coreens
+![beauty-01-korean-sunscreen](https://images.unsplash.com/photo-1594055103006-7871176f1a7e)
+
 
 Si vous debutez avec les ecrans solaires coreens, l'etiquetage peut etre deroutant. Voici ce qui compte :
 

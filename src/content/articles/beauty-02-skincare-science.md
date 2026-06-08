@@ -25,6 +25,8 @@ Chaque routine de soins efficace -- quel que soit le type de peau, l'age ou le b
 C'est tout. Protection le matin, nettoyage le soir et hydratation les deux fois. Chaque produit supplementaire est optionnel -- utile uniquement s'il repond a une preoccupation specifique que vous avez identifiee.
 
 ## La routine du matin : proteger
+![Morning skincare products arranged neatly](https://images.unsplash.com/photo-1576426863848-c21f53c60b19)
+
 
 La routine du matin a un seul objectif : preparer votre peau pour la journee et la proteger des elements. Elle doit etre rapide, legere et axee sur la defense.
 
@@ -44,7 +46,9 @@ Choisissez un hydratant selon votre type de peau : gel ou gel-creme pour peau gr
 
 ### Etape 4 : Ecran solaire
 
-Comme explique precedemment -- non negociable, SPF 30 minimum, PA++++ si vous utilisez des ecrans solaires asiatiques. Appliquez genereusement.
+Comme explique precedemment -- non negociable, SPF 30 minimum, PA+++
+![beauty-02-skincare-science](https://images.unsplash.com/photo-1739980104488-408eff709fff)
++ si vous utilisez des ecrans solaires asiatiques. Appliquez genereusement.
 
 ## La routine du soir : reparer
 

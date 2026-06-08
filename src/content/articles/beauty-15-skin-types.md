@@ -27,6 +27,8 @@ La dermatologie reconnait cinq types de peau de base, determines principalement 
 **Sensible :** Pas techniquement un type de peau dans le cadre huile-eau, mais une categorie distincte caracterisee par la reactivite. La peau sensible est sujette aux rougeurs, picotements, brulures et irritations en reponse aux produits, a la meteo ou aux facteurs environnementaux. Elle peut coexister avec n'importe lequel des types ci-dessus (grasse et sensible, seche et sensible, etc.).
 
 ## Le test du visage nu
+![beauty-15-skin-types](https://images.unsplash.com/photo-1541752857837-f8a0154fd092)
+
 
 Le moyen le plus simple et le plus fiable de determiner votre type de peau :
 
@@ -34,7 +36,9 @@ Le moyen le plus simple et le plus fiable de determiner votre type de peau :
 2. Attendez une heure. Ne touchez pas votre visage pendant ce temps.
 3. Apres une heure, examinez votre peau a la lumiere naturelle. Pressez un mouchoir propre sur differentes zones de votre visage.
 
-Le mouchoir recueille de l'huile partout : peau grasse. Le mouchoir recueille de l'huile uniquement dans la zone T : peau mixte. Le mouchoir ne recueille aucune huile, la peau est tendue ou pèle : peau seche. Le mouchoir recueille un minimum d'huile, la peau est confortable : peau normale.
+Le mouchoir recueille de l'huile partout : peau grasse. Le mouchoir recueille de l'huile uniquement dans la zone T : peau mixte. Le mouchoir ne recueille aucune huile, la peau est tendue ou pèle : peau seche. Le mouchoir recueille un mi
+![beauty-15-skin-types](https://images.unsplash.com/photo-1710580889701-9fa8f2cd5927)
+nimum d'huile, la peau est confortable : peau normale.
 
 ## Deshydratation vs secheresse
 

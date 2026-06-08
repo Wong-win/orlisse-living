@@ -46,6 +46,8 @@ Mangez local et de saison. Evitez les plastiques a usage unique. Achetez des sou
 Voyagez hors saison. Choisissez des villes secondaires et des destinations moins connues. Respectez les capacites locales.
 
 ## Se deplacer a votre destination
+![travel-10-sustainable-travel](https://images.unsplash.com/photo-1496531693211-31c5234a5ea9)
+
 
 Le transport a destination est la composante la plus controlable de votre empreinte de voyage. Les trains plutot que les avions pour les deplacements regionaux -- en Europe et dans certaines parties de l'Asie, le train a grande vitesse produit environ 90% de carbone en moins par passager que l'avion sur le meme trajet. Les transports en commun plutot que les voitures de location -- les bus, les tramways et les metros deplacent les gens bien plus efficacement. Marchez et faites du velo -- a l'echelle du quartier, la marche et le velo sont zero emission, gratuits et le meilleur moyen de decouvrir une ville.
 
@@ -65,7 +67,9 @@ Le voyage durable ne concerne pas la perfection -- il s'agit d'ameliorations sig
 
 Le voyage durable ne concerne pas la perfection -- il s'agit d'ameliorations significatives. Reduire votre empreinte voyage de 30% par des choix reflechis est bien mieux que d'ignorer le probleme ou d'abandonner le voyage par desespoir. La hierarchie merite d'etre repetee : volez moins souvent et restez plus longtemps, choisissez le train quand c'est possible, soutenez les entreprises locales et evitez les pires contrevenants (resorts tout compris, vols court-courriers quand le train est disponible, plastiques a usage unique).
 
-Et peut-etre le plus important : le voyage lui-meme, fait de maniere reflechie, peut etre une force positive. Les revenus du tourisme soutiennent les efforts de conservation, preservent le patrimoine culturel et fournissent des moyens de subsistance dans des communautes avec peu d'autres opportunites economiques. L'objectif n'est pas d'arreter de voyager -- c'est de voyager d'une maniere qui laisse les lieux que vous visitez au moins aussi sains que vous les avez trouves.
+Et peut-etre le plus important : le voyage lui-meme, fait de maniere reflechie, peut etre une force positive. Les revenus du tourisme soutiennent les efforts de conservation, preservent le patrimoine culturel et fournissent des moyens de subsistance dans des communautes avec peu d'autres opportunites economiques. L'objectif n'est pas d'arreter de voyager -- c'est de voyager d'une maniere qui laisse les lieux que vous v
+![travel-10-sustainable-travel](https://images.unsplash.com/photo-1618063270074-090417d4c242)
+isitez au moins aussi sains que vous les avez trouves.
 ## Manger et faire ses courses en voyage
 
 L'empreinte carbone des aliments importes est enorme -- un repas prepare a partir d'ingredients locaux peut avoir une fraction des emissions d'un repas reposant sur des produits importes. La nourriture locale a aussi meilleur gout et vous connecte aux traditions culinaires de la region.

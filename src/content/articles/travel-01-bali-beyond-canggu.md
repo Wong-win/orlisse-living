@@ -37,6 +37,8 @@ Le projet de restauration corallienne de Pemuteran merite une mention speciale. 
 **Que faire :** L'ile de Menjangan offre la meilleure plongee sur tombant de Bali, avec un courant minimal et une visibilite qui depasse regulierement 30 metres. Meme si vous n'etes pas plongeur, le snorkeling a Menjangan est exceptionnel -- le recif commence directement au bord de l'eau, et le tombant dans l'eau bleu profond est spectaculaire. Sur terre, le parc national de Bali Ouest propose de la randonnee, de l'observation des oiseaux (le mainate de Bali, une espece endemique en danger critique d'extinction, est reintroduit ici) et des paysages de savane qui ne ressemblent en rien au Bali tropical que la plupart des gens imaginent.
 
 ## Munduk : brume, clous de girofle et cascades
+![Traditional Balinese jukung boats on a black sand beach at sunrise](https://images.unsplash.com/photo-1730697897470-0efaee4922de)
+
 
 Munduk se trouve dans les hautes terres centrales de Bali a environ 800 metres d'altitude. Il fait assez frais pour avoir besoin d'une veste legere le soir -- un veritable luxe dans le Bali tropical. La region est entouree de plantations de clous de girofle et de cafe, et l'air porte une legere note epicee que vous associerez a jamais a cet endroit. Sillonne de sentiers de randonnee qui relient les cascades, Munduk est le secret le mieux garde de Bali pour les randonneurs et tous ceux qui ont besoin d'une pause de l'humidite tropicale.
 
@@ -52,7 +54,9 @@ Sur la cote nord-est de Bali, Amed est un chapelet de villages de pecheurs le lo
 
 **Ou se loger :** De simples bungalows de plage et de petits complexes, pour la plupart possedes par des familles locales. L'ambiance est decontractee et sans pretention.
 
-**Que faire :** Visitez les sauniers du village d'Amed, qui utilisent encore des methodes traditionnelles pour evaporer l'eau de mer dans des auges en bois sculptees. Achetez un sac directement aupres du producteur -- c'est l'un des meilleurs sels que vous gouterez jamais.
+**Que faire :** Visitez les sauniers du village d'Amed, qui utilisent encore des methodes traditionnelles pour evaporer l'eau de mer dans des auges en bois sculptees. Achetez un sac directe
+![travel-01-bali-beyond-canggu](https://images.unsplash.com/photo-1555400038-63f5ba517a47)
+ment aupres du producteur -- c'est l'un des meilleurs sels que vous gouterez jamais.
 
 ## Notes pratiques pour toutes les destinations
 

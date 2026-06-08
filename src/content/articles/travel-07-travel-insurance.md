@@ -56,12 +56,16 @@ Remboursement des repas, de l'hebergement et du transport si votre voyage est re
 Voyage international, surtout vers des pays ou votre assurance maladie ne fonctionne pas. Croisieres -- les compagnies de croisiere peuvent et vont facturer les soins medicaux a bord. Voyages d'aventure impliquant le ski, la plongee, l'escalade ou la randonnee. Voyages avec des couts totaux depassant 5 000 euros de reservations non remboursables. Deplacements vers des destinations eloignees ou l'evacuation medicale serait couteuse.
 
 ## Quand vous pouvez probablement vous en passer
+![travel-07-travel-insurance detail](https://images.unsplash.com/photo-1655722725332-9925c96dd627)
+
 
 Voyages domestiques avec des reservations flexibles. Courts sejours avec des frais prepayes minimes. Voyages ou votre carte de credit offre deja une couverture.
 
 ## Le facteur carte de credit
 
-Avant d'acheter une police separee, verifiez ce que votre carte de credit couvre deja. Les cartes de voyage premium incluent souvent l'annulation et l'interruption de voyage, le retard de voyage, la perte de bagages et l'assurance collision pour voiture de location -- mais generalement pas la couverture medicale d'urgence. Achetez une police medicale seule pour une fraction du cout.
+Avant d'acheter une police separee, verifiez ce que votre carte de credit couvre deja. Les cartes de voyage premium incluent souvent l'annulation et l'interruption de voyage, le retard de voyage, la perte de bagages et l'assurance collision pour voiture de location -- mais generalement pas la couverture medicale d'
+![travel-07-travel-insurance context](https://images.unsplash.com/photo-1454496406107-dc34337da8d6)
+urgence. Achetez une police medicale seule pour une fraction du cout.
 
 ## Comment choisir une police
 

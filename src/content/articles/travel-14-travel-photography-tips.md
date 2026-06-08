@@ -30,6 +30,8 @@ Touchez pour faire la mise au point et ajustez l'exposition. Le zoom numerique d
 Nettoyez votre objectif. Tenez-vous stable. Sauvegardez vos photos. Editez legerement -- recadrez, ajustez l'exposition, ajoutez une touche de chaleur. Snapseed (gratuit) ou Lightroom Mobile pour l'edition. La meilleure photo de voyage n'est pas la plus techniquement parfaite -- c'est celle qui vous transporte vers le moment.
 
 ## Composition : les fondamentaux
+![travel-14-travel-photography-tips](https://images.unsplash.com/photo-1530227240313-a5047b1a0dd0)
+
 
 La regle des tiers est le point de depart de toute bonne composition. Imaginez une grille de morpion sur votre cadre et placez votre sujet a l'une des quatre intersections plutot qu'au centre. La plupart des telephones ont une option de superposition de grille -- activez-la et laissez-la activee. Les lignes directrices -- un chemin, un rivage, une rangee de colonnes -- attirent le regard du spectateur vers votre sujet et creent de la profondeur. Inclure des personnes pour l'echelle -- une montagne est impressionnante ; une montagne avec une minuscule silhouette humaine au premier plan revele sa veritable magnitude. L'interet au premier plan -- inclure quelque chose au premier plan immediat cree de la profondeur et donne l'impression au spectateur de regarder dans la scene.
 
@@ -43,7 +45,9 @@ Touchez l'ecran sur votre sujet pour faire la mise au point, puis faites glisser
 
 ## Edition : la difference entre bon et excellent
 
-Editer n'est pas tricher -- c'est finir. Recadrez et redressez. Ajustez l'exposition. Ajoutez un leger contraste. Rechauffez legerement la balance des blancs. Augmentez la vibrance de 5-10 points. Snapseed (gratuit) et Lightroom Mobile sont d'excellents outils d'edition mobile.
+Editer n'est pas tricher -- c'est finir. Recadrez et redressez. Ajustez l'exposition. Ajoutez un leger contraste. Rechauffez legerement la balance des blancs. Augmentez la vibrance de 5-10 points. Snap
+![travel-14-travel-photography-tips](https://images.unsplash.com/photo-1597823003902-bbab4bcfdd55)
+seed (gratuit) et Lightroom Mobile sont d'excellents outils d'edition mobile.
 
 ## Conseils pratiques
 

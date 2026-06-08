@@ -42,6 +42,8 @@ La formule de superposition la plus simple qui existe : n'importe quelle tenue b
 La troisieme piece n'a pas besoin d'ajouter de la chaleur. Elle ajoute de *l'intention*. Elle signale que vous avez reflechi a cette tenue plutot que d'attraper les deux premieres choses que vous avez trouvees. Pour quiconque a l'impression qu'il manque quelque chose a ses tenues, la regle de la troisieme piece est generalement la reponse.
 
 ## Les pieces de superposition essentielles
+![fashion-05-layering](https://images.unsplash.com/photo-1608635680046-aebf91c1a9c8)
+
 
 Avant de plonger dans les formules specifiques, etablissons l'arsenal. Voici les pieces qui meritent leur place dans une garde-robe de superposition :
 

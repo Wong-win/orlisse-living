@@ -36,6 +36,8 @@ Mais le shopping vintage exige des competences differentes de celles qu'on utili
 **Ventes de succession et marches aux puces :** Les plus imprevisibles et potentiellement les plus gratifiants. Les ventes de succession vendent le contenu entier d'un foyer, incluant souvent des vetements vieux de plusieurs decennies en excellent etat. Les marches aux puces recompensent l'arrivee tot le matin et les competences en negociation.
 
 ## Comment evaluer un article de seconde main
+![fashion-13-vintage-shopping](https://images.unsplash.com/photo-1703449637424-cbefa705f4e1)
+
 
 La competence la plus importante dans le shopping vintage est d'apprendre a evaluer un vetement rapidement et precisement :
 
@@ -45,7 +47,9 @@ La competence la plus importante dans le shopping vintage est d'apprendre a eval
 
 **Defauts a accepter :** Boutons manquants ou desserres (reparation de deux minutes), taches mineures amovibles, ourlets a reprendre, bouloches mineures sur la maille (un rasoir a tissu les enleve en quelques secondes).
 
-**Defauts a eviter :** Taches sur la soie (presque impossibles a enlever sans endommager le tissu), trous de mites dans la laine, cols ou poignets detendus sur la maille (ne peuvent pas etre restaurés), fermetures eclair cassees (remplacables mais cheres), et toute odeur indiquant de la moisissure (ne peut pas etre eliminee de maniere fiable).
+**Defauts a eviter :** Taches sur la soie (presque impossibles a enlever sans endommager le tissu), trous de mites dans la laine, cols ou poignets detendus sur la maille (ne peuvent pas etre restaurés), fermetures eclair cassees (remplacables mais cheres), et toute odeur indiq
+![fashion-13-vintage-shopping](https://images.unsplash.com/photo-1757252872535-01668694fb44)
+uant de la moisissure (ne peut pas etre eliminee de maniere fiable).
 
 ## Le secret des mesures
 

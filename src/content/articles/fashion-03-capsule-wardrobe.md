@@ -23,6 +23,8 @@ Le probleme avec cette approche est qu'elle ignore trois verites fondamentales s
 3. **Les saisons existent.** Une seule capsule pour toute l'annee ne fonctionne pour personne qui connait plus d'une saison. Vous avez besoin d'un systeme qui s'adapte aux changements de temperature sans necessiter un echange complet de garde-robe.
 
 ## Les nouvelles regles de la capsule
+![fashion-03-capsule-wardrobe](https://images.unsplash.com/photo-1604882767135-b41fac508fff)
+
 
 ### Regle 1 : Commencez par votre vie, pas par une liste
 

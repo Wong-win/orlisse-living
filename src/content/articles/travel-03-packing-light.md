@@ -47,6 +47,8 @@ Le secret qui rend le voyage en bagage a main possible pour des voyages de duree
 Sac pour liquides (conforme TSA) : hydratant avec SPF, dentifrice, baume ou huile nettoyante. Solides : shampooing solide, deodorant, brosse a dents. La regle d'or : si votre hebergement le fournit, utilisez le leur.
 
 ## Le test avant le depart
+![A carry-on packing layout showing how everything fits](https://images.unsplash.com/photo-1648737967037-96967e9151b5)
+
 
 Deux jours avant le depart, etalez tout sur votre lit. Pour chaque article, demandez : peut-il etre porte d'au moins trois facons differentes ? Est-il approprie a mes activites reelles ? Me manquerait-il si je ne l'emportais pas ? Si les reponses aux deux premieres questions sont non, retirez l'article. La recompense est tangible des l'instant ou vous descendez de l'avion : vous passez directement la douane, portant tout ce dont vous avez besoin sur le dos.
 
@@ -64,7 +66,9 @@ La regle d'or des articles de toilette : si votre hebergement le fournit (savon,
 
 ## Technologie et extras
 
-Essentiels tech pour le bagage a main : un adaptateur electrique universel (un seul, pas plusieurs), un cable de chargement USB-C plus un cable multi-embouts, une batterie externe (essentielle pour les longues journees a l'exterieur), un telephone (appareil photo, carte, guide, traducteur -- un seul appareil remplace un sac plein de gadgets), une liseuse ou tablette (optionnelle). A ne pas emporter : un ordinateur portable sauf si vous travaillez, un appareil photo dedie sauf si la photographie est le but de votre voyage, des livres physiques, des guides de voyage imprimes.
+Essentiels tech pour le bagage a main : un adaptateur electrique universel (un seul, pas plusieurs), un cable de chargement USB-C plus un cable multi-embouts, une batterie externe (essentielle pour les longues journees a l'exterieur), un telephone (appareil photo, carte, guide, traducteur -- un seul appareil remplace un sac plein de gadgets), une liseuse ou tablette (optionnelle). A ne pas emporter : un ordinateur portable sauf si vous travaillez, un appareil photo dedie sauf si la photographie 
+![travel-03-packing-light](https://images.unsplash.com/photo-1714235058817-af16a662fe1d)
+est le but de votre voyage, des livres physiques, des guides de voyage imprimes.
 
 ## Le test d'emballage avant le depart
 

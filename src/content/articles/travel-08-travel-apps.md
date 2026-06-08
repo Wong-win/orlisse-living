@@ -46,6 +46,8 @@ Apres des annees a tester et a compter sur des applications de voyage dans des d
 **TheFork (Europe) / OpenTable (Etats-Unis) :** Reservations de restaurant avec des reductions de 20-50% pendant les heures creuses.
 
 ## Les applications dont vous n'avez pas besoin
+![travel-08-travel-apps detail](https://images.unsplash.com/photo-1486976862325-fbac7b41739b)
+
 
 Les applications de liste de bagages -- l'app Notes de votre telephone fait la meme chose. Les applications de suivi des depenses specifiques au voyage -- un simple tableur est plus rapide. Les applications VPN (sauf besoin specifique et legitime) -- la plupart des Wi-Fi d'hotel et de cafe sont maintenant chiffres. Un VPN ralentit votre connexion pour un benefice de securite minimal.
 
@@ -65,7 +67,9 @@ Avant tout voyage international, faites ces quatre choses sur votre telephone : 
 
 ## Applications specifiques par destination
 
-**Japon :** HyperDia pour les horaires de train, Gurunavi pour les restaurants. **Chine :** WeChat est essentiel pour la communication et les paiements. Didi pour les VTC. **Asie du Sud-Est :** Grab pour les VTC et la livraison de nourriture. **Europe :** FlixBus pour les voyages en bus economiques entre les villes, SNCF/Deutsche Bahn/Trenitalia pour les trains nationaux.
+**Japon :** HyperDia pour les horaires de train, Gurunavi pour les restaurants. **Chine :** WeChat est essentiel pour la communication et les paiements. Didi pour les VTC. **Asie du Sud-Est :** Grab pour les VTC et la livraison de nourriture. **Europe :** FlixBus pour les voyages en bus economiques entre les villes, SNCF/De
+![travel-08-travel-apps context](https://images.unsplash.com/photo-1759256243611-502772ac391b)
+utsche Bahn/Trenitalia pour les trains nationaux.
 
 ## La philosophie des applications de voyage
 

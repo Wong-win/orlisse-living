@@ -24,6 +24,8 @@ Avant de construire une routine, comprenez avec quoi vous travaillez.
 **Etat du cuir chevelu :** Gras, sec, pelliculaire, sensible ou equilibre. Votre cuir chevelu est de la peau -- il a besoin de soins tout comme la peau de votre visage.
 
 ## Les principes universels
+![beauty-08-hair-care detail](https://images.unsplash.com/photo-1711504443972-b8697fc1c23a)
+
 
 Quel que soit le type de cheveux, quatre principes s'appliquent a tout le monde.
 
@@ -33,7 +35,9 @@ Quel que soit le type de cheveux, quatre principes s'appliquent a tout le monde.
 
 **3. Les cheveux mouilles sont fragiles.** Les cheveux sont les plus vulnerables a la casse quand ils sont mouilles parce que les liaisons hydrogenes qui leur donnent leur force sont temporairement rompues. Ne brossez jamais les cheveux mouilles avec un peigne fin. Utilisez un peigne a dents larges ou une brosse demelante a picots flexibles, en commencant toujours le demelage par les pointes, en remontant vers les racines.
 
-**4. Vous n'avez pas besoin de laver vos cheveux tous les jours.** Le shampooing quotidien elimine les huiles naturelles qui protegent et hydratent vos cheveux. La plupart des types de cheveux se portent bien avec un lavage tous les 2 a 4 jours. L'exception : les cheveux tres fins et gras qui peuvent necessiter un lavage quotidien. Le shampooing sec est votre allie les jours sans lavage.
+**4. Vous n'avez pas besoin de laver vos cheveux tous les jours.** Le shampooing quotidien elimine les huiles naturelles qui protegent et hydratent vos cheveux. La plupart des types de cheveux se portent bien avec un lavage tous les 2 a 4 jours. L'exception : les cheveux tres fins et gras qui peuvent necessiter un lavage quotidi
+![beauty-08-hair-care context](https://images.unsplash.com/photo-1749137315710-89dc96d08463)
+en. Le shampooing sec est votre allie les jours sans lavage.
 
 ## Routines par type de cheveux
 

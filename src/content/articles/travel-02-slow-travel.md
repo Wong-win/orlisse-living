@@ -33,6 +33,8 @@ Le transport est generalement la composante la plus importante de l'empreinte ca
 Le voyage lent est souvent moins cher par jour que le voyage rapide multi-villes, pour la simple raison que vous ne payez pas de transport tous les deux jours. Les hebergements coutent moins cher quand on reserve a la semaine plutot qu'a la nuit. Vous etes aussi plus susceptible de faire vos courses aux marches et de cuisiner certains repas, ce qui reduit considerablement les couts de nourriture par rapport a une restauration a chaque repas.
 
 ## Comment faire du voyage lent
+![A quiet morning at a neighborhood café with a journal and coffee](https://images.unsplash.com/photo-1768327504629-56264b92daa7)
+
 
 ### Choisir la bonne destination
 
@@ -56,7 +58,9 @@ Le plus difficile pour beaucoup est le sentiment de perdre du temps -- que chaqu
 
 ### Les excursions d'une journee sont autorisees
 
-Le voyage lent ne signifie pas ne jamais quitter sa base. Une excursion d'une journee dans une ville voisine, une randonnee dans la campagne environnante, une visite d'un site specifique -- tout cela peut enrichir votre experience sans compromettre l'ethique du voyage lent. La difference est que vous rentrez au meme endroit le soir, et que l'excursion est l'exception plutot que le principe organisateur de votre itineraire.
+Le voyage lent ne signifie pas ne jamais quitter sa base. Une excursion d'une journee dans une ville voisine, une randonnee dans la campagne environnante, une visite d'un site specifique -- tout cela peut enrichir votre experience sans compromettre l'ethique du voyage lent. La difference est que vous rentrez au meme endroit le soir
+![travel-02-slow-travel](https://images.unsplash.com/photo-1635330409706-7fd68a8608b9)
+, et que l'excursion est l'exception plutot que le principe organisateur de votre itineraire.
 
 ## Le voyage lent est une competence
 

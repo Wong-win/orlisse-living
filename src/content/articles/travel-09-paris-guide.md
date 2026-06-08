@@ -34,6 +34,8 @@ Le 19e arrondissement est loin du centre touristique, ce qui est precisement son
 **L'ambiance :** Plein air, multiculturel, eloigne du circuit touristique.
 
 ## Conseils pratiques pour Paris
+![travel-09-paris-guide](https://images.unsplash.com/photo-1616597492095-890e3838d139)
+
 
 Marchez entre les quartiers. Mangez au marche. Apprenez cinq phrases en francais -- bonjour, merci, s'il vous plait, excusez-moi, parlez-vous anglais ? Sejournez dans les quartiers, pas dans le centre. Le vrai Paris ne demande pas votre validation Instagram. Ce qu'il offre est plus precieux : l'experience d'habiter brievement l'une des grandes villes du monde non pas en spectateur mais en resident temporaire.
 
@@ -43,7 +45,9 @@ Le 14e arrondissement, en particulier le quartier autour de la rue Daguerre et d
 
 **Ou manger :** La rue Daguerre est une rue de marche pietonne bordee de fromageries, de poissonneries, de boulangeries et de stands de produits frais. Achetez des provisions et pique-niquez dans le parc Montsouris tout proche. Pour une experience de bistrot classique, les restaurants autour de la place Denfert-Rochereau servent une cuisine francaise traditionnelle devant une clientele majoritairement locale.
 
-**L'ambiance :** Calme, traditionnelle et profondement vivable. Le 14e est l'endroit ou aller pour decouvrir le Paris de la vie quotidienne.
+**L'ambiance :** Calme, traditionnelle et profondement vivable. Le 14e est l'endroit ou aller pour deco
+![travel-09-paris-guide](https://images.unsplash.com/photo-1775328023933-ed9e8ad7faa5)
+uvrir le Paris de la vie quotidienne.
 
 ## Conseils pratiques pour les quartiers de Paris
 

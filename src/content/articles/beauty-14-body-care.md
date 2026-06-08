@@ -33,12 +33,16 @@ L'hydratant est plus efficace applique sur peau humide -- dans les trois minutes
 Les zones les plus vulnerables aux dommages solaires et au cancer de la peau sont les parties du corps constamment exposees : visage, cou, poitrine, mains et bras. Le visage recoit de la creme solaire ; tout le reste souvent pas. Pourtant, les mains et la poitrine sont la ou les dommages solaires sont les plus visibles et les plus vieillissants. Le minimum : ecran solaire sur le visage, le cou et le dos des mains chaque jour. L'ideal : toute peau exposee recoit de la creme solaire.
 
 ## Preoccupations specifiques
+![beauty-14-body-care](https://images.unsplash.com/photo-1656416198024-32688dee0654)
+
 
 **Keratose pilaire :** Ces petites bosses rugueuses a l'arriere des bras sont genetiques mais peuvent etre considerablement ameliorees avec un traitement constant : lotion AHA ou uree quotidienne, exfoliation physique douce 1-2x par semaine.
 
 **Poils incarnes :** La prevention est plus efficace que le traitement. Exfoliation douce 2-3x par semaine dans les zones sujettes aux poils incarnes. Hydratez quotidiennement. Rasez dans le sens du poil avec une lame propre et tranchante.
 
-**Talons secs et craqueles :** Lime a pieds ou pierre ponce 1-2x par semaine, suivie d'une creme epaisse a l'uree. Pour les cas severes, appliquez la creme et portez des chaussettes en coton toute la nuit.
+**Talons secs et craqueles :** Lime a pieds ou pierre ponce 1-2x par semaine, suivie d'une creme epaisse a l'uree. Pour les cas severes, appliquez la 
+![beauty-14-body-care](https://images.unsplash.com/photo-1588406641472-635d727857e0)
+creme et portez des chaussettes en coton toute la nuit.
 
 ## La routine en cinq minutes
 

@@ -23,6 +23,8 @@ Un hydratant a trois fonctions potentielles, et differents produits mettent l'ac
 La plupart des hydratants combinent les trois fonctions dans des proportions variables. Un gel hydratant leger est principalement compose d'humectants avec quelques emollients et un minimum d'occlusifs. Une creme de nuit riche est lourde en emollients et en occlusifs avec moins d'humectants. Comprendre ce cadre vous permet de lire une liste d'ingredients et de predire la sensation et la performance d'un produit.
 
 ## Le spectre des textures
+![beauty-11-moisturizer-science](https://images.unsplash.com/photo-1707910393305-b57725e1d79e)
+
 
 **Gels :** Formulations a base d'eau avec une teneur elevee en humectants et un minimum d'huile. Les gels sont frais a l'application et s'absorbent presque instantanement. Idéal pour les peaux grasses, les peaux a tendance acneique, les climats humides et l'utilisation de jour sous le maquillage. Ce qu'il faut rechercher : glycerine ou acide hyaluronique en haut de la liste, huiles ou silicones minimales.
 
@@ -32,7 +34,9 @@ La plupart des hydratants combinent les trois fonctions dans des proportions var
 
 **Cremes :** Plus epaisses que les lotions, avec un ratio huile/eau plus eleve. Les cremes offrent plus de protection occlusive et durent plus longtemps sur la peau. Idéal pour les peaux seches, les peaux normales a seches en hiver, et l'utilisation de nuit.
 
-**Baumes et onguents :** Le format d'hydratant le plus lourd, avec une teneur occlusive tres elevee. Les baumes sont semi-solides a temperature ambiante et fondent au contact de la peau. Idéal pour les peaux extremement seches, les barrieres cutanees compromises, l'eczema, la protection hivernale.
+**Baumes et onguents :** Le format d'hydratant le plus lourd, avec une teneur occlusive tres elevee. Les baumes sont semi-solides a temperature ambiante et fondent au contact de la peau. Idéal pour les peaux extremement seches, les barrier
+![beauty-11-moisturizer-science](https://images.unsplash.com/photo-1707910393331-0145331bc039)
+es cutanees compromises, l'eczema, la protection hivernale.
 
 ## Choix par type de peau et saison
 

@@ -23,6 +23,8 @@ Les couleurs cles de cette saison se repartissent en trois familles :
 **Les couleurs vives strategiques :** Une ou deux touches de couleur saturee, portees intentionnellement. Le bleu cobalt, le rouge cerise et une nuance particuliere de vert emeraude vibrant menent la danse. La cle est de les porter comme des accents plutot que des declarations de la tete aux pieds.
 
 ## Les nouveaux neutres
+![fashion-04-color-trends](https://images.unsplash.com/photo-1622532470022-24107cac5ef3)
+
 
 ### Pierre chaude (#C8BFB4)
 

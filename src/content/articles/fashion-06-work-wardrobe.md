@@ -24,6 +24,8 @@ La nouvelle garde-robe de travail fonctionne sur quelques principes cles :
 **Le contexte compte toujours.** Le confort et la personnalite ne signifient pas que vous pouvez porter n'importe quoi. Une reunion client, une presentation en salle de conseil et un vendredi decontracte exigent tous des niveaux de formalite differents. La competence consiste a calibrer de maniere appropriee sans abandonner votre identite.
 
 ## La garde-robe de travail de base : 15 pieces
+![fashion-06-work-wardrobe context](https://images.unsplash.com/photo-1558886196-d722057c60bc)
+
 
 Ces 15 pieces forment une fondation flexible qui peut evoluer du bureau decontracte a la reunion formelle avec des ajustements strategiques :
 

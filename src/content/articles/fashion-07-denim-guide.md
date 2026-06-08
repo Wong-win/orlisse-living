@@ -37,6 +37,8 @@ Avant de parler de coupe, nous devons parler de ce qu'est reellement le denim. L
 ![Close-up of raw denim texture showing the twill weave](https://images.unsplash.com/photo-1555685812-4b943f1cb0eb)
 
 ## Les variables de coupe
+![fashion-07-denim-guide context](https://images.unsplash.com/photo-1576995853123-5a10305d93c0)
+
 
 ### La hauteur de taille : la ou le jean se pose sur votre taille
 

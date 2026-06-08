@@ -19,6 +19,8 @@ Le probleme central de la << beaute propre >> est qu'il n'existe aucune definiti
 Cela ne signifie pas que le mouvement soit sans merite. La pression des consommateurs derriere la beaute propre a pousse l'industrie vers une plus grande transparence dans l'approvisionnement des ingredients, de meilleurs tests et des formulations plus reflechies. Mais cela signifie aussi que vous devez evaluer les allegations de proprete de maniere critique plutot que de les prendre pour argent comptant.
 
 ## Ingredients qui meritent d'etre evites (base sur des preuves)
+![Close-up of skincare ingredients with niacinamide highlighted](https://images.unsplash.com/photo-1612817288484-6f916006741a)
+
 
 ### Parabenes
 
@@ -46,7 +48,9 @@ Cela ne signifie pas que le mouvement soit sans merite. La pression des consomma
 
 **Les preuves :** Les quantites liberees sont de plusieurs ordres de grandeur inferieures aux niveaux d'exposition professionnelle. Cependant, ils sont parmi les causes les plus frequentes de dermatite de contact allergique due aux cosmetiques. L'UE a restreint certains de ces conservateurs.
 
-**Notre avis :** Le risque de sensibilisation est la preoccupation la plus pratique. Si vous avez la peau sensible ou reactive, eviter ces conservateurs merite d'etre considere.
+**Notre avis :** Le risque de sensibilisation est la preoccupation la plus pratique. Si
+![beauty-03-clean-beauty](https://images.unsplash.com/photo-1600634999623-864991678406)
+ vous avez la peau sensible ou reactive, eviter ces conservateurs merite d'etre considere.
 
 ## Ingredients injustement demonises
 

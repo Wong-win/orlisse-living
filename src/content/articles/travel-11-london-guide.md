@@ -48,6 +48,8 @@ Juste au nord de Bethnal Green, London Fields est un quartier authentiquement mi
 **Que faire :** Samedi a Broadway Market pour la nourriture, puis une promenade le long du Regent's Canal jusqu'a Victoria Park, le plus ancien parc public de Londres.
 
 ## North London : verdoyant et vivable
+![travel-11-london-guide](https://images.unsplash.com/photo-1659944794429-4b81344e36d5)
+
 
 ### Hampstead et Hampstead Heath
 
@@ -73,7 +75,9 @@ Peckham est passe d'un quartier ouvrier a l'un des centres creatifs les plus int
 
 Richmond est la ou Londres commence a se dissoudre dans la campagne. Richmond Park est le plus grand des parcs royaux de Londres -- 1 000 hectares de prairies, de bois et de troupeaux de cerfs sauvages. La vue depuis Richmond Hill sur la Tamise est protegee par une loi du Parlement.
 
-**Que faire :** Promenez-vous dans Richmond Park (la plantation Isabella est spectaculaire au printemps). Marchez le long du chemin de la Tamise de Richmond jusqu'a Kew. Visitez les jardins de Kew, l'un des grands jardins botaniques du monde.
+**Que faire :** Promenez-vous dans Richmond Park (la plantation Isabella est spectaculaire au printemps). Marchez le long du chemin de la Tamise de Richmond jusqu'a Kew. Visitez les jardins
+![travel-11-london-guide](https://images.unsplash.com/photo-1659944801297-176700808ba2)
+ de Kew, l'un des grands jardins botaniques du monde.
 
 ## Conseils pratiques pour Londres
 
