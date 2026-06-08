@@ -60,3 +60,9 @@ L'impact environnemental du voyage ne concerne pas seulement le carbone -- il co
 ## Vue d'ensemble
 
 Le voyage durable ne concerne pas la perfection -- il s'agit d'ameliorations significatives. Reduire votre empreinte de voyage de 30% par des choix reflechis est bien mieux que d'ignorer le probleme ou d'abandonner le voyage par desespoir. La hierarchie merite d'etre repetee : volez moins souvent et restez plus longtemps, choisissez le train quand c'est possible, soutenez les entreprises locales et evitez les pires contrevenants. Ces choix ne vous obligent pas a devenir une personne differente.
+
+## Vue d'ensemble
+
+Le voyage durable ne concerne pas la perfection -- il s'agit d'ameliorations significatives. Reduire votre empreinte voyage de 30% par des choix reflechis est bien mieux que d'ignorer le probleme ou d'abandonner le voyage par desespoir. La hierarchie merite d'etre repetee : volez moins souvent et restez plus longtemps, choisissez le train quand c'est possible, soutenez les entreprises locales et evitez les pires contrevenants (resorts tout compris, vols court-courriers quand le train est disponible, plastiques a usage unique).
+
+Et peut-etre le plus important : le voyage lui-meme, fait de maniere reflechie, peut etre une force positive. Les revenus du tourisme soutiennent les efforts de conservation, preservent le patrimoine culturel et fournissent des moyens de subsistance dans des communautes avec peu d'autres opportunites economiques. L'objectif n'est pas d'arreter de voyager -- c'est de voyager d'une maniere qui laisse les lieux que vous visitez au moins aussi sains que vous les avez trouves.

@@ -36,3 +36,7 @@ Voici les meilleures destinations de randonnee au monde, organisees par l'experi
 ## Equipement essentiel pour toute randonnee
 
 Quel que soit le niveau de difficulte, chaque randonnee necessite : des chaussures de randonnee solides et rodees, une quantite d'eau adequate (au moins 1 litre pour 2 heures de marche), un moyen de navigation (telephone avec carte hors ligne et une batterie externe de secours), une protection contre la pluie, une protection solaire, une trousse de premiers soins et plus de nourriture que vous ne pensez en avoir besoin.
+
+## Equipement essentiel pour toute randonnee
+
+Quel que soit le niveau de difficulte, chaque randonnee necessite un equipement de base. Des chaussures de randonnee solides et rodees -- ne partez jamais en randonnee avec des chaussures neuves. De l'eau en quantite adequate -- au moins 1 litre pour 2 heures de marche. Un moyen de navigation -- telephone avec carte hors ligne et une batterie externe de secours. Une protection contre la pluie, quelle que soit la meteo prevue. Une protection solaire -- chapeau, lunettes de soleil, creme solaire. Une trousse de premiers soins avec des pansements pour ampoules. Et plus de nourriture que vous ne pensez en avoir besoin -- les randonneurs sous-estiment chroniquement leurs besoins caloriques. Les erreurs de randonnee les plus courantes sont la deshydratation, des chaussures inadequates et la sous-estimation de la rapidite avec laquelle la meteo en montagne peut changer.

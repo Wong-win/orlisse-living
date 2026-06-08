@@ -24,3 +24,19 @@ Sejournez dans des hebergements sociaux -- auberges, maisons d'hotes avec espace
 ## Conseils pour le premier voyage en solo
 
 Commencez par une destination facile -- Japon, Portugal, Pays-Bas, Nouvelle-Zelande, Islande. Reservez vos deux premieres nuits a l'avance. Planifiez une activite par jour. Apportez un livre ou un journal. La peur qui empeche les gens de partir seuls s'avere presque toujours plus grande dans l'anticipation que dans la realite.
+
+## Securite : pratique, pas paranoiaque
+
+La securite en voyage solo releve largement des memes precautions que vous prendriez dans une ville inconnue de votre propre pays, appliquees avec constance. Partagez votre itineraire avec quelqu'un a la maison -- un document Google partage ou un message de pointage quotidien suffit. Faites confiance a votre instinct -- si une situation, un lieu ou une personne vous semble anormal, partez. Vous n'avez pas besoin de vous justifier. Votre subconscient traite bien plus d'informations que votre esprit conscient.
+
+Apprenez les arnaques locales avant de partir -- chaque destination touristique a des arnaques previsibles. Une recherche Google de cinq minutes avant votre voyage vous prepare a les reconnaitre. Sejournez dans des hebergements bien evalues dans des quartiers surs. Gardez votre telephone charge et emportez une batterie externe -- un telephone decharge dans une ville inconnue la nuit est une situation dangereuse. N'annoncez pas que vous voyagez seul -- vous rejoignez un ami, ou votre partenaire est a l'hotel.
+
+## Solitude : previsible et gerable
+
+Le voyage en solo inclut inevitablement des moments de solitude. C'est normal. Sejournez dans des hebergements sociaux -- auberges, maisons d'hotes avec espaces communs. Rejoignez des activites structurees -- visites a pied, cours de cuisine, excursions. Mangez au bar -- le comptoir est plus confortable pour les solo. Planifiez des appels reguliers a la maison. Et acceptez la solitude -- ces moments tranquilles ne sont pas un echec de connexion sociale, ils sont le but du voyage.
+
+## Conseils pratiques pour le premier voyage en solo
+
+Commencez par une destination facile avec une excellente infrastructure touristique, un anglais repandu et une reputation de securite. Le Japon, le Portugal, les Pays-Bas, la Nouvelle-Zelande et l'Islande sont d'excellents premiers voyages en solo. Reservez vos deux premieres nuits a l'avance -- savoir ou vous dormez a l'arrivee elimine la variable la plus stressante. Planifiez une activite par jour -- un seul point d'ancrage donne une structure sans sur-planifier. Apportez un livre ou un journal -- les moments entre les activites sont quand le voyage en solo semble le plus solitaire. Ces objets rendent ces moments intentionnels.
+
+Le voyage en solo n'est pas pour tout le monde, et il n'est pas pour tous les voyages. Mais il est pour plus de gens que ceux qui l'essayent reellement, et la peur qui empeche les gens de partir seuls s'avere presque toujours plus grande dans l'anticipation que dans la realite.
