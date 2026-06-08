@@ -1,8 +1,8 @@
----title: "The Beginner's Guide to Growing Herbs Indoors Year-Round"
+---title: "Guide du debutant pour cultiver des herbes aromatiques en interieur"
 date: "2025-11-10"
 category: "home-garden"
 keywords: "herbs plants kitchen windowsill basil indoor garden"
-excerpt: "Fresh herbs elevate any dish -- and they're surprisingly easy to grow at home. Here's everything you need to get started."
+excerpt: "Les herbes fraiches subliment tous les plats. Voici comment les cultiver chez vous."
 ---
 ![home-07-growing-herbs cover](https://images.unsplash.com/photo-1536777206078-5e694d16c678)
 Fresh herbs are the single most cost-effective thing you can grow at home. A bunch of basil at the grocery store costs $3-4 and wilts in your refrigerator within days. A basil plant costs $4-5 and produces leaves for months. The math is inescapable -- and the experience of snipping fresh herbs while cooking, rather than guiltily retrieving a plastic clamshell of slimy greens from the back of the fridge, is one of life's small, reliable pleasures.

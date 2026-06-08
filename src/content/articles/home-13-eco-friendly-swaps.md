@@ -1,8 +1,8 @@
----title: "Eco-Friendly Home Swaps That Actually Make a Difference"
+---title: "Alternatives ecologiques pour la maison qui font vraiment la difference"
 date: "2026-04-06"
 category: "home-garden"
 keywords: "eco,friendly,sustainable,home,swaps"
-excerpt: "Not all 'green' home products are worth the switch. Here are the swaps that genuinely reduce your environmental impact."
+excerpt: "Tous les produits verts ne valent pas le changement. Voici ceux qui comptent."
 ---
 ![home-13-eco-friendly-swaps cover](https://images.unsplash.com/photo-1695391533533-fcad0ac7b8ae)
 The "sustainable home" product industry has exploded in recent years, generating a flood of bamboo this, organic that, and reusable everything — often at a significant price premium and with questionable environmental benefit. Replacing all your functional plastic items with bamboo alternatives doesn't meaningfully reduce your footprint, and it generates waste from the discarded items you're replacing.

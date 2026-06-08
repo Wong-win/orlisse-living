@@ -1,8 +1,8 @@
----title: "How to Start a Vegetable Garden in Any Space"
+---title: "Comment demarrer un potager dans n'importe quel espace"
 date: "2026-03-13"
 category: "home-garden"
 keywords: "vegetable,garden,growing,food,organic"
-excerpt: "You don't need a backyard to grow your own food. Here's how to start a vegetable garden in whatever space you have."
+excerpt: "Vous n'avez pas besoin d'un jardin pour cultiver vos legumes. Voici comment."
 ---
 ![home-12-vegetable-garden cover](https://images.unsplash.com/photo-1590531711560-43d7a9bc4e6c)
 Growing your own food is one of the most satisfying things you can do at home. A tomato picked warm from the vine and eaten within minutes tastes fundamentally different from one that traveled refrigerated for a week to reach a supermarket shelf. The economics are favorable. The environmental impact is positive. And the experience of cooking with ingredients you grew yourself changes your relationship with food in ways that are hard to describe until you've experienced it.

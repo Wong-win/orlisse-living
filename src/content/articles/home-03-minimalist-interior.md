@@ -1,9 +1,9 @@
 ---
-title: "Minimalist Interior Design: Creating Calm Through Intentional Spaces"
+title: "Design d'interieur minimaliste : creer le calme par des espaces intentionnels"
 date: "2025-08-03"
 category: "home-garden"
 keywords: "interior,minimal,design,living,room"
-excerpt: "Minimalism isn't about owning nothing -- it's about surrounding yourself only with things that matter. Here's how to create a calm, intentional home."
+excerpt: "Le minimalisme n'est pas de ne rien posseder. Voici comment creer un interieur calme et chaleureux."
 ---
 
 ![A calm, minimalist living room with natural light and warm textures](https://images.unsplash.com/photo-1705321963943-de94bb3f0dd3)

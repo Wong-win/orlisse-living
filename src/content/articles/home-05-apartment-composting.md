@@ -1,9 +1,9 @@
 ---
-title: "Apartment Composting: The Complete Beginner's Guide to Composting Indoors"
+title: "Le compostage en appartement : guide complet pour composter a l'interieur"
 date: "2025-09-22"
 category: "home-garden"
 keywords: "compost,soil,garden,organic,worms"
-excerpt: "No backyard? No problem. Modern composting methods make it possible to turn kitchen scraps into rich soil -- even in a studio apartment."
+excerpt: "Pas de jardin ? Pas de probleme. Voici comment composter en appartement sans odeur."
 ---
 
 ![A compact worm composting bin on an apartment balcony](https://images.unsplash.com/photo-1597868165956-03a6827955b1)

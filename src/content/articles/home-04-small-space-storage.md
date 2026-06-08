@@ -1,9 +1,9 @@
 ---
-title: "Smart Storage Solutions for Small Spaces: Ideas That Actually Work"
+title: "Solutions de rangement intelligentes pour petits espaces"
 date: "2025-08-28"
 category: "home-garden"
 keywords: "storage,organization,shelves,closet,home"
-excerpt: "Living in a small space doesn't mean living with clutter. These storage strategies maximize every square inch -- without making your home feel like a storage unit."
+excerpt: "Vivre dans un petit espace ne signifie pas vivre dans le desordre. Voici des idees qui fonctionnent."
 ---
 
 ![A cleverly organized small apartment with hidden storage solutions](https://images.unsplash.com/photo-1524275406383-49f669cf763a)

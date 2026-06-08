@@ -1,8 +1,8 @@
----title: "The Complete Room-by-Room Guide to Decluttering Your Home"
+---title: "Le guide complet du desencombrement piece par piece"
 date: "2025-12-29"
 category: "home-garden"
 keywords: "declutter,organize,home,cleaning,minimal"
-excerpt: "Decluttering isn't about deprivation — it's about making space for what matters. Here's a practical, room-by-room system that actually works."
+excerpt: "Le desencombrement n'est pas une philosophie. Voici un systeme pratique qui fonctionne."
 ---
 ![home-09-decluttering-guide cover](https://images.unsplash.com/photo-1641461760655-4f06adb086bb)
 Decluttering books and guides tend to fall into two categories: the spiritual ("tidying up will transform your soul") and the aesthetic ("throw away everything that isn't beige"). Neither is particularly helpful for someone staring at a closet full of clothes, a kitchen full of gadgets, and a hallway closet that hasn't been opened in months because something might fall out.

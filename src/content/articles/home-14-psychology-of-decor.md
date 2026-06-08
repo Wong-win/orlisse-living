@@ -1,8 +1,8 @@
----title: "The Psychology of Home Decor: How Your Space Affects Your Mood"
+---title: "La psychologie de la decoration : comment votre espace affecte votre humeur"
 date: "2026-05-01"
 category: "home-garden"
 keywords: "psychology,decor,mood,design,interior"
-excerpt: "Your home isn't just where you live — it actively shapes how you feel. Here's the science of designing spaces that support wellbeing."
+excerpt: "Votre maison faconne activement comment vous vous sentez. Voici la science."
 ---
 ![home-14-psychology-of-decor cover](https://images.unsplash.com/photo-1618221381711-42ca8ab6e908)
 Your home is not a passive container for your life. It actively shapes your mood, behavior, and even your cognitive performance. A cluttered, poorly lit room increases cortisol (stress hormone) levels. A room with natural light, plants, and a view of nature reduces them. The spaces we inhabit are environmental inputs that affect us whether we're conscious of them or not.

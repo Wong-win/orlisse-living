@@ -1,8 +1,8 @@
----title: "Beginner's Guide to Furniture Restoration and Upcycling"
+---title: "Guide du debutant pour la restauration et l'upcycling de meubles"
 date: "2026-05-26"
 category: "home-garden"
 keywords: "furniture,restoration,upcycle,DIY,refinish"
-excerpt: "Old furniture is often better made than new. Here's how to restore and upcycle pieces into something beautiful."
+excerpt: "Les vieux meubles sont souvent mieux fabriques. Voici comment les restaurer."
 ---
 ![home-15-furniture-restoration cover](https://images.unsplash.com/photo-1682718619781-252f23e21132)
 Old furniture is often better made than anything you can buy new at a comparable price. Solid wood, dovetail joinery, and hand-applied finishes were standard in mid-century furniture manufacturing. Today, those features command premium prices. The market is flooded with cheaply made particleboard furniture that sags, chips, and fails within years. Good vintage pieces, by contrast, have already proven their durability — they've survived decades and, properly restored, will survive decades more.

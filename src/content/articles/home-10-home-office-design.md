@@ -1,8 +1,8 @@
----title: "How to Design a Home Office You'll Actually Want to Work In"
+---title: "Comment concevoir un bureau a domicile ou vous aurez envie de travailler"
 date: "2026-01-23"
 category: "home-garden"
 keywords: "home,office,workspace,design,productive"
-excerpt: "A well-designed home office boosts focus, productivity, and even your mood. Here's how to create a workspace that works as hard as you do."
+excerpt: "Un bureau bien concu est l'un des meilleurs investissements. Voici comment."
 ---
 ![home-10-home-office-design cover](https://images.unsplash.com/photo-1502810190503-8303352d0dd1)
 The home office has evolved from a temporary necessity into a permanent fixture of modern life. For millions of people, the place where they spend eight hours a day is no longer a corporate cubicle but a corner of the living room, a converted spare bedroom, or a desk wedged against the bedroom wall. Yet many home offices are still thrown together from whatever was available during the initial pandemic scramble: a kitchen chair, a laptop on a coffee table, and a prayer that the WiFi holds.

@@ -1,8 +1,8 @@
----title: "The Complete Guide to Indoor Lighting Design for Every Room"
+---title: "Le guide complet de l'eclairage interieur pour chaque piece"
 date: "2026-02-16"
 category: "home-garden"
 keywords: "lighting,design,interior,lamp,fixture"
-excerpt: "Lighting is the most overlooked element of interior design. Here's how to light every room beautifully and functionally."
+excerpt: "L'eclairage est l'element le plus sous-estime du design d'interieur."
 ---
 ![home-11-lighting-design cover](https://images.unsplash.com/photo-1606170033648-5d55a3edf314)
 Lighting is the most underrated element of interior design. A room with beautiful furniture, perfect paint colors, and thoughtful art will still feel cold and uninviting under harsh overhead light. The same room, lit with warm, layered light at different heights and intensities, feels like a space you want to spend time in. Lighting is not an afterthought — it's the foundation on which every other design choice either shines or falls flat.
