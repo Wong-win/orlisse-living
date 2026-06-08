@@ -1,6 +1,6 @@
 ---
 title: "Le mouvement du voyage lent : pourquoi faire moins signifie vivre plus"
-date: "2025-07-05"
+date: "2025-02-23"
 category: "travel"
 keywords: "travel,europe,street,cafe,village"
 excerpt: "L'ere des 10 villes en 14 jours est revolue. Voici pourquoi le voyage lent cree des experiences plus riches."

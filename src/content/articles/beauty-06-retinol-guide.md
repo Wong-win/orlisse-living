@@ -1,6 +1,6 @@
 ---
 title: "Le guide du retinol pour debutants : comment commencer sans irritation"
-date: "2025-10-06"
+date: "2025-07-20"
 category: "beauty"
 keywords: "skincare serum bottle product beauty cosmetic"
 excerpt: "Le retinol est l'ingredient le plus documente. Voici comment demarrer en toute securite."

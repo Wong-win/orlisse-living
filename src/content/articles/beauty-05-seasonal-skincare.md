@@ -1,6 +1,6 @@
 ---
 title: "Transitions saisonnieres des soins : adapter votre routine"
-date: "2025-09-12"
+date: "2025-06-15"
 category: "beauty"
 keywords: "skincare,seasonal,moisturizer,beauty"
 excerpt: "Votre peau change avec les saisons. Voici comment adapter votre routine."

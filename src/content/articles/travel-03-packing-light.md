@@ -1,6 +1,6 @@
 ---
 title: "Voyager leger : guide complet pour voyager avec un seul bagage a main"
-date: "2025-07-30"
+date: "2025-03-30"
 category: "travel"
 keywords: "luggage,packing,suitcase,travel,bag"
 excerpt: "Voyager avec un bagage a main est liberateur, efficace et etonnamment faisable pour des voyages de deux semaines ou plus."

@@ -1,6 +1,6 @@
 ---
 title: "Comprendre les types de peau : comment savoir ce que vous avez vraiment"
-date: "2026-05-16"
+date: "2026-05-31"
 category: "beauty"
 keywords: "skin,type,oily,dry,combination"
 excerpt: "La plupart des gens identifient mal leur type de peau. Voici comment le determiner."

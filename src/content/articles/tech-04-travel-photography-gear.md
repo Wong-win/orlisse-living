@@ -1,6 +1,6 @@
 ---
 title: "Guide de l'equipement photo de voyage : quoi emporter"
-date: "2025-09-02"
+date: "2025-04-20"
 category: "technology"
 keywords: "camera,photography,lens,travel,gear"
 excerpt: "Le meilleur appareil est celui que vous porterez. Voici comment choisir."

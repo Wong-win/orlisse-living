@@ -1,6 +1,6 @@
 ---
 title: "Parfums 101 : comment trouver votre signature olfactive"
-date: "2025-10-31"
+date: "2025-08-24"
 category: "beauty"
 keywords: "perfume fragrance bottle luxury elegant scent"
 excerpt: "Trouver un parfum peut etre intimidant. Voici un guide pratique."

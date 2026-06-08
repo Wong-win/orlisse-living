@@ -1,6 +1,6 @@
 ---
 title: "Comment construire une routine de soins minimaliste"
-date: "2026-03-28"
+date: "2026-03-22"
 category: "beauty"
 keywords: "minimalist,skincare,routine,simple,essentials"
 excerpt: "Vous n'avez pas besoin de 10 etapes. Voici l'approche essentielle."

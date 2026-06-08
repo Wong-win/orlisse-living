@@ -1,5 +1,5 @@
 ---title: "La psychologie des couleurs dans la mode"
-date: "2026-05-11"
+date: "2026-06-07"
 category: "fashion"
 keywords: "color,psychology,fashion,meaning,wardrobe"
 excerpt: "La couleur communique avant les mots. Voici comment l'utiliser intentionnellement."

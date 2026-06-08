@@ -1,6 +1,6 @@
 ---
 title: "10 indispensables elegants pour votre garde-robe cette saison"
-date: "2025-06-01"
+date: "2025-02-02"
 category: "fashion"
 keywords: "wardrobe,clothing,style"
 excerpt: "La base d'un look elegant commence par des essentiels impeccables. Voici les pieces qui valent l'investissement."

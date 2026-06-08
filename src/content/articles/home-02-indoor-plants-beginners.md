@@ -1,6 +1,6 @@
 ---
 title: "Plantes d'interieur pour debutants : 10 plantes increvables"
-date: "2025-07-10"
+date: "2025-02-16"
 category: "home-garden"
 keywords: "houseplants,indoor,plant,green,leaf"
 excerpt: "Vous n'avez pas besoin d'avoir la main verte. Voici les plantes les plus indulgentes et leurs soins."

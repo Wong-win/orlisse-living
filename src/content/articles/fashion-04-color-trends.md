@@ -1,6 +1,6 @@
 ---
 title: "Tendances couleurs 2026 : quoi porter et comment le porter"
-date: "2025-08-13"
+date: "2025-05-18"
 category: "fashion"
 keywords: "fashion,color,textile,fabric"
 excerpt: "La palette de cette saison est exceptionnellement portable. Des neutres luxueux aux couleurs vives polyvalentes."

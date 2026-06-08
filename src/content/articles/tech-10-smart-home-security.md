@@ -1,5 +1,5 @@
 ---title: "Securite residentielle connectee : ce qui vaut l'installation"
-date: "2026-01-28"
+date: "2025-11-16"
 category: "technology"
 keywords: "security,camera,doorbell,smart,home"
 excerpt: "La securite a evolue. Voici ce qui vaut votre argent."

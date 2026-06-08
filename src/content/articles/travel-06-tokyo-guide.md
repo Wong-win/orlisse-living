@@ -1,5 +1,5 @@
 ---title: "Guide des quartiers de Tokyo : ou sejourner et quoi explorer"
-date: "2025-10-11"
+date: "2025-07-13"
 category: "travel"
 keywords: "tokyo japan city street urban travel"
 excerpt: "Tokyo est une ville de quartiers distincts. Voici comment choisir votre base et quoi voir."

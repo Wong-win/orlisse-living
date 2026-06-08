@@ -1,5 +1,5 @@
 ---title: "Photographie de voyage : comment capturer de meilleurs souvenirs"
-date: "2026-04-26"
+date: "2026-04-19"
 category: "travel"
 keywords: "photography,travel,camera,tips,composition"
 excerpt: "De superbes photos de voyage ne necessitent pas un equipement cher. Voici comment."

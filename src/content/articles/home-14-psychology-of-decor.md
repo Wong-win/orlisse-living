@@ -1,5 +1,5 @@
 ---title: "La psychologie de la decoration : comment votre espace affecte votre humeur"
-date: "2026-05-01"
+date: "2026-04-12"
 category: "home-garden"
 keywords: "psychology,decor,mood,design,interior"
 excerpt: "Votre maison faconne activement comment vous vous sentez. Voici la science."

@@ -1,6 +1,6 @@
 ---
 title: "Mode durable : construire une garde-robe ethique sans sacrifier le style"
-date: "2025-06-25"
+date: "2025-03-09"
 category: "fashion"
 keywords: "sustainable,fashion,ethical,clothing"
 excerpt: "Une garde-robe ethique ne signifie pas porter des sacs en toile. Voici comment etre elegant tout en faisant le bien."

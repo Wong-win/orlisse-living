@@ -1,5 +1,5 @@
 ---title: "Guide des quartiers de Londres : ou sejourner, manger et explorer"
-date: "2026-02-11"
+date: "2026-01-04"
 category: "travel"
 keywords: "london,england,neighborhood,guide,travel"
 excerpt: "Londres est une ville de villages, chacun avec sa propre personnalite. Voici votre guide."

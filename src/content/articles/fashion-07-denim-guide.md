@@ -1,5 +1,5 @@
 ---title: "Le guide ultime du denim : coupes, lavages et entretien"
-date: "2025-10-26"
+date: "2025-08-31"
 category: "fashion"
 keywords: "denim jeans casual fashion style fabric"
 excerpt: "Trouver le jean parfait peut sembler impossible. Voici un guide complet des coupes, lavages et soins du denim."

@@ -1,6 +1,6 @@
 ---
 title: "Le guide de l'equipement du nomade numerique moderne"
-date: "2025-09-17"
+date: "2025-06-08"
 category: "travel"
 keywords: "laptop,workspace,remote,office,cafe"
 excerpt: "Apres un an de travail a distance sur quatre continents, voici l'equipement qui a gagne sa place."

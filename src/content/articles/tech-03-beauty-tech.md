@@ -1,6 +1,6 @@
 ---
 title: "Technologie beaute : les appareils high-tech valent-ils l'investissement ?"
-date: "2025-08-08"
+date: "2025-03-16"
 category: "technology"
 keywords: "beauty,device,technology,led,skincare"
 excerpt: "Des masques LED aux microcourants, voici ce que les preuves disent vraiment."

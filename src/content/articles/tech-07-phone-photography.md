@@ -1,5 +1,5 @@
 ---title: "Photographie au smartphone : comment prendre des photos de qualite pro"
-date: "2025-11-15"
+date: "2025-08-03"
 category: "technology"
 keywords: "smartphone camera photography taking photo outdoor"
 excerpt: "Les telephones modernes sont performants. Voici comment en tirer le meilleur."

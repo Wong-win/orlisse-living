@@ -1,6 +1,6 @@
 ---
 title: "La science des hydratants : cremes, gels et lotions expliques"
-date: "2026-02-06"
+date: "2026-01-11"
 category: "beauty"
 keywords: "moisturizer,cream,gel,lotion,skincare"
 excerpt: "Tous les hydratants ne fonctionnent pas de la meme facon. Voici comment choisir."

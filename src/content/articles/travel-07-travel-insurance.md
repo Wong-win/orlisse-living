@@ -1,5 +1,5 @@
 ---title: "L'assurance voyage expliquee : en avez-vous vraiment besoin ?"
-date: "2025-11-05"
+date: "2025-08-17"
 category: "travel"
 keywords: "passport airport documents travel security"
 excerpt: "L'assurance voyage est l'un des aspects les plus confus de la planification. Voici ce qu'elle couvre vraiment."

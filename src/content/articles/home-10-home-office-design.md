@@ -1,5 +1,5 @@
 ---title: "Comment concevoir un bureau a domicile ou vous aurez envie de travailler"
-date: "2026-01-23"
+date: "2025-11-23"
 category: "home-garden"
 keywords: "home,office,workspace,design,productive"
 excerpt: "Un bureau bien concu est l'un des meilleurs investissements. Voici comment."

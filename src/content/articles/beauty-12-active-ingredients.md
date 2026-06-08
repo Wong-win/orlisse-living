@@ -1,6 +1,6 @@
 ---
 title: "Gros plan sur les ingredients : acide hyaluronique, niacinamide et peptides"
-date: "2026-03-03"
+date: "2026-02-15"
 category: "beauty"
 keywords: "ingredients,hyaluronic,niacinamide,peptide,skincare"
 excerpt: "Ces trois ingredients apparaissent partout. Voici ce qu'ils font vraiment."

@@ -1,5 +1,5 @@
 ---title: "Comment demarrer un potager dans n'importe quel espace"
-date: "2026-03-13"
+date: "2026-02-01"
 category: "home-garden"
 keywords: "vegetable,garden,growing,food,organic"
 excerpt: "Vous n'avez pas besoin d'un jardin pour cultiver vos legumes. Voici comment."

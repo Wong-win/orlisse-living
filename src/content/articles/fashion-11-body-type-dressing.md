@@ -1,5 +1,5 @@
 ---title: "S'habiller selon sa morphologie : un guide qui a vraiment du sens"
-date: "2026-02-01"
+date: "2026-01-18"
 category: "fashion"
 keywords: "body,type,fit,flattering,shape"
 excerpt: "La plupart des conseils morphologiques sont depasses. Voici une approche plus intelligente."

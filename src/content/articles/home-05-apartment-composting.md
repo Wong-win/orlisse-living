@@ -1,6 +1,6 @@
 ---
 title: "Le compostage en appartement : guide complet pour composter a l'interieur"
-date: "2025-09-22"
+date: "2025-06-01"
 category: "home-garden"
 keywords: "compost,soil,garden,organic,worms"
 excerpt: "Pas de jardin ? Pas de probleme. Voici comment composter en appartement sans odeur."

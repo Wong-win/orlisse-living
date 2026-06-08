@@ -1,6 +1,6 @@
 ---
 title: "Design d'interieur minimaliste : creer le calme par des espaces intentionnels"
-date: "2025-08-03"
+date: "2025-03-23"
 category: "home-garden"
 keywords: "interior,minimal,design,living,room"
 excerpt: "Le minimalisme n'est pas de ne rien posseder. Voici comment creer un interieur calme et chaleureux."

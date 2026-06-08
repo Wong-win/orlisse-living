@@ -1,5 +1,5 @@
 ---title: "Le guide complet du desencombrement piece par piece"
-date: "2025-12-29"
+date: "2025-10-19"
 category: "home-garden"
 keywords: "declutter,organize,home,cleaning,minimal"
 excerpt: "Le desencombrement n'est pas une philosophie. Voici un systeme pratique qui fonctionne."

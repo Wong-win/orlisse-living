@@ -1,5 +1,5 @@
 ---title: "Alternatives ecologiques pour la maison qui font vraiment la difference"
-date: "2026-04-06"
+date: "2026-03-08"
 category: "home-garden"
 keywords: "eco,friendly,sustainable,home,swaps"
 excerpt: "Tous les produits verts ne valent pas le changement. Voici ceux qui comptent."

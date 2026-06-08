@@ -1,6 +1,6 @@
 ---
 title: "Comment transformer un petit balcon en sanctuaire de verdure"
-date: "2025-06-15"
+date: "2025-01-12"
 category: "home-garden"
 keywords: "balcony,garden,plants,flowers,small"
 excerpt: "Meme le plus petit espace exterieur peut devenir un refuge luxuriant. Voici le guide de transformation etape par etape."

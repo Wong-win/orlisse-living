@@ -1,6 +1,6 @@
 ---
 title: "Tablette ou ordinateur portable : lequel avez-vous vraiment besoin ?"
-date: "2026-06-01"
+date: "2026-04-05"
 category: "technology"
 keywords: "tablet,laptop,comparison,ipad,computer"
 excerpt: "La frontière entre tablettes et portables s'est estompée. Voici une évaluation honnête de ce qui correspond à vos besoins réels."

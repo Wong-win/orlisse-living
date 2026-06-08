@@ -1,5 +1,5 @@
 ---title: "Le guide complet de l'eclairage interieur pour chaque piece"
-date: "2026-02-16"
+date: "2025-12-28"
 category: "home-garden"
 keywords: "lighting,design,interior,lamp,fixture"
 excerpt: "L'eclairage est l'element le plus sous-estime du design d'interieur."

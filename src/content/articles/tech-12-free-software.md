@@ -1,6 +1,6 @@
 ---
 title: "Les meilleurs logiciels et applications gratuits qui valent le coup en 2026"
-date: "2026-06-01"
+date: "2026-01-25"
 category: "technology"
 keywords: "free,software,apps,tools,productivity"
 excerpt: "Pas besoin d'abonnements pour avoir d'excellents logiciels. Voici les meilleures alternatives gratuites aux outils payants."

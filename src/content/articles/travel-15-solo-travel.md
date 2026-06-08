@@ -1,5 +1,5 @@
 ---title: "Voyager seul : tout ce que vous devez savoir avant de partir"
-date: "2026-05-21"
+date: "2026-05-24"
 category: "travel"
 keywords: "solo,travel,alone,safety,tips"
 excerpt: "Voyager seul est l'une des experiences les plus enrichissantes. Voici comment le faire."

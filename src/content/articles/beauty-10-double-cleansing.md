@@ -1,6 +1,6 @@
 ---
 title: "Le guide complet du double nettoyage"
-date: "2026-01-13"
+date: "2025-12-07"
 category: "beauty"
 keywords: "cleansing,skincare,oil,balm,routine"
 excerpt: "Le double nettoyage est la base des soins coreens pour une bonne raison."

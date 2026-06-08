@@ -1,5 +1,5 @@
 ---title: "Guide des quartiers de Paris : au-dela des sentiers touristiques"
-date: "2025-12-24"
+date: "2025-10-26"
 category: "travel"
 keywords: "paris,france,neighborhood,travel,guide"
 excerpt: "Le vrai Paris existe dans ses quartiers, loin des foules de selfies. Voici ou aller."

@@ -1,6 +1,6 @@
 ---
 title: "Le bureau a domicile moderne : equipements ergonomiques"
-date: "2025-09-27"
+date: "2025-05-25"
 category: "technology"
 keywords: "office,desk,workspace,computer,chair"
 excerpt: "Un bureau bien concu se rembourse en concentration et confort."

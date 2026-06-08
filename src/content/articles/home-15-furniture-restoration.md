@@ -1,5 +1,5 @@
 ---title: "Guide du debutant pour la restauration et l'upcycling de meubles"
-date: "2026-05-26"
+date: "2026-05-17"
 category: "home-garden"
 keywords: "furniture,restoration,upcycle,DIY,refinish"
 excerpt: "Les vieux meubles sont souvent mieux fabriques. Voici comment les restaurer."

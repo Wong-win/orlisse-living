@@ -1,6 +1,6 @@
 ---
 title: "Les mythes sur la creme solaire demystifies"
-date: "2025-12-19"
+date: "2025-11-02"
 category: "beauty"
 keywords: "sunscreen,protection,UV,skincare,science"
 excerpt: "Du SPF aux ecrans chimiques, voici ce que dit la science."

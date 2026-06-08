@@ -1,6 +1,6 @@
 ---
 title: "L'IA au quotidien : ce qui compte vraiment pour les gens ordinaires en 2026"
-date: "2026-06-01"
+date: "2026-05-10"
 category: "technology"
 keywords: "AI,artificial,intelligence,chatgpt,tools"
 excerpt: "L'IA transforme notre façon de travailler et de vivre. Voici un guide pratique de ce qui est utile maintenant — sans le battage médiatique."

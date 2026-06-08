@@ -1,6 +1,6 @@
 ---
 title: "La science des soins de la peau : construire votre routine matin et soir"
-date: "2025-06-30"
+date: "2025-03-02"
 category: "beauty"
 keywords: "skincare,beauty,serum,cream"
 excerpt: "Plus de produits ne signifie pas une meilleure peau. Voici l'approche minimaliste fondee sur la science."

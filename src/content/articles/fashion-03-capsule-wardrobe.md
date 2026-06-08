@@ -1,6 +1,6 @@
 ---
 title: "La garde-robe capsule reinventee : 30 pieces, des tenues infinies"
-date: "2025-07-20"
+date: "2025-04-13"
 category: "fashion"
 keywords: "capsule,wardrobe,minimal,closet"
 excerpt: "Oubliez les regles restrictives. Voici comment construire une collection flexible de 30 pieces."

@@ -1,6 +1,6 @@
 ---
 title: "Guide complet des ecrans solaires coreens : pourquoi ils changent la donne"
-date: "2025-06-05"
+date: "2025-01-26"
 category: "beauty"
 keywords: "sunscreen,skincare,beauty,cream"
 excerpt: "Les ecrans solaires K-beauty ont redefini la protection solaire quotidienne. Voici la science et les meilleures formules."

@@ -1,5 +1,5 @@
 ---title: "Les meilleures destinations de randonnee pour tous les niveaux"
-date: "2026-04-01"
+date: "2026-03-15"
 category: "travel"
 keywords: "hiking,outdoor,nature,trails,mountains"
 excerpt: "Des promenades douces aux treks de plusieurs jours, voici les meilleures destinations."

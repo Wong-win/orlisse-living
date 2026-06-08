@@ -1,6 +1,6 @@
 ---
 title: "Les meilleures applications de productivite pour une vie plus organisee"
-date: "2025-07-15"
+date: "2025-02-09"
 category: "technology"
 keywords: "apps,phone,digital,notion,calendar"
 excerpt: "La plupart des applis creent plus de travail. Voici celles qui aident vraiment."

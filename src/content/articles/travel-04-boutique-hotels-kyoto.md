@@ -1,6 +1,6 @@
 ---
 title: "Ou sejourner a Kyoto : les meilleurs hotels-boutiques et ryokans"
-date: "2025-08-23"
+date: "2025-05-04"
 category: "travel"
 keywords: "kyoto,japan,ryokan,garden,hotel"
 excerpt: "La scene d'hebergement de Kyoto a ete transformee. Voici les plus beaux endroits ou sejourner."

@@ -1,6 +1,6 @@
 ---
 title: "La beaute propre decodee : ingredients a rechercher et a eviter"
-date: "2025-07-25"
+date: "2025-04-06"
 category: "beauty"
 keywords: "cosmetics,natural,beauty,organic"
 excerpt: "La beaute propre est l'un des termes les plus confus. Nous separons la science du marketing."

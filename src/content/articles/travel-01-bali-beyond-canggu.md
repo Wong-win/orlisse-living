@@ -1,6 +1,6 @@
 ---
 title: "Bali au-dela de Canggu : coins tranquilles pour le voyageur exigeant"
-date: "2025-06-10"
+date: "2025-01-19"
 category: "travel"
 keywords: "bali,travel,tropical,rice,terrace"
 excerpt: "Evitez les beach clubs. Ces destinations hors des sentiers battus offrent une experience balinaise plus profonde et raffinee."

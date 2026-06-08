@@ -1,5 +1,5 @@
 ---title: "Comment choisir les couleurs de peinture pour chaque piece"
-date: "2025-12-04"
+date: "2025-09-14"
 category: "home-garden"
 keywords: "paint color swatches interior wall design home"
 excerpt: "Choisir une couleur est etonnamment difficile. Voici une approche systematique."

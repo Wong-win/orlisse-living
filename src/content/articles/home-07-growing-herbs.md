@@ -1,5 +1,5 @@
 ---title: "Guide du debutant pour cultiver des herbes aromatiques en interieur"
-date: "2025-11-10"
+date: "2025-08-10"
 category: "home-garden"
 keywords: "herbs plants kitchen windowsill basil indoor garden"
 excerpt: "Les herbes fraiches subliment tous les plats. Voici comment les cultiver chez vous."

@@ -1,5 +1,5 @@
 ---title: "Comment voyager plus durablement : conseils pratiques"
-date: "2026-01-18"
+date: "2025-11-30"
 category: "travel"
 keywords: "sustainable,travel,eco,green,tourism"
 excerpt: "Le voyage durable ne signifie pas rester chez soi. Voici comment reduire votre impact."

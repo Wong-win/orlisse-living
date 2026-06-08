@@ -1,6 +1,6 @@
 ---
 title: "Solutions de rangement intelligentes pour petits espaces"
-date: "2025-08-28"
+date: "2025-04-27"
 category: "home-garden"
 keywords: "storage,organization,shelves,closet,home"
 excerpt: "Vivre dans un petit espace ne signifie pas vivre dans le desordre. Voici des idees qui fonctionnent."

@@ -1,5 +1,5 @@
 ---title: "Comment acheter vintage et seconde main comme un pro"
-date: "2026-03-23"
+date: "2026-03-29"
 category: "fashion"
 keywords: "vintage,secondhand,thrift,shopping,sustainable"
 excerpt: "Le shopping vintage est la meilleure facon de construire une garde-robe unique avec un budget limite."

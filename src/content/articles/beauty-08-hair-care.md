@@ -1,6 +1,6 @@
 ---
 title: "Routines capillaires pour chaque type de cheveux"
-date: "2025-11-25"
+date: "2025-09-28"
 category: "beauty"
 keywords: "hair brush beauty care products routine styling"
 excerpt: "La plupart des conseils sont ecrits pour un seul type. Voici une routine pour le votre."

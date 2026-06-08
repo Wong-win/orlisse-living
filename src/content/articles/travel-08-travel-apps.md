@@ -1,5 +1,5 @@
 ---title: "Les meilleures applications de voyage pour 2026"
-date: "2025-11-30"
+date: "2025-09-21"
 category: "travel"
 keywords: "smartphone mobile map travel planning navigation"
 excerpt: "Les bonnes applications transforment la facon de planifier, reserver et vivre un voyage. Voici les indispensables."

@@ -1,6 +1,6 @@
 ---
 title: "Test des masques LED : les appareils de therapie par lumiere fonctionnent-ils ?"
-date: "2025-08-18"
+date: "2025-05-11"
 category: "beauty"
 keywords: "led,mask,face,beauty,light"
 excerpt: "Nous avons teste 6 masques populaires pendant 8 semaines. Voici ce que dit la science."

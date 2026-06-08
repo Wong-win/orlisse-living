@@ -1,6 +1,6 @@
 ---
 title: "Le Wi-Fi domestique expliqué : comment résoudre vos problèmes Internet une bonne fois pour toutes"
-date: "2026-06-01"
+date: "2026-03-01"
 category: "technology"
 keywords: "wifi,internet,router,mesh,speed"
 excerpt: "Un Wi-Fi lent est généralement réparable sans dépenser beaucoup d'argent. Voici comment diagnostiquer et résoudre les problèmes les plus courants."

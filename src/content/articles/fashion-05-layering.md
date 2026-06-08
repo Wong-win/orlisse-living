@@ -1,6 +1,6 @@
 ---
 title: "L'art de la superposition : maitriser l'habillage de transition"
-date: "2025-09-07"
+date: "2025-06-22"
 category: "fashion"
 keywords: "fashion,layering,outfit,coat"
 excerpt: "La superposition est la competence la plus sous-estimee pour bien s'habiller."
