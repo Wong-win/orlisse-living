@@ -6,7 +6,7 @@ keywords: "petit espace,design intérieur,décoration apaisante,appartement mini
 excerpt: "Vivre dans un petit espace ne signifie pas sacrifier le style ou le confort. Découvrez comment créer un intérieur qui respire le calme, maximise chaque mètre carré et reflète votre personnalité."
 ---
 
-![Petit appartement moderne et chaleureux de style Mid-Century](https://images.unsplash.com/photo-BgXYRXCWye4)
+![Petit appartement moderne et chaleureux de style Mid-Century](https://images.unsplash.com/photo-1781249144129-4ba0869707f5)
 
 La vie dans un petit espace est devenue une réalité pour beaucoup d'entre nous — par choix ou par nécessité. Les appartements urbains rétrécissent, le télétravail s'installe durablement, et de plus en plus de personnes optent pour des modes de vie minimalistes. Mais vivre dans un espace réduit ne signifie pas vivre à l'étroit. Au contraire : un petit espace bien conçu peut être plus chaleureux, plus fonctionnel et plus apaisant qu'une grande maison mal agencée.
 
@@ -60,7 +60,7 @@ Dans un petit espace, chaque meuble doit justifier son emprise au sol. Les meubl
 
 **Les séparateurs visuels** créent des zones distinctes sans cloisonner. Une bibliothèque ouverte entre le salon et la chambre, un grand rideau en lin qui coulisse pour isoler le coin nuit, un meuble bas qui délimite le coin repas sans couper la vue. L'objectif est de suggérer la séparation sans la matérialiser complètement.
 
-![Salon chaleureux avec plantes d'intérieur et lumière naturelle](https://images.unsplash.com/photo-fgLen78-7ro)
+![Salon chaleureux avec plantes d'intérieur et lumière naturelle](https://images.unsplash.com/photo-1657040899606-b22f17a6afd5)
 
 ## Le rangement : l'art de faire disparaître
 
@@ -83,6 +83,8 @@ Les plantes d'intérieur sont le meilleur investissement déco pour un petit esp
 **Pensez vertical pour les plantes aussi**. Un mur végétal, même modeste, crée un point focal spectaculaire. Des étagères murales dédiées aux plantes, des jardinières suspendues, un treillis fixé au mur pour une plante grimpante. La verdure peut occuper l'espace vertical aussi bien que l'horizontal.
 
 **Choisissez des pots qui complètent votre déco**. Des pots en terre cuite pour une ambiance méditerranéenne, en céramique blanche pour un intérieur minimaliste, en macramé suspendu pour un style bohème. Les pots sont une opportunité décorative, pas un simple contenant.
+
+![Intérieur moderne optimisé pour petit espace](https://images.unsplash.com/photo-1745429523615-2a82c60bfc02)
 
 ## Créer des zones dans un studio
 

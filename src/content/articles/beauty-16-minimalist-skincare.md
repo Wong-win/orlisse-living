@@ -6,7 +6,7 @@ keywords: "beauté minimaliste,skinimalisme,routine soin naturelle,peau saine,pr
 excerpt: "Découvrez le skinimalisme, la tendance beauté qui prône une routine minimaliste avec moins de produits mais de meilleure qualité. Guide complet pour une peau saine et rayonnante sans se ruiner."
 ---
 
-![Routine beauté minimaliste avec rouleau de quartz rose et huile](https://images.unsplash.com/photo-KiQt6CC0BvY)
+![Routine beauté minimaliste avec rouleau de quartz rose et huile](https://images.unsplash.com/photo-1600428877878-1a0fd85beda8)
 
 Pendant des années, l'industrie de la beauté nous a vendu un rêve : plus de produits, plus d'étapes, plus de promesses. Des routines en dix, douze, voire quinze étapes, héritées des rituels coréens et amplifiées par les réseaux sociaux. Mais en 2026, un vent de simplicité souffle sur le monde de la beauté. Le « skinimalisme » — contraction de « skin » et « minimalisme » — s'est imposé comme la tendance majeure, et pour cause : notre peau n'a jamais demandé autant de produits.
 
@@ -72,7 +72,7 @@ Un écran solaire minimaliste doit offrir :
 
 La protection solaire s'applique tous les jours, qu'il pleuve ou qu'il fasse soleil, été comme hiver. Les UVA, responsables du vieillissement cutané, traversent les nuages et les vitres. Appliquez l'équivalent d'une cuillère à café pour le visage et le cou, et renouvelez toutes les deux heures en cas d'exposition directe.
 
-![Produits de soin naturels et minimalistes en salle de bain](https://images.unsplash.com/photo-hZ7wSMMWGMA)
+![Produits de soin naturels et minimalistes en salle de bain](https://images.unsplash.com/photo-1629380108599-ea06489d66f5)
 
 ## Les actifs complémentaires : le quatrième pilote optionnel
 
@@ -101,6 +101,8 @@ Le naturel n'est pas toujours synonyme d'efficacité, et le synthétique n'est p
 **L'avoine colloïdale** : des flocons d'avoine réduits en poudre ultrafine, elle apaise immédiatement les irritations et les démangeaisons. Les peaux sensibles et atopiques en tirent un bénéfice particulier. On la trouve dans des nettoyants doux et des crèmes apaisantes.
 
 **Les eaux florales** — rose, camomille, bleuet — remplacent avantageusement les lotions toniques alcoolisées. Elles rafraîchissent, apaisent et préparent la peau sans la décaper. Vaporisez-les entre le nettoyage et le sérum pour une absorption optimisée des actifs.
+
+![Flacon de sérum blanc minimaliste — l'essentiel d'une routine épurée](https://images.unsplash.com/photo-1576426863848-c21f53c60b19)
 
 ## Adapter sa routine au fil des saisons
 

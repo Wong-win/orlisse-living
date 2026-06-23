@@ -6,7 +6,7 @@ keywords: "îles grecques,voyage Grèce,destinations cachées,Milos,Folegandros,
 excerpt: "Au-delà de Santorin et Mykonos, découvrez les îles grecques secrètes où l'authenticité règne encore. Guide complet de Milos, Folegandros, Sifnos et plus — pour un voyage grec loin des foules."
 ---
 
-![Vue imprenable sur Santorin au coucher du soleil](https://images.unsplash.com/photo-8ATbLUWpcZo)
+![Vue imprenable sur Santorin au coucher du soleil](https://images.unsplash.com/photo-1719607526486-96f27a995fcc)
 
 La Grèce évoque instantanément des images de dômes bleus, de murs blanchis à la chaux et de couchers de soleil flamboyants. Santorin et Mykonos sont devenues les icônes incontestées des Cyclades, attirant des millions de visiteurs chaque année. Mais il existe une autre Grèce, authentique et préservée, qui n'attend que les voyageurs curieux.
 
@@ -46,7 +46,7 @@ Si vous cherchez l'essence même des Cyclades, loin du bruit et du commerce, Fol
 
 **Côté pratique** : Folegandros est accessible en ferry depuis Le Pirée ou depuis Milos et Santorin. L'hébergement se concentre dans des pensions familiales pleines de charme. Réservez à l'avance pour juillet et août — la capacité d'accueil de l'île est volontairement limitée.
 
-![La mer Égée vue depuis les côtes grecques](https://images.unsplash.com/photo-YApJzLWBN9U)
+![La mer Égée vue depuis les côtes grecques](https://images.unsplash.com/photo-1580225451277-0e4ea5899d03)
 
 ## Sifnos : le paradis des gastronomes
 
@@ -73,6 +73,8 @@ Amorgos est l'île des paysages grandioses et de la spiritualité. Rendue célè
 **La randonnée** est l'attrait principal d'Amorgos. Le sentier qui relie Chora au monastère, puis descend vers la plage d'Agia Anna, est l'un des plus beaux des Cyclades. Le contraste entre l'austérité des falaises, le bleu intense de la mer et le blanc éclatant du monastère crée une expérience quasi mystique. D'autres sentiers parcourent l'île du nord au sud, reliant des villages isolés où le temps s'est arrêté.
 
 **Côté pratique** : Amorgos est à 6-8 heures de ferry du Pirée, ou à 1 heure de ferry de Naxos. L'île convient aux voyageurs qui apprécient la marche et l'authenticité — les infrastructures touristiques sont limitées, ce qui fait tout son charme.
+
+![L'autre visage de Santorin — paysages sauvages et préservés](https://images.unsplash.com/photo-1605743657791-7be7ac3aa65a)
 
 ## Conseils pratiques pour un voyage authentique dans les Cyclades
 

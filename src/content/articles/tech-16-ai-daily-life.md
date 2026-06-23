@@ -6,7 +6,7 @@ keywords: "intelligence artificielle,IA quotidien,technologie 2026,assistants IA
 excerpt: "L'intelligence artificielle n'est plus de la science-fiction. En 2026, elle s'immisce dans chaque aspect de notre quotidien — téléphone, maison, santé, créativité. Découvrez comment l'IA transforme votre vie, souvent sans que vous le sachiez."
 ---
 
-![Œuvre numérique illustrant la synergie entre le cerveau humain et l'intelligence artificielle](https://images.unsplash.com/photo-_jg8xh2SsXQ)
+![Œuvre numérique illustrant la synergie entre le cerveau humain et l'intelligence artificielle](https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f)
 
 Il y a encore cinq ans, l'intelligence artificielle évoquait des robots lointains et des scénarios dystopiques. En 2026, elle est devenue aussi banale que l'électricité — une couche invisible qui alimente nos téléphones, nos maisons, nos voitures et nos décisions quotidiennes. Nous dialoguons avec des assistants IA sans y penser, nous laissons des algorithmes choisir notre musique, nos films et parfois même nos partenaires amoureux.
 
@@ -34,7 +34,7 @@ La domotique a longtemps souffert d'un problème fondamental : des gadgets qui c
 
 **La cuisine connectée** progresse à grands pas. Des réfrigérateurs équipés de caméras qui suivent les dates de péremption et suggèrent des recettes. Des fours qui reconnaissent le plat que vous enfournez et ajustent automatiquement température et durée. Des applications qui génèrent des menus de la semaine en fonction de ce qu'il y a dans votre frigo, de vos préférences alimentaires et de votre budget. L'objectif n'est pas de transformer la cuisine en vaisseau spatial, mais de réduire le gaspillage alimentaire et la charge mentale des repas.
 
-![Assistant IA futuriste et interface numérique intelligente](https://images.unsplash.com/photo-_0iV9LmPDn0)
+![Assistant IA futuriste et interface numérique intelligente](https://images.unsplash.com/photo-1677442135703-1787eea5ce01)
 
 ## L'IA pour la santé et le bien-être
 
@@ -67,6 +67,8 @@ L'intégration massive de l'IA dans nos vies soulève des questions fondamentale
 **Les biais algorithmiques** sont une réalité documentée. Les IA sont entraînées sur des données produites par des humains, et reproduisent donc les biais humains — sexistes, racistes, culturels. Une IA de recrutement peut défavoriser les candidates femmes si elle a été entraînée sur des données historiques dominées par des recrutements masculins. Une IA de crédit peut pénaliser certains codes postaux. La régulation progresse, mais la vigilance est de mise : exigez des explications quand une décision automatisée vous concerne.
 
 **La dépendance** est le risque le plus insidieux. À force de laisser l'IA choisir notre musique, écrire nos messages, résumer nos lectures et décider de nos trajets, risquons-nous d'atrophier certaines capacités cognitives ? La question divise les chercheurs. Une chose est sûre : l'IA doit rester un outil au service de notre intelligence, pas un substitut. Continuez à écrire à la main, à lire des livres longs, à composer vos propres messages importants. L'IA est un assistant, pas un remplacement.
+
+![Rendu 3D futuriste — l'innovation numérique au service du quotidien](https://images.unsplash.com/photo-1677442135136-760c813028c0)
 
 ## Comment bien utiliser l'IA au quotidien : conseils pratiques
 

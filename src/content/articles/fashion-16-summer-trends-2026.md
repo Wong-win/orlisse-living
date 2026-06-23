@@ -6,7 +6,7 @@ keywords: "mode été 2026,tendances mode,vêtements été,garde-robe estivale,s
 excerpt: "Découvrez les tendances mode incontournables de l'été 2026. Des matières naturelles aux silhouettes audacieuses, voici tout ce qu'il faut savoir pour une garde-robe estivale élégante et responsable."
 ---
 
-![Femme élégante en robe d'été près de la mer](https://images.unsplash.com/photo-68csPWTnafo)
+![Femme élégante en robe d'été près de la mer](https://images.unsplash.com/photo-1496747611176-843222e1e57c)
 
 L'été 2026 est là, et avec lui, une saison de mode qui célèbre l'individualité, le confort et la conscience environnementale. Cette année, les créateurs ont mis l'accent sur des pièces qui transcendent les saisons — des vêtements pensés pour durer, dans des matières nobles et des coupes intemporelles. La mode estivale 2026 n'est pas une révolution brutale, mais une évolution élégante : on affine, on épure, on choisit mieux pour porter plus longtemps.
 
@@ -46,7 +46,7 @@ Les matières naturelles et éco-responsables sont au cœur de la mode estivale 
 
 **Le chanvre** fait son retour. Longtemps cantonné aux vêtements rustiques, le chanvre est aujourd'hui travaillé avec une finesse qui le rend parfaitement adapté aux vêtements d'été élégants. Mélangé au coton, il donne des tissus d'une incroyable durabilité, naturellement anti-bactériens et thermorégulateurs.
 
-![Accessoires d'été élégants — chapeau et essentials de plage](https://images.unsplash.com/photo-_4sZuk4H0eU)
+![Accessoires d'été élégants — chapeau et essentials de plage](https://images.unsplash.com/photo-1688201392119-41f550bc250b)
 
 ## Les robes : maxi, midi, mini — toutes les longueurs sont permises
 
@@ -79,6 +79,8 @@ Le pantalon d'été 2026 conjugue élégance et aisance.
 **Le bermuda tailleur** fait son grand retour. Longtemps boudé, il est aujourd'hui réhabilité dans des versions impeccables — pinces, plis, tissus nobles. Porté avec une veste assortie ou un simple t-shirt rentré, il incarne le chic décontracté de l'été.
 
 **La jupe portefeuille** midi en satin ou en viscose apporte une touche de féminité qui fonctionne aussi bien en journée qu'en soirée. Les imprimés subtils — pois, petites fleurs, motifs géométriques — ajoutent de la personnalité sans dominer la tenue.
+
+![Femme élégante en tenue d'été chic et décontractée](https://images.unsplash.com/photo-1499939667766-4afceb292d05)
 
 ## Les accessoires : l'art du détail
 
