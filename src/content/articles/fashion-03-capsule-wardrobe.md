@@ -6,7 +6,7 @@ keywords: "capsule,wardrobe,minimal,closet"
 excerpt: "Oubliez les regles restrictives. Voici comment construire une collection flexible de 30 pieces."
 ---
 
-![A curated selection of clothing in neutral and accent tones](https://images.unsplash.com/photo-1485968579580-b6d0b4d7c081)
+![A curated selection of clothing in neutral and accent tones](https://images.unsplash.com/photo-1441986300917-64674bd600d8)
 
 Le concept de garde-robe capsule existe depuis des decennies -- Susie Faux a invente le terme dans les annees 1970 -- mais quelque part en chemin, il est devenu un exercice de minimalisme rigide et sans joie. Le conseil traditionnel se resume a : possedez 30 a 40 articles, tous neutres, tous interchangeables, et cela vous liberera d'une maniere ou d'une autre. Pour la plupart des gens, cela ressemble moins a de la liberte qu'a un uniforme qu'ils n'ont pas choisi.
 

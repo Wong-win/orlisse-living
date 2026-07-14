@@ -94,7 +94,7 @@ Caraco en soie + chemise en popeline surdimensionnee (portee ouverte comme une v
 **Formule 3 : La couche du soir**
 Robe d'ete en coton + cardigan en coton fin (drape sur les epaules) + sandales en cuir. Le cardigan s'enleve pendant la journee, se remet au coucher du soleil. Nouez-le sur les epaules pour une touche BCBG.
 
-![A perfect spring layering combination with a trench coat](https://images.unsplash.com/photo-1485968579580-b6d0b4d7c081)
+![A perfect spring layering combination with a trench coat](https://images.unsplash.com/photo-1490481651871-ab68de25d43d)
 
 ### Automne : la saison de superposition par excellence
 

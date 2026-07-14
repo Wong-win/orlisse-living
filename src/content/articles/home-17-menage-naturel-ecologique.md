@@ -129,7 +129,7 @@ Dans un flacon spray de 200 ml :
 
 À vaporiser dans l'air, sur les rideaux et les tissus d'ameublement. Contrairement aux désodorisants du commerce qui masquent les odeurs avec des parfums de synthèse agressifs, celui-ci assainit sans polluer. Le vinaigre blanc dans une coupelle absorbe également les odeurs tenaces (peinture fraîche, tabac froid, cuisine).
 
-![Flacons et bocaux en verre pour produits ménagers DIY — zéro déchet et écologique](https://images.unsplash.com/photo-1558618666-fcd25c85f82e)
+![Flacons et bocaux en verre pour produits ménagers DIY — zéro déchet et écologique](https://images.unsplash.com/photo-1528740561666-dc2479dc08ab)
 
 ## Guide d'entretien pièce par pièce
 

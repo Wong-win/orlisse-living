@@ -3,7 +3,9 @@ date: "2025-08-17"
 category: "travel"
 keywords: "passport airport documents travel security"
 excerpt: "L'assurance voyage est l'un des aspects les plus confus de la planification. Voici ce qu'elle couvre vraiment."
----![Passeport et billets d'avion sur une table](https://images.unsplash.com/photo-1581553672347-c4906b5d0de8)
+---
+
+![Passeport et billets d'avion sur une table](https://images.unsplash.com/photo-1488646953014-85cb44e25828)
 
 L'assurance voyage occupe un espace etrange dans la psychologie de la planification de voyage. La plupart des gens l'achetent de maniere reflexive (en cochant la case lors de la reservation d'un vol sans lire la police) ou la sautent completement (en supposant que rien de mal n'arrivera). Les deux approches peuvent etre des erreurs couteuses.
 

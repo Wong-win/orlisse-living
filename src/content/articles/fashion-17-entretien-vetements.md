@@ -47,7 +47,7 @@ La température de lavage est le facteur le plus agressif pour les textiles. Cha
 
 Baisser la température de lavage de 40°C à 30°C réduit la consommation d'énergie de 30 %. Multiplié par les centaines de lessives qu'un foyer effectue chaque année, l'économie — financière et environnementale — est substantielle.
 
-![Femme réparant un vêtement à la main — l'art de la réparation textile](https://images.unsplash.com/photo-1529511582893-55a58dd2f746)
+![Femme réparant un vêtement à la main — l'art de la réparation textile](https://images.unsplash.com/photo-1509644851169-2acc08aa25b5)
 
 ### Le séchage : privilégier l'air libre
 

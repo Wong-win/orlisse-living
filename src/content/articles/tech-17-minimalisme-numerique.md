@@ -54,7 +54,7 @@ Après 30 jours, vous avez une perspective nouvelle. Vous savez maintenant ce qu
 
 Pour beaucoup de personnes, cette cure révèle que les réseaux sociaux n'apportent presque rien de positif dans leur vie — un vague sentiment de « rester connecté » qui s'avère être majoritairement passif, envieux et vide. La suppression définitive, loin d'être un sacrifice, est vécue comme une libération.
 
-![Smartphone sur une table avec une plante — repenser notre relation aux écrans](https://images.unsplash.com/photo-1573164713619-514d2c29c495)
+![Smartphone sur une table avec une plante — repenser notre relation aux écrans](https://images.unsplash.com/photo-1611532736597-de2d4265fba3)
 
 ## Réorganiser son environnement numérique
 

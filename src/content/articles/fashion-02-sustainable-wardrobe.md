@@ -74,7 +74,7 @@ Un entretien approprie prolonge considerablement la duree de vie de vos vetement
 - **Sechez a l'air libre quand c'est possible.** Les seche-linge degradent l'elastique, retrecissent les fibres naturelles et consomment d'enormes quantites d'energie. Un etendoir coute 20 euros et est rentabilise par les vetements preserves.
 - **Apprenez les reparations de base.** Remplacer un bouton, coudre une petite dechirure et repriser un trou sont des competences qui s'apprennent en quelques minutes et sauvent les vetements de la decharge. YouTube propose d'excellents tutoriels pour les trois.
 
-![A mending kit with thread, needles, and fabric swatches](https://images.unsplash.com/photo-1558618666-fcd25c85f82e)
+![A mending kit with thread, needles, and fabric swatches](https://images.unsplash.com/photo-1528740561666-dc2479dc08ab)
 
 ## Construire votre garde-robe ethique : un calendrier pratique
 

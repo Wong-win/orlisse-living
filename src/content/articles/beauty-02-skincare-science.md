@@ -6,7 +6,7 @@ keywords: "skincare,beauty,serum,cream"
 excerpt: "Plus de produits ne signifie pas une meilleure peau. Voici l'approche minimaliste fondee sur la science."
 ---
 
-![Skincare products arranged in morning and evening order](https://images.unsplash.com/photo-1570194065650-d99fb4e6ef17)
+![Skincare products arranged in morning and evening order](https://images.unsplash.com/photo-1556228578-0d85b1a4d571)
 
 Entrez dans n'importe quel magasin de beaute et vous serez confronte a un eventail ecrasant de produits, chacun promettant de transformer votre peau. Serums, essences, ampoules, cremes, huiles, toniques, masques -- les categories se multiplient sans fin, et le message sous-entend que vous avez besoin de toutes. Ce n'est pas le cas. En realite, l'erreur de soin la plus courante est d'utiliser trop de produits plutot que pas assez.
 

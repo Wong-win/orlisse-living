@@ -6,7 +6,7 @@ keywords: "alimentation peau, nutriments beauté, belle peau, antioxydants, coll
 excerpt: "La beauté commence dans l'assiette. Découvrez les nutriments, vitamines et aliments qui transforment la peau de l'intérieur — une approche holistique pour un teint éclatant, une peau ferme et une beauté durable."
 ---
 
-![Bol de smoothie coloré garni de fruits frais, graines et superaliments](https://images.unsplash.com/photo-1590301156890-4814ed52b6bb)
+![Bol de smoothie coloré garni de fruits frais, graines et superaliments](https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea)
 
 Nous dépensons des fortunes en crèmes, sérums et soins — le marché mondial des cosmétiques pèse plus de 500 milliards d'euros. Pourtant, la peau est un organe vivant qui se nourrit de l'intérieur. Aucun actif appliqué en surface, aussi performant soit-il, ne peut compenser une alimentation déséquilibrée, un déficit en nutriments essentiels ou une hydratation insuffisante. La peau est le miroir de notre santé intérieure : un teint terne, une peau qui tiraille, des imperfections récurrentes sont souvent le reflet de carences ou d'inflammations silencieuses.
 
