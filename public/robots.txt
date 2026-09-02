@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://orlisseliving.com/sitemap.xml
