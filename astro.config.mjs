@@ -1,2 +1,2 @@
 import { defineConfig } from "astro/config"; import sitemap from "@astrojs/sitemap";
-export default defineConfig({ site: "https://orlisseliving.com", integrations: [sitemap()], trailingSlash: "always" });
+export default defineConfig({ site: "https://www.orlisseliving.com", integrations: [sitemap()], trailingSlash: "always" });
