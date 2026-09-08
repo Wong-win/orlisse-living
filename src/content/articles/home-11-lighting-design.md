@@ -1,4 +1,5 @@
----title: "Le guide complet de l'eclairage interieur pour chaque piece"
+---
+title: "Le guide complet de l'eclairage interieur pour chaque piece"
 date: "2025-12-28"
 category: "home-garden"
 keywords: "lighting,design,interior,lamp,fixture"

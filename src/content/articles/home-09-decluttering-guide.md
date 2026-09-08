@@ -1,4 +1,5 @@
----title: "Le guide complet du desencombrement piece par piece"
+---
+title: "Le guide complet du desencombrement piece par piece"
 date: "2025-10-19"
 category: "home-garden"
 keywords: "declutter,organize,home,cleaning,minimal"

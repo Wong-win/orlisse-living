@@ -1,4 +1,5 @@
----title: "Les meilleures applications de voyage pour 2026"
+---
+title: "Les meilleures applications de voyage pour 2026"
 date: "2025-09-21"
 category: "travel"
 keywords: "smartphone mobile map travel planning navigation"

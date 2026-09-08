@@ -1,4 +1,5 @@
----title: "Les meilleurs casques a reduction de bruit compares"
+---
+title: "Les meilleurs casques a reduction de bruit compares"
 date: "2025-10-12"
 category: "technology"
 keywords: "headphones,noise,canceling,audio,wireless"

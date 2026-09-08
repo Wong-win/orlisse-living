@@ -1,4 +1,5 @@
----title: "Guide du debutant pour la restauration et l'upcycling de meubles"
+---
+title: "Guide du debutant pour la restauration et l'upcycling de meubles"
 date: "2026-05-17"
 category: "home-garden"
 keywords: "furniture,restoration,upcycle,DIY,refinish"

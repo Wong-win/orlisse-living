@@ -1,4 +1,5 @@
----title: "Voyager avec un petit budget : comment voir le monde sans se ruiner"
+---
+title: "Voyager avec un petit budget : comment voir le monde sans se ruiner"
 date: "2026-02-08"
 category: "travel"
 keywords: "budget,cheap,travel,money,save"

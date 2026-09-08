@@ -1,4 +1,5 @@
----title: "Securite residentielle connectee : ce qui vaut l'installation"
+---
+title: "Securite residentielle connectee : ce qui vaut l'installation"
 date: "2025-11-16"
 category: "technology"
 keywords: "security,camera,doorbell,smart,home"

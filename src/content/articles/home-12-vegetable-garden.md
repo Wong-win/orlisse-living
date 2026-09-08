@@ -1,4 +1,5 @@
----title: "Comment demarrer un potager dans n'importe quel espace"
+---
+title: "Comment demarrer un potager dans n'importe quel espace"
 date: "2026-02-01"
 category: "home-garden"
 keywords: "vegetable,garden,growing,food,organic"

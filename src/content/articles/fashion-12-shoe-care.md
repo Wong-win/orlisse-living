@@ -1,4 +1,5 @@
----title: "Le guide complet de l'entretien des chaussures : faites durer vos souliers"
+---
+title: "Le guide complet de l'entretien des chaussures : faites durer vos souliers"
 date: "2026-02-22"
 category: "fashion"
 keywords: "shoes,leather,care,polish,maintenance"

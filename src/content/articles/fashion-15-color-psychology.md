@@ -1,4 +1,5 @@
----title: "La psychologie des couleurs dans la mode"
+---
+title: "La psychologie des couleurs dans la mode"
 date: "2026-06-07"
 category: "fashion"
 keywords: "color,psychology,fashion,meaning,wardrobe"

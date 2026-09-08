@@ -1,4 +1,5 @@
----title: "Comment choisir les couleurs de peinture pour chaque piece"
+---
+title: "Comment choisir les couleurs de peinture pour chaque piece"
 date: "2025-09-14"
 category: "home-garden"
 keywords: "paint color swatches interior wall design home"

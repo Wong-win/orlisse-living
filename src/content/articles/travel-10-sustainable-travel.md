@@ -1,4 +1,5 @@
----title: "Comment voyager plus durablement : conseils pratiques"
+---
+title: "Comment voyager plus durablement : conseils pratiques"
 date: "2025-11-30"
 category: "travel"
 keywords: "sustainable,travel,eco,green,tourism"

@@ -1,4 +1,5 @@
----title: "Guide des quartiers de Londres : ou sejourner, manger et explorer"
+---
+title: "Guide des quartiers de Londres : ou sejourner, manger et explorer"
 date: "2026-01-04"
 category: "travel"
 keywords: "london,england,neighborhood,guide,travel"

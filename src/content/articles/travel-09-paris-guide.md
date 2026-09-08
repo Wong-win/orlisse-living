@@ -1,4 +1,5 @@
----title: "Guide des quartiers de Paris : au-dela des sentiers touristiques"
+---
+title: "Guide des quartiers de Paris : au-dela des sentiers touristiques"
 date: "2025-10-26"
 category: "travel"
 keywords: "paris,france,neighborhood,travel,guide"

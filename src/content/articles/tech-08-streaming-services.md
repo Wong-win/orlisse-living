@@ -1,4 +1,5 @@
----title: "Les meilleurs services de streaming compares"
+---
+title: "Les meilleurs services de streaming compares"
 date: "2025-09-07"
 category: "technology"
 keywords: "television tv streaming entertainment media living room"

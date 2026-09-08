@@ -1,4 +1,5 @@
----title: "Transitions de garde-robe saisonnieres : l'art de s'habiller entre les saisons"
+---
+title: "Transitions de garde-robe saisonnieres : l'art de s'habiller entre les saisons"
 date: "2025-11-09"
 category: "fashion"
 keywords: "jacket,spring,fall,layering,transitional"

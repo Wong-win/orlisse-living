@@ -1,4 +1,5 @@
----title: "L'assurance voyage expliquee : en avez-vous vraiment besoin ?"
+---
+title: "L'assurance voyage expliquee : en avez-vous vraiment besoin ?"
 date: "2025-08-17"
 category: "travel"
 keywords: "passport airport documents travel security"

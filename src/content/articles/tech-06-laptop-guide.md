@@ -1,4 +1,5 @@
----title: "Guide d'achat d'ordinateur portable 2026"
+---
+title: "Guide d'achat d'ordinateur portable 2026"
 date: "2025-06-29"
 category: "technology"
 keywords: "laptop computer desk modern technology workspace"
