@@ -2,6 +2,20 @@
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import "../styles/global.css";
+
+export interface Props {
+  title?: string;
+  description?: string;
+  noindex?: boolean;
+}
+
+const { title, description, noindex = false } = Astro.props;
+const siteTitle = title
+  ? `${title} - Orlisse Living`
+  : "Orlisse Living - Mode, Beauté, Voyage, Maison & Jardin, et Technologie";
+const siteDescription =
+  description ||
+  "Mode, Beauté, Voyage, Maison & Jardin, et Technologie — un écosystème de style de vie moderne.";
 ---
 
 <!doctype html>
@@ -10,8 +24,9 @@ import "../styles/global.css";
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="canonical" href={new URL(Astro.url.pathname, `https://www.orlisseliving.com`)} />
-    <title>Orlisse Living — Style de Vie Moderne</title>
-    <meta name="description" content="Mode, Beauté, Voyage, Maison & Jardin, et Technologie — un écosystème de style de vie moderne." />
+    <title>{siteTitle}</title>
+    <meta name="description" content={siteDescription} />
+    {noindex && <meta name="robots" content="noindex,nofollow" />}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

@@ -17,7 +17,7 @@ const { Content } = await article.render();
 const categoryName = data.category.replace("-", " & ").replace(/\b\w/g, (c: string) => c.toUpperCase());
 ---
 
-<Layout>
+<Layout title={data.title} description={data.excerpt || `${data.title} — un article ${categoryName.toLowerCase()} sur Orlisse Living.`}>
   <article class="article-page">
     <p class="article-category">
       <a href={`/${data.category}`}>{categoryName}</a>
