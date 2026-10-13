@@ -1,100 +1,100 @@
 ---
-title: "Layering textiles for autumn: the warm home edit"
+title: "L'art des textiles d'automne : composer un intérieur chaleureux"
 date: "2026-10-13"
 category: "home-garden"
-keywords: "autumn home textiles, layering blankets, wool throws, autumn interior decor, cozy living room, seasonal textile refresh, fall home decor, cushion layering, hygge autumn"
-excerpt: "Autumn doesn't require a full redecorating project. A handful of well-chosen textiles — a wool throw, a heavier cushion cover, a flannel sheet — can shift a room from summer-flat to autumn-warm in an afternoon. Here's the layered, low-cost way to edit your home for the cold months."
+keywords: "textiles automne, layering plaids, plaids laine, déco intérieur automne, salon cocooning, textile saisonnier, coussins layering, hygge automne"
+excerpt: "L'automne n'a pas besoin d'un grand chantier déco. Quelques textiles bien choisis — un plaid en laine, une housse de coussin plus dense, un drap en flanelle — suffisent à faire passer une pièce de la platitude estivale à la chaleur d'octobre. Voici l'art d'éditer son intérieur pour la saison froide, pièce par pièce, à petit budget."
 image: "https://images.unsplash.com/photo-1789845137280-8fd8eee7e691?auto=format&fit=crop&w=1600&q=82"
 ---
 
-![Folded orange and green plaid wool blanket with fringe on a wooden surface](https://images.unsplash.com/photo-1786361985730-7fef268897c8?auto=format&fit=crop&w=1200&q=82)
+![Plaid en laine plié à carreaux orange et verts, posé sur une surface en bois](https://images.unsplash.com/photo-1786361985730-7fef268897c8?auto=format&fit=crop&w=1200&q=82)
 
-There is a particular kind of October afternoon when the light in the living room goes amber and the radiator finally kicks in after a long summer of silence. That is the afternoon most of us reach for a throw blanket, pull an extra cushion onto the sofa, and quietly admit that the season has turned. Autumn is not really about new furniture or a full redecorating project. It is about textiles. The right wool, the right weight, the right texture — and suddenly the room you have had all year feels like it has always belonged to this colder, slower version of the calendar.
+Il existe une certaine après-midi d'octobre, lorsque la lumière du salon vire à l'ambre et que le radiateur se remet enfin en marche après un long été silencieux. C'est l'après-midi où la plupart d'entre nous attrapent un plaid, ajoutent un coussin supplémentaire sur la méridienne, et admettent en silence que la saison a tourné. L'automne n'est pas vraiment l'affaire d'un nouveau canapé ni d'un grand chantier de relooking. C'est l'affaire des textiles. La bonne laine, le bon poids, la bonne texture — et soudain, la pièce qu'on a habitée toute l'année semble avoir toujours appartenu à cette version plus froide et plus lente du calendrier.
 
-This guide is a low-cost, low-commitment edit: a layered approach to warming up a home for autumn using mostly what you already own, plus a handful of new pieces chosen for texture rather than trend. We will go room by room, because the bedroom, the living room, the kitchen and the entryway all want slightly different things from their textiles.
+Ce guide propose une édition à petit budget et à faible engagement : une approche par couches pour réchauffer une maison en automne, en utilisant surtout ce que vous possédez déjà, plus quelques pièces neuves choisies pour leur texture plutôt que pour leur effet de mode. Nous procéderons pièce par pièce, car la chambre, le salon, la cuisine et l'entrée ne réclament pas tout à fait les mêmes textiles.
 
-## Why textiles, not furniture, are the right tool
+## Pourquoi les textiles, et non les meubles, sont le bon outil
 
-The hardest thing about redecorating seasonally is that the bones of the room — the sofa, the bed, the dining chairs — usually stay where they are. You cannot swap a three-seat sofa twice a year, and most of us shouldn't. What changes easily, by contrast, is everything that sits on top of the bones: the throws, the cushions, the curtains, the bedding, the rug underfoot, the runner on the table. These are the layers a room actually reads as "summer" or "winter" or "autumn," and they are the layers you can change in an afternoon without a screwdriver, a credit card, or a long discussion about the future of the room.
+Le plus difficile, quand on relookerait son intérieur au fil des saisons, c'est que la structure de la pièce — le canapé, le lit, les chaises de salle à manger — reste généralement à sa place. On ne remplace pas un canapé trois places deux fois par an, et la plupart d'entre nous ne devraient pas. Ce qui bouge facilement, en revanche, c'est tout ce qui repose sur cette structure : les plaids, les coussins, les rideaux, la literie, le tapis sous les pieds, le chemin de table. Ce sont les épaisseurs à travers lesquelles elle se lit comme « été » ou « hiver » ou « automne » — et ce sont ces épaisseurs-là que vous pouvez changer en une après-midi, sans tournevis, sans carte bancaire, sans longue discussion sur l'avenir de la pièce.
 
-A second reason to lean into textiles is that autumn is a season defined by sensory shift. The mornings get cooler. The light gets lower. Your skin starts wanting something with weight on it. Heavy textiles — wool, brushed cotton, linen, velvet, boucle — answer that request directly. The room does not need to look different. It needs to feel different under your hand when you sit down.
+Une seconde raison de s'appuyer sur les textiles : l'automne est une saison définie par un glissement sensoriel. Les matins rafraîchissent. La lumière baisse. La peau commence à réclamer un peu de poids sur elle. Les textiles épais — laine, coton gratté, lin, velours, bouclette — répondent à cette demande directement. La pièce n'a pas besoin de paraître différente. Elle doit simplement se sentir différente sous la main, au moment où l'on s'y installe.
 
-A third reason, more practical: a textile edit is forgiving. If you buy a cushion cover in the wrong shade of rust, you can fold it into a basket and try again next year. If you buy a sofa in the wrong shade of rust, you are stuck with it until the dog eats the upholstery. Start small. Layer up. Read the room.
+Une troisième raison, plus pratique : éditer ses textiles pardonne. Si vous achetez une housse de coussin dans la mauvaise nuance de rouille, vous la plierez dans un panier et retentez l'an prochain. Si vous achetez un canapé dans la mauvaise nuance de rouille, vous le gardez jusqu'à ce que le chien en mange le tissu. Commencez petit. Superposez. Lisez la pièce.
 
-## The principle: weight, then texture, then color
+## Le principe : le poids, puis la texture, puis la couleur
 
-When you layer autumn textiles, the order matters. Weight first. A heavy wool throw on a cotton sofa does more work in October than three decorative velvet cushions on a thin linen coverlet, because what your body actually feels is the weight across your lap. Once you have weight, you introduce texture — the irregular weave of a boucle cushion, the brushed nap of a flannel pillowcase, the slubbed linen of a curtain. Texture is what makes a room feel lived-in rather than styled. Only after weight and texture do you reach for color: the deeper rusts, the mossy greens, the burnt ochres, the plum. These are the colors of autumn leaves, of fireplace light, of the last hour of the day. They are easy to overuse. A good rule is no more than two autumn colors per room, with neutrals — oat, charcoal, off-white — holding the rest of the palette together.
+Quand on superpose des textiles, l'ordre compte. D'abord le poids. Un plaid en laine épaisse posé sur un canapé en coton fait plus de travail en octobre que trois coussins décoratifs en velours sur un édredon fin, parce que ce que le corps sent vraiment, c'est le poids sur les genoux. Une fois le poids installé, vous ajoutez la texture — le tissage irrégulier d'un coussin en bouclette, le duvet gratté d'une taie en flanelle, le lin à fils épais d'un rideau. La texture, c'est ce qui distingue une pièce habitée d'une pièce « mise en scène ». Ce n'est qu'après le poids et la texture que l'on cherche la couleur : les rouilles profondes, les verts mousse, les ocres brûlés, les prune. Ce sont les couleurs des feuilles qui tombent, de la lumière du foyer, de la dernière heure du jour. Faciles à surcharger. Une bonne règle : pas plus de deux couleurs d'automne par pièce, avec des neutres — avoine, charbon, blanc cassé — qui tiennent le reste de la palette.
 
-## The living room: the wool throw is the hero
+## Le salon : le plaid en laine tient le premier rôle
 
-The single most useful textile in an autumn living room is a large wool throw. Not a synthetic, not a thin cotton — a wool throw, ideally between 130 and 200 cm wide, in a weight you can feel when you pick it up. Fold it once across the back of the sofa, or drape it over the arm so that one corner puddles on the floor. The visual effect is instant warmth; the practical effect, on a chilly evening, is that you actually use it.
+Le textile le plus utile d'un salon d'automne, c'est un grand plaid en laine. Pas une matière synthétique, pas un coton fin — une vraie laine, idéalement entre 130 et 200 cm de large, d'un poids qu'on sent dès qu'on le soulève. Pliez-le une fois sur le dossier du canapé, ou drapez-le sur l'accoudoir pour qu'un coin retombe sur le sol. L'effet visuel, c'est de la chaleur immédiate ; l'effet pratique, par soirée fraîche, c'est qu'on l'utilise vraiment.
 
-Cushions are the second tier. Late summer is a good time to swap linen cushion covers for something heavier — boucle, wool, velvet, or a chunky knit. Two or three cushions per sofa is plenty. A common mistake is to overstuff the seating so that nobody can actually sit down. Edit aggressively: if your sofa has more than four cushions, you are decorating for a magazine shoot, not a living room.
+Les coussins forment le deuxième niveau. La fin de l'été est le bon moment pour remplacer les housses en lin par quelque chose de plus dense — bouclette, laine, velours, ou tricot à grosses mailles. Deux ou trois coussins par canapé suffisent. L'erreur classique, c'est de surcharger l'assise au point que personne ne peut plus s'y asseoir. Éditez sans pitié : si votre canapé porte plus de quatre coussins, vous décorez pour un magazine, pas pour un salon.
 
-A third tier, often overlooked, is the rug. If your living room has a flatweave or thin cotton rug, autumn is a good moment to layer a heavier rug on top — a wool dhurrie, a kilim, a low-pile vintage piece. Layering rugs is easier than replacing them, and it gives the room more visual weight without committing to a single expensive piece.
+Un troisième niveau, souvent oublié : le tapis. Si votre salon se couvre d'un tapis à tissage plat ou en coton fin, l'automne est le bon moment pour superposer un tapis plus dense par-dessus — un dhurrie en laine, un kilim, une pièce vintage à poils courts. Superposer les tapis est plus simple que de les remplacer, et cela donne plus de poids visuel à la pièce, sans s'engager sur un seul tapis coûteux.
 
-A small fourth tier, only if your living room needs it: curtains. Sheer summer curtains do very little in October. Heavier linen curtains, or wool-lined drapes, will hold heat at the window overnight and soften the room during the day. If replacing curtains feels like too much, simply layering a heavier panel behind the existing sheer curtain works.
+Un petit quatrième niveau, seulement si votre salon en a besoin : les rideaux. Les voilages d'été ne servent pas à grand-chose en octobre. Des rideaux en lin plus épais, ou des draperies doublées laine, garderont la chaleur à la fenêtre pendant la nuit et adouciront la pièce le jour. Si remplacer les rideaux vous semble trop lourd, superposer un panneau plus dense derrière le voilage existant fonctionne aussi.
 
-## The bedroom: weight, then warmth, then a single texture
+## La chambre : le poids, puis la chaleur, puis une seule texture
 
-Bedrooms want a slightly different edit. The goal is not visual warmth so much as actual warmth under the duvet and around the body. The single biggest change you can make is to switch to flannel or brushed cotton sheets for the autumn and winter months. Cotton percale is wonderful in summer; it is also genuinely cold in October. Flannel sheets, even on a mid-weight duvet, change the experience of getting into bed by about ten degrees of perceived warmth.
+Les chambres veulent une édition légèrement différente. L'objectif n'est pas tant la chaleur visuelle que la chaleur réelle sous la couette et autour du corps. Le changement le plus important : passer aux draps en flanelle ou en coton gratté pour les mois d'automne et d'hiver. La percale de coton est merveilleuse en été ; elle est aussi franchement froide en octobre. Des draps en flanelle, même sur une couette de poids moyen, changent l'expérience du coucher d'environ dix degrés de chaleur ressentie.
 
-A second tier is the throw at the foot of the bed. A wool or chunky-knit throw, folded once across the bottom third of the bed, is not primarily decorative. It is a tool — a thing you pull up over the duvet on the nights when the heating has cycled off. Choose one that you actually like the feel of, because you will be touching it every night.
+Un deuxième niveau : le plaid au pied du lit. Un plaid en laine ou en tricot à grosses mailles, plié une fois sur le tiers inférieur du lit, n'est pas un objet purement décoratif. C'est un outil — une chose qu'on remonte sur la couette les nuits où le chauffage s'est mis en veille. Choisissez-le doux au toucher, parce que vous le manipulerez chaque soir.
 
-A third tier is cushion count. Beds in autumn and winter want one or two more cushions than they had in summer, but again, not five. A single lumbar cushion in a heavier fabric, plus your existing sleeping pillows, is enough. The room should still look like a place to sleep, not a place to display a small library of decorative pillows.
+Un troisième niveau : le compte des coussins. Les lits en automne et en hiver acceptent un ou deux coussins de plus qu'en été, mais, là encore, pas cinq. Un seul coussin lombaire dans une matière plus dense, ajouté à vos oreillers habituels, suffit. La chambre doit encore ressembler à un endroit où l'on dort, pas à un présentoir de petits coussins décoratifs.
 
-If your bedroom has a chair in the corner, a single small wool throw over the back of it, plus a heavier cushion, will quietly tell the room what season it is. This is also a good moment to swap summer curtains — gauze, light linen — for something with more weight.
+Si votre chambre a un fauteuil dans un coin, un seul petit plaid en laine sur le dossier, avec un coussin plus dense, dira tranquillement à la pièce de quelle saison il s'agit. C'est aussi le bon moment pour remplacer les rideaux d'été — gaze, lin léger — par quelque chose de plus consistant.
 
-## The kitchen and dining room: the table is the textile
+## La cuisine et la salle à manger : la table est le textile
 
-The kitchen is a hard room to dress for autumn because most of the visual space is taken by cabinets, appliances and surfaces that don't change. The textile that does change, and that reads as autumn almost immediately, is the table linen.
+La cuisine est une pièce difficile à habiller pour l'automne, parce que la plupart de l'espace visuel est occupé par les meubles, les appareils et les surfaces qui ne changent pas. Le textile qui change, et qui se lit immédiatement comme automne, c'est le linge de table.
 
-Swap summer cotton runners for something heavier: a wool runner, a linen one in a deeper tone, or a quilted cotton piece. Replace placemats with something with more texture — leather, woven seagrass in a darker stain, or chunky linen napkins in a single autumn color. A folded linen napkin on each setting, in a deeper tone than your usual white, signals the season without committing to anything dramatic.
+Remplacez les chemins de table estivaux en coton par quelque chose de plus dense : un chemin de table en laine, un chemin en lin dans un ton plus profond, ou une pièce matelassée en coton. Changez les sets de table pour quelque chose de plus texturé — cuir, jonc tressé dans une teinte plus foncée, ou serviettes en lin à grosses mailles dans une seule couleur d'automne. Une serviette en lin pliée à chaque place, dans un ton plus profond que votre blanc habituel, signale la saison sans rien engager de dramatique.
 
-Tea towels, often overlooked, are an easy autumn edit. A handful of heavier linen tea towels, in moss green or rust or undyed natural, hung on the oven handle or folded over the sink edge, will quietly do the work of three decorative purchases.
+Les torchons, souvent oubliés, sont une édition d'automne facile. Quelques torchons en lin plus dense, en vert mousse ou rouille ou écru naturel, suspendus à la poignée du four ou pliés sur le bord de l'évier, feront en silence le travail de trois achats décoratifs.
 
-For the dining table, a heavier tablecloth in a darker tone — burgundy, deep ochre, charcoal — is a bigger commitment, but it is also a commitment that pays off for years. Cotton or linen tableclreads in autumn tones are forgiving of stains, easy to wash, and look better the more rumpled they get.
+Pour la table de la salle à manger, une nappe plus épaisse dans un ton plus sombre — bordeaux, ocre profond, charbon — est un engagement plus important, mais c'est aussi un engagement qui paie pendant des années. Les nappes en coton ou en lin aux teintes d'automne pardonnent les taches, se lavent facilement, et sont d'autant plus belles qu'elles sont froissées.
 
-## The entryway: the first autumn impression
+## L'entrée : la première impression d'automne
 
-The entryway is the smallest room in the house and the one most of us forget to dress for the season. But it is also the room that sets the temperature of the entire home, both literally and psychologically. Walking into an autumn-styled entryway — even a small one — changes the feeling of coming home.
+L'entrée est la plus petite pièce de la maison, et c'est celle que la plupart d'entre nous oublient d'habiller pour la saison. Mais c'est aussi la pièce qui règle la température de toute la maison, au propre comme au figuré. Pénétrer dans une entrée habillée pour l'automne — même petite — change la sensation de rentrer chez soi.
 
-A heavier doormat is the first move. Replace the summer coir mat with a wool or felted mat that feels denser underfoot. It will catch more dust, hold more heat, and read as autumn the moment someone steps in.
+Un paillasson plus dense est le premier geste. Remplacez le paillasson en coco de l'été par un tapis en laine ou en feutre plus dense sous le pied. Il attrapera davantage de poussière, retiendra plus de chaleur, et se lira comme automne dès que quelqu'un franchit la porte.
 
-A second move: a single bench or stool with a folded throw on it. Even if no one ever sits there, the visual cue of a folded wool throw at the entrance tells the body that the house has transitioned. A third move, only if the space allows: a heavier curtain or a thicker roman blind at the entry door's glass panel.
+Un deuxième geste : un seul banc ou tabouret avec un plaid plié dessus. Même si personne ne s'y assoit jamais, le signal visuel d'un plaid en laine plié à l'entrée dit au corps que la maison a changé de saison. Un troisième geste, seulement si l'espace le permet : un rideau plus dense ou un store romain plus épais sur le panneau vitré de la porte d'entrée.
 
-A small basket for scarves and gloves, in wicker or felted wool, is also an autumn entryway staple. It is practical: it gives the gloves a place to live that is not the kitchen counter. And it is decorative: it fills a corner of the entryway with something textured and seasonal.
+Un petit panier pour les écharpes et les gants, en osier ou en laine feutrée, fait aussi partie des indispensables de l'entrée en automne. C'est pratique : cela donne aux gants un endroit où vivre, qui n'est pas le plan de travail de la cuisine. Et c'est décoratif : cela remplit un coin de l'entrée d'un objet texturé et saisonnier.
 
-## The materials that actually work in autumn
+## Les matières qui fonctionnent vraiment en automne
 
-Not all textiles are created equal for the cold months. A short list of materials that genuinely earn their place in an autumn textile edit:
+Toutes les matières ne se valent pas pour les mois froids. Petite liste des textiles qui méritent vraiment leur place dans une édition d'automne.
 
-Wool is the warmest natural fiber by weight, holds dye beautifully, and ages into a softer surface the more you use it. Wool throws, wool cushions, wool-lined curtains, wool rugs — all autumn staples.
+La laine est la fibre naturelle la plus chaude à poids égal, prend bien la teinture, et vieillit vers une surface d'autant plus douce qu'on l'utilise. Plaids en laine, coussins en laine, rideaux doublés laine, tapis en laine — autant d'incontournables de l'automne.
 
-Linen, the slightly counterintuitive choice, also belongs in autumn. Heavier linens — anything over 200 gsm — drape beautifully, breathe well enough to avoid feeling clammy, and look more relaxed the more rumpled they get. A heavy linen curtain in a deep tone is one of the most autumn-appropriate textiles available.
+Le lin, choix un peu contre-intuitif, appartient aussi à l'automne. Les lins épais — au-delà de 200 g/m² — drapent magnifiquement, respirent assez pour ne pas paraître moites, et sont d'autant plus beaux qu'ils sont froissés. Un rideau en lin épais dans un ton profond est l'un des textiles les plus justement automnaux qui existent.
 
-Boucle, the looped, almost-fuzzy wool or wool blend, has a textured surface that reads visually as warmth. Boucle cushions and boucle throws are very autumn 2026 in styling terms, but the material is not a trend — boucle has been a textile staple for decades.
+La bouclette, cette laine (ou mélange de laine) à boucles presque duveteuses, présente une surface texturée qui se lit visuellement comme chaleur. Coussins et plaids en bouclette sont très « automne 2026 » en termes de style, mais la matière n'est pas une mode — la bouclette est un classique du textile depuis des décennies.
 
-Velvet, especially in a deeper tone, is a strong autumn textile. Velvet cushions, velvet curtains, even velvet upholstery if you are feeling bold. Velvet does require more care than wool or linen, but it is unmatched for the way it catches low autumn light.
+Le velours, surtout dans un ton profond, est un fort textile d'automne. Coussins de velours, rideaux de velours, voire du velours d'ameublement si vous êtes tenté. Le velours demande plus d'entretien que la laine ou le lin, mais il est inégalé pour la façon dont il capte la lumière basse de l'automne.
 
-Cotton flannel, brushed cotton, and cotton velvet are the cotton-side answers for bedding and cushion covers. They are warmer than percale, gentler on skin than wool, and easy to wash.
+Le coton flanelle, le coton gratté et le velours de coton sont la réponse côté coton pour la literie et les housses de coussin. Ils sont plus chauds que la percale, plus doux pour la peau que la laine, et faciles à laver.
 
-What to avoid: pure synthetics. Acrylic throws, polyester cushions, microfiber blankets — they look fine on a shelf but they do not breathe, they do not soften with age, and they do not feel like autumn. If a textile is going to touch your body or your eyes for six months, it should be a natural fiber.
+À éviter : les fibres purement synthétiques. Plaids acryliques, coussins polyester, couvertures microfibres — elles ont l'air correctes sur une étagère, mais elles ne respirent pas, ne s'assouplissent pas à l'usage, et ne donnent pas la sensation d'automne. Si un textile va toucher votre corps ou votre regard pendant six mois, il devrait être en fibre naturelle.
 
-## Storage: how to keep summer textiles alive
+## Le rangement : faire survivre les textiles d'été
 
-The other half of an autumn textile edit is the storage of the things you are putting away. Summer linens — thin cotton throws, percale sheets, linen cushion covers — should be washed, fully dried, folded, and stored in breathable cotton bags. Do not store textiles in plastic. Plastic traps moisture and produces the musty smell that ruins a perfectly good linen sheet by the time you get it back out in May.
+L'autre moitié de l'édition d'automne, c'est le rangement de ce que l'on retire. Les linges d'été — plaids fins en coton, draps en percale, housses de coussin en lin — doivent être lavés, entièrement séchés, pliés, puis rangés dans des housses en coton respirant. Ne rangez jamais de textile dans du plastique. Le plastique piège l'humidité et produit l'odeur de moisi qui gâche un drap en lin parfait d'ici à ce que vous le ressortiez en mai.
 
-A good rule: one bin per season, labeled, in a closet or under a bed. Cedar blocks or lavender sachets, replaced annually, will keep the moths and the mustiness away. If you have space, hanging heavier textiles on wooden hangers is even better than folding — it avoids the deep creases that can become permanent over a long storage.
+Une bonne règle : un bac par saison, étiqueté, dans un placard ou sous un lit. Des blocs de cèdre ou des sachets de lavande, renouvelés chaque année, tiendront les mites et l'humidité à distance. Si vous avez la place, suspendre les textiles les plus épais sur des cintres en bois est encore mieux que de les plier — cela évite les plis profonds qui peuvent devenir permanents au fil d'un long stockage.
 
-The single biggest reason people replace textiles more often than they need to is poor storage. A wool throw stored in a breathable bag for six months will come back out feeling new. The same throw, stuffed in a plastic bag in a damp closet, will come back smelling faintly of mildew and feeling slightly stiff. The fibers are fine. The storage is the problem.
+La plus grande raison pour laquelle on remplace les textiles plus souvent qu'il ne faudrait, c'est un mauvais rangement. Un plaid en laine stocké six mois dans une housse respirante en ressort comme neuf. Le même plaid, tassé dans un sac plastique dans un placard humide, en ressort avec un léger parfum de moisi et une raideur diffuse. Les fibres vont très bien. C'est le rangement le problème.
 
-## Editing ruthlessly, spending slowly
+## Éditer sans pitié, dépenser lentement
 
-Autumn is the season that tempts us into buying too much. There are wool throws in every home store in October. There are cushion covers in every color of fallen leaf. None of this means your living room needs all of them. The principle of a good autumn textile edit is the same as a good wardrobe edit: edit ruthlessly, spend slowly.
+L'automne est la saison qui nous tente d'acheter trop. Il y a des plaids en laine dans chaque boutique de décoration en octobre. Il y a des housses de coussin dans chaque couleur de feuille morte. Rien de tout cela ne signifie que votre salon a besoin de tout cela. Le principe d'une bonne édition de textiles d'automne est le même que celui d'une bonne édition de garde-robe : éditer sans pitié, dépenser lentement.
 
-Begin with what you have. Pull out everything textile — throws, cushions, runners, napkins. Look at it. Decide what still earns its place. Put the keepers in the room. Store the rest.
+Commencez par ce que vous avez. Sortez tout ce qui est textile — plaids, coussins, chemins de table, serviettes. Regardez. Décidez ce qui mérite encore sa place. Mettez les heureux élus dans la pièce. Rangez le reste.
 
-Then, over the course of a few weeks, add only what is actually missing. If your sofa needs a wool throw, buy one good wool throw, not three medium ones. If your bedroom needs flannel sheets, buy one set of flannel sheets, in a color that will still work next year.
+Puis, sur quelques semaines, n'ajoutez que ce qui manque réellement. Si votre canapé a besoin d'un plaid en laine, achetez un bon plaid en laine, pas trois plaids moyens. Si votre chambre a besoin de draps en flanelle, achetez un jeu de draps en flanelle, dans une couleur qui marchera encore l'an prochain.
 
-The point of an autumn home is not to look like an autumn catalogue. It is to feel, on a Tuesday evening in mid-October, like the room is glad you've come home.
+L'objectif d'une maison d'automne n'est pas de ressembler à un catalogue d'automne. C'est de donner, un mardi soir de mi-octobre, la sensation que la pièce est contente que vous soyez rentré.
